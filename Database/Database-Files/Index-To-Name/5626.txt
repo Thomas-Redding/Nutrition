@@ -1,0 +1,1 @@
+{"index": 5626, "name": "Bread stuffing, cornbread, dry mix, prepared", "healthiness": {"lactating": [0, 1, -1], "male": [27, 13, 10, 9, 3, 2, 1, 0, -1], "female": [28, 14, 11, 7, 1, -1, 0, -2, -4], "pregnant": [1, 1, 0]}}

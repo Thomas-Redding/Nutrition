@@ -1,0 +1,1 @@
+{"index": 256, "name": "Spices, celery seed", "healthiness": {"lactating": [12, 13, 12], "male": [10, 7, 10, 13, 12, 13, 15, 14, 13], "female": [10, 7, 10, 11, 10, 11, 14, 13, 11], "pregnant": [12, 14, 13]}}

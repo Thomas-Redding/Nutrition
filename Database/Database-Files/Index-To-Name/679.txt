@@ -1,0 +1,1 @@
+{"index": 679, "name": "Oil, safflower, salad or cooking, linoleic, (over 70%)", "healthiness": {"lactating": [-12, -11, -12], "male": [-23, -23, -26, -19, -14, -10, -10, -10, -11], "female": [-23, -23, -26, -21, -16, -14, -12, -14, -16], "pregnant": [-11, -10, -11]}}

@@ -1,0 +1,1 @@
+{"index": 4617, "name": "Crustaceans, crab, blue, raw", "healthiness": {"lactating": [42, 44, 42], "male": [46, 42, 40, 43, 41, 43, 45, 45, 43], "female": [46, 42, 40, 41, 39, 40, 43, 41, 40], "pregnant": [40, 43, 42]}}

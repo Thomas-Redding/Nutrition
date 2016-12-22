@@ -1,0 +1,1 @@
+{"index": 3650, "name": "Nuts, chestnuts, european, raw, unpeeled", "healthiness": {"lactating": [2, 3, 1], "male": [24, 15, 15, 13, 7, 5, 5, 4, 3], "female": [26, 16, 16, 11, 6, 4, 5, 3, 1], "pregnant": [4, 5, 3]}}

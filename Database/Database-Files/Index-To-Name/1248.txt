@@ -1,0 +1,1 @@
+{"index": 1248, "name": "Soup, cream of shrimp, canned, condensed", "healthiness": {"lactating": [-4, -2, -4], "male": [10, -2, -4, -2, -2, -1, 0, 0, -2], "female": [10, -2, -4, -4, -4, -3, -2, -3, -5], "pregnant": [-3, -1, -2]}}

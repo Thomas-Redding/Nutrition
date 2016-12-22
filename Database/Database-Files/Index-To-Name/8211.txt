@@ -1,0 +1,1 @@
+{"index": 8211, "name": "PACE, Diced Green Chilies", "healthiness": {"lactating": [-14, -13, -14], "male": [-26, -26, -30, -23, -18, -6, -5, -6, -14], "female": [-26, -26, -30, -25, -20, -17, -15, -17, -19], "pregnant": [-14, -13, -14]}}

@@ -1,0 +1,1 @@
+{"index": 6331, "name": "Syrups, table blends, pancake, with 2% maple", "healthiness": {"lactating": [-14, -12, -14], "male": [-23, -27, -28, -22, -17, -12, -12, -12, -13], "female": [-23, -27, -28, -23, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -13]}}

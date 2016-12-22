@@ -1,0 +1,1 @@
+{"index": 1265, "name": "CAMPBELL'S Red and White, Chicken Vegetable Soup, condensed", "healthiness": {"lactating": [-12, -11, -12], "male": [-25, -29, -27, -21, -16, -12, -11, -11, -12], "female": [-25, -29, -27, -23, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

@@ -1,0 +1,1 @@
+{"index": 4128, "name": "Alcoholic beverage, daiquiri, prepared-from-recipe", "healthiness": {"lactating": [-14, -13, -14], "male": [-21, -28, -28, -22, -17, -12, -12, -12, -14], "female": [-21, -28, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

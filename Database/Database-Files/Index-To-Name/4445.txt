@@ -1,0 +1,1 @@
+{"index": 4445, "name": "Beverages, V8 SPLASH Juice Drinks, Fruit Medley", "healthiness": {"lactating": [-9, -7, -9], "male": [-30, -30, -30, -23, -11, -7, -6, -7, -8], "female": [-30, -30, -30, -25, -13, -10, -9, -10, -13], "pregnant": [-8, -7, -8]}}

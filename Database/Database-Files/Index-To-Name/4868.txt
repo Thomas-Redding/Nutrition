@@ -1,0 +1,1 @@
+{"index": 4868, "name": "Yardlong beans, mature seeds, raw", "healthiness": {"lactating": [30, 30, 28], "male": [38, 34, 34, 35, 34, 30, 29, 28, 27], "female": [38, 34, 34, 33, 32, 29, 30, 27, 26], "pregnant": [28, 29, 27]}}

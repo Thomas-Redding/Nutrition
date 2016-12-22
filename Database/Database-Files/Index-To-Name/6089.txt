@@ -1,0 +1,1 @@
+{"index": 6089, "name": "Snacks, pretzels, hard, whole-wheat including both salted and unsalted", "healthiness": {"lactating": [7, 8, 6], "male": [29, 20, 18, 19, 13, 8, 7, 6, 5], "female": [30, 20, 18, 16, 11, 6, 7, 5, 2], "pregnant": [7, 8, 6]}}

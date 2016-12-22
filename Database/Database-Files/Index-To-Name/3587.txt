@@ -1,0 +1,1 @@
+{"index": 3587, "name": "Peppers, chili, green, canned", "healthiness": {"lactating": [20, 20, 18], "male": [36, 32, 34, 33, 25, 20, 19, 18, 17], "female": [36, 32, 34, 31, 24, 19, 21, 18, 15], "pregnant": [18, 19, 17]}}

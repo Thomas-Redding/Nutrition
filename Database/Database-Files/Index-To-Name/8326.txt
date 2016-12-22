@@ -1,0 +1,1 @@
+{"index": 8326, "name": "Seal, bearded (Oogruk), meat, dried (Alaska Native)", "healthiness": {"lactating": [25, 26, 25], "male": [14, 13, 14, 20, 22, 25, 27, 27, 26], "female": [14, 13, 14, 18, 20, 22, 25, 24, 22], "pregnant": [24, 27, 26]}}

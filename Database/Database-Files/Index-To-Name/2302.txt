@@ -1,0 +1,1 @@
+{"index": 2302, "name": "Tangerine juice, raw", "healthiness": {"lactating": [-4, -3, -4], "male": [10, -1, -6, -4, -4, -2, -2, -2, -4], "female": [10, -1, -6, -6, -7, -5, -4, -6, -7], "pregnant": [-4, -3, -4]}}

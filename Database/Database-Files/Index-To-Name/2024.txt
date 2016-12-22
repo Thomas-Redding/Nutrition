@@ -1,0 +1,1 @@
+{"index": 2024, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Low Fat Granola", "healthiness": {"lactating": [0, 2, 0], "male": [-4, -6, -6, -1, 1, 2, 4, 3, 1], "female": [-4, -6, -6, -3, -1, 1, 3, 1, -2], "pregnant": [0, 2, 1]}}

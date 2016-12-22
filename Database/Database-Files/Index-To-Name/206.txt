@@ -1,0 +1,1 @@
+{"index": 206, "name": "Ice cream sandwich, vanilla, light, no sugar added", "healthiness": {"lactating": [-10, -9, -10], "male": [-14, -19, -20, -16, -13, -9, -8, -9, -10], "female": [-14, -19, -20, -18, -15, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

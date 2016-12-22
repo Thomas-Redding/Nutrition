@@ -1,0 +1,1 @@
+{"index": 7714, "name": "Formulated bar, MARS SNACKFOOD US, COCOAVIA, Chocolate Blueberry Snack Bar", "healthiness": {"lactating": [-2, -1, -2], "male": [-12, -15, -13, -7, -3, 0, 1, 1, -1], "female": [-12, -15, -13, -9, -5, -3, -1, -3, -5], "pregnant": [-2, -1, -2]}}

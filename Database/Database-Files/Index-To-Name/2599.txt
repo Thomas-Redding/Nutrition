@@ -1,0 +1,1 @@
+{"index": 2599, "name": "Pork, cured, feet, pickled", "healthiness": {"lactating": [10, 10, 8], "male": [28, 17, 13, 16, 15, 11, 8, 7, 6], "female": [29, 17, 13, 14, 13, 9, 9, 7, 3], "pregnant": [10, 11, 8]}}

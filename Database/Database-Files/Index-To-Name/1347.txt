@@ -1,0 +1,1 @@
+{"index": 1347, "name": "PREGO Pasta, Heart Smart- Ricotta Parmesan Italian Sauce, ready-to-serve", "healthiness": {"lactating": [-11, -10, -11], "male": [-22, -26, -23, -19, -14, -10, -9, -10, -11], "female": [-22, -26, -23, -21, -16, -14, -12, -14, -15], "pregnant": [-12, -10, -12]}}

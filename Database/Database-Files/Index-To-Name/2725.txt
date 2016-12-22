@@ -1,0 +1,1 @@
+{"index": 2725, "name": "Pork, cured, ham, separable fat, boneless, unheated", "healthiness": {"lactating": [-5, -4, -6], "male": [18, 3, 0, 0, -4, -4, -5, -5, -7], "female": [19, 4, 1, -2, -6, -7, -6, -8, -11], "pregnant": [-5, -4, -6]}}

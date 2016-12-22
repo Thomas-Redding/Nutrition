@@ -1,0 +1,1 @@
+{"index": 8598, "name": "Candies, MARS SNACKFOOD US, MILKY WAY Midnight Bar", "healthiness": {"lactating": [-11, -10, -11], "male": [-5, -15, -21, -16, -13, -10, -9, -9, -11], "female": [-5, -15, -21, -18, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

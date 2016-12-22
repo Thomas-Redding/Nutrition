@@ -1,0 +1,1 @@
+{"index": 1564, "name": "Soup, split pea with ham, chunky, reduced fat, reduced sodium, ready-to-serve, single brand", "healthiness": {"lactating": [-11, -10, -11], "male": [-21, -24, -21, -16, -11, -9, -8, -9, -10], "female": [-21, -24, -21, -17, -14, -12, -11, -12, -14], "pregnant": [-10, -9, -11]}}

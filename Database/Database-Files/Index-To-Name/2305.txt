@@ -1,0 +1,1 @@
+{"index": 2305, "name": "Papaya, canned, heavy syrup, drained", "healthiness": {"lactating": [-13, -12, -13], "male": [-18, -27, -27, -21, -16, -12, -11, -12, -13], "female": [-18, -27, -27, -23, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

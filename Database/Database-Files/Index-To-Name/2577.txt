@@ -1,0 +1,1 @@
+{"index": 2577, "name": "Pork, fresh, variety meats and by-products, heart, raw", "healthiness": {"lactating": [46, 47, 46], "male": [47, 43, 44, 47, 48, 49, 50, 50, 48], "female": [47, 43, 44, 46, 45, 46, 48, 46, 45], "pregnant": [44, 47, 45]}}

@@ -1,0 +1,1 @@
+{"index": 2794, "name": "Pork, ground, 96% lean / 4% fat, cooked, crumbles", "healthiness": {"lactating": [35, 36, 35], "male": [42, 33, 32, 36, 36, 37, 39, 38, 36], "female": [42, 33, 32, 34, 33, 34, 37, 35, 33], "pregnant": [34, 36, 35]}}

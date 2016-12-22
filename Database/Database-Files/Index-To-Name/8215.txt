@@ -1,0 +1,1 @@
+{"index": 8215, "name": "Seaweed, Canadian Cultivated EMI-TSUNOMATA, dry", "healthiness": {"lactating": [43, 43, 41], "male": [54, 52, 53, 56, 51, 45, 43, 41, 39], "female": [54, 52, 53, 54, 49, 44, 45, 42, 37], "pregnant": [44, 45, 43]}}

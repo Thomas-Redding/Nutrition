@@ -1,0 +1,1 @@
+{"index": 3086, "name": "Potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, as purchased", "healthiness": {"lactating": [-2, -1, -2], "male": [27, 18, 13, 10, 2, 0, 0, -1, -3], "female": [29, 19, 14, 7, 0, -3, -1, -3, -6], "pregnant": [-2, -1, -2]}}

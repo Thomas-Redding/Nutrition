@@ -1,0 +1,1 @@
+{"index": 776, "name": "Oil, industrial, coconut, confection fat, typical basis for ice cream coatings", "healthiness": {"lactating": [-14, -13, -14], "male": [-29, -30, -30, -23, -18, -13, -12, -13, -14], "female": [-29, -30, -30, -25, -20, -17, -15, -17, -19], "pregnant": [-14, -13, -14]}}

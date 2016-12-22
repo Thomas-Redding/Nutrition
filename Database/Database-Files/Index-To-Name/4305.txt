@@ -1,0 +1,1 @@
+{"index": 4305, "name": "Beverages, tea, green, instant, decaffeinated, lemon, unsweetened, fortified with vitamin C", "healthiness": {"lactating": [-10, -9, -10], "male": [-23, -26, -26, -19, -14, -9, -9, -9, -10], "female": [-23, -26, -26, -21, -16, -13, -11, -13, -15], "pregnant": [-10, -9, -10]}}

@@ -1,0 +1,1 @@
+{"index": 3287, "name": "Shallots, freeze-dried", "healthiness": {"lactating": [15, 15, 13], "male": [41, 34, 33, 32, 23, 16, 15, 14, 13], "female": [41, 35, 33, 30, 22, 15, 16, 13, 12], "pregnant": [14, 15, 13]}}

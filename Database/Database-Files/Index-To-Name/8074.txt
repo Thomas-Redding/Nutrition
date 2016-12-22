@@ -1,0 +1,1 @@
+{"index": 8074, "name": "MURRAY, Chocolate Creme Sandwich Cookies", "healthiness": {"lactating": [-12, -11, -12], "male": [-15, -24, -25, -19, -15, -11, -10, -10, -12], "female": [-15, -24, -25, -21, -17, -14, -13, -14, -16], "pregnant": [-13, -11, -12]}}

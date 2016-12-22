@@ -1,0 +1,1 @@
+{"index": 7039, "name": "Spaghetti, with meatballs in tomato sauce, canned", "healthiness": {"lactating": [11, 11, 9], "male": [47, 37, 30, 28, 19, 12, 10, 9, 8], "female": [47, 37, 30, 26, 17, 10, 11, 8, 6], "pregnant": [11, 11, 9]}}

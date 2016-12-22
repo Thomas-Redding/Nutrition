@@ -1,0 +1,1 @@
+{"index": 2113, "name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolate Almond", "healthiness": {"lactating": [13, 14, 13], "male": [8, 5, 5, 9, 12, 15, 15, 15, 12], "female": [8, 5, 5, 7, 10, 12, 14, 13, 9], "pregnant": [13, 14, 13]}}

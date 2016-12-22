@@ -1,0 +1,1 @@
+{"index": 6338, "name": "Toppings, nuts in syrup", "healthiness": {"lactating": [-6, -5, -6], "male": [12, 1, -2, -2, -5, -4, -4, -5, -6], "female": [13, 3, -1, -4, -7, -7, -6, -7, -10], "pregnant": [-5, -4, -6]}}

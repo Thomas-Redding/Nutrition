@@ -1,0 +1,1 @@
+{"index": 360, "name": "Babyfood, dinner, chicken stew, toddler", "healthiness": {"lactating": [23, 23, 20], "male": [43, 33, 28, 27, 26, 24, 21, 19, 18], "female": [43, 33, 28, 25, 24, 22, 23, 20, 16], "pregnant": [23, 23, 21]}}

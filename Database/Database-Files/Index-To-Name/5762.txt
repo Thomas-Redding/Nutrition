@@ -1,0 +1,1 @@
+{"index": 5762, "name": "English muffins, plain, toasted, enriched, with calcium propionate (includes sourdough)", "healthiness": {"lactating": [13, 13, 11], "male": [43, 31, 25, 26, 20, 14, 12, 11, 10], "female": [43, 31, 25, 24, 18, 12, 12, 10, 8], "pregnant": [12, 13, 10]}}

@@ -1,0 +1,1 @@
+{"index": 4842, "name": "Meat extender", "healthiness": {"lactating": [42, 43, 42], "male": [45, 41, 41, 43, 43, 43, 45, 44, 42], "female": [45, 41, 41, 41, 41, 41, 44, 42, 41], "pregnant": [39, 42, 40]}}

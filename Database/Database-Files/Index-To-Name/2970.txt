@@ -1,0 +1,1 @@
+{"index": 2970, "name": "Gourd, white-flowered (calabash), cooked, boiled, drained, without salt", "healthiness": {"lactating": [25, 26, 24], "male": [43, 41, 43, 44, 33, 26, 26, 25, 24], "female": [44, 41, 44, 42, 31, 25, 27, 25, 23], "pregnant": [24, 26, 24]}}

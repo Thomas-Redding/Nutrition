@@ -1,0 +1,1 @@
+{"index": 5085, "name": "MORNINGSTAR FARMS Mediterranean Chickpea, frozen, unprepared", "healthiness": {"lactating": [-8, -7, -8], "male": [-7, -18, -18, -14, -11, -8, -7, -7, -8], "female": [-7, -18, -18, -16, -13, -11, -9, -10, -12], "pregnant": [-9, -8, -9]}}

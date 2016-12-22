@@ -1,0 +1,1 @@
+{"index": 2011, "name": "Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS, Pumpkin Granola", "healthiness": {"lactating": [-10, -8, -10], "male": [-8, -18, -20, -16, -13, -9, -8, -9, -10], "female": [-8, -18, -20, -18, -15, -13, -11, -12, -14], "pregnant": [-11, -9, -10]}}

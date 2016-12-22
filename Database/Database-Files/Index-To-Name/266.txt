@@ -1,0 +1,1 @@
+{"index": 266, "name": "Spices, dill weed, dried", "healthiness": {"lactating": [17, 18, 17], "male": [14, 12, 15, 19, 18, 19, 20, 20, 19], "female": [14, 12, 15, 17, 16, 17, 20, 19, 17], "pregnant": [18, 20, 19]}}

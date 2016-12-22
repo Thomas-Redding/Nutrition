@@ -1,0 +1,1 @@
+{"index": 3406, "name": "Kale, cooked, boiled, drained, with salt", "healthiness": {"lactating": [47, 48, 46], "male": [51, 50, 52, 55, 52, 47, 47, 45, 44], "female": [51, 50, 52, 53, 50, 46, 48, 45, 44], "pregnant": [44, 46, 44]}}

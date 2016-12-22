@@ -1,0 +1,1 @@
+{"index": 1556, "name": "Sauce, hot chile, sriracha, CHA! BY TEXAS PETE", "healthiness": {"lactating": [0, 1, 0], "male": [12, 2, 3, 4, 4, 4, 5, 5, 3], "female": [12, 2, 3, 2, 2, 2, 3, 2, 0], "pregnant": [1, 2, 1]}}

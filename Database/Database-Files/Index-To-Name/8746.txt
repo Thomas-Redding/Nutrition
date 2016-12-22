@@ -1,0 +1,1 @@
+{"index": 8746, "name": "Jellyfish, dried, salted", "healthiness": {"lactating": [0, 1, 0], "male": [1, -6, -10, -5, -2, 1, 2, 2, 0], "female": [1, -6, -10, -7, -5, -2, 0, -1, -4], "pregnant": [-1, 0, -1]}}

@@ -1,0 +1,1 @@
+{"index": 8467, "name": "Restaurant, family style, shrimp, breaded and fried", "healthiness": {"lactating": [13, 12, 10], "male": [38, 26, 21, 22, 19, 13, 10, 9, 8], "female": [38, 26, 21, 20, 17, 11, 12, 9, 5], "pregnant": [12, 13, 10]}}

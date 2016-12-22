@@ -1,0 +1,1 @@
+{"index": 4833, "name": "Peanuts, virginia, oil-roasted, with salt", "healthiness": {"lactating": [13, 13, 11], "male": [33, 27, 25, 26, 20, 14, 12, 11, 10], "female": [33, 27, 25, 24, 18, 13, 14, 11, 8], "pregnant": [13, 14, 12]}}

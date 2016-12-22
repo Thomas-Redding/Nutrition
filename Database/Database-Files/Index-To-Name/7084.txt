@@ -1,0 +1,1 @@
+{"index": 7084, "name": "Corn dogs, frozen, prepared", "healthiness": {"lactating": [9, 9, 7], "male": [42, 30, 22, 24, 16, 9, 8, 7, 6], "female": [42, 30, 22, 22, 13, 7, 8, 6, 3], "pregnant": [8, 9, 7]}}

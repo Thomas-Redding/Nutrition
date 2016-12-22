@@ -1,0 +1,1 @@
+{"index": 6375, "name": "Cheese puffs and twists, corn based, baked, low fat", "healthiness": {"lactating": [-4, -3, -4], "male": [11, 2, -1, 0, -3, -2, -1, -1, -3], "female": [11, 2, -1, -2, -5, -5, -2, -4, -6], "pregnant": [-4, -2, -3]}}

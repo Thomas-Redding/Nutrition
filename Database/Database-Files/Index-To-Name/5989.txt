@@ -1,0 +1,1 @@
+{"index": 5989, "name": "Muffin, blueberry, commercially prepared, low-fat", "healthiness": {"lactating": [0, 1, -1], "male": [29, 18, 12, 10, 3, 1, 1, 0, -1], "female": [30, 19, 13, 8, 2, -1, 0, -2, -4], "pregnant": [0, 1, -1]}}

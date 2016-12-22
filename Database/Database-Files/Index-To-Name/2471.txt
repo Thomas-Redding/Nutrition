@@ -1,0 +1,1 @@
+{"index": 2471, "name": "Lemon juice from concentrate, bottled, CONCORD", "healthiness": {"lactating": [-8, -7, -8], "male": [4, -7, -12, -9, -9, -7, -6, -6, -8], "female": [4, -7, -12, -11, -11, -10, -8, -9, -11], "pregnant": [-9, -7, -8]}}

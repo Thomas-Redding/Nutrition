@@ -1,0 +1,1 @@
+{"index": 2965, "name": "Endive, raw", "healthiness": {"lactating": [58, 58, 56], "male": [56, 56, 58, 64, 61, 57, 57, 56, 54], "female": [56, 56, 58, 62, 59, 55, 58, 55, 52], "pregnant": [55, 57, 55]}}

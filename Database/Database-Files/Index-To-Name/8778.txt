@@ -1,0 +1,1 @@
+{"index": 8778, "name": "Beverages, Cocktail mix, non-alcoholic, concentrated, frozen", "healthiness": {"lactating": [-14, -13, -14], "male": [-24, -28, -28, -22, -17, -12, -12, -13, -14], "female": [-24, -28, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -13, -14]}}

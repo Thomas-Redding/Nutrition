@@ -1,0 +1,1 @@
+{"index": 4163, "name": "Beverages, Whey protein powder isolate", "healthiness": {"lactating": [19, 21, 19], "male": [32, 28, 29, 33, 29, 25, 26, 26, 23], "female": [32, 28, 29, 31, 27, 25, 27, 26, 23], "pregnant": [22, 25, 23]}}

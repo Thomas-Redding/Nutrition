@@ -1,0 +1,1 @@
+{"index": 7396, "name": "Beef, Australian, imported, grass-fed, rib, ribeye steak/roast lip-on, boneless, separable lean and fat, raw", "healthiness": {"lactating": [16, 17, 15], "male": [4, 1, 1, 8, 13, 16, 16, 15, 14], "female": [4, 1, 1, 6, 11, 13, 14, 12, 10], "pregnant": [15, 16, 14]}}

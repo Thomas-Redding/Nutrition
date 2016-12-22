@@ -1,0 +1,1 @@
+{"index": 5480, "name": "Lamb, New Zealand, imported, square-cut shoulder chops, separable lean only, raw", "healthiness": {"lactating": [29, 30, 29], "male": [42, 29, 26, 29, 28, 30, 31, 31, 29], "female": [42, 29, 26, 27, 26, 27, 30, 28, 26], "pregnant": [27, 30, 28]}}

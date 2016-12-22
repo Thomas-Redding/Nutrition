@@ -1,0 +1,1 @@
+{"index": 3767, "name": "USDA Commodity, beef, canned", "healthiness": {"lactating": [26, 26, 24], "male": [40, 28, 23, 26, 27, 27, 26, 24, 24], "female": [40, 28, 23, 24, 24, 25, 26, 24, 22], "pregnant": [25, 26, 24]}}

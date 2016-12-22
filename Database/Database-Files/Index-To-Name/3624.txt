@@ -1,0 +1,1 @@
+{"index": 3624, "name": "Seeds, sesame meal, partially defatted", "healthiness": {"lactating": [17, 17, 15], "male": [34, 30, 28, 30, 24, 17, 16, 15, 14], "female": [34, 30, 28, 28, 22, 15, 17, 14, 13], "pregnant": [15, 16, 14]}}

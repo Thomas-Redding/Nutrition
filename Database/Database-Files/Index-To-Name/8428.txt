@@ -1,0 +1,1 @@
+{"index": 8428, "name": "Raspberries, wild (Northern Plains Indians)", "healthiness": {"lactating": [8, 9, 8], "male": [20, 13, 14, 14, 10, 10, 11, 10, 9], "female": [20, 13, 14, 12, 8, 8, 10, 8, 7], "pregnant": [8, 9, 8]}}

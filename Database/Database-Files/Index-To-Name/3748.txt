@@ -1,0 +1,1 @@
+{"index": 3748, "name": "Beef, grass-fed, ground, raw", "healthiness": {"lactating": [0, 1, 0], "male": [14, 3, -1, 1, 1, 2, 3, 3, 1], "female": [14, 3, -1, 0, -2, -1, 1, 0, -2], "pregnant": [-1, 1, 0]}}

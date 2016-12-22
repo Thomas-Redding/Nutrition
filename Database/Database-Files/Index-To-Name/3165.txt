@@ -1,0 +1,1 @@
+{"index": 3165, "name": "Soybeans, mature seeds, sprouted, cooked, stir-fried", "healthiness": {"lactating": [34, 35, 34], "male": [43, 37, 36, 41, 37, 35, 35, 34, 32], "female": [43, 37, 36, 39, 35, 33, 36, 34, 31], "pregnant": [33, 36, 34]}}

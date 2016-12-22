@@ -1,0 +1,1 @@
+{"index": 5964, "name": "NABISCO, NABISCO OREO CRUNCHIES, Cookie Crumb Topping", "healthiness": {"lactating": [-11, -9, -11], "male": [-11, -20, -21, -17, -13, -10, -9, -9, -10], "female": [-11, -20, -21, -19, -15, -13, -11, -13, -14], "pregnant": [-12, -10, -11]}}

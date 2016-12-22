@@ -1,0 +1,1 @@
+{"index": 4647, "name": "Mollusks, oyster, eastern, canned", "healthiness": {"lactating": [50, 51, 49], "male": [56, 53, 52, 56, 53, 51, 52, 50, 49], "female": [56, 53, 52, 54, 50, 50, 53, 51, 48], "pregnant": [50, 53, 51]}}

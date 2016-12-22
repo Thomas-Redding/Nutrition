@@ -1,0 +1,1 @@
+{"index": 5753, "name": "Doughnuts, cake-type, plain (includes unsugared, old-fashioned)", "healthiness": {"lactating": [-10, -8, -10], "male": [0, -12, -18, -14, -11, -8, -7, -8, -9], "female": [0, -12, -18, -16, -14, -12, -10, -11, -13], "pregnant": [-10, -8, -10]}}

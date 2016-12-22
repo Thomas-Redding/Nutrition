@@ -1,0 +1,1 @@
+{"index": 5445, "name": "Game meat, deer, top round, separable lean only, 1\" steak, cooked, broiled", "healthiness": {"lactating": [41, 42, 41], "male": [45, 40, 40, 43, 43, 43, 46, 45, 44], "female": [45, 40, 40, 41, 41, 40, 43, 41, 41], "pregnant": [38, 41, 40]}}

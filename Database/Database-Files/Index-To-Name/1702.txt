@@ -1,0 +1,1 @@
+{"index": 1702, "name": "USDA Commodity, pork, sausage, bulk/links/patties, frozen, cooked", "healthiness": {"lactating": [-6, -5, -6], "male": [10, -1, -6, -5, -5, -4, -3, -3, -5], "female": [10, -1, -6, -7, -8, -7, -5, -6, -8], "pregnant": [-6, -4, -6]}}

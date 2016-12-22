@@ -1,0 +1,1 @@
+{"index": 1637, "name": "Frankfurter, beef, unheated", "healthiness": {"lactating": [10, 10, 8], "male": [34, 19, 14, 18, 17, 10, 8, 7, 5], "female": [34, 19, 14, 16, 15, 8, 9, 6, 3], "pregnant": [10, 10, 8]}}

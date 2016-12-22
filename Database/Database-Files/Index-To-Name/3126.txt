@@ -1,0 +1,1 @@
+{"index": 3126, "name": "Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated", "healthiness": {"lactating": [0, 1, -1], "male": [30, 20, 17, 13, 4, 1, 1, 0, -1], "female": [31, 21, 18, 11, 2, -1, 0, -2, -4], "pregnant": [0, 1, -1]}}

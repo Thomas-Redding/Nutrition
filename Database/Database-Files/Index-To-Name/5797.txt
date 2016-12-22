@@ -1,0 +1,1 @@
+{"index": 5797, "name": "Pancakes, whole-wheat, dry mix, incomplete, prepared", "healthiness": {"lactating": [22, 22, 19], "male": [44, 37, 34, 35, 28, 22, 21, 19, 18], "female": [44, 37, 34, 33, 26, 20, 22, 19, 16], "pregnant": [20, 22, 19]}}

@@ -1,0 +1,1 @@
+{"index": 6896, "name": "Fast foods, chicken tenders", "healthiness": {"lactating": [24, 24, 22], "male": [43, 33, 26, 27, 26, 25, 23, 21, 20], "female": [43, 33, 26, 26, 24, 23, 25, 22, 18], "pregnant": [23, 25, 23]}}

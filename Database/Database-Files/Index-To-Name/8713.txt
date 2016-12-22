@@ -1,0 +1,1 @@
+{"index": 8713, "name": "Snacks, tortilla chips, unsalted, white corn", "healthiness": {"lactating": [-8, -7, -8], "male": [2, -8, -12, -10, -9, -7, -6, -6, -7], "female": [2, -8, -12, -12, -11, -10, -8, -9, -11], "pregnant": [-9, -7, -8]}}

@@ -1,0 +1,1 @@
+{"index": 3314, "name": "Carrot, dehydrated", "healthiness": {"lactating": [18, 18, 17], "male": [46, 41, 43, 38, 25, 19, 19, 18, 16], "female": [47, 42, 43, 36, 24, 19, 20, 18, 16], "pregnant": [17, 19, 17]}}

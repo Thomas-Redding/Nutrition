@@ -1,0 +1,1 @@
+{"index": 3741, "name": "Nuts, mixed nuts, oil roasted, without peanuts, lightly salted", "healthiness": {"lactating": [14, 14, 12], "male": [38, 30, 27, 29, 21, 15, 14, 12, 11], "female": [38, 30, 27, 26, 19, 13, 14, 12, 9], "pregnant": [14, 15, 12]}}

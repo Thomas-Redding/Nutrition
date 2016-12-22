@@ -1,0 +1,1 @@
+{"index": 6242, "name": "Frostings, chocolate, creamy, ready-to-eat", "healthiness": {"lactating": [-11, -10, -11], "male": [-9, -18, -20, -15, -13, -10, -9, -10, -11], "female": [-8, -18, -20, -17, -15, -13, -12, -13, -15], "pregnant": [-11, -10, -11]}}

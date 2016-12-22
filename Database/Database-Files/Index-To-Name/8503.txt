@@ -1,0 +1,1 @@
+{"index": 8503, "name": "Restaurant, Mexican, cheese quesadilla", "healthiness": {"lactating": [15, 15, 12], "male": [39, 27, 22, 23, 21, 15, 12, 11, 10], "female": [39, 27, 22, 21, 19, 13, 14, 11, 8], "pregnant": [14, 15, 13]}}

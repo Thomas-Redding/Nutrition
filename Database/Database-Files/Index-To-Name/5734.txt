@@ -1,0 +1,1 @@
+{"index": 5734, "name": "Crackers, saltines (includes oyster, soda, soup)", "healthiness": {"lactating": [1, 2, 0], "male": [27, 18, 13, 11, 6, 2, 2, 1, 0], "female": [28, 19, 14, 9, 4, 0, 1, -2, -3], "pregnant": [1, 1, 0]}}

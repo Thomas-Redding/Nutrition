@@ -1,0 +1,1 @@
+{"index": 2406, "name": "Tangerines, (mandarin oranges), canned, juice pack, drained", "healthiness": {"lactating": [-1, 1, -1], "male": [9, 2, 1, 2, 1, 2, 3, 2, 1], "female": [9, 2, 1, 0, -1, 0, 2, 0, -1], "pregnant": [0, 2, 0]}}

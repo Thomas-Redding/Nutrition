@@ -1,0 +1,1 @@
+{"index": 7402, "name": "Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean and fat, Aust. marble score 9, raw", "healthiness": {"lactating": [2, 2, 0], "male": [3, 0, 0, 7, 7, 2, 0, -1, -2], "female": [3, 0, 0, 5, 5, 0, 0, -3, -6], "pregnant": [2, 2, 0]}}

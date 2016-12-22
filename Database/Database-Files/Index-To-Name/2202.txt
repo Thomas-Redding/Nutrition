@@ -1,0 +1,1 @@
+{"index": 2202, "name": "Figs, canned, light syrup pack, solids and liquids", "healthiness": {"lactating": [-5, -4, -6], "male": [11, 0, -4, -3, -5, -3, -3, -4, -5], "female": [11, 0, -3, -5, -7, -6, -5, -6, -8], "pregnant": [-5, -4, -5]}}

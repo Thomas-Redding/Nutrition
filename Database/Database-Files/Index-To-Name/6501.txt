@@ -1,0 +1,1 @@
+{"index": 6501, "name": "Oat bran, raw", "healthiness": {"lactating": [35, 35, 33], "male": [44, 39, 38, 40, 40, 35, 35, 33, 33], "female": [44, 39, 38, 38, 38, 33, 35, 33, 32], "pregnant": [33, 35, 32]}}

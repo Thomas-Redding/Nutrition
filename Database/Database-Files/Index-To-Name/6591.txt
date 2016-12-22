@@ -1,0 +1,1 @@
+{"index": 6591, "name": "Teff, uncooked", "healthiness": {"lactating": [19, 19, 16], "male": [39, 34, 31, 31, 26, 18, 17, 16, 15], "female": [39, 34, 31, 29, 24, 16, 18, 15, 13], "pregnant": [16, 18, 15]}}

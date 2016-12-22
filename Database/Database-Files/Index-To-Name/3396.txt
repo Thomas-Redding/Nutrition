@@ -1,0 +1,1 @@
+{"index": 3396, "name": "Cowpeas, leafy tips, cooked, boiled, drained, with salt", "healthiness": {"lactating": [24, 25, 24], "male": [19, 17, 18, 22, 22, 24, 27, 27, 25], "female": [19, 17, 18, 20, 20, 22, 25, 24, 22], "pregnant": [21, 25, 23]}}

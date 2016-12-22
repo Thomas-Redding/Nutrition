@@ -1,0 +1,1 @@
+{"index": 992, "name": "Turkey, whole, giblets, cooked, simmered", "healthiness": {"lactating": [49, 50, 49], "male": [49, 44, 43, 48, 50, 51, 53, 52, 50], "female": [49, 44, 43, 46, 48, 48, 51, 49, 48], "pregnant": [47, 49, 48]}}

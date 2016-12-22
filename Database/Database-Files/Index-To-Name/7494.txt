@@ -1,0 +1,1 @@
+{"index": 7494, "name": "Beef, New Zealand, imported, hind shin, separable lean only, cooked, braised", "healthiness": {"lactating": [29, 30, 29], "male": [39, 29, 25, 28, 29, 31, 33, 32, 31], "female": [39, 29, 25, 26, 27, 28, 30, 28, 27], "pregnant": [28, 30, 29]}}

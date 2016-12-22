@@ -1,0 +1,1 @@
+{"index": 6698, "name": "Fast foods, chicken fillet sandwich, plain with pickles", "healthiness": {"lactating": [-4, -2, -4], "male": [15, 5, -2, -1, -2, -1, 0, -1, -2], "female": [15, 5, -2, -3, -4, -4, -2, -4, -6], "pregnant": [-4, -2, -3]}}

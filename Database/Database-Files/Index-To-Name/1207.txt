@@ -1,0 +1,1 @@
+{"index": 1207, "name": "Soup, bean with pork, canned, condensed", "healthiness": {"lactating": [18, 18, 16], "male": [40, 31, 29, 28, 25, 19, 17, 16, 15], "female": [40, 31, 29, 26, 24, 18, 19, 16, 14], "pregnant": [18, 19, 17]}}

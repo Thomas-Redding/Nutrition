@@ -1,0 +1,1 @@
+{"index": 426, "name": "Babyfood, fruit, apple and blueberry, strained", "healthiness": {"lactating": [-6, -4, -6], "male": [-2, -10, -12, -9, -7, -4, -3, -4, -5], "female": [-2, -10, -12, -11, -9, -7, -5, -7, -9], "pregnant": [-5, -4, -5]}}

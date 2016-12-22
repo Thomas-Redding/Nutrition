@@ -1,0 +1,1 @@
+{"index": 1873, "name": "Cereals, farina, unenriched, dry", "healthiness": {"lactating": [1, 1, -1], "male": [19, 11, 8, 9, 5, 2, 0, -1, -2], "female": [19, 11, 8, 6, 3, -1, 0, -2, -5], "pregnant": [1, 1, -1]}}

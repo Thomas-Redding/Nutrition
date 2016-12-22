@@ -1,0 +1,1 @@
+{"index": 2195, "name": "Currants, red and white, raw", "healthiness": {"lactating": [5, 6, 5], "male": [11, 6, 5, 7, 6, 7, 7, 7, 6], "female": [11, 6, 5, 5, 5, 5, 6, 4, 4], "pregnant": [4, 6, 5]}}

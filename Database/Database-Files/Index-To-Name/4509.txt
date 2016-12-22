@@ -1,0 +1,1 @@
+{"index": 4509, "name": "Fish, flatfish (flounder and sole species), raw", "healthiness": {"lactating": [35, 37, 35], "male": [45, 36, 32, 34, 34, 37, 38, 38, 36], "female": [45, 36, 32, 32, 32, 34, 36, 34, 32], "pregnant": [35, 37, 36]}}

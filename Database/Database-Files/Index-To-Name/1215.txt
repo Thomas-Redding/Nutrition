@@ -1,0 +1,1 @@
+{"index": 1215, "name": "CAMPBELL'S Red and White, Broccoli Cheese Soup, condensed", "healthiness": {"lactating": [-10, -9, -10], "male": [-24, -24, -24, -18, -13, -9, -8, -9, -10], "female": [-24, -24, -24, -20, -16, -12, -11, -12, -14], "pregnant": [-10, -9, -10]}}

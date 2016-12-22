@@ -1,0 +1,1 @@
+{"index": 8199, "name": "Cookies, animal crackers (includes arrowroot, tea biscuits)", "healthiness": {"lactating": [-4, -3, -5], "male": [19, 8, 2, 3, -2, -3, -3, -4, -5], "female": [20, 9, 2, 0, -4, -6, -5, -7, -9], "pregnant": [-4, -3, -5]}}

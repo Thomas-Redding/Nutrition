@@ -1,0 +1,1 @@
+{"index": 496, "name": "Babyfood, dinner, beef noodle, junior", "healthiness": {"lactating": [17, 17, 14], "male": [46, 34, 31, 30, 26, 18, 15, 14, 13], "female": [46, 34, 31, 28, 24, 16, 17, 14, 12], "pregnant": [17, 17, 15]}}

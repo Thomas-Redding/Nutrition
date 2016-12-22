@@ -1,0 +1,1 @@
+{"index": 8387, "name": "Fish, salmon, red, canned, bones removed (Alaska Native)", "healthiness": {"lactating": [35, 36, 35], "male": [45, 35, 33, 35, 34, 36, 38, 38, 36], "female": [45, 35, 33, 33, 32, 33, 36, 34, 33], "pregnant": [34, 36, 35]}}

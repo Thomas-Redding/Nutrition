@@ -1,0 +1,1 @@
+{"index": 2244, "name": "Groundcherries, (cape-gooseberries or poha), raw", "healthiness": {"lactating": [-4, -3, -4], "male": [-10, -13, -13, -8, -5, -2, -1, -1, -3], "female": [-10, -13, -13, -10, -7, -5, -4, -6, -6], "pregnant": [-5, -3, -5]}}

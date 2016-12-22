@@ -1,0 +1,1 @@
+{"index": 3006, "name": "Mountain yam, hawaii, raw", "healthiness": {"lactating": [5, 5, 4], "male": [35, 26, 24, 20, 11, 7, 6, 5, 4], "female": [36, 27, 25, 18, 9, 5, 6, 4, 2], "pregnant": [5, 6, 4]}}

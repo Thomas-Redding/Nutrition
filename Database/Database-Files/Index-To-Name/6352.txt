@@ -1,0 +1,1 @@
+{"index": 6352, "name": "Snacks, cornnuts, barbecue-flavor", "healthiness": {"lactating": [-9, -8, -9], "male": [-3, -14, -16, -13, -11, -8, -7, -8, -9], "female": [-3, -14, -16, -15, -13, -11, -9, -11, -12], "pregnant": [-10, -8, -9]}}

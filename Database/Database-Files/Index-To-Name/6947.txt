@@ -1,0 +1,1 @@
+{"index": 6947, "name": "Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed", "healthiness": {"lactating": [0, 1, 0], "male": [15, 6, 3, 4, 2, 2, 4, 3, 2], "female": [15, 6, 3, 2, -1, 0, 2, 0, -1], "pregnant": [-1, 2, 0]}}

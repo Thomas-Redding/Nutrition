@@ -1,0 +1,1 @@
+{"index": 8269, "name": "Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Newborn, powder", "healthiness": {"lactating": [10, 11, 10], "male": [31, 21, 17, 15, 13, 12, 13, 13, 10], "female": [31, 21, 17, 13, 11, 10, 11, 9, 7], "pregnant": [9, 11, 10]}}

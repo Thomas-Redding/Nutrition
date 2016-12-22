@@ -1,0 +1,1 @@
+{"index": 1201, "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled", "healthiness": {"lactating": [34, 35, 34], "male": [43, 33, 31, 34, 34, 36, 38, 37, 36], "female": [43, 33, 31, 32, 31, 33, 36, 34, 32], "pregnant": [34, 36, 35]}}

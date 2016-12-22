@@ -1,0 +1,1 @@
+{"index": 6476, "name": "Barley, pearled, raw", "healthiness": {"lactating": [9, 10, 8], "male": [37, 30, 26, 25, 16, 10, 9, 8, 7], "female": [38, 30, 26, 22, 15, 9, 10, 8, 5], "pregnant": [9, 10, 8]}}

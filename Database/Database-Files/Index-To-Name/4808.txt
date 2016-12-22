@@ -1,0 +1,1 @@
+{"index": 4808, "name": "Lima beans, large, mature seeds, raw", "healthiness": {"lactating": [28, 28, 26], "male": [40, 35, 34, 35, 33, 28, 27, 25, 25], "female": [40, 35, 34, 33, 31, 28, 29, 26, 24], "pregnant": [27, 28, 25]}}

@@ -1,0 +1,1 @@
+{"index": 199, "name": "Yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener", "healthiness": {"lactating": [-2, -1, -2], "male": [5, -1, -2, 0, -2, -1, 1, 0, -1], "female": [5, -1, -2, -2, -4, -4, -1, -2, -5], "pregnant": [-3, 0, -2]}}

@@ -1,0 +1,1 @@
+{"index": 5088, "name": "MORNINGSTAR FARMS Breakfast Pattie, frozen, unprepared", "healthiness": {"lactating": [-10, -9, -10], "male": [-15, -22, -21, -16, -12, -9, -8, -8, -9], "female": [-15, -22, -21, -18, -15, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

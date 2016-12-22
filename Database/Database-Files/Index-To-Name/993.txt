@@ -1,0 +1,1 @@
+{"index": 993, "name": "Turkey, gizzard, all classes, raw", "healthiness": {"lactating": [43, 45, 43], "male": [49, 44, 47, 48, 47, 46, 48, 48, 46], "female": [49, 44, 47, 46, 45, 44, 46, 44, 43], "pregnant": [42, 44, 43]}}

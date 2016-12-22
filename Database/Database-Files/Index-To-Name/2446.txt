@@ -1,0 +1,1 @@
+{"index": 2446, "name": "Nance, canned, syrup, drained", "healthiness": {"lactating": [-7, -6, -7], "male": [-5, -14, -13, -9, -8, -6, -5, -6, -6], "female": [-5, -14, -13, -11, -9, -8, -6, -8, -9], "pregnant": [-7, -5, -6]}}

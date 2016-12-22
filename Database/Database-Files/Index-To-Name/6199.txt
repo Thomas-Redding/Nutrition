@@ -1,0 +1,1 @@
+{"index": 6199, "name": "Cocoa, dry powder, unsweetened, HERSHEY'S European Style Cocoa", "healthiness": {"lactating": [-9, -7, -9], "male": [-26, -26, -23, -17, -12, -8, -7, -8, -9], "female": [-26, -26, -23, -19, -14, -11, -9, -11, -12], "pregnant": [-9, -7, -9]}}

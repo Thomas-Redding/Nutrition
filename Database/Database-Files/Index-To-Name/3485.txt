@@ -1,0 +1,1 @@
+{"index": 3485, "name": "Succotash, (corn and limas), cooked, boiled, drained, with salt", "healthiness": {"lactating": [20, 20, 17], "male": [39, 33, 32, 34, 28, 21, 19, 18, 17], "female": [39, 33, 32, 32, 26, 19, 20, 17, 15], "pregnant": [19, 20, 18]}}

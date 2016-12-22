@@ -1,0 +1,1 @@
+{"index": 4281, "name": "Beverages, aloe vera juice drink, fortified with Vitamin C", "healthiness": {"lactating": [-10, -9, -10], "male": [-20, -23, -23, -17, -12, -8, -7, -8, -9], "female": [-20, -23, -23, -19, -14, -12, -10, -12, -13], "pregnant": [-10, -9, -10]}}

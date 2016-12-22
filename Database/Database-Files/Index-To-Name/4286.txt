@@ -1,0 +1,1 @@
+{"index": 4286, "name": "Beverages, OCEAN SPRAY, Diet Cranberry Juice", "healthiness": {"lactating": [2, 3, 2], "male": [0, -5, -2, 0, 2, 4, 5, 4, 3], "female": [0, -5, -2, -2, 0, 1, 3, 1, 0], "pregnant": [2, 3, 2]}}

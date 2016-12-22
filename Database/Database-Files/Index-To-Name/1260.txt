@@ -1,0 +1,1 @@
+{"index": 1260, "name": "Soup, beef broth or bouillon, powder, dry", "healthiness": {"lactating": [-2, 0, -2], "male": [12, 7, -1, 1, 0, 0, 2, 1, 0], "female": [12, 7, -1, -1, -3, -3, 0, -2, -4], "pregnant": [-2, 0, -1]}}

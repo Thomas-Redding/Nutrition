@@ -1,0 +1,1 @@
+{"index": 1501, "name": "CAMPBELL'S Red and White - Microwaveable Bowls, Vegetable Beef Soup", "healthiness": {"lactating": [-12, -11, -12], "male": [-26, -30, -27, -21, -16, -12, -11, -11, -12], "female": [-26, -30, -27, -23, -18, -15, -13, -15, -16], "pregnant": [-13, -11, -13]}}

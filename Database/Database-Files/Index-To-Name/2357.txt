@@ -1,0 +1,1 @@
+{"index": 2357, "name": "Plums, canned, purple, extra heavy syrup pack, solids and liquids", "healthiness": {"lactating": [-10, -9, -11], "male": [-7, -19, -20, -15, -12, -9, -8, -9, -10], "female": [-7, -19, -20, -17, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

@@ -1,0 +1,1 @@
+{"index": 6464, "name": "Candies, M&M MARS Pretzel Chocolate Candies", "healthiness": {"lactating": [-11, -9, -11], "male": [0, -13, -19, -15, -12, -9, -8, -9, -10], "female": [0, -13, -19, -17, -15, -12, -10, -12, -14], "pregnant": [-11, -9, -10]}}

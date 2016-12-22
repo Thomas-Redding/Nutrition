@@ -1,0 +1,1 @@
+{"index": 6856, "name": "McDONALD'S, Double Cheeseburger", "healthiness": {"lactating": [-8, -7, -8], "male": [-1, -11, -15, -12, -11, -8, -6, -7, -8], "female": [-1, -11, -15, -14, -13, -11, -8, -10, -12], "pregnant": [-9, -8, -9]}}

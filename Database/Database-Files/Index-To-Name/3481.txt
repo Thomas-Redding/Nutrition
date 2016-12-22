@@ -1,0 +1,1 @@
+{"index": 3481, "name": "Squash, winter, butternut, frozen, cooked, boiled, with salt", "healthiness": {"lactating": [12, 12, 10], "male": [42, 34, 32, 30, 20, 14, 13, 12, 10], "female": [42, 34, 32, 27, 19, 12, 13, 10, 8], "pregnant": [12, 12, 10]}}

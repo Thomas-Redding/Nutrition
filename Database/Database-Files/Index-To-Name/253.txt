@@ -1,0 +1,1 @@
+{"index": 253, "name": "Spices, bay leaf", "healthiness": {"lactating": [10, 11, 10], "male": [14, 9, 13, 16, 13, 12, 13, 13, 12], "female": [14, 9, 13, 14, 11, 11, 14, 12, 10], "pregnant": [11, 13, 12]}}

@@ -1,0 +1,1 @@
+{"index": 6533, "name": "Triticale flour, whole-grain", "healthiness": {"lactating": [15, 15, 13], "male": [35, 29, 28, 30, 22, 16, 14, 13, 12], "female": [35, 29, 29, 28, 20, 14, 15, 13, 10], "pregnant": [15, 16, 13]}}

@@ -1,0 +1,1 @@
+{"index": 3123, "name": "Potatoes, frozen, whole, unprepared", "healthiness": {"lactating": [12, 12, 10], "male": [41, 33, 30, 29, 23, 14, 13, 11, 10], "female": [41, 33, 30, 27, 21, 13, 13, 11, 8], "pregnant": [12, 13, 10]}}

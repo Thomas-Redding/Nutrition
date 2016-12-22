@@ -1,0 +1,1 @@
+{"index": 501, "name": "Babyfood, dinner, apples and chicken, strained", "healthiness": {"lactating": [-7, -6, -7], "male": [12, -2, -9, -8, -7, -5, -4, -5, -6], "female": [12, -2, -9, -10, -9, -8, -6, -8, -9], "pregnant": [-7, -5, -7]}}

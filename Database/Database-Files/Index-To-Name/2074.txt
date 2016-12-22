@@ -1,0 +1,1 @@
+{"index": 2074, "name": "Cereals ready-to-eat, GENERAL MILLS, Cinnamon Burst CHEERIOS", "healthiness": {"lactating": [9, 11, 9], "male": [9, 4, 4, 9, 12, 13, 13, 13, 10], "female": [9, 4, 4, 7, 10, 12, 13, 11, 8], "pregnant": [9, 11, 9]}}

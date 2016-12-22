@@ -1,0 +1,1 @@
+{"index": 5855, "name": "Leavening agents, baking powder, double-acting, straight phosphate", "healthiness": {"lactating": [0, 1, 0], "male": [-10, -13, -14, -7, -2, 1, 1, 1, 0], "female": [-10, -13, -14, -9, -4, -2, 0, -2, -4], "pregnant": [0, 1, 0]}}

@@ -1,0 +1,1 @@
+{"index": 8266, "name": "HUNGRY MAN, Salisbury Steak With Gravy, frozen, unprepared", "healthiness": {"lactating": [-4, -3, -4], "male": [12, 2, -4, -3, -3, -2, -1, -1, -2], "female": [12, 2, -4, -5, -5, -5, -3, -4, -6], "pregnant": [-4, -2, -4]}}

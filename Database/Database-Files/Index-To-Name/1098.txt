@@ -1,0 +1,1 @@
+{"index": 1098, "name": "Ostrich, ground, raw", "healthiness": {"lactating": [35, 36, 35], "male": [45, 37, 36, 38, 37, 38, 40, 39, 37], "female": [45, 37, 36, 37, 35, 35, 37, 36, 35], "pregnant": [34, 36, 35]}}

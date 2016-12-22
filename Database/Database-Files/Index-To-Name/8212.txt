@@ -1,0 +1,1 @@
+{"index": 8212, "name": "CAMPBELL'S, V8 60% Vegetable Juice, V8 V-Lite", "healthiness": {"lactating": [-6, -4, -6], "male": [-19, -20, -19, -14, -9, -5, -4, -4, -6], "female": [-19, -20, -19, -16, -11, -9, -8, -9, -10], "pregnant": [-8, -6, -7]}}

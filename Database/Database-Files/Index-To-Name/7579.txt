@@ -1,0 +1,1 @@
+{"index": 7579, "name": "Beef, chuck, top blade, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled", "healthiness": {"lactating": [32, 33, 32], "male": [36, 31, 29, 32, 32, 33, 35, 35, 33], "female": [36, 31, 29, 30, 29, 30, 32, 30, 29], "pregnant": [30, 32, 31]}}

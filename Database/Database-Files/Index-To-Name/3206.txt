@@ -1,0 +1,1 @@
+{"index": 3206, "name": "Sweet potato, raw, unprepared", "healthiness": {"lactating": [11, 11, 9], "male": [40, 32, 29, 28, 18, 13, 12, 11, 10], "female": [41, 33, 30, 26, 16, 11, 12, 10, 8], "pregnant": [11, 12, 10]}}

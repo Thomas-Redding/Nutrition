@@ -1,0 +1,1 @@
+{"index": 8413, "name": "Frybread, made with lard (Apache)", "healthiness": {"lactating": [-9, -8, -9], "male": [-2, -13, -17, -13, -10, -8, -6, -7, -8], "female": [-2, -13, -17, -15, -13, -11, -9, -11, -12], "pregnant": [-10, -8, -9]}}

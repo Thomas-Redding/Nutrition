@@ -1,0 +1,1 @@
+{"index": 4256, "name": "Beverages, chocolate syrup, prepared with whole milk", "healthiness": {"lactating": [14, 14, 11], "male": [44, 32, 27, 27, 19, 14, 12, 11, 10], "female": [44, 32, 27, 25, 17, 12, 14, 11, 8], "pregnant": [13, 14, 12]}}

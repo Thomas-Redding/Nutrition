@@ -1,0 +1,1 @@
+{"index": 7711, "name": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Protein Performance Bar, Caramel Nut Rush", "healthiness": {"lactating": [49, 49, 47], "male": [62, 60, 58, 60, 59, 51, 50, 48, 46], "female": [62, 60, 58, 58, 57, 50, 51, 48, 46], "pregnant": [49, 51, 48]}}

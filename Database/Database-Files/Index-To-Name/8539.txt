@@ -1,0 +1,1 @@
+{"index": 8539, "name": "DENNY'S, french fries", "healthiness": {"lactating": [-3, -3, -4], "male": [22, 9, 6, 3, -2, -2, -3, -4, -5], "female": [24, 11, 7, 1, -4, -5, -4, -6, -8], "pregnant": [-3, -2, -4]}}

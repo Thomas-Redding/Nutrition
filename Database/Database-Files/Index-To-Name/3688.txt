@@ -1,0 +1,1 @@
+{"index": 3688, "name": "Nuts, walnuts, black, dried", "healthiness": {"lactating": [12, 12, 10], "male": [33, 27, 23, 25, 19, 13, 12, 10, 9], "female": [33, 27, 23, 23, 17, 12, 13, 10, 7], "pregnant": [13, 14, 11]}}

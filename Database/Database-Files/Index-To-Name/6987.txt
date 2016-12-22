@@ -1,0 +1,1 @@
+{"index": 6987, "name": "WENDY'S, DAVE'S Hot 'N Juicy 1/4 LB, single", "healthiness": {"lactating": [16, 16, 13], "male": [41, 29, 25, 25, 23, 17, 14, 12, 11], "female": [41, 29, 25, 23, 21, 15, 16, 12, 9], "pregnant": [16, 16, 13]}}

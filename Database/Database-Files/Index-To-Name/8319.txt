@@ -1,0 +1,1 @@
+{"index": 8319, "name": "Stew, moose (Alaska Native)", "healthiness": {"lactating": [-5, -4, -5], "male": [1, -8, -10, -7, -5, -4, -2, -3, -4], "female": [1, -8, -10, -9, -7, -7, -5, -7, -7], "pregnant": [-7, -5, -7]}}

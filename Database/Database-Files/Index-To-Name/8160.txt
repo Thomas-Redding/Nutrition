@@ -1,0 +1,1 @@
+{"index": 8160, "name": "GLUTINO, Gluten Free Wafers, Milk Chocolate", "healthiness": {"lactating": [-11, -10, -11], "male": [-12, -21, -23, -18, -14, -10, -9, -10, -11], "female": [-12, -21, -23, -20, -16, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

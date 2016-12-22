@@ -1,0 +1,1 @@
+{"index": 8400, "name": "Elk, free range, ground, cooked patties (Shoshone Bannock)", "healthiness": {"lactating": [44, 45, 44], "male": [46, 41, 41, 45, 45, 47, 49, 48, 47], "female": [46, 41, 41, 43, 43, 45, 47, 46, 43], "pregnant": [43, 46, 44]}}

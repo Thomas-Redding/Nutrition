@@ -1,0 +1,1 @@
+{"index": 8729, "name": "Cheese, pasteurized process, cheddar or American, low sodium", "healthiness": {"lactating": [-5, -4, -5], "male": [5, -4, -9, -7, -8, -5, -3, -3, -5], "female": [5, -4, -9, -9, -10, -8, -4, -6, -9], "pregnant": [-6, -3, -4]}}

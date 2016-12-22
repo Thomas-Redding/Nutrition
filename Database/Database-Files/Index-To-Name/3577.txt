@@ -1,0 +1,1 @@
+{"index": 3577, "name": "Broccoli, chinese, cooked", "healthiness": {"lactating": [30, 31, 30], "male": [29, 28, 32, 35, 34, 32, 35, 34, 33], "female": [29, 28, 32, 33, 32, 29, 33, 31, 30], "pregnant": [28, 31, 30]}}

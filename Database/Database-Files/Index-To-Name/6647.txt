@@ -1,0 +1,1 @@
+{"index": 6647, "name": "Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry", "healthiness": {"lactating": [0, 2, 0], "male": [9, 2, 0, 2, 1, 2, 4, 3, 2], "female": [9, 2, 0, 0, -1, 0, 2, 1, 0], "pregnant": [0, 2, 1]}}

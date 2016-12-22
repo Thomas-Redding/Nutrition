@@ -1,0 +1,1 @@
+{"index": 1699, "name": "Turkey bacon, unprepared", "healthiness": {"lactating": [-4, -3, -4], "male": [12, 2, -3, -2, -3, -2, 0, -1, -2], "female": [12, 2, -3, -4, -5, -5, -2, -4, -6], "pregnant": [-4, -2, -4]}}

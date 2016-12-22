@@ -1,0 +1,1 @@
+{"index": 8458, "name": "T.G.I. FRIDAY'S, french fries", "healthiness": {"lactating": [-8, -6, -8], "male": [3, -9, -13, -10, -8, -6, -6, -6, -8], "female": [3, -9, -13, -12, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -8]}}

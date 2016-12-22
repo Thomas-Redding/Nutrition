@@ -1,0 +1,1 @@
+{"index": 8391, "name": "Caribou, hind quarter meat, raw (Alaska Native)", "healthiness": {"lactating": [15, 16, 15], "male": [22, 17, 15, 19, 18, 18, 20, 20, 18], "female": [22, 17, 15, 17, 16, 15, 17, 16, 15], "pregnant": [13, 16, 15]}}

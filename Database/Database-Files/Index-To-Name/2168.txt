@@ -1,0 +1,1 @@
+{"index": 2168, "name": "Blueberries, frozen, unsweetened", "healthiness": {"lactating": [0, 1, 0], "male": [18, 8, 8, 6, 2, 2, 2, 1, 0], "female": [19, 8, 8, 4, 1, 1, 2, 0, -2], "pregnant": [1, 2, 1]}}

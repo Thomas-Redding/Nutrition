@@ -1,0 +1,1 @@
+{"index": 2171, "name": "Boysenberries, frozen, unsweetened", "healthiness": {"lactating": [6, 7, 6], "male": [17, 11, 12, 12, 9, 8, 9, 8, 7], "female": [17, 11, 12, 10, 7, 6, 7, 5, 4], "pregnant": [6, 7, 6]}}

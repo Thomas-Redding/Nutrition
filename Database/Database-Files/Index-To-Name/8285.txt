@@ -1,0 +1,1 @@
+{"index": 8285, "name": "Babyfood, GERBER, Banana with orange medley", "healthiness": {"lactating": [-3, -2, -3], "male": [11, 2, -2, -1, -1, 1, 1, 0, -1], "female": [11, 2, -2, -3, -3, -2, 0, -2, -4], "pregnant": [-2, 0, -1]}}

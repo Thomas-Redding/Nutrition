@@ -1,0 +1,1 @@
+{"index": 4395, "name": "Beverages, shake, fast food, strawberry", "healthiness": {"lactating": [10, 10, 8], "male": [38, 25, 21, 22, 16, 10, 8, 7, 6], "female": [38, 25, 21, 20, 14, 8, 10, 7, 3], "pregnant": [10, 11, 8]}}

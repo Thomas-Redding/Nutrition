@@ -1,0 +1,1 @@
+{"index": 7337, "name": "Beef, loin, top sirloin filet, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled", "healthiness": {"lactating": [37, 38, 37], "male": [40, 36, 32, 36, 37, 39, 41, 40, 38], "female": [40, 36, 32, 34, 35, 36, 38, 36, 35], "pregnant": [35, 37, 36]}}

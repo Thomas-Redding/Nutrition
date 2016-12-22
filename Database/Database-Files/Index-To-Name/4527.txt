@@ -1,0 +1,1 @@
+{"index": 4527, "name": "Fish, mackerel, Atlantic, raw", "healthiness": {"lactating": [37, 39, 37], "male": [50, 42, 37, 40, 39, 39, 39, 38, 37], "female": [50, 42, 37, 38, 36, 37, 39, 37, 34], "pregnant": [37, 39, 37]}}

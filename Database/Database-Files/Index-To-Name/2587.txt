@@ -1,0 +1,1 @@
+{"index": 2587, "name": "Pork, fresh, variety meats and by-products, mechanically separated, raw", "healthiness": {"lactating": [18, 18, 16], "male": [40, 30, 24, 25, 24, 18, 16, 15, 14], "female": [40, 30, 24, 23, 22, 17, 17, 14, 12], "pregnant": [17, 18, 15]}}

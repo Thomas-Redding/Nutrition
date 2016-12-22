@@ -1,0 +1,1 @@
+{"index": 1035, "name": "Poultry, mechanically deboned, from mature hens, raw", "healthiness": {"lactating": [19, 20, 17], "male": [41, 28, 24, 24, 23, 20, 17, 15, 15], "female": [41, 28, 24, 22, 21, 18, 19, 16, 13], "pregnant": [19, 20, 17]}}

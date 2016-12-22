@@ -1,0 +1,1 @@
+{"index": 409, "name": "Babyfood, fruit, applesauce and apricots, junior", "healthiness": {"lactating": [-5, -4, -5], "male": [2, -8, -12, -9, -6, -4, -3, -3, -4], "female": [2, -8, -12, -11, -9, -7, -5, -6, -8], "pregnant": [-5, -4, -5]}}

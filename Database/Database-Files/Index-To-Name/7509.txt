@@ -1,0 +1,1 @@
+{"index": 7509, "name": "Beef, New Zealand, imported, ribs prepared, raw", "healthiness": {"lactating": [30, 31, 30], "male": [39, 29, 28, 31, 31, 32, 34, 33, 32], "female": [39, 29, 28, 29, 29, 29, 32, 30, 29], "pregnant": [29, 31, 30]}}

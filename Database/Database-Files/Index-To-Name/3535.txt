@@ -1,0 +1,1 @@
+{"index": 3535, "name": "Dock, cooked, boiled, drained, with salt", "healthiness": {"lactating": [48, 49, 47], "male": [45, 43, 43, 46, 47, 49, 49, 48, 46], "female": [45, 43, 43, 44, 44, 46, 49, 47, 44], "pregnant": [47, 50, 48]}}

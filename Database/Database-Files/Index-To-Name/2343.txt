@@ -1,0 +1,1 @@
+{"index": 2343, "name": "Pineapple, canned, heavy syrup pack, solids and liquids", "healthiness": {"lactating": [-4, -2, -4], "male": [6, -1, -3, -1, -2, -1, -1, -2, -3], "female": [7, -1, -2, -3, -5, -4, -3, -5, -7], "pregnant": [-3, -2, -3]}}

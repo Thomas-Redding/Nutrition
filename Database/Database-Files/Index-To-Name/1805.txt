@@ -1,0 +1,1 @@
+{"index": 1805, "name": "Cereals ready-to-eat, GENERAL MILLS, LUCKY CHARMS", "healthiness": {"lactating": [20, 21, 20], "male": [24, 21, 18, 21, 21, 23, 24, 23, 21], "female": [24, 21, 18, 19, 19, 21, 23, 21, 18], "pregnant": [21, 23, 21]}}

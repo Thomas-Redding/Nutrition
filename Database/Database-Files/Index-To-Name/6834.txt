@@ -1,0 +1,1 @@
+{"index": 6834, "name": "McDONALD'S, Barbeque Sauce", "healthiness": {"lactating": [-11, -10, -11], "male": [-6, -19, -21, -16, -13, -10, -9, -9, -11], "female": [-6, -19, -21, -18, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

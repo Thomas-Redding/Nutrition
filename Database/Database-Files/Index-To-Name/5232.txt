@@ -1,0 +1,1 @@
+{"index": 5232, "name": "Veal, sirloin, separable lean and fat, raw", "healthiness": {"lactating": [34, 35, 34], "male": [49, 40, 35, 38, 36, 37, 39, 38, 36], "female": [49, 40, 35, 36, 34, 34, 37, 35, 33], "pregnant": [33, 36, 35]}}

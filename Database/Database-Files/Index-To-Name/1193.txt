@@ -1,0 +1,1 @@
+{"index": 1193, "name": "Turkey, drumstick, from whole bird, meat only, roasted", "healthiness": {"lactating": [38, 39, 38], "male": [44, 37, 35, 37, 37, 39, 41, 41, 39], "female": [44, 37, 35, 35, 34, 36, 39, 37, 35], "pregnant": [37, 39, 38]}}

@@ -1,0 +1,1 @@
+{"index": 8551, "name": "Restaurant, Chinese, chicken chow mein", "healthiness": {"lactating": [27, 27, 25], "male": [43, 33, 30, 31, 29, 29, 26, 24, 23], "female": [43, 33, 30, 29, 27, 27, 27, 25, 22], "pregnant": [27, 28, 25]}}

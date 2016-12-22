@@ -1,0 +1,1 @@
+{"index": 7504, "name": "Beef, New Zealand, imported, manufacturing beef, cooked, boiled", "healthiness": {"lactating": [30, 31, 30], "male": [40, 31, 27, 29, 30, 32, 34, 33, 31], "female": [40, 31, 27, 27, 27, 28, 30, 29, 27], "pregnant": [29, 31, 30]}}

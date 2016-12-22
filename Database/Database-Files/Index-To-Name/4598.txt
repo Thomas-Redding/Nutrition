@@ -1,0 +1,1 @@
+{"index": 4598, "name": "Fish, tuna, fresh, bluefin, raw", "healthiness": {"lactating": [44, 46, 44], "male": [52, 44, 43, 46, 45, 46, 48, 47, 46], "female": [52, 44, 43, 44, 42, 43, 46, 44, 42], "pregnant": [43, 46, 44]}}

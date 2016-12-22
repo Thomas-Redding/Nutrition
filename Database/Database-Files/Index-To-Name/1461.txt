@@ -1,0 +1,1 @@
+{"index": 1461, "name": "CAMPBELL'S CHUNKY Soups, Roadhouse - Beef & Bean Chili", "healthiness": {"lactating": [-12, -11, -12], "male": [-25, -28, -27, -21, -15, -11, -10, -11, -12], "female": [-25, -28, -27, -23, -18, -15, -13, -15, -16], "pregnant": [-13, -11, -13]}}

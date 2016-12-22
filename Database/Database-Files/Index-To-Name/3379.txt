@@ -1,0 +1,1 @@
+{"index": 3379, "name": "Cauliflower, frozen, cooked, boiled, drained, with salt", "healthiness": {"lactating": [46, 47, 45], "male": [51, 48, 51, 52, 50, 47, 47, 46, 45], "female": [51, 48, 51, 50, 48, 45, 47, 44, 43], "pregnant": [44, 46, 44]}}

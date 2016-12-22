@@ -1,0 +1,1 @@
+{"index": 7003, "name": "CHICK-FIL-A, chicken sandwich", "healthiness": {"lactating": [-5, -3, -5], "male": [8, -1, -6, -3, -4, -3, -1, -2, -3], "female": [8, -1, -6, -5, -6, -5, -3, -5, -7], "pregnant": [-5, -3, -5]}}

@@ -1,0 +1,1 @@
+{"index": 3491, "name": "Sweet potato, frozen, cooked, baked, with salt", "healthiness": {"lactating": [10, 10, 8], "male": [38, 28, 29, 27, 17, 12, 11, 10, 9], "female": [39, 29, 29, 25, 15, 11, 12, 9, 7], "pregnant": [11, 12, 10]}}

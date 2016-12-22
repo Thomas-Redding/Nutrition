@@ -1,0 +1,1 @@
+{"index": 3279, "name": "Kale, scotch, raw", "healthiness": {"lactating": [47, 47, 45], "male": [47, 46, 48, 51, 50, 48, 46, 45, 44], "female": [47, 46, 48, 49, 48, 46, 48, 46, 43], "pregnant": [46, 48, 46]}}

@@ -1,0 +1,1 @@
+{"index": 6040, "name": "KELLOGG'S, BEANATURAL, Original 3-Bean Chips", "healthiness": {"lactating": [-9, -8, -9], "male": [-9, -19, -19, -15, -12, -9, -8, -8, -9], "female": [-9, -19, -19, -17, -14, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

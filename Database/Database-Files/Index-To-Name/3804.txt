@@ -1,0 +1,1 @@
+{"index": 3804, "name": "Beef, cured, breakfast strips, raw or unheated", "healthiness": {"lactating": [5, 5, 3], "male": [33, 18, 18, 20, 12, 6, 4, 3, 2], "female": [33, 18, 18, 18, 9, 4, 4, 2, -1], "pregnant": [5, 5, 3]}}

@@ -1,0 +1,1 @@
+{"index": 7834, "name": "KELLOGG'S, EGGO, Thick & Fluffy, Waffles, Original", "healthiness": {"lactating": [2, 4, 2], "male": [2, 0, 0, 4, 4, 4, 7, 6, 4], "female": [2, 0, 0, 2, 1, 1, 4, 2, 1], "pregnant": [0, 3, 2]}}

@@ -1,0 +1,1 @@
+{"index": 4514, "name": "Fish, haddock, raw", "healthiness": {"lactating": [37, 38, 37], "male": [45, 35, 33, 36, 37, 39, 41, 40, 38], "female": [45, 35, 33, 34, 35, 37, 39, 38, 34], "pregnant": [36, 39, 37]}}

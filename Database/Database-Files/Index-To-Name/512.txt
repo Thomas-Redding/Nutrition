@@ -1,0 +1,1 @@
+{"index": 512, "name": "Babyfood, cereal, oatmeal, with bananas, prepared with whole milk", "healthiness": {"lactating": [31, 31, 28], "male": [55, 48, 43, 42, 37, 31, 30, 28, 26], "female": [55, 48, 43, 40, 35, 29, 30, 28, 24], "pregnant": [28, 30, 28]}}

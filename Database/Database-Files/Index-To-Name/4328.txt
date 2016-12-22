@@ -1,0 +1,1 @@
+{"index": 4328, "name": "Beverages, tea, green, brewed, regular", "healthiness": {"lactating": [12, 13, 12], "male": [3, 2, 3, 7, 12, 14, 15, 14, 13], "female": [3, 2, 3, 6, 9, 10, 12, 11, 10], "pregnant": [10, 12, 11]}}

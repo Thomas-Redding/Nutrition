@@ -1,0 +1,1 @@
+{"index": 8230, "name": "Peppers, hot pickled, canned", "healthiness": {"lactating": [17, 18, 17], "male": [25, 20, 21, 23, 22, 21, 23, 22, 20], "female": [25, 20, 21, 21, 20, 19, 21, 19, 18], "pregnant": [18, 20, 19]}}

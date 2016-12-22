@@ -1,0 +1,1 @@
+{"index": 6837, "name": "McDONALD'S, Spicy Buffalo Sauce", "healthiness": {"lactating": [-10, -9, -10], "male": [-6, -16, -16, -12, -11, -8, -7, -8, -9], "female": [-6, -16, -16, -14, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

@@ -1,0 +1,1 @@
+{"index": 1523, "name": "CAMPBELL'S Soup on the Go, Creamy Broccoli Soup", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -29, -28, -22, -16, -12, -11, -12, -13], "female": [-25, -29, -28, -24, -19, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

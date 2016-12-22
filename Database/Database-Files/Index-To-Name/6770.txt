@@ -1,0 +1,1 @@
+{"index": 6770, "name": "WENDY'S, Homestyle Chicken Fillet Sandwich", "healthiness": {"lactating": [20, 20, 17], "male": [43, 33, 24, 25, 25, 20, 18, 16, 15], "female": [43, 33, 24, 23, 23, 19, 19, 16, 13], "pregnant": [19, 20, 17]}}

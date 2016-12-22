@@ -1,0 +1,1 @@
+{"index": 2067, "name": "Cereals ready-to-eat, KELLOGG'S KRAVE double chocolate cereal", "healthiness": {"lactating": [7, 8, 7], "male": [6, 1, 2, 7, 9, 10, 10, 10, 7], "female": [6, 1, 2, 5, 7, 8, 9, 7, 5], "pregnant": [5, 7, 5]}}

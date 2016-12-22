@@ -1,0 +1,1 @@
+{"index": 8461, "name": "T.G.I. FRIDAY'S, chicken fingers, from kids' menu", "healthiness": {"lactating": [18, 18, 15], "male": [39, 30, 25, 26, 25, 19, 16, 15, 14], "female": [39, 30, 25, 24, 23, 17, 18, 15, 11], "pregnant": [18, 18, 16]}}

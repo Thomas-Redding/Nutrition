@@ -1,0 +1,1 @@
+{"index": 272, "name": "Spices, marjoram, dried", "healthiness": {"lactating": [22, 24, 22], "male": [21, 20, 21, 25, 25, 26, 27, 26, 24], "female": [21, 20, 21, 23, 23, 24, 27, 25, 22], "pregnant": [24, 26, 25]}}

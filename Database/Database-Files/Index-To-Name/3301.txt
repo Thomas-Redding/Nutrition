@@ -1,0 +1,1 @@
+{"index": 3301, "name": "Sweet potato, cooked, candied, home-prepared", "healthiness": {"lactating": [-4, -3, -5], "male": [15, 5, 1, 1, -1, -2, -1, -2, -3], "female": [16, 5, 1, -2, -3, -3, -2, -4, -6], "pregnant": [-2, -1, -3]}}

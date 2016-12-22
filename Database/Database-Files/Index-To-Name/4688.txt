@@ -1,0 +1,1 @@
+{"index": 4688, "name": "Fish, salmon, chum, cooked, dry heat", "healthiness": {"lactating": [36, 37, 36], "male": [42, 33, 32, 35, 35, 37, 40, 39, 37], "female": [42, 33, 32, 33, 33, 34, 37, 36, 33], "pregnant": [34, 37, 36]}}

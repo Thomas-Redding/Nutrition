@@ -1,0 +1,1 @@
+{"index": 1330, "name": "Soup, cream of chicken, canned, prepared with equal volume milk", "healthiness": {"lactating": [13, 13, 11], "male": [39, 29, 21, 23, 20, 14, 12, 10, 9], "female": [39, 29, 21, 21, 18, 12, 13, 10, 7], "pregnant": [13, 14, 11]}}

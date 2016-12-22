@@ -1,0 +1,1 @@
+{"index": 4392, "name": "Beverages, Orange-flavor drink, breakfast type, with pulp, frozen concentrate, prepared with water", "healthiness": {"lactating": [-8, -6, -8], "male": [-5, -16, -19, -14, -11, -7, -6, -6, -8], "female": [-5, -16, -19, -16, -13, -10, -8, -10, -12], "pregnant": [-8, -6, -8]}}

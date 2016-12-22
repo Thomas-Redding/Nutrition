@@ -1,0 +1,1 @@
+{"index": 3683, "name": "Nuts, pilinuts, dried", "healthiness": {"lactating": [0, 1, -1], "male": [20, 14, 11, 12, 3, 1, 1, 0, -1], "female": [21, 14, 12, 10, 1, -1, 0, -2, -4], "pregnant": [0, 1, -1]}}

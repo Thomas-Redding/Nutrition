@@ -1,0 +1,1 @@
+{"index": 88, "name": "Milk, canned, evaporated, with added vitamin D and without added vitamin A", "healthiness": {"lactating": [24, 24, 22], "male": [45, 31, 29, 30, 28, 24, 22, 21, 18], "female": [45, 31, 29, 28, 25, 23, 24, 21, 16], "pregnant": [24, 25, 22]}}

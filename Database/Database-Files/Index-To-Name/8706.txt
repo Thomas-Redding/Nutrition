@@ -1,0 +1,1 @@
+{"index": 8706, "name": "Salad dressing, bacon and tomato", "healthiness": {"lactating": [-10, -8, -10], "male": [-11, -19, -19, -14, -11, -8, -8, -9, -10], "female": [-11, -19, -19, -16, -13, -11, -10, -12, -14], "pregnant": [-9, -8, -9]}}

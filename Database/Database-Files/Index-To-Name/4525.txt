@@ -1,0 +1,1 @@
+{"index": 4525, "name": "Fish, ling, raw", "healthiness": {"lactating": [37, 38, 37], "male": [46, 39, 38, 42, 40, 39, 41, 41, 39], "female": [46, 39, 38, 40, 38, 37, 40, 38, 36], "pregnant": [36, 39, 37]}}

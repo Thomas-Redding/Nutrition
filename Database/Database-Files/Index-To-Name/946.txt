@@ -1,0 +1,1 @@
+{"index": 946, "name": "Chicken, stewing, meat and skin, cooked, stewed", "healthiness": {"lactating": [22, 23, 21], "male": [38, 25, 21, 22, 22, 24, 24, 23, 21], "female": [38, 25, 21, 20, 20, 21, 23, 21, 18], "pregnant": [22, 23, 22]}}

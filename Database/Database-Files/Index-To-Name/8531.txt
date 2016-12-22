@@ -1,0 +1,1 @@
+{"index": 8531, "name": "Restaurant, Chinese, fried rice, without meat", "healthiness": {"lactating": [2, 3, 1], "male": [30, 19, 14, 15, 8, 3, 2, 1, 0], "female": [30, 19, 14, 12, 6, 1, 2, 0, -3], "pregnant": [3, 3, 1]}}

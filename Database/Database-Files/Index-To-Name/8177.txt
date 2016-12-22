@@ -1,0 +1,1 @@
+{"index": 8177, "name": "VAN'S, The Perfect 10, Crispy Six Whole Grain + Four Seed Baked Crackers, Gluten Free", "healthiness": {"lactating": [-9, -8, -9], "male": [-8, -15, -17, -13, -11, -7, -6, -7, -8], "female": [-8, -15, -17, -15, -12, -10, -8, -10, -12], "pregnant": [-9, -7, -8]}}

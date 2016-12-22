@@ -1,0 +1,1 @@
+{"index": 3046, "name": "Parsnips, cooked, boiled, drained, without salt", "healthiness": {"lactating": [2, 3, 2], "male": [20, 13, 8, 9, 6, 5, 6, 6, 4], "female": [20, 13, 8, 7, 4, 4, 6, 4, 3], "pregnant": [3, 5, 4]}}

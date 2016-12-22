@@ -1,0 +1,1 @@
+{"index": 480, "name": "Babyfood, dessert, fruit dessert, without ascorbic acid, strained", "healthiness": {"lactating": [-10, -9, -10], "male": [-4, -14, -16, -13, -11, -8, -8, -8, -10], "female": [-4, -14, -16, -15, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

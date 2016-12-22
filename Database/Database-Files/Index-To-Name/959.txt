@@ -1,0 +1,1 @@
+{"index": 959, "name": "Chicken, capons, giblets, raw", "healthiness": {"lactating": [52, 53, 52], "male": [52, 48, 47, 53, 55, 55, 57, 56, 54], "female": [52, 48, 47, 51, 53, 53, 55, 53, 52], "pregnant": [50, 53, 52]}}

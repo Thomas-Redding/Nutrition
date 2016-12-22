@@ -1,0 +1,1 @@
+{"index": 7970, "name": "KELLOGG'S, POP-TARTS, Frosted Cinnamon Roll Toaster Pastries", "healthiness": {"lactating": [-10, -9, -10], "male": [-12, -18, -19, -15, -12, -9, -8, -8, -10], "female": [-12, -18, -19, -17, -14, -12, -10, -12, -14], "pregnant": [-11, -9, -11]}}

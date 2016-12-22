@@ -1,0 +1,1 @@
+{"index": 6159, "name": "Candies, milk chocolate coated raisins", "healthiness": {"lactating": [-9, -8, -9], "male": [3, -10, -16, -13, -11, -8, -7, -8, -9], "female": [3, -10, -16, -15, -13, -11, -9, -11, -13], "pregnant": [-10, -8, -9]}}

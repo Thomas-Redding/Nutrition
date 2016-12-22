@@ -1,0 +1,1 @@
+{"index": 8339, "name": "Sea cucumber, yane (Alaska Native)", "healthiness": {"lactating": [-5, -4, -5], "male": [-16, -19, -20, -14, -8, -4, -3, -4, -5], "female": [-16, -19, -20, -16, -11, -8, -6, -8, -9], "pregnant": [-6, -5, -6]}}

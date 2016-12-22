@@ -1,0 +1,1 @@
+{"index": 1520, "name": "CAMPBELL'S Soup on the Go, Chicken & Stars Soup", "healthiness": {"lactating": [-12, -11, -12], "male": [-23, -27, -24, -19, -15, -11, -10, -11, -12], "female": [-23, -27, -24, -21, -17, -15, -13, -15, -16], "pregnant": [-13, -11, -13]}}

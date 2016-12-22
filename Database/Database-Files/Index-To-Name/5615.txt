@@ -1,0 +1,1 @@
+{"index": 5615, "name": "Bread, white, prepared from recipe, made with nonfat dry milk", "healthiness": {"lactating": [4, 5, 3], "male": [29, 20, 16, 16, 10, 5, 4, 3, 2], "female": [29, 21, 16, 14, 8, 3, 4, 1, -1], "pregnant": [4, 4, 2]}}

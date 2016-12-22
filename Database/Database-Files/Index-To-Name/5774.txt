@@ -1,0 +1,1 @@
+{"index": 5774, "name": "Ice cream cones, cake or wafer-type", "healthiness": {"lactating": [-2, -1, -3], "male": [21, 11, 6, 6, 1, -1, -1, -2, -3], "female": [22, 12, 6, 4, -1, -4, -3, -5, -7], "pregnant": [-2, -1, -3]}}

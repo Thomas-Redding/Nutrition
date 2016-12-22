@@ -1,0 +1,1 @@
+{"index": 1155, "name": "Turkey, dark meat from whole, meat and skin, with added solution, raw", "healthiness": {"lactating": [30, 31, 29], "male": [45, 35, 32, 35, 33, 32, 32, 31, 30], "female": [45, 35, 32, 33, 31, 30, 32, 30, 27], "pregnant": [30, 31, 30]}}

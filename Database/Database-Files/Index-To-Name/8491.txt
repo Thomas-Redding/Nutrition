@@ -1,0 +1,1 @@
+{"index": 8491, "name": "CRACKER BARREL, macaroni n' cheese", "healthiness": {"lactating": [11, 11, 9], "male": [41, 27, 21, 23, 17, 11, 10, 8, 7], "female": [41, 27, 21, 21, 15, 10, 11, 8, 5], "pregnant": [11, 12, 9]}}

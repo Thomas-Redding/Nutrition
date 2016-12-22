@@ -1,0 +1,1 @@
+{"index": 2818, "name": "Arrowhead, cooked, boiled, drained, without salt", "healthiness": {"lactating": [1, 2, 1], "male": [5, 1, 0, 3, 2, 2, 5, 4, 2], "female": [5, 1, 0, 1, 0, 0, 3, 1, 0], "pregnant": [-1, 2, 1]}}

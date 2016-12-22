@@ -1,0 +1,1 @@
+{"index": 6311, "name": "Candies, MARS SNACKFOOD US, COCOAVIA Blueberry and Almond Chocolate Bar", "healthiness": {"lactating": [-6, -4, -6], "male": [-10, -13, -10, -6, -5, -3, -2, -3, -5], "female": [-10, -13, -10, -8, -7, -7, -5, -7, -9], "pregnant": [-6, -4, -5]}}

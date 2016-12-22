@@ -1,0 +1,1 @@
+{"index": 1578, "name": "Soup, cream of chicken, canned, condensed, reduced sodium", "healthiness": {"lactating": [-8, -6, -8], "male": [7, -5, -13, -9, -8, -6, -5, -5, -7], "female": [7, -5, -13, -11, -10, -9, -7, -8, -10], "pregnant": [-7, -6, -7]}}

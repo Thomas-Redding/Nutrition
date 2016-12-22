@@ -1,0 +1,1 @@
+{"index": 5285, "name": "Lamb, variety meats and by-products, brain, cooked, pan-fried", "healthiness": {"lactating": [26, 26, 23], "male": [46, 35, 33, 35, 32, 27, 25, 24, 23], "female": [46, 35, 33, 33, 29, 25, 26, 23, 21], "pregnant": [25, 26, 24]}}

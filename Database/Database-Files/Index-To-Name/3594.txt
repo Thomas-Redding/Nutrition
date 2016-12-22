@@ -1,0 +1,1 @@
+{"index": 3594, "name": "Mushrooms, oyster, raw", "healthiness": {"lactating": [50, 50, 48], "male": [45, 45, 48, 52, 54, 51, 50, 49, 46], "female": [45, 45, 48, 51, 52, 49, 51, 48, 46], "pregnant": [48, 49, 47]}}

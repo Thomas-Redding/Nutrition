@@ -1,0 +1,1 @@
+{"index": 148, "name": "Cheese, low-sodium, cheddar or colby", "healthiness": {"lactating": [21, 20, 18], "male": [40, 26, 21, 23, 22, 20, 18, 17, 15], "female": [40, 26, 21, 21, 20, 18, 20, 17, 13], "pregnant": [20, 21, 18]}}

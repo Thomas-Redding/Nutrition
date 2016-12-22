@@ -1,0 +1,1 @@
+{"index": 4582, "name": "Fish, snapper, mixed species, raw", "healthiness": {"lactating": [37, 38, 37], "male": [44, 35, 34, 36, 36, 38, 40, 40, 38], "female": [44, 35, 34, 35, 34, 35, 38, 37, 34], "pregnant": [36, 38, 37]}}

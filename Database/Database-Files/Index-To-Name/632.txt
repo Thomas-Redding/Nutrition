@@ -1,0 +1,1 @@
+{"index": 632, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, powder, with ARA and DHA", "healthiness": {"lactating": [2, 3, 2], "male": [29, 15, 12, 9, 6, 5, 6, 6, 2], "female": [29, 15, 12, 7, 3, 2, 4, 2, 0], "pregnant": [2, 4, 2]}}

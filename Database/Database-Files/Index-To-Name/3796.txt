@@ -1,0 +1,1 @@
+{"index": 3796, "name": "Beef, variety meats and by-products, suet, raw", "healthiness": {"lactating": [-13, -12, -13], "male": [-21, -23, -26, -20, -16, -12, -11, -12, -13], "female": [-21, -23, -25, -22, -18, -15, -14, -15, -18], "pregnant": [-13, -12, -13]}}

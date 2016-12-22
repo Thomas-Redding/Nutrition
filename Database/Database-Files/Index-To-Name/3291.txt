@@ -1,0 +1,1 @@
+{"index": 3291, "name": "Squash, winter, all varieties, cooked, baked, without salt", "healthiness": {"lactating": [20, 21, 19], "male": [48, 42, 43, 39, 30, 24, 22, 21, 20], "female": [49, 43, 44, 37, 29, 24, 24, 22, 20], "pregnant": [22, 22, 21]}}

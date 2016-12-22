@@ -1,0 +1,1 @@
+{"index": 3457, "name": "Potatoes, au gratin, home-prepared from recipe using margarine", "healthiness": {"lactating": [15, 15, 13], "male": [42, 31, 29, 29, 23, 16, 14, 12, 11], "female": [42, 31, 29, 27, 21, 15, 16, 13, 10], "pregnant": [15, 16, 14]}}

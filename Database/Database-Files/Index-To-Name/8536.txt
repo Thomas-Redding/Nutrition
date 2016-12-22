@@ -1,0 +1,1 @@
+{"index": 8536, "name": "CRACKER BARREL, steak fries", "healthiness": {"lactating": [-3, -2, -4], "male": [21, 9, 5, 3, -2, -2, -2, -3, -4], "female": [22, 10, 6, 1, -4, -5, -3, -5, -7], "pregnant": [-3, -2, -4]}}

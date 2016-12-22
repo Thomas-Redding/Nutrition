@@ -1,0 +1,1 @@
+{"index": 8390, "name": "Caribou, shoulder meat, dried (Alaska Native)", "healthiness": {"lactating": [16, 17, 16], "male": [15, 12, 11, 16, 17, 19, 21, 21, 19], "female": [15, 12, 11, 14, 15, 16, 18, 16, 15], "pregnant": [14, 17, 16]}}

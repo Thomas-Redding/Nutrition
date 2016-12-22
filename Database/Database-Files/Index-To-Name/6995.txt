@@ -1,0 +1,1 @@
+{"index": 6995, "name": "Fast foods, grilled chicken in tortilla, with lettuce, cheese, and ranch sauce", "healthiness": {"lactating": [21, 21, 18], "male": [43, 33, 26, 28, 26, 22, 19, 18, 17], "female": [43, 33, 26, 26, 24, 20, 21, 18, 15], "pregnant": [21, 21, 19]}}

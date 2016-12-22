@@ -1,0 +1,1 @@
+{"index": 8110, "name": "Crackers, standard snack-type, with whole wheat", "healthiness": {"lactating": [-7, -6, -7], "male": [7, -4, -12, -10, -9, -6, -5, -5, -7], "female": [7, -4, -12, -12, -11, -9, -7, -9, -10], "pregnant": [-8, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 6730, "name": "School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Pepperoni Pizza 50/50 Cheese, frozen", "healthiness": {"lactating": [-2, -1, -2], "male": [3, -1, -5, -4, -4, -2, 1, 0, -1], "female": [3, -1, -5, -5, -6, -4, -2, -3, -5], "pregnant": [-4, -1, -2]}}

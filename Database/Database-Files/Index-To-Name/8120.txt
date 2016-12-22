@@ -1,0 +1,1 @@
+{"index": 8120, "name": "Bread, french or vienna, whole wheat", "healthiness": {"lactating": [-6, -4, -6], "male": [5, -3, -8, -6, -6, -4, -3, -3, -5], "female": [5, -3, -8, -8, -8, -7, -5, -6, -8], "pregnant": [-6, -4, -5]}}

@@ -1,0 +1,1 @@
+{"index": 3179, "name": "Squash, summer, zucchini, includes skin, raw", "healthiness": {"lactating": [49, 49, 46], "male": [52, 50, 53, 57, 56, 48, 47, 45, 45], "female": [52, 50, 53, 55, 54, 47, 50, 47, 45], "pregnant": [47, 48, 46]}}

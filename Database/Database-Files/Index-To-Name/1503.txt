@@ -1,0 +1,1 @@
+{"index": 1503, "name": "Soup, chicken noodle, dry, mix, prepared with water", "healthiness": {"lactating": [-4, -2, -4], "male": [13, 2, -5, -3, -3, -1, 0, -1, -2], "female": [13, 2, -5, -5, -5, -4, -2, -4, -6], "pregnant": [-4, -2, -3]}}

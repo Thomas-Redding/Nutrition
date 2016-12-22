@@ -1,0 +1,1 @@
+{"index": 5880, "name": "Bread, pita, white, unenriched", "healthiness": {"lactating": [3, 4, 2], "male": [27, 15, 10, 13, 8, 4, 2, 1, 0], "female": [27, 15, 10, 10, 6, 2, 3, 0, -3], "pregnant": [3, 4, 2]}}

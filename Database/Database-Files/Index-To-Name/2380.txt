@@ -1,0 +1,1 @@
+{"index": 2380, "name": "Rose-apples, raw", "healthiness": {"lactating": [-3, -2, -3], "male": [6, -3, -7, -4, -4, -2, 0, -1, -2], "female": [6, -3, -7, -6, -6, -4, -2, -4, -6], "pregnant": [-3, -1, -3]}}

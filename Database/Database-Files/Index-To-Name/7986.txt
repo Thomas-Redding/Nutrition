@@ -1,0 +1,1 @@
+{"index": 7986, "name": "KELLOGG'S, POP-TARTS MINI CRISPS, Cinnamon Brown Sugar Baked Bites", "healthiness": {"lactating": [-7, -5, -7], "male": [-9, -12, -11, -7, -6, -4, -3, -4, -5], "female": [-9, -12, -11, -9, -8, -7, -6, -8, -8], "pregnant": [-7, -6, -7]}}

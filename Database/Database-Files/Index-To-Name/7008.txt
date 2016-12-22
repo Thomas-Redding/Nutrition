@@ -1,0 +1,1 @@
+{"index": 7008, "name": "School Lunch, pizza, pepperoni topping, thick crust, whole grain, frozen, cooked", "healthiness": {"lactating": [-2, -1, -2], "male": [17, 7, 0, 0, -1, -1, 1, 0, -1], "female": [17, 7, 0, -2, -3, -3, -1, -3, -4], "pregnant": [-3, -1, -2]}}

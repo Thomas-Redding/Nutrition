@@ -1,0 +1,1 @@
+{"index": 4187, "name": "Beverages, almond milk, unsweetened, shelf stable", "healthiness": {"lactating": [12, 13, 12], "male": [19, 14, 11, 14, 15, 15, 17, 16, 15], "female": [19, 14, 11, 12, 13, 13, 14, 13, 12], "pregnant": [12, 14, 12]}}

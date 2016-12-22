@@ -1,0 +1,1 @@
+{"index": 4472, "name": "Beverages, Energy drink, VAULT, citrus flavor", "healthiness": {"lactating": [-14, -13, -14], "male": [-25, -28, -28, -22, -17, -13, -12, -13, -14], "female": [-25, -28, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -13, -14]}}

@@ -1,0 +1,1 @@
+{"index": 66, "name": "Dessert topping, semi solid, frozen", "healthiness": {"lactating": [-11, -10, -11], "male": [-10, -15, -19, -15, -13, -10, -10, -11, -12], "female": [-9, -15, -18, -17, -15, -13, -12, -14, -16], "pregnant": [-11, -10, -11]}}

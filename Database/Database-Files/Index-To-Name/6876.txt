@@ -1,0 +1,1 @@
+{"index": 6876, "name": "McDONALD'S, Bacon Ranch Salad without chicken", "healthiness": {"lactating": [-5, -4, -5], "male": [-2, -9, -12, -9, -7, -4, -3, -3, -5], "female": [-2, -9, -12, -11, -9, -7, -5, -7, -8], "pregnant": [-6, -4, -5]}}

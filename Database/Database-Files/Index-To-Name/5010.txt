@@ -1,0 +1,1 @@
+{"index": 5010, "name": "Soy sauce made from soy and wheat (shoyu), low sodium", "healthiness": {"lactating": [36, 37, 35], "male": [38, 36, 36, 38, 37, 37, 39, 38, 36], "female": [38, 36, 36, 36, 35, 35, 37, 35, 34], "pregnant": [33, 36, 34]}}

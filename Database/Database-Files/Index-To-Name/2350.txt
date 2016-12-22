@@ -1,0 +1,1 @@
+{"index": 2350, "name": "Plantains, raw", "healthiness": {"lactating": [-3, -2, -3], "male": [18, 8, 6, 5, 2, 0, 0, -1, -3], "female": [19, 9, 7, 3, -1, -2, -1, -3, -5], "pregnant": [-2, -1, -3]}}

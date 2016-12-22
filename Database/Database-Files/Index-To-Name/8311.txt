@@ -1,0 +1,1 @@
+{"index": 8311, "name": "Fireweed, young leaves, raw (Alaska Native)", "healthiness": {"lactating": [7, 8, 7], "male": [-10, -10, -7, 0, 4, 8, 9, 8, 7], "female": [-10, -10, -7, -2, 1, 4, 6, 4, 3], "pregnant": [4, 6, 5]}}

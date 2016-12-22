@@ -1,0 +1,1 @@
+{"index": 3367, "name": "Cabbage, common (danish, domestic, and pointed types), stored, raw", "healthiness": {"lactating": [29, 30, 27], "male": [48, 44, 45, 44, 38, 30, 29, 28, 27], "female": [48, 44, 45, 42, 36, 29, 30, 28, 26], "pregnant": [28, 29, 27]}}

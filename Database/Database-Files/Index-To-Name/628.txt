@@ -1,0 +1,1 @@
+{"index": 628, "name": "Babyfood, banana with mixed berries, strained", "healthiness": {"lactating": [-1, 0, -2], "male": [17, 12, 9, 7, 4, 3, 2, 1, 0], "female": [17, 13, 10, 5, 2, 1, 2, 0, -3], "pregnant": [1, 2, 0]}}

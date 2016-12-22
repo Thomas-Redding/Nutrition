@@ -1,0 +1,1 @@
+{"index": 7853, "name": "KEEBLER, ANIMALS, Crackers", "healthiness": {"lactating": [-11, -10, -11], "male": [-12, -21, -23, -18, -14, -10, -9, -10, -11], "female": [-12, -21, -23, -20, -16, -14, -12, -13, -15], "pregnant": [-12, -10, -12]}}

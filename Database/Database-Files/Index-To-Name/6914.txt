@@ -1,0 +1,1 @@
+{"index": 6914, "name": "KFC, Popcorn Chicken", "healthiness": {"lactating": [17, 16, 14], "male": [37, 28, 22, 24, 22, 17, 14, 13, 12], "female": [37, 28, 22, 22, 20, 15, 16, 13, 10], "pregnant": [16, 16, 14]}}

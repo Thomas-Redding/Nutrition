@@ -1,0 +1,1 @@
+{"index": 1216, "name": "Soup, chicken, canned, chunky, ready-to-serve", "healthiness": {"lactating": [22, 22, 19], "male": [44, 32, 26, 27, 26, 23, 20, 19, 18], "female": [44, 32, 26, 25, 24, 22, 22, 19, 16], "pregnant": [22, 22, 20]}}

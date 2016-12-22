@@ -1,0 +1,1 @@
+{"index": 7018, "name": "MORNINGSTAR FARMS Spicy Black Bean Burger, frozen, unprepared", "healthiness": {"lactating": [-8, -7, -8], "male": [-9, -17, -18, -14, -11, -8, -6, -7, -8], "female": [-9, -17, -18, -16, -13, -11, -9, -11, -12], "pregnant": [-10, -8, -9]}}

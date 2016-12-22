@@ -1,0 +1,1 @@
+{"index": 8229, "name": "Ginger root, pickled, canned, with artificial sweetener", "healthiness": {"lactating": [5, 7, 5], "male": [9, 3, 6, 6, 6, 8, 9, 8, 6], "female": [9, 3, 6, 4, 4, 4, 6, 4, 3], "pregnant": [4, 6, 5]}}

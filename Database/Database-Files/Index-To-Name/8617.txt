@@ -1,0 +1,1 @@
+{"index": 8617, "name": "Snacks, granola bar, with coconut, chocolate coated", "healthiness": {"lactating": [-11, -10, -11], "male": [-7, -18, -21, -16, -13, -10, -9, -9, -11], "female": [-7, -18, -21, -18, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

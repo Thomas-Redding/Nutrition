@@ -1,0 +1,1 @@
+{"index": 1678, "name": "Salami, cooked, turkey", "healthiness": {"lactating": [32, 33, 32], "male": [50, 41, 38, 39, 36, 35, 36, 35, 33], "female": [50, 41, 38, 37, 34, 33, 35, 33, 30], "pregnant": [32, 34, 32]}}

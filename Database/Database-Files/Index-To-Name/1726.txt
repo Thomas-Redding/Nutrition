@@ -1,0 +1,1 @@
+{"index": 1726, "name": "Sausage, chicken, beef, pork, skinless, smoked", "healthiness": {"lactating": [25, 24, 21], "male": [40, 29, 25, 27, 28, 25, 22, 21, 20], "female": [40, 29, 25, 26, 26, 23, 23, 20, 18], "pregnant": [23, 23, 20]}}

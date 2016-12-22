@@ -1,0 +1,1 @@
+{"index": 8198, "name": "Bread, multi-grain (includes whole-grain)", "healthiness": {"lactating": [13, 13, 11], "male": [40, 34, 29, 28, 20, 14, 13, 12, 11], "female": [40, 35, 29, 26, 18, 12, 13, 11, 8], "pregnant": [12, 13, 11]}}

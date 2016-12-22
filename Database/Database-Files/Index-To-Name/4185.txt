@@ -1,0 +1,1 @@
+{"index": 4185, "name": "Beverages, V8 SPLASH Smoothies, Tropical Colada", "healthiness": {"lactating": [-5, -4, -5], "male": [-11, -15, -15, -11, -7, -4, -3, -3, -5], "female": [-11, -15, -15, -13, -9, -7, -5, -7, -9], "pregnant": [-5, -4, -5]}}

@@ -1,0 +1,1 @@
+{"index": 4639, "name": "Mollusks, clam, mixed species, canned, liquid", "healthiness": {"lactating": [45, 46, 45], "male": [33, 33, 33, 38, 43, 48, 48, 47, 45], "female": [33, 33, 33, 36, 41, 44, 45, 44, 42], "pregnant": [46, 47, 45]}}

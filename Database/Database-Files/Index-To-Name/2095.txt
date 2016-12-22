@@ -1,0 +1,1 @@
+{"index": 2095, "name": "Cereals, QUAKER, Instant Oatmeal, Cinnamon Swirl, high fiber", "healthiness": {"lactating": [1, 2, 1], "male": [-1, -4, -2, 0, 2, 2, 4, 4, 2], "female": [-1, -4, -2, -2, 0, 0, 2, 0, 0], "pregnant": [-2, 0, -1]}}

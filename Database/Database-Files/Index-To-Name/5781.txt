@@ -1,0 +1,1 @@
+{"index": 5781, "name": "Muffins, corn, commercially prepared", "healthiness": {"lactating": [3, 3, 1], "male": [38, 25, 18, 15, 7, 3, 3, 2, 1], "female": [39, 26, 18, 13, 5, 1, 2, 0, -2], "pregnant": [2, 3, 1]}}

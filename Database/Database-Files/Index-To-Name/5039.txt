@@ -1,0 +1,1 @@
+{"index": 5039, "name": "WORTHINGTON Vegetarian Burger, canned, unprepared", "healthiness": {"lactating": [0, 1, 0], "male": [-4, -6, -5, -2, 0, 1, 3, 2, 1], "female": [-4, -6, -5, -4, -3, -2, 0, -2, -2], "pregnant": [-3, -1, -2]}}

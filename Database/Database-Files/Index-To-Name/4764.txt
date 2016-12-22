@@ -1,0 +1,1 @@
+{"index": 4764, "name": "Beans, great northern, mature seeds, canned", "healthiness": {"lactating": [25, 25, 22], "male": [42, 35, 32, 32, 28, 25, 23, 22, 21], "female": [42, 35, 32, 30, 27, 24, 25, 22, 20], "pregnant": [24, 25, 22]}}

@@ -1,0 +1,1 @@
+{"index": 8655, "name": "Beverage, milkshake mix, dry, not chocolate", "healthiness": {"lactating": [3, 4, 3], "male": [11, 2, 3, 5, 5, 5, 7, 6, 5], "female": [11, 2, 3, 3, 3, 1, 4, 2, 2], "pregnant": [1, 4, 3]}}

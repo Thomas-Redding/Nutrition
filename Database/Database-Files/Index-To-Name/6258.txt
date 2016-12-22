@@ -1,0 +1,1 @@
+{"index": 6258, "name": "Frostings, white, fluffy, dry mix", "healthiness": {"lactating": [-10, -9, -11], "male": [-9, -15, -15, -12, -12, -9, -9, -10, -11], "female": [-8, -14, -14, -14, -14, -13, -11, -13, -15], "pregnant": [-10, -9, -11]}}

@@ -1,0 +1,1 @@
+{"index": 8116, "name": "Crackers, sandwich-type, peanut butter filled, reduced fat", "healthiness": {"lactating": [-10, -9, -10], "male": [-2, -13, -18, -14, -11, -8, -7, -8, -9], "female": [-2, -13, -18, -16, -14, -12, -10, -12, -13], "pregnant": [-10, -9, -10]}}

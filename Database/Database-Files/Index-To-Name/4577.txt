@@ -1,0 +1,1 @@
+{"index": 4577, "name": "Fish, shark, mixed species, cooked, batter-dipped and fried", "healthiness": {"lactating": [25, 26, 24], "male": [37, 27, 23, 26, 26, 27, 27, 25, 24], "female": [37, 27, 23, 24, 24, 24, 26, 24, 21], "pregnant": [25, 26, 25]}}

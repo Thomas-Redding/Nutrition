@@ -1,0 +1,1 @@
+{"index": 330, "name": "Babyfood, snack, GERBER GRADUATE FRUIT  STRIPS, Real Fruit Bars", "healthiness": {"lactating": [-7, -6, -7], "male": [-3, -10, -17, -12, -9, -5, -5, -5, -7], "female": [-3, -10, -17, -14, -11, -8, -7, -9, -11], "pregnant": [-7, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 7031, "name": "Pizza, meat topping, thick crust, frozen, cooked", "healthiness": {"lactating": [-6, -4, -6], "male": [15, 2, -7, -6, -6, -4, -3, -3, -5], "female": [15, 2, -7, -8, -8, -7, -5, -7, -8], "pregnant": [-6, -4, -5]}}

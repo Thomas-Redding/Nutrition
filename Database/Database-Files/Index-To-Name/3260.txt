@@ -1,0 +1,1 @@
+{"index": 3260, "name": "Waxgourd, (chinese preserving melon), cooked, boiled, drained, without salt", "healthiness": {"lactating": [18, 19, 18], "male": [24, 23, 26, 27, 22, 19, 20, 20, 18], "female": [25, 23, 26, 25, 21, 18, 20, 18, 17], "pregnant": [16, 18, 17]}}

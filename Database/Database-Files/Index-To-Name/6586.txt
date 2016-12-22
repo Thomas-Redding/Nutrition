@@ -1,0 +1,1 @@
+{"index": 6586, "name": "Quinoa, cooked", "healthiness": {"lactating": [13, 14, 11], "male": [35, 29, 28, 31, 21, 13, 13, 11, 10], "female": [35, 29, 28, 28, 20, 13, 14, 11, 9], "pregnant": [13, 14, 12]}}

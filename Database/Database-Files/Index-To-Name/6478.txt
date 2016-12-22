@@ -1,0 +1,1 @@
+{"index": 6478, "name": "Buckwheat", "healthiness": {"lactating": [16, 16, 14], "male": [37, 31, 30, 30, 24, 17, 15, 14, 13], "female": [37, 31, 30, 28, 22, 16, 17, 14, 12], "pregnant": [16, 17, 15]}}

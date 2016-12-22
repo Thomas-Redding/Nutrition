@@ -1,0 +1,1 @@
+{"index": 6355, "name": "Snacks, granola bars, soft, uncoated, chocolate chip, graham and marshmallow", "healthiness": {"lactating": [-2, -1, -3], "male": [21, 11, 8, 7, 0, -1, -1, -2, -3], "female": [21, 12, 8, 4, -2, -3, -2, -4, -6], "pregnant": [-2, -1, -3]}}

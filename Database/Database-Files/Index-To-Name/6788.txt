@@ -1,0 +1,1 @@
+{"index": 6788, "name": "TACO BELL, Soft Taco with steak", "healthiness": {"lactating": [20, 20, 17], "male": [46, 34, 28, 28, 26, 20, 17, 16, 15], "female": [46, 34, 28, 26, 24, 19, 19, 16, 14], "pregnant": [19, 20, 17]}}

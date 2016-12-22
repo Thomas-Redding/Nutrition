@@ -1,0 +1,1 @@
+{"index": 2018, "name": "Cereals ready-to-eat, GENERAL MILLS, 25% Less Sugar CINNAMON TOAST CRUNCH", "healthiness": {"lactating": [12, 13, 12], "male": [18, 14, 14, 16, 15, 14, 16, 15, 12], "female": [18, 14, 14, 14, 13, 12, 15, 13, 11], "pregnant": [10, 12, 11]}}

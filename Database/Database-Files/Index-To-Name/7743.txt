@@ -1,0 +1,1 @@
+{"index": 7743, "name": "Snacks, granola bar, GENERAL MILLS NATURE VALLEY, SWEET&SALTY NUT, peanut", "healthiness": {"lactating": [2, 2, 0], "male": [39, 27, 18, 15, 6, 3, 2, 1, 0], "female": [40, 28, 19, 13, 4, 1, 2, 0, -2], "pregnant": [2, 3, 1]}}

@@ -1,0 +1,1 @@
+{"index": 4412, "name": "Beverages, LIPTON BRISK, tea, black, ready-to-drink, lemon", "healthiness": {"lactating": [-11, -10, -11], "male": [-21, -22, -24, -18, -14, -10, -9, -10, -11], "female": [-21, -22, -24, -20, -16, -13, -11, -13, -15], "pregnant": [-11, -9, -11]}}

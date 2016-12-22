@@ -1,0 +1,1 @@
+{"index": 3761, "name": "Beef, rib, shortribs, separable lean and fat, choice, cooked, braised", "healthiness": {"lactating": [12, 12, 10], "male": [35, 20, 16, 19, 19, 13, 10, 9, 8], "female": [35, 20, 16, 17, 17, 11, 12, 9, 5], "pregnant": [12, 12, 10]}}

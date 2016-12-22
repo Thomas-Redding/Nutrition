@@ -1,0 +1,1 @@
+{"index": 4164, "name": "Beverages, KELLOGG'S, SPECIAL K Protein Shake", "healthiness": {"lactating": [21, 22, 21], "male": [26, 23, 25, 26, 25, 24, 26, 25, 21], "female": [26, 23, 25, 24, 23, 22, 25, 24, 20], "pregnant": [21, 24, 23]}}

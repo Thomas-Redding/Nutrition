@@ -1,0 +1,1 @@
+{"index": 2772, "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, with added solution, raw", "healthiness": {"lactating": [39, 41, 39], "male": [46, 38, 38, 42, 43, 43, 45, 44, 42], "female": [46, 38, 38, 41, 41, 41, 44, 42, 40], "pregnant": [38, 41, 40]}}

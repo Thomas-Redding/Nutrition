@@ -1,0 +1,1 @@
+{"index": 5022, "name": "LOMA LINDA Swiss Stake with Gravy, canned, unprepared", "healthiness": {"lactating": [7, 8, 7], "male": [0, -4, -3, 1, 4, 7, 9, 9, 7], "female": [0, -4, -3, -1, 2, 4, 6, 5, 4], "pregnant": [5, 7, 6]}}

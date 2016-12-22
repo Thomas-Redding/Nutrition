@@ -1,0 +1,1 @@
+{"index": 94, "name": "Milk, goat, fluid, with added vitamin D", "healthiness": {"lactating": [25, 25, 22], "male": [50, 37, 33, 33, 30, 25, 23, 22, 19], "female": [50, 37, 33, 31, 28, 24, 26, 22, 17], "pregnant": [25, 26, 23]}}

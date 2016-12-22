@@ -1,0 +1,1 @@
+{"index": 4980, "name": "Broadbeans (fava beans), mature seeds, cooked, boiled, with salt", "healthiness": {"lactating": [24, 24, 21], "male": [40, 33, 30, 30, 28, 24, 22, 21, 20], "female": [40, 33, 30, 28, 26, 23, 24, 21, 19], "pregnant": [23, 24, 21]}}

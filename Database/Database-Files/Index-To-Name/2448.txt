@@ -1,0 +1,1 @@
+{"index": 2448, "name": "Naranjilla (lulo) pulp, frozen, unsweetened", "healthiness": {"lactating": [10, 11, 10], "male": [19, 12, 15, 17, 15, 14, 15, 14, 13], "female": [19, 12, 15, 15, 13, 12, 14, 12, 11], "pregnant": [11, 12, 11]}}

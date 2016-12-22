@@ -1,0 +1,1 @@
+{"index": 4295, "name": "Beverages, OCEAN SPRAY, Diet Cran Cherry", "healthiness": {"lactating": [1, 2, 1], "male": [0, -6, -5, -3, 1, 3, 4, 3, 2], "female": [0, -6, -5, -4, -1, 0, 1, 0, -2], "pregnant": [1, 2, 1]}}

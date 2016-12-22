@@ -1,0 +1,1 @@
+{"index": 1662, "name": "Pate, goose liver, smoked, canned", "healthiness": {"lactating": [11, 11, 9], "male": [37, 25, 22, 26, 19, 12, 11, 10, 9], "female": [37, 25, 22, 23, 17, 11, 11, 9, 7], "pregnant": [11, 12, 10]}}

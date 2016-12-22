@@ -1,0 +1,1 @@
+{"index": 5456, "name": "Lamb, New Zealand, imported, breast, separable lean only, cooked, braised", "healthiness": {"lactating": [24, 25, 24], "male": [36, 23, 19, 23, 24, 26, 26, 25, 24], "female": [36, 23, 19, 21, 22, 22, 25, 23, 21], "pregnant": [23, 25, 24]}}

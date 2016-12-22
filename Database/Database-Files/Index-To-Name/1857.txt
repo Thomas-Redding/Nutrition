@@ -1,0 +1,1 @@
+{"index": 1857, "name": "Cereals, WHEATENA, dry", "healthiness": {"lactating": [3, 5, 3], "male": [15, 7, 3, 4, 3, 4, 6, 6, 4], "female": [15, 7, 3, 2, 0, 1, 4, 3, 1], "pregnant": [2, 5, 4]}}

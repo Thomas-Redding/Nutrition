@@ -1,0 +1,1 @@
+{"index": 724, "name": "Fish oil, cod liver", "healthiness": {"lactating": [-7, -6, -7], "male": [-23, -23, -23, -16, -10, -6, -5, -6, -7], "female": [-23, -23, -23, -18, -13, -9, -8, -9, -11], "pregnant": [-7, -6, -7]}}

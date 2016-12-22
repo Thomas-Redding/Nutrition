@@ -1,0 +1,1 @@
+{"index": 8191, "name": "PEPPERIDGE FARM, Light Style Wheat Bread", "healthiness": {"lactating": [-9, -8, -9], "male": [-17, -20, -20, -15, -12, -8, -7, -8, -9], "female": [-17, -20, -20, -17, -14, -12, -10, -12, -13], "pregnant": [-10, -9, -10]}}

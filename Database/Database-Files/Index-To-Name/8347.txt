@@ -1,0 +1,1 @@
+{"index": 8347, "name": "Deer (venison), sitka, raw (Alaska Native)", "healthiness": {"lactating": [-5, -4, -5], "male": [-19, -20, -19, -13, -7, -4, -3, -3, -4], "female": [-19, -20, -19, -15, -9, -8, -7, -8, -8], "pregnant": [-7, -6, -7]}}

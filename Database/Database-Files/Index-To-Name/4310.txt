@@ -1,0 +1,1 @@
+{"index": 4310, "name": "Beverages, Malt liquor beverage", "healthiness": {"lactating": [-10, -9, -10], "male": [0, -13, -18, -14, -12, -9, -8, -8, -10], "female": [0, -13, -18, -16, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

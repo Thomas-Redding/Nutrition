@@ -1,0 +1,1 @@
+{"index": 8572, "name": "Cream substitute, powdered, light", "healthiness": {"lactating": [-14, -12, -14], "male": [-22, -25, -29, -22, -17, -13, -12, -12, -14], "female": [-22, -25, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

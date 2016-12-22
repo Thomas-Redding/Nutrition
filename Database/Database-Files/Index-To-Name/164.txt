@@ -1,0 +1,1 @@
+{"index": 164, "name": "KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product", "healthiness": {"lactating": [-4, -3, -4], "male": [-14, -15, -15, -8, -5, -2, -2, -2, -3], "female": [-14, -15, -15, -10, -8, -5, -3, -5, -7], "pregnant": [-4, -2, -4]}}

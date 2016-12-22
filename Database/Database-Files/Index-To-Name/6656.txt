@@ -1,0 +1,1 @@
+{"index": 6656, "name": "Fast foods, biscuit with egg and steak", "healthiness": {"lactating": [16, 16, 13], "male": [42, 28, 24, 25, 23, 16, 14, 13, 12], "female": [42, 28, 24, 23, 21, 15, 15, 12, 10], "pregnant": [15, 16, 13]}}

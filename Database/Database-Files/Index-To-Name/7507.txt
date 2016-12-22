@@ -1,0 +1,1 @@
+{"index": 7507, "name": "Beef, New Zealand, imported, oyster blade, separable lean only, raw", "healthiness": {"lactating": [29, 31, 29], "male": [40, 31, 26, 29, 29, 31, 33, 32, 31], "female": [40, 31, 26, 27, 27, 28, 30, 29, 27], "pregnant": [28, 30, 29]}}

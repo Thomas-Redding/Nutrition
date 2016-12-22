@@ -1,0 +1,1 @@
+{"index": 6677, "name": "Fast foods, burrito, with beans", "healthiness": {"lactating": [9, 9, 7], "male": [42, 32, 26, 24, 16, 10, 8, 7, 6], "female": [42, 32, 26, 22, 14, 8, 9, 6, 4], "pregnant": [9, 9, 7]}}

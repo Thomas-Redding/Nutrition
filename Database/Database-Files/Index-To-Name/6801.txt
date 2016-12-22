@@ -1,0 +1,1 @@
+{"index": 6801, "name": "PIZZA HUT 12\" Super Supreme Pizza, Hand-Tossed Crust", "healthiness": {"lactating": [16, 16, 14], "male": [48, 37, 27, 27, 23, 17, 14, 13, 12], "female": [48, 37, 27, 25, 22, 15, 16, 13, 10], "pregnant": [15, 16, 14]}}

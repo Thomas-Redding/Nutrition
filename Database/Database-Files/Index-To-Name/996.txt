@@ -1,0 +1,1 @@
+{"index": 996, "name": "Turkey, heart, all classes, cooked, simmered", "healthiness": {"lactating": [44, 46, 44], "male": [41, 38, 36, 42, 44, 46, 47, 46, 44], "female": [41, 38, 36, 40, 42, 43, 46, 44, 42], "pregnant": [41, 44, 42]}}

@@ -1,0 +1,1 @@
+{"index": 2607, "name": "Pork, cured, ham, patties, unheated", "healthiness": {"lactating": [11, 11, 8], "male": [33, 19, 15, 19, 17, 11, 8, 7, 6], "female": [33, 19, 15, 17, 15, 9, 10, 7, 3], "pregnant": [11, 11, 8]}}

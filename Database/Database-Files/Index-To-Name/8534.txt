@@ -1,0 +1,1 @@
+{"index": 8534, "name": "CRACKER BARREL, country fried shrimp platter", "healthiness": {"lactating": [10, 10, 7], "male": [28, 18, 13, 17, 15, 10, 7, 6, 5], "female": [28, 18, 13, 15, 13, 8, 9, 6, 3], "pregnant": [9, 10, 7]}}

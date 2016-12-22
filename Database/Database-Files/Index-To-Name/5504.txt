@@ -1,0 +1,1 @@
+{"index": 5504, "name": "Lamb, New Zealand, imported, loin saddle, separable lean and fat, cooked, fast roasted", "healthiness": {"lactating": [22, 23, 22], "male": [36, 24, 21, 23, 23, 24, 23, 21, 21], "female": [36, 24, 21, 21, 21, 21, 23, 21, 18], "pregnant": [22, 23, 22]}}

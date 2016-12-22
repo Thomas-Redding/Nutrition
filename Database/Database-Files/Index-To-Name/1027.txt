@@ -1,0 +1,1 @@
+{"index": 1027, "name": "Turkey, diced, light and dark meat, seasoned", "healthiness": {"lactating": [30, 32, 30], "male": [41, 32, 30, 33, 31, 32, 34, 34, 32], "female": [41, 32, 30, 31, 29, 29, 32, 30, 29], "pregnant": [29, 31, 30]}}

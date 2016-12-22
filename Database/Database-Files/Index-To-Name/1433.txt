@@ -1,0 +1,1 @@
+{"index": 1433, "name": "CAMPBELL'S CHUNKY Soups, Grilled Chicken & Sausage Gumbo Soup", "healthiness": {"lactating": [-13, -12, -13], "male": [-26, -29, -28, -22, -17, -12, -12, -12, -13], "female": [-26, -29, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -13]}}

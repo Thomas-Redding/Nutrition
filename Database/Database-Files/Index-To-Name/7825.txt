@@ -1,0 +1,1 @@
+{"index": 7825, "name": "KASHI, TLC, Pita Crisps, Sea Salt", "healthiness": {"lactating": [-11, -9, -11], "male": [-13, -24, -23, -18, -14, -10, -9, -10, -11], "female": [-13, -24, -23, -19, -16, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

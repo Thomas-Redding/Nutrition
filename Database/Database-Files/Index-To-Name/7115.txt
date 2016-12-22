@@ -1,0 +1,1 @@
+{"index": 7115, "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8\" fat, select, cooked, grilled", "healthiness": {"lactating": [28, 29, 28], "male": [41, 31, 27, 30, 29, 31, 31, 30, 29], "female": [41, 31, 27, 29, 27, 28, 30, 28, 26], "pregnant": [27, 29, 28]}}

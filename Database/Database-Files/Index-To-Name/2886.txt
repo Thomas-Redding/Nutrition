@@ -1,0 +1,1 @@
+{"index": 2886, "name": "Butterbur, canned", "healthiness": {"lactating": [23, 24, 23], "male": [17, 17, 16, 22, 22, 23, 25, 24, 23], "female": [17, 17, 16, 20, 20, 21, 24, 23, 20], "pregnant": [21, 24, 23]}}

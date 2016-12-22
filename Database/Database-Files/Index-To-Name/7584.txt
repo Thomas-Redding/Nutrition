@@ -1,0 +1,1 @@
+{"index": 7584, "name": "Beef, chuck, clod steak, separable lean only, trimmed to 1/4\" fat, all grades, cooked, braised", "healthiness": {"lactating": [34, 35, 34], "male": [37, 33, 30, 33, 34, 35, 37, 37, 35], "female": [37, 33, 30, 31, 31, 32, 34, 32, 31], "pregnant": [32, 34, 33]}}

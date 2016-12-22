@@ -1,0 +1,1 @@
+{"index": 2996, "name": "Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, without salt", "healthiness": {"lactating": [19, 20, 18], "male": [48, 42, 41, 41, 30, 23, 22, 21, 19], "female": [49, 42, 42, 38, 28, 21, 21, 19, 18], "pregnant": [19, 20, 18]}}

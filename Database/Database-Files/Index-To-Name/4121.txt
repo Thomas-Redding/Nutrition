@@ -1,0 +1,1 @@
+{"index": 4121, "name": "Beef, loin, bottom sirloin butt, tri-tip roast, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted", "healthiness": {"lactating": [33, 35, 33], "male": [45, 35, 30, 34, 36, 37, 38, 38, 36], "female": [45, 35, 30, 32, 34, 34, 37, 35, 33], "pregnant": [33, 35, 34]}}

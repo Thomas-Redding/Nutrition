@@ -1,0 +1,1 @@
+{"index": 7196, "name": "Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled", "healthiness": {"lactating": [32, 33, 32], "male": [46, 36, 29, 32, 33, 34, 35, 34, 33], "female": [46, 36, 29, 30, 31, 31, 33, 31, 29], "pregnant": [31, 33, 32]}}

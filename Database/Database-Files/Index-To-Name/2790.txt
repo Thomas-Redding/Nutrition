@@ -1,0 +1,1 @@
+{"index": 2790, "name": "Pork, ground, 84% lean / 16% fat, raw", "healthiness": {"lactating": [27, 27, 26], "male": [40, 30, 28, 31, 30, 29, 29, 27, 26], "female": [40, 30, 28, 29, 27, 27, 28, 26, 23], "pregnant": [27, 28, 26]}}

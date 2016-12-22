@@ -1,0 +1,1 @@
+{"index": 2025, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CINNABON cereal", "healthiness": {"lactating": [9, 10, 9], "male": [11, 7, 6, 11, 13, 13, 14, 13, 10], "female": [11, 7, 6, 9, 11, 11, 12, 11, 8], "pregnant": [8, 10, 9]}}

@@ -1,0 +1,1 @@
+{"index": 1572, "name": "Soup, vegetable beef, microwavable, ready-to-serve, single brand", "healthiness": {"lactating": [-12, -11, -12], "male": [-28, -28, -25, -19, -15, -11, -11, -11, -12], "female": [-28, -28, -25, -21, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

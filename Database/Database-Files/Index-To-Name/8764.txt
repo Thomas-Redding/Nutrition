@@ -1,0 +1,1 @@
+{"index": 8764, "name": "Popcorn, microwave, low fat and sodium", "healthiness": {"lactating": [-6, -5, -6], "male": [4, -5, -8, -6, -7, -5, -4, -4, -5], "female": [4, -5, -8, -8, -9, -8, -5, -7, -9], "pregnant": [-6, -5, -6]}}

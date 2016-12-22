@@ -1,0 +1,1 @@
+{"index": 2975, "name": "Hyacinth-beans, immature seeds, raw", "healthiness": {"lactating": [27, 28, 25], "male": [49, 42, 43, 41, 36, 28, 27, 26, 26], "female": [49, 42, 43, 39, 35, 28, 30, 27, 26], "pregnant": [27, 29, 27]}}

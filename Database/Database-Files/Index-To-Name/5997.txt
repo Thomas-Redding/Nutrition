@@ -1,0 +1,1 @@
+{"index": 5997, "name": "Crackers, whole-wheat, reduced fat", "healthiness": {"lactating": [8, 8, 6], "male": [36, 29, 25, 22, 13, 8, 7, 6, 5], "female": [37, 30, 25, 19, 12, 7, 8, 6, 4], "pregnant": [7, 8, 6]}}

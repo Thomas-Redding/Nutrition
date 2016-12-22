@@ -1,0 +1,1 @@
+{"index": 997, "name": "Turkey, liver, all classes, raw", "healthiness": {"lactating": [61, 62, 60], "male": [55, 54, 52, 57, 59, 62, 62, 62, 59], "female": [55, 54, 52, 55, 57, 59, 63, 61, 57], "pregnant": [59, 62, 61]}}

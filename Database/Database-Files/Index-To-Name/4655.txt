@@ -1,0 +1,1 @@
+{"index": 4655, "name": "Mollusks, whelk, unspecified, cooked, moist heat", "healthiness": {"lactating": [40, 41, 40], "male": [44, 41, 38, 41, 40, 41, 43, 42, 40], "female": [44, 41, 38, 39, 38, 38, 40, 39, 38], "pregnant": [37, 40, 38]}}

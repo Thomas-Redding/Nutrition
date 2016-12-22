@@ -1,0 +1,1 @@
+{"index": 8221, "name": "Sweet Potato puffs, frozen, unprepared", "healthiness": {"lactating": [-13, -12, -13], "male": [-24, -28, -27, -21, -16, -12, -11, -12, -13], "female": [-24, -28, -27, -23, -19, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

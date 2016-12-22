@@ -1,0 +1,1 @@
+{"index": 1762, "name": "Pork sausage, link/patty, fully cooked, unheated", "healthiness": {"lactating": [6, 6, 4], "male": [38, 23, 15, 18, 12, 6, 5, 3, 2], "female": [38, 23, 15, 16, 10, 4, 5, 2, -1], "pregnant": [6, 6, 4]}}

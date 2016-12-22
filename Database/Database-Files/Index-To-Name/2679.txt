@@ -1,0 +1,1 @@
+{"index": 2679, "name": "USDA Commodity, pork, cured, ham, boneless, cooked, unheated", "healthiness": {"lactating": [3, 4, 3], "male": [18, 10, 8, 10, 7, 5, 7, 7, 5], "female": [18, 10, 8, 8, 5, 3, 6, 4, 3], "pregnant": [2, 5, 4]}}

@@ -1,0 +1,1 @@
+{"index": 6899, "name": "McDONALD'S, Premium Grilled Chicken Club Sandwich", "healthiness": {"lactating": [-10, -9, -10], "male": [-14, -19, -19, -14, -11, -8, -7, -8, -9], "female": [-14, -19, -19, -16, -14, -12, -10, -12, -13], "pregnant": [-10, -9, -10]}}

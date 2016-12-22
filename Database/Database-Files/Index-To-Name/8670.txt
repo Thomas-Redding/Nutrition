@@ -1,0 +1,1 @@
+{"index": 8670, "name": "Cabbage, japanese style, fresh, pickled", "healthiness": {"lactating": [11, 12, 11], "male": [19, 13, 17, 16, 13, 12, 15, 14, 13], "female": [19, 13, 17, 14, 10, 10, 13, 11, 9], "pregnant": [9, 12, 11]}}

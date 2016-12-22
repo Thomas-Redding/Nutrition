@@ -1,0 +1,1 @@
+{"index": 1729, "name": "Beerwurst, pork and beef", "healthiness": {"lactating": [19, 18, 15], "male": [41, 28, 21, 23, 23, 19, 16, 14, 14], "female": [41, 28, 21, 21, 21, 17, 18, 15, 11], "pregnant": [18, 18, 16]}}

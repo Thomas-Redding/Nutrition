@@ -1,0 +1,1 @@
+{"index": 8226, "name": "Potatoes, french fried, steak cut, salt not added in processing, frozen, unprepared", "healthiness": {"lactating": [-12, -11, -12], "male": [-24, -28, -24, -19, -15, -11, -10, -11, -12], "female": [-24, -28, -24, -21, -17, -15, -13, -15, -16], "pregnant": [-13, -11, -13]}}

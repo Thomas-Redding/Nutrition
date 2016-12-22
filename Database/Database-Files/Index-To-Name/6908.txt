@@ -1,0 +1,1 @@
+{"index": 6908, "name": "POPEYES, Coleslaw", "healthiness": {"lactating": [-9, -8, -9], "male": [-2, -13, -13, -9, -9, -7, -7, -8, -9], "female": [-1, -13, -12, -11, -11, -10, -9, -11, -13], "pregnant": [-9, -8, -9]}}

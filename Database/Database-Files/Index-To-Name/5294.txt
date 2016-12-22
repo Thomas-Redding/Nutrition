@@ -1,0 +1,1 @@
+{"index": 5294, "name": "Lamb, variety meats and by-products, kidneys, cooked, braised", "healthiness": {"lactating": [47, 48, 47], "male": [50, 45, 46, 50, 50, 50, 52, 51, 50], "female": [50, 45, 46, 48, 48, 48, 52, 50, 48], "pregnant": [47, 50, 49]}}

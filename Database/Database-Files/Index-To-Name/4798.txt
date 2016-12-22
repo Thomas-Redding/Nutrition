@@ -1,0 +1,1 @@
+{"index": 4798, "name": "Cowpeas, catjang, mature seeds, raw", "healthiness": {"lactating": [31, 31, 29], "male": [37, 34, 33, 36, 35, 31, 30, 28, 28], "female": [37, 34, 33, 34, 33, 30, 31, 28, 27], "pregnant": [28, 30, 28]}}

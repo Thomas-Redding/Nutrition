@@ -1,0 +1,1 @@
+{"index": 7341, "name": "Beef, loin, top sirloin petite roast/filet, boneless, separable lean only, trimmed to 0\" fat, all grades, raw", "healthiness": {"lactating": [39, 41, 39], "male": [41, 38, 34, 37, 39, 41, 43, 43, 41], "female": [41, 38, 34, 36, 36, 38, 40, 39, 38], "pregnant": [37, 40, 39]}}

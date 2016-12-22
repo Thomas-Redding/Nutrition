@@ -1,0 +1,1 @@
+{"index": 6719, "name": "Fast foods, onion rings, breaded and fried", "healthiness": {"lactating": [-9, -8, -9], "male": [0, -14, -17, -13, -10, -7, -7, -8, -9], "female": [0, -14, -17, -15, -13, -11, -9, -11, -13], "pregnant": [-9, -7, -9]}}

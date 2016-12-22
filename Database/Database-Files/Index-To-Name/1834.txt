@@ -1,0 +1,1 @@
+{"index": 1834, "name": "Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, dry", "healthiness": {"lactating": [-4, -2, -4], "male": [7, -3, -7, -5, -4, -2, -1, -2, -3], "female": [7, -3, -7, -7, -7, -5, -3, -4, -7], "pregnant": [-4, -2, -3]}}

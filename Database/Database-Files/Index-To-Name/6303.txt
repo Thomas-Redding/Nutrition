@@ -1,0 +1,1 @@
+{"index": 6303, "name": "Puddings, banana, dry mix, instant, prepared with whole milk", "healthiness": {"lactating": [8, 9, 6], "male": [36, 24, 21, 21, 12, 8, 8, 7, 4], "female": [36, 24, 21, 19, 10, 6, 8, 5, 1], "pregnant": [7, 9, 7]}}

@@ -1,0 +1,1 @@
+{"index": 8783, "name": "Frog legs, raw", "healthiness": {"lactating": [8, 9, 8], "male": [14, 11, 10, 12, 11, 10, 13, 13, 11], "female": [14, 11, 10, 10, 8, 8, 11, 9, 8], "pregnant": [7, 10, 9]}}

@@ -1,0 +1,1 @@
+{"index": 1854, "name": "Cereals, oats, instant, fortified, with raisins and spice, dry", "healthiness": {"lactating": [3, 4, 3], "male": [16, 11, 7, 8, 7, 5, 8, 7, 5], "female": [16, 11, 7, 6, 5, 4, 6, 4, 3], "pregnant": [2, 4, 3]}}

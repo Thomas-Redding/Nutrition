@@ -1,0 +1,1 @@
+{"index": 2537, "name": "Pork, fresh, loin, sirloin (roasts), bone-in, separable lean only, cooked, roasted", "healthiness": {"lactating": [32, 34, 32], "male": [45, 35, 33, 35, 35, 35, 37, 36, 34], "female": [45, 35, 33, 33, 32, 33, 35, 34, 31], "pregnant": [32, 34, 33]}}

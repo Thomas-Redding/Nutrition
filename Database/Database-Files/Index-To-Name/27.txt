@@ -1,0 +1,1 @@
+{"index": 27, "name": "Cheese, mozzarella, part skim milk", "healthiness": {"lactating": [27, 28, 27], "male": [42, 29, 25, 27, 25, 27, 30, 29, 27], "female": [42, 29, 25, 25, 23, 25, 28, 27, 24], "pregnant": [26, 29, 28]}}

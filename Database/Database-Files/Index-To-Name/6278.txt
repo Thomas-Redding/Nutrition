@@ -1,0 +1,1 @@
+{"index": 6278, "name": "Candies, milk chocolate coated coffee beans", "healthiness": {"lactating": [-9, -8, -9], "male": [4, -9, -16, -13, -11, -8, -7, -7, -9], "female": [4, -9, -16, -15, -13, -11, -9, -11, -12], "pregnant": [-9, -8, -9]}}

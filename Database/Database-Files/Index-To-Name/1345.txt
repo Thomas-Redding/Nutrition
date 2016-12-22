@@ -1,0 +1,1 @@
+{"index": 1345, "name": "PREGO Pasta, Organic Mushroom Italian Sauce, ready-to-serve", "healthiness": {"lactating": [-11, -10, -11], "male": [-24, -27, -22, -18, -13, -10, -9, -10, -11], "female": [-24, -27, -22, -19, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

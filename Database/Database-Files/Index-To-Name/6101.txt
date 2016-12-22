@@ -1,0 +1,1 @@
+{"index": 6101, "name": "Candies, ALMOND JOY Candy Bar", "healthiness": {"lactating": [-13, -12, -13], "male": [-23, -28, -28, -22, -17, -12, -11, -12, -13], "female": [-23, -28, -28, -23, -19, -16, -14, -15, -17], "pregnant": [-13, -12, -13]}}

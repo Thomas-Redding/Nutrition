@@ -1,0 +1,1 @@
+{"index": 4886, "name": "Tofu, hard, prepared with nigari", "healthiness": {"lactating": [31, 32, 30], "male": [37, 31, 32, 35, 33, 32, 32, 31, 30], "female": [37, 31, 32, 33, 31, 29, 32, 29, 27], "pregnant": [29, 32, 30]}}

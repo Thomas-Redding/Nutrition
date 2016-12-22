@@ -1,0 +1,1 @@
+{"index": 5296, "name": "Veal, variety meats and by-products, kidneys, cooked, braised", "healthiness": {"lactating": [43, 44, 43], "male": [50, 43, 44, 46, 45, 44, 47, 46, 45], "female": [50, 43, 44, 44, 43, 42, 45, 43, 43], "pregnant": [41, 44, 43]}}

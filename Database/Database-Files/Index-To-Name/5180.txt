@@ -1,0 +1,1 @@
+{"index": 5180, "name": "Lamb, New Zealand, imported, rack - partly frenched, separable lean only, raw", "healthiness": {"lactating": [29, 30, 29], "male": [41, 32, 28, 31, 30, 31, 33, 32, 31], "female": [41, 32, 28, 29, 27, 28, 31, 29, 27], "pregnant": [28, 30, 29]}}

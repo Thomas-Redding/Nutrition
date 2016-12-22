@@ -1,0 +1,1 @@
+{"index": 4275, "name": "Beverages, tea, ready-to-drink, lemon, diet", "healthiness": {"lactating": [-8, -7, -8], "male": [-20, -21, -21, -15, -10, -6, -5, -6, -7], "female": [-20, -21, -21, -17, -12, -9, -8, -9, -12], "pregnant": [-8, -6, -8]}}

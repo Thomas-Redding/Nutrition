@@ -1,0 +1,1 @@
+{"index": 4481, "name": "Beverages, nutritional shake mix, high protein, powder", "healthiness": {"lactating": [47, 48, 47], "male": [37, 37, 37, 42, 46, 49, 50, 49, 47], "female": [37, 37, 37, 40, 44, 46, 48, 47, 44], "pregnant": [47, 49, 48]}}

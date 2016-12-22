@@ -1,0 +1,1 @@
+{"index": 1797, "name": "Cereals ready-to-eat, granola, homemade", "healthiness": {"lactating": [12, 12, 10], "male": [44, 36, 31, 29, 19, 13, 12, 11, 10], "female": [44, 37, 31, 27, 17, 11, 12, 9, 7], "pregnant": [11, 12, 10]}}

@@ -1,0 +1,1 @@
+{"index": 7821, "name": "KELLOGG'S, EGGO, FIBERPLUS Waffles, Chocolate Chip", "healthiness": {"lactating": [5, 6, 5], "male": [10, 7, 8, 11, 8, 6, 9, 8, 7], "female": [10, 7, 8, 9, 6, 5, 7, 5, 5], "pregnant": [3, 6, 4]}}

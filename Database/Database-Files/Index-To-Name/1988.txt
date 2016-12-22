@@ -1,0 +1,1 @@
+{"index": 1988, "name": "Cereals ready-to-eat, USDA Commodity Rice Crisps (includes all commodity brands)", "healthiness": {"lactating": [14, 15, 13], "male": [33, 27, 27, 27, 21, 16, 16, 15, 14], "female": [34, 28, 28, 25, 19, 14, 14, 12, 11], "pregnant": [14, 15, 13]}}

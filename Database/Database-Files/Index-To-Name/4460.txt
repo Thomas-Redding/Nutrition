@@ -1,0 +1,1 @@
+{"index": 4460, "name": "Beverages, Energy drink, AMP, sugar free", "healthiness": {"lactating": [15, 16, 15], "male": [3, 3, 3, 10, 15, 18, 18, 18, 16], "female": [3, 3, 3, 8, 12, 14, 16, 14, 12], "pregnant": [16, 17, 16]}}

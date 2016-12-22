@@ -1,0 +1,1 @@
+{"index": 524, "name": "Infant formula, MEAD JOHNSON, ENFAMIL, low iron, ready-to-feed", "healthiness": {"lactating": [2, 3, 2], "male": [32, 18, 13, 10, 6, 6, 6, 6, 2], "female": [32, 18, 13, 8, 4, 3, 5, 3, 0], "pregnant": [3, 5, 4]}}

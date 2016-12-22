@@ -1,0 +1,1 @@
+{"index": 8532, "name": "Restaurant, Chinese, beef and vegetables", "healthiness": {"lactating": [30, 30, 28], "male": [52, 43, 41, 41, 37, 32, 30, 28, 27], "female": [52, 43, 41, 39, 35, 31, 32, 29, 26], "pregnant": [30, 31, 29]}}

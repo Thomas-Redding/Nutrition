@@ -1,0 +1,1 @@
+{"index": 625, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- feed with ARA and DHA", "healthiness": {"lactating": [4, 6, 4], "male": [29, 16, 14, 12, 8, 7, 8, 8, 4], "female": [29, 16, 14, 10, 6, 4, 6, 4, 2], "pregnant": [4, 6, 5]}}

@@ -1,0 +1,1 @@
+{"index": 8190, "name": "PEPPERIDGE FARM, White Bread", "healthiness": {"lactating": [-10, -9, -10], "male": [-16, -19, -21, -16, -12, -9, -8, -8, -10], "female": [-16, -19, -21, -18, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

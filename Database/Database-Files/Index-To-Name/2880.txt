@@ -1,0 +1,1 @@
+{"index": 2880, "name": "Brussels sprouts, frozen, unprepared", "healthiness": {"lactating": [39, 39, 37], "male": [49, 44, 48, 48, 45, 40, 40, 38, 38], "female": [49, 44, 48, 46, 43, 39, 41, 38, 37], "pregnant": [37, 39, 37]}}

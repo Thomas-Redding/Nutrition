@@ -1,0 +1,1 @@
+{"index": 5501, "name": "Lamb, New Zealand, imported, hind-shank, separable lean and fat, raw", "healthiness": {"lactating": [26, 28, 26], "male": [39, 28, 24, 27, 27, 28, 28, 27, 26], "female": [39, 28, 24, 26, 25, 25, 28, 26, 24], "pregnant": [26, 28, 26]}}

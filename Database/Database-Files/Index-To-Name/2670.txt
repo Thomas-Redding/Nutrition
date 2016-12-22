@@ -1,0 +1,1 @@
+{"index": 2670, "name": "Pork, fresh, loin, tenderloin, separable lean only, cooked, broiled", "healthiness": {"lactating": [33, 34, 33], "male": [42, 34, 34, 38, 35, 35, 37, 36, 34], "female": [42, 34, 34, 36, 33, 32, 35, 33, 32], "pregnant": [32, 34, 33]}}

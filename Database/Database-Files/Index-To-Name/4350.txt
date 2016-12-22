@@ -1,0 +1,1 @@
+{"index": 4350, "name": "Beverages, OVALTINE, chocolate malt powder", "healthiness": {"lactating": [17, 19, 17], "male": [11, 10, 11, 17, 20, 21, 22, 21, 18], "female": [11, 10, 11, 15, 18, 18, 19, 18, 15], "pregnant": [16, 18, 17]}}

@@ -1,0 +1,1 @@
+{"index": 4304, "name": "Beverages, Eggnog-flavor mix, powder, prepared with whole milk", "healthiness": {"lactating": [10, 10, 8], "male": [40, 26, 21, 22, 16, 11, 9, 8, 7], "female": [40, 26, 21, 21, 13, 9, 10, 7, 4], "pregnant": [10, 11, 9]}}

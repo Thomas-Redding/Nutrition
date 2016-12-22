@@ -1,0 +1,1 @@
+{"index": 6936, "name": "POPEYES, Fried Chicken, Mild, Thigh, meat only, skin and breading removed", "healthiness": {"lactating": [30, 31, 29], "male": [45, 36, 33, 36, 33, 33, 31, 30, 29], "female": [45, 36, 33, 34, 31, 31, 33, 30, 27], "pregnant": [30, 32, 29]}}

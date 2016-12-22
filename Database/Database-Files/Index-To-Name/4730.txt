@@ -1,0 +1,1 @@
+{"index": 4730, "name": "Fish, tilapia, raw", "healthiness": {"lactating": [38, 39, 38], "male": [50, 42, 36, 38, 37, 39, 41, 40, 38], "female": [50, 42, 36, 37, 35, 36, 39, 37, 35], "pregnant": [36, 39, 37]}}

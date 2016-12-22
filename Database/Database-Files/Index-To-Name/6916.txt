@@ -1,0 +1,1 @@
+{"index": 6916, "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat only, skin and breading removed", "healthiness": {"lactating": [32, 33, 32], "male": [44, 35, 32, 34, 32, 33, 35, 35, 33], "female": [44, 35, 32, 32, 29, 31, 33, 32, 30], "pregnant": [31, 33, 32]}}

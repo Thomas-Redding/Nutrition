@@ -1,0 +1,1 @@
+{"index": 1094, "name": "Emu, inside drums, cooked, broiled", "healthiness": {"lactating": [48, 50, 48], "male": [45, 41, 40, 46, 47, 50, 52, 52, 50], "female": [45, 41, 40, 44, 45, 47, 50, 48, 47], "pregnant": [46, 49, 48]}}

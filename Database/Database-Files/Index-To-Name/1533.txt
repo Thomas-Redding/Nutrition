@@ -1,0 +1,1 @@
+{"index": 1533, "name": "PACE, Lime & Garlic Chunky Salsa", "healthiness": {"lactating": [-10, -8, -10], "male": [-26, -27, -23, -16, -11, -8, -8, -9, -9], "female": [-26, -27, -23, -18, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

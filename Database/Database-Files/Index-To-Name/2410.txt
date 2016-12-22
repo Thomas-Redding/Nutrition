@@ -1,0 +1,1 @@
+{"index": 2410, "name": "Apricot nectar, canned, with added ascorbic acid", "healthiness": {"lactating": [-6, -5, -6], "male": [3, -10, -11, -7, -5, -3, -2, -3, -4], "female": [3, -10, -11, -9, -8, -6, -4, -6, -7], "pregnant": [-5, -3, -4]}}

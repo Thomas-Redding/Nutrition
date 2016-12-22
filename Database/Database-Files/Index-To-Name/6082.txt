@@ -1,0 +1,1 @@
+{"index": 6082, "name": "Snacks, potato chips, barbecue-flavor", "healthiness": {"lactating": [-8, -7, -8], "male": [8, -6, -12, -8, -7, -6, -5, -6, -7], "female": [8, -6, -12, -10, -9, -8, -7, -9, -11], "pregnant": [-7, -6, -7]}}

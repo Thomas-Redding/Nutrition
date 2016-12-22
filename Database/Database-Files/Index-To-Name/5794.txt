@@ -1,0 +1,1 @@
+{"index": 5794, "name": "Pancakes, buckwheat, dry mix, incomplete", "healthiness": {"lactating": [16, 16, 14], "male": [43, 38, 33, 32, 22, 15, 15, 14, 13], "female": [43, 38, 34, 30, 21, 14, 16, 13, 11], "pregnant": [14, 16, 14]}}

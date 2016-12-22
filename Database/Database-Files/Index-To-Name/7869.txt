@@ -1,0 +1,1 @@
+{"index": 7869, "name": "KEEBLER, CHIPS DELUXE, Soft 'n Chewy Chocolate Chip Cookies", "healthiness": {"lactating": [-13, -12, -13], "male": [-19, -26, -27, -20, -16, -12, -11, -12, -13], "female": [-19, -26, -27, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

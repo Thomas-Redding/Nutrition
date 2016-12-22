@@ -1,0 +1,1 @@
+{"index": 2968, "name": "Ginger root, raw", "healthiness": {"lactating": [4, 4, 3], "male": [27, 19, 19, 18, 9, 6, 6, 5, 4], "female": [28, 20, 20, 15, 7, 4, 5, 3, 1], "pregnant": [4, 5, 3]}}

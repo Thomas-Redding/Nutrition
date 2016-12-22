@@ -1,0 +1,1 @@
+{"index": 3568, "name": "Arugula, raw", "healthiness": {"lactating": [30, 32, 30], "male": [26, 26, 28, 33, 33, 34, 36, 35, 34], "female": [26, 26, 28, 31, 31, 32, 35, 34, 32], "pregnant": [30, 33, 31]}}

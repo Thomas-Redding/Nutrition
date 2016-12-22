@@ -1,0 +1,1 @@
+{"index": 4917, "name": "Soymilk (All flavors), lowfat, with added calcium, vitamins A and D", "healthiness": {"lactating": [-3, -2, -3], "male": [-11, -15, -13, -8, -6, -3, -1, -1, -4], "female": [-11, -15, -13, -10, -9, -6, -3, -5, -7], "pregnant": [-4, -2, -3]}}

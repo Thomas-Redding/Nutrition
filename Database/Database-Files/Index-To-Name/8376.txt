@@ -1,0 +1,1 @@
+{"index": 8376, "name": "Stew, mutton, corn, squash (Navajo)", "healthiness": {"lactating": [30, 30, 28], "male": [48, 41, 34, 34, 32, 30, 28, 27, 26], "female": [48, 41, 34, 32, 30, 29, 30, 27, 25], "pregnant": [29, 30, 27]}}

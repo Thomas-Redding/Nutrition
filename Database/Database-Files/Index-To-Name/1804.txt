@@ -1,0 +1,1 @@
+{"index": 1804, "name": "Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain", "healthiness": {"lactating": [10, 12, 10], "male": [14, 13, 9, 11, 12, 14, 15, 14, 13], "female": [14, 13, 9, 9, 10, 12, 14, 13, 11], "pregnant": [10, 13, 12]}}

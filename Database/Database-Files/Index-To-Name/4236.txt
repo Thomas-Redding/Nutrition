@@ -1,0 +1,1 @@
+{"index": 4236, "name": "Beverages, carbonated, root beer", "healthiness": {"lactating": [-13, -12, -13], "male": [-19, -27, -28, -21, -17, -12, -12, -12, -13], "female": [-19, -27, -28, -23, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -13]}}

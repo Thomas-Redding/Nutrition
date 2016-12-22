@@ -1,0 +1,1 @@
+{"index": 2852, "name": "Beans, shellie, canned, solids and liquids", "healthiness": {"lactating": [13, 15, 13], "male": [21, 18, 20, 21, 17, 16, 16, 16, 15], "female": [21, 18, 20, 19, 15, 13, 15, 13, 12], "pregnant": [12, 14, 13]}}

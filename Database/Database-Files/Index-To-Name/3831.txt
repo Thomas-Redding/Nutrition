@@ -1,0 +1,1 @@
+{"index": 3831, "name": "Beef, brisket, point half, separable lean only, trimmed to 0\" fat, all grades, cooked, braised", "healthiness": {"lactating": [30, 31, 30], "male": [40, 30, 26, 29, 30, 31, 32, 31, 30], "female": [40, 30, 26, 27, 28, 29, 31, 29, 27], "pregnant": [28, 31, 29]}}

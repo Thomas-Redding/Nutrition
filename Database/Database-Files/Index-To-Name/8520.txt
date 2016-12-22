@@ -1,0 +1,1 @@
+{"index": 8520, "name": "Restaurant, Latino, pupusas con queso (pupusas, cheese)", "healthiness": {"lactating": [19, 19, 16], "male": [44, 31, 23, 24, 23, 18, 16, 14, 13], "female": [44, 31, 23, 22, 21, 17, 18, 15, 11], "pregnant": [18, 19, 16]}}

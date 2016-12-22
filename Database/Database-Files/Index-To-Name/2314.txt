@@ -1,0 +1,1 @@
+{"index": 2314, "name": "Peaches, canned, light syrup pack, solids and liquids", "healthiness": {"lactating": [-5, -4, -5], "male": [17, 4, 2, 0, -3, -3, -3, -3, -4], "female": [18, 4, 2, -2, -5, -5, -4, -6, -8], "pregnant": [-4, -3, -5]}}

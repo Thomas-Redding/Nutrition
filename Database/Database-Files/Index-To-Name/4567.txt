@@ -1,0 +1,1 @@
+{"index": 4567, "name": "Fish, salmon, sockeye, cooked, dry heat", "healthiness": {"lactating": [41, 43, 41], "male": [49, 40, 39, 41, 41, 43, 45, 44, 43], "female": [49, 40, 39, 39, 38, 40, 43, 41, 39], "pregnant": [41, 43, 42]}}

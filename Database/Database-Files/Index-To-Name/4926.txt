@@ -1,0 +1,1 @@
+{"index": 4926, "name": "SILK Plus Omega-3 DHA, soymilk", "healthiness": {"lactating": [4, 5, 4], "male": [-1, -6, -5, -1, 2, 5, 6, 6, 3], "female": [-1, -6, -5, -3, -1, 1, 4, 2, -1], "pregnant": [3, 5, 4]}}

@@ -1,0 +1,1 @@
+{"index": 4609, "name": "Fish, whitefish, mixed species, smoked", "healthiness": {"lactating": [36, 37, 36], "male": [47, 37, 36, 39, 39, 39, 41, 41, 39], "female": [47, 37, 36, 37, 36, 37, 39, 37, 35], "pregnant": [36, 38, 37]}}

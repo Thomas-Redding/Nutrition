@@ -1,0 +1,1 @@
+{"index": 258, "name": "Spices, chili powder", "healthiness": {"lactating": [39, 39, 37], "male": [53, 53, 55, 56, 47, 40, 39, 38, 37], "female": [54, 53, 55, 54, 45, 40, 42, 39, 36], "pregnant": [38, 40, 38]}}

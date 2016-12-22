@@ -1,0 +1,1 @@
+{"index": 8681, "name": "Tomato sauce, canned, no salt added", "healthiness": {"lactating": [33, 33, 31], "male": [53, 51, 54, 52, 46, 36, 35, 34, 32], "female": [54, 52, 55, 50, 44, 37, 37, 35, 33], "pregnant": [33, 34, 32]}}

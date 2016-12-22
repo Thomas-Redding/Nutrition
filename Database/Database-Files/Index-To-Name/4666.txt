@@ -1,0 +1,1 @@
+{"index": 4666, "name": "Fish, bluefish, cooked, dry heat", "healthiness": {"lactating": [35, 36, 35], "male": [44, 35, 34, 36, 35, 37, 39, 38, 36], "female": [44, 35, 34, 34, 33, 34, 37, 35, 33], "pregnant": [34, 37, 35]}}

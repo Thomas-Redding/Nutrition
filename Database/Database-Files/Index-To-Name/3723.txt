@@ -1,0 +1,1 @@
+{"index": 3723, "name": "Nuts, almonds, dry roasted, with salt added", "healthiness": {"lactating": [11, 12, 10], "male": [35, 26, 24, 26, 18, 12, 11, 10, 9], "female": [35, 26, 25, 24, 17, 12, 13, 10, 8], "pregnant": [12, 13, 11]}}

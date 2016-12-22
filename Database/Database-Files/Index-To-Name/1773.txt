@@ -1,0 +1,1 @@
+{"index": 1773, "name": "Sausage, pork, turkey, and beef, reduced sodium", "healthiness": {"lactating": [21, 21, 19], "male": [42, 31, 26, 27, 27, 23, 20, 18, 17], "female": [42, 31, 26, 25, 24, 21, 22, 19, 15], "pregnant": [21, 22, 19]}}

@@ -1,0 +1,1 @@
+{"index": 6165, "name": "Candies, MARS SNACKFOOD US, MILKY WAY Bar", "healthiness": {"lactating": [-12, -11, -12], "male": [-8, -18, -23, -18, -14, -11, -10, -10, -12], "female": [-8, -18, -23, -20, -17, -14, -12, -14, -16], "pregnant": [-12, -10, -12]}}

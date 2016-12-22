@@ -1,0 +1,1 @@
+{"index": 7995, "name": "KELLOGG'S, POP-TARTS, Gingerbread Toaster Pastries", "healthiness": {"lactating": [-10, -9, -10], "male": [-9, -17, -18, -14, -11, -8, -7, -8, -9], "female": [-9, -17, -18, -16, -14, -11, -10, -12, -13], "pregnant": [-10, -9, -10]}}

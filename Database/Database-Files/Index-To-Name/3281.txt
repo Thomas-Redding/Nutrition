@@ -1,0 +1,1 @@
+{"index": 3281, "name": "Leeks, (bulb and lower-leaf portion), freeze-dried", "healthiness": {"lactating": [25, 25, 22], "male": [41, 38, 37, 39, 33, 26, 25, 23, 22], "female": [41, 38, 37, 37, 31, 24, 25, 22, 20], "pregnant": [23, 24, 22]}}

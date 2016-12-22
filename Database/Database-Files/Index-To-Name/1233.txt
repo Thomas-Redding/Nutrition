@@ -1,0 +1,1 @@
+{"index": 1233, "name": "Soup, minestrone, canned, chunky, ready-to-serve", "healthiness": {"lactating": [4, 5, 4], "male": [24, 15, 15, 13, 9, 7, 8, 8, 6], "female": [24, 15, 15, 11, 7, 6, 8, 6, 5], "pregnant": [5, 7, 6]}}

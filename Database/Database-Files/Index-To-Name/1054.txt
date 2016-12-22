@@ -1,0 +1,1 @@
+{"index": 1054, "name": "Chicken patty, frozen, cooked", "healthiness": {"lactating": [14, 14, 12], "male": [40, 29, 20, 22, 21, 15, 12, 11, 10], "female": [40, 29, 20, 20, 18, 13, 14, 11, 8], "pregnant": [14, 15, 12]}}

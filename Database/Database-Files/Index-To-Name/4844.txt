@@ -1,0 +1,1 @@
+{"index": 4844, "name": "Soybeans, mature seeds, raw", "healthiness": {"lactating": [35, 36, 34], "male": [43, 40, 39, 40, 38, 36, 35, 34, 33], "female": [43, 40, 39, 38, 36, 34, 36, 34, 32], "pregnant": [33, 35, 33]}}

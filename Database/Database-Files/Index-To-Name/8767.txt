@@ -1,0 +1,1 @@
+{"index": 8767, "name": "Breakfast bar, corn flake crust with fruit", "healthiness": {"lactating": [-1, 0, -1], "male": [7, 0, -2, 0, 3, 2, 3, 3, 1], "female": [7, 0, -2, -2, 0, 0, 2, 0, -2], "pregnant": [-1, 0, -1]}}

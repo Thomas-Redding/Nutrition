@@ -1,0 +1,1 @@
+{"index": 3068, "name": "Peppers, sweet, green, raw", "healthiness": {"lactating": [34, 34, 32], "male": [51, 47, 50, 49, 41, 34, 34, 32, 32], "female": [52, 47, 50, 47, 40, 34, 36, 33, 31], "pregnant": [34, 35, 33]}}

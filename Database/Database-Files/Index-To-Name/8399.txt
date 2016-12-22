@@ -1,0 +1,1 @@
+{"index": 8399, "name": "Fish, salmon, chum, dried (Alaska Native)", "healthiness": {"lactating": [4, 6, 4], "male": [16, 6, 4, 6, 4, 6, 8, 7, 6], "female": [16, 6, 4, 4, 2, 3, 6, 4, 2], "pregnant": [3, 6, 4]}}

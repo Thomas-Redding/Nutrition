@@ -1,0 +1,1 @@
+{"index": 2180, "name": "Cherries, sour, red, canned, extra heavy syrup pack, solids and liquids", "healthiness": {"lactating": [-10, -9, -10], "male": [-9, -19, -19, -15, -12, -9, -8, -8, -10], "female": [-9, -19, -19, -17, -14, -12, -11, -12, -14], "pregnant": [-11, -10, -11]}}

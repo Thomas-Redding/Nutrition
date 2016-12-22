@@ -1,0 +1,1 @@
+{"index": 7146, "name": "Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled", "healthiness": {"lactating": [38, 39, 38], "male": [44, 36, 34, 37, 38, 39, 42, 41, 39], "female": [44, 36, 34, 35, 36, 36, 38, 37, 36], "pregnant": [36, 38, 37]}}

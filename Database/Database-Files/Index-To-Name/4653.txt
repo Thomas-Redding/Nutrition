@@ -1,0 +1,1 @@
+{"index": 4653, "name": "Mollusks, squid, mixed species, cooked, fried", "healthiness": {"lactating": [34, 35, 33], "male": [44, 35, 34, 35, 34, 35, 35, 34, 33], "female": [44, 35, 34, 33, 32, 33, 35, 33, 31], "pregnant": [33, 35, 34]}}

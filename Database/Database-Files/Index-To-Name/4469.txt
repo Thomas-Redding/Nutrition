@@ -1,0 +1,1 @@
+{"index": 4469, "name": "Water, with corn syrup and/or sugar and low calorie sweetener, fruit flavored", "healthiness": {"lactating": [8, 9, 8], "male": [6, 4, 2, 7, 9, 11, 12, 11, 9], "female": [6, 4, 2, 5, 7, 9, 11, 9, 7], "pregnant": [8, 10, 9]}}

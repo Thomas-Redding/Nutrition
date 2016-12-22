@@ -1,0 +1,1 @@
+{"index": 2584, "name": "Pork, fresh, variety meats and by-products, liver, cooked, braised", "healthiness": {"lactating": [55, 56, 55], "male": [51, 48, 47, 53, 55, 57, 59, 58, 56], "female": [51, 48, 47, 51, 53, 55, 57, 55, 53], "pregnant": [55, 57, 56]}}

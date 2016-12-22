@@ -1,0 +1,1 @@
+{"index": 989, "name": "Turkey, skin from whole, (light and dark), raw", "healthiness": {"lactating": [-1, -1, -3], "male": [28, 13, 10, 10, 2, 0, -1, -2, -4], "female": [28, 14, 11, 8, -1, -3, -2, -4, -7], "pregnant": [-2, -1, -3]}}

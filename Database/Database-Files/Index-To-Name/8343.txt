@@ -1,0 +1,1 @@
+{"index": 8343, "name": "Sourdock, young leaves (Alaska Native)", "healthiness": {"lactating": [-1, 1, -1], "male": [-11, -13, -13, -7, -4, -1, 2, 1, 0], "female": [-11, -13, -13, -9, -6, -5, -2, -4, -4], "pregnant": [-3, -1, -2]}}

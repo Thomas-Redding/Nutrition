@@ -1,0 +1,1 @@
+{"index": 5082, "name": "MORNINGSTAR FARMS Grillers Chik'n Veggie Patties, frozen, unprepared", "healthiness": {"lactating": [-7, -6, -7], "male": [-18, -21, -19, -15, -11, -8, -6, -6, -7], "female": [-18, -21, -19, -17, -13, -11, -9, -10, -11], "pregnant": [-10, -7, -9]}}

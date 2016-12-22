@@ -1,0 +1,1 @@
+{"index": 2690, "name": "Pork, cured, bacon, cooked, baked", "healthiness": {"lactating": [20, 19, 17], "male": [36, 24, 20, 23, 23, 20, 17, 16, 15], "female": [36, 24, 20, 21, 20, 18, 19, 16, 13], "pregnant": [19, 20, 17]}}

@@ -1,0 +1,1 @@
+{"index": 1272, "name": "Gravy, au jus, dry", "healthiness": {"lactating": [-5, -4, -5], "male": [6, -4, -10, -8, -6, -4, -3, -3, -5], "female": [6, -4, -10, -10, -9, -8, -6, -8, -8], "pregnant": [-8, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 2454, "name": "Apples, raw, gala, with skin", "healthiness": {"lactating": [-9, -8, -9], "male": [-2, -14, -18, -14, -11, -8, -8, -8, -9], "female": [-2, -14, -18, -16, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

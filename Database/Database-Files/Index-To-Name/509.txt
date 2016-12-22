@@ -1,0 +1,1 @@
+{"index": 509, "name": "Babyfood, cereal, mixed, prepared with whole milk", "healthiness": {"lactating": [30, 30, 28], "male": [54, 45, 42, 42, 36, 31, 29, 28, 25], "female": [54, 45, 42, 40, 34, 29, 31, 28, 23], "pregnant": [30, 31, 29]}}

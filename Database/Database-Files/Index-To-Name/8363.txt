@@ -1,0 +1,1 @@
+{"index": 8363, "name": "Chilchen (Red Berry Beverage) (Navajo)", "healthiness": {"lactating": [-7, -6, -7], "male": [-1, -9, -14, -11, -9, -6, -5, -5, -7], "female": [-1, -9, -14, -13, -11, -10, -8, -10, -10], "pregnant": [-9, -7, -9]}}

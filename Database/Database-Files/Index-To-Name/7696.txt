@@ -1,0 +1,1 @@
+{"index": 7696, "name": "Beef, brisket, flat half, separable lean and fat, trimmed to 1/8\" fat, select, raw", "healthiness": {"lactating": [21, 21, 18], "male": [40, 29, 24, 26, 25, 22, 19, 17, 16], "female": [40, 29, 24, 24, 23, 20, 21, 18, 14], "pregnant": [20, 21, 18]}}

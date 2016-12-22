@@ -1,0 +1,1 @@
+{"index": 3691, "name": "Nuts, walnuts, dry roasted, with salt added", "healthiness": {"lactating": [-8, -7, -8], "male": [-1, -10, -14, -11, -8, -6, -5, -6, -7], "female": [-1, -10, -14, -12, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -8]}}

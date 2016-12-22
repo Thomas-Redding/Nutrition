@@ -1,0 +1,1 @@
+{"index": 1355, "name": "Soup, cream of mushroom, canned, prepared with equal volume low fat (2%) milk", "healthiness": {"lactating": [16, 16, 13], "male": [49, 35, 31, 31, 24, 17, 14, 13, 11], "female": [49, 35, 31, 29, 22, 15, 16, 13, 9], "pregnant": [16, 17, 14]}}

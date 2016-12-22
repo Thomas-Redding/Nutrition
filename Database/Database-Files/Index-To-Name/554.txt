@@ -1,0 +1,1 @@
+{"index": 554, "name": "Infant formula, MEAD JOHNSON, ENFAMIL, ENFACARE LIPIL, with iron, powder, with ARA and DHA", "healthiness": {"lactating": [5, 7, 5], "male": [26, 20, 17, 15, 11, 9, 10, 9, 6], "female": [26, 20, 17, 13, 8, 6, 8, 6, 4], "pregnant": [6, 7, 6]}}

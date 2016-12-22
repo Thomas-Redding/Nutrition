@@ -1,0 +1,1 @@
+{"index": 149, "name": "Egg, whole, raw, frozen, pasteurized", "healthiness": {"lactating": [37, 38, 37], "male": [49, 40, 37, 40, 39, 40, 40, 39, 36], "female": [49, 40, 37, 38, 37, 37, 40, 38, 34], "pregnant": [37, 39, 38]}}

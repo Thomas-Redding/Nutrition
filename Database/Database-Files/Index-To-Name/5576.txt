@@ -1,0 +1,1 @@
+{"index": 5576, "name": "Biscuits, mixed grain, refrigerated dough", "healthiness": {"lactating": [1, 2, 0], "male": [25, 16, 11, 11, 4, 2, 1, 0, -1], "female": [26, 17, 12, 9, 3, -1, 1, -2, -4], "pregnant": [0, 1, 0]}}

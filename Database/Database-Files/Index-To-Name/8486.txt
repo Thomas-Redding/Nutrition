@@ -1,0 +1,1 @@
+{"index": 8486, "name": "Restaurant, family style, coleslaw", "healthiness": {"lactating": [-6, -5, -6], "male": [0, -11, -12, -7, -6, -4, -3, -4, -5], "female": [0, -11, -12, -9, -8, -7, -5, -7, -9], "pregnant": [-5, -4, -5]}}

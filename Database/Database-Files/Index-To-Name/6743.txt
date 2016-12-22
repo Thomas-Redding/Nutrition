@@ -1,0 +1,1 @@
+{"index": 6743, "name": "SUBWAY, B.L.T. sub on white bread with bacon, lettuce and tomato", "healthiness": {"lactating": [-3, -2, -3], "male": [13, 3, -3, -2, -3, -2, 0, -1, -2], "female": [13, 3, -3, -4, -5, -4, -2, -4, -5], "pregnant": [-4, -2, -3]}}

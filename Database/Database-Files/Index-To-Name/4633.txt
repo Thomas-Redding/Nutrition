@@ -1,0 +1,1 @@
+{"index": 4633, "name": "Mollusks, abalone, mixed species, raw", "healthiness": {"lactating": [44, 45, 44], "male": [53, 48, 46, 49, 47, 46, 47, 47, 45], "female": [53, 48, 46, 47, 45, 43, 45, 43, 43], "pregnant": [42, 44, 43]}}

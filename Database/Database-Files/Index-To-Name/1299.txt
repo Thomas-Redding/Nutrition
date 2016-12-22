@@ -1,0 +1,1 @@
+{"index": 1299, "name": "Sauce, homemade, white, medium", "healthiness": {"lactating": [6, 6, 4], "male": [43, 28, 21, 21, 11, 7, 6, 5, 3], "female": [43, 28, 21, 19, 9, 5, 6, 3, 0], "pregnant": [6, 7, 5]}}

@@ -1,0 +1,1 @@
+{"index": 3538, "name": "Tree fern, cooked, with salt", "healthiness": {"lactating": [13, 14, 13], "male": [9, 1, 5, 9, 12, 15, 16, 15, 14], "female": [9, 1, 5, 7, 10, 12, 14, 13, 10], "pregnant": [13, 15, 13]}}

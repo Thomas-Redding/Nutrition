@@ -1,0 +1,1 @@
+{"index": 4612, "name": "Fish, wolffish, Atlantic, raw", "healthiness": {"lactating": [35, 36, 35], "male": [45, 36, 35, 37, 35, 37, 39, 38, 36], "female": [45, 36, 35, 35, 33, 34, 38, 36, 33], "pregnant": [34, 37, 36]}}

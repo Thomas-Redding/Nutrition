@@ -1,0 +1,1 @@
+{"index": 8279, "name": "Infant formula, GERBER, GOOD START 2 SOY, with iron, powder", "healthiness": {"lactating": [7, 8, 7], "male": [33, 21, 18, 14, 11, 10, 11, 11, 7], "female": [33, 21, 18, 12, 9, 7, 9, 7, 5], "pregnant": [7, 9, 7]}}

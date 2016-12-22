@@ -1,0 +1,1 @@
+{"index": 2345, "name": "Pineapple, frozen, chunks, sweetened", "healthiness": {"lactating": [-4, -3, -4], "male": [8, 0, -3, -1, -3, -2, -2, -2, -3], "female": [8, 0, -3, -3, -5, -5, -3, -5, -7], "pregnant": [-3, -2, -4]}}

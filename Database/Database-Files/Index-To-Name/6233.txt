@@ -1,0 +1,1 @@
+{"index": 6233, "name": "Candies, praline, prepared-from-recipe", "healthiness": {"lactating": [-10, -8, -10], "male": [-5, -15, -18, -14, -11, -8, -7, -8, -9], "female": [-5, -15, -18, -16, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

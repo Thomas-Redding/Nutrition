@@ -1,0 +1,1 @@
+{"index": 1622, "name": "Sausage, Berliner, pork, beef", "healthiness": {"lactating": [18, 18, 15], "male": [43, 31, 24, 25, 24, 18, 16, 14, 13], "female": [43, 31, 24, 23, 22, 17, 17, 15, 11], "pregnant": [18, 18, 15]}}

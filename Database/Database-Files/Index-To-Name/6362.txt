@@ -1,0 +1,1 @@
+{"index": 6362, "name": "Snacks, potato chips, made from dried potatoes, cheese-flavor", "healthiness": {"lactating": [-5, -4, -6], "male": [16, 3, 1, 1, -4, -4, -4, -5, -7], "female": [17, 4, 2, -2, -6, -7, -6, -8, -10], "pregnant": [-6, -4, -6]}}

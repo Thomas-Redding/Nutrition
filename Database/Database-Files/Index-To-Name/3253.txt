@@ -1,0 +1,1 @@
+{"index": 3253, "name": "Vegetables, mixed, frozen, cooked, boiled, drained, without salt", "healthiness": {"lactating": [26, 26, 23], "male": [47, 42, 44, 43, 35, 27, 25, 24, 23], "female": [47, 42, 44, 41, 34, 27, 28, 25, 23], "pregnant": [26, 27, 25]}}

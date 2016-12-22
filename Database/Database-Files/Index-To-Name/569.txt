@@ -1,0 +1,1 @@
+{"index": 569, "name": "Infant formula, MEAD JOHNSON, ENFAMIL, LACTOFREE, ready-to-feed", "healthiness": {"lactating": [3, 4, 3], "male": [25, 16, 12, 9, 7, 6, 7, 6, 3], "female": [25, 16, 12, 7, 4, 3, 4, 3, 0], "pregnant": [3, 4, 3]}}

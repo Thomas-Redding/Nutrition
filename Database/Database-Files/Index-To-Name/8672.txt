@@ -1,0 +1,1 @@
+{"index": 8672, "name": "Eggplant, pickled", "healthiness": {"lactating": [-1, 0, -1], "male": [5, -3, -3, -2, 0, 1, 2, 2, 0], "female": [5, -3, -3, -4, -2, -1, 0, -2, -2], "pregnant": [-1, 0, -1]}}

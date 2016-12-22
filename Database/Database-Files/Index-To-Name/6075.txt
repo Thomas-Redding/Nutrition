@@ -1,0 +1,1 @@
+{"index": 6075, "name": "Snacks, popcorn, air-popped", "healthiness": {"lactating": [8, 8, 6], "male": [31, 23, 19, 20, 13, 7, 6, 5, 4], "female": [31, 23, 19, 18, 12, 6, 7, 5, 3], "pregnant": [7, 8, 6]}}

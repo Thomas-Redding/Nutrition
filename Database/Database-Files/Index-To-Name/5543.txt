@@ -1,0 +1,1 @@
+{"index": 5543, "name": "Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean only, trimmed to 1/8\" fat, raw", "healthiness": {"lactating": [36, 37, 36], "male": [45, 37, 36, 38, 39, 39, 41, 40, 38], "female": [45, 37, 36, 36, 37, 36, 39, 37, 36], "pregnant": [34, 37, 35]}}

@@ -1,0 +1,1 @@
+{"index": 1086, "name": "Emu, ground, raw", "healthiness": {"lactating": [45, 47, 45], "male": [45, 40, 40, 45, 47, 48, 50, 49, 47], "female": [45, 40, 40, 43, 44, 45, 47, 46, 45], "pregnant": [43, 46, 44]}}

@@ -1,0 +1,1 @@
+{"index": 1660, "name": "Pastrami, turkey", "healthiness": {"lactating": [32, 33, 32], "male": [44, 37, 37, 39, 34, 34, 36, 35, 33], "female": [44, 37, 37, 37, 32, 31, 33, 31, 31], "pregnant": [29, 32, 30]}}

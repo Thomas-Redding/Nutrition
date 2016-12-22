@@ -1,0 +1,1 @@
+{"index": 4409, "name": "Beverages, COCA-COLA, POWERADE, lemon-lime flavored, ready-to-drink", "healthiness": {"lactating": [-4, -3, -4], "male": [-14, -18, -18, -11, -6, -2, -1, -2, -4], "female": [-14, -18, -18, -13, -8, -5, -4, -5, -7], "pregnant": [-5, -3, -5]}}

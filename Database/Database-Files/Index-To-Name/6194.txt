@@ -1,0 +1,1 @@
+{"index": 6194, "name": "Cocoa, dry powder, unsweetened", "healthiness": {"lactating": [41, 41, 39], "male": [44, 40, 37, 41, 42, 41, 40, 39, 38], "female": [44, 40, 37, 39, 39, 39, 41, 39, 36], "pregnant": [39, 40, 39]}}

@@ -1,0 +1,1 @@
+{"index": 4975, "name": "Beans, pinto, mature seeds, canned, drained solids, rinsed in tap water", "healthiness": {"lactating": [17, 17, 15], "male": [26, 20, 17, 20, 21, 17, 16, 14, 13], "female": [26, 20, 17, 18, 19, 15, 16, 13, 11], "pregnant": [16, 17, 15]}}

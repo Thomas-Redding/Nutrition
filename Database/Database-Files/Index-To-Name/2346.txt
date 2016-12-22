@@ -1,0 +1,1 @@
+{"index": 2346, "name": "Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid", "healthiness": {"lactating": [-3, -2, -3], "male": [4, -3, -7, -3, -2, 0, 0, -1, -2], "female": [4, -3, -7, -5, -4, -3, -2, -4, -6], "pregnant": [-3, -2, -3]}}

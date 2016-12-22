@@ -1,0 +1,1 @@
+{"index": 8336, "name": "Fish, salmon, king, chinook, smoked, brined (Alaska Native)", "healthiness": {"lactating": [-11, -9, -11], "male": [-20, -23, -23, -17, -13, -9, -9, -9, -10], "female": [-20, -23, -23, -19, -15, -13, -11, -13, -14], "pregnant": [-12, -10, -12]}}

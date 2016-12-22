@@ -1,0 +1,1 @@
+{"index": 6969, "name": "Fast Foods, grilled chicken filet sandwich, with lettuce, tomato and spread", "healthiness": {"lactating": [-3, -1, -3], "male": [13, 3, -3, -1, -1, 0, 1, 0, -1], "female": [13, 3, -3, -3, -3, -3, -1, -3, -5], "pregnant": [-3, -1, -3]}}

@@ -1,0 +1,1 @@
+{"index": 8602, "name": "Candies, MARS SNACKFOOD US, M&M's Almond Chocolate Candies", "healthiness": {"lactating": [-8, -6, -8], "male": [4, -5, -11, -9, -8, -6, -5, -5, -7], "female": [4, -5, -11, -11, -10, -9, -7, -8, -10], "pregnant": [-7, -6, -7]}}

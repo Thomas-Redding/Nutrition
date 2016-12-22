@@ -1,0 +1,1 @@
+{"index": 4344, "name": "Limeade, frozen concentrate, prepared with water", "healthiness": {"lactating": [-13, -12, -13], "male": [-20, -25, -24, -19, -15, -11, -11, -12, -13], "female": [-20, -25, -24, -21, -17, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

@@ -1,0 +1,1 @@
+{"index": 1420, "name": "CAMPBELL'S Red and White, Tomato Bisque, condensed", "healthiness": {"lactating": [-13, -12, -13], "male": [-23, -27, -25, -20, -16, -12, -11, -12, -13], "female": [-23, -27, -25, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

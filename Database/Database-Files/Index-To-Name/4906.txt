@@ -1,0 +1,1 @@
+{"index": 4906, "name": "Vitasoy USA, Organic Nasoya Extra Firm Tofu", "healthiness": {"lactating": [-11, -10, -11], "male": [-23, -25, -25, -20, -14, -10, -9, -10, -11], "female": [-23, -25, -25, -21, -16, -14, -13, -14, -15], "pregnant": [-12, -11, -12]}}

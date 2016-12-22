@@ -1,0 +1,1 @@
+{"index": 1679, "name": "Salami, dry or hard, pork", "healthiness": {"lactating": [19, 19, 16], "male": [38, 28, 23, 25, 25, 20, 17, 16, 15], "female": [38, 28, 23, 23, 23, 19, 19, 16, 13], "pregnant": [19, 19, 17]}}

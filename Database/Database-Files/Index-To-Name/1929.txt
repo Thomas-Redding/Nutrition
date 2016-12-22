@@ -1,0 +1,1 @@
+{"index": 1929, "name": "Cereals ready-to-eat, MALT-O-MEAL, COLOSSAL CRUNCH", "healthiness": {"lactating": [8, 9, 8], "male": [3, 0, 4, 8, 11, 12, 12, 12, 9], "female": [3, 0, 4, 6, 9, 11, 12, 10, 7], "pregnant": [8, 10, 9]}}

@@ -1,0 +1,1 @@
+{"index": 6944, "name": "Yogurt parfait, lowfat, with fruit and granola", "healthiness": {"lactating": [3, 4, 3], "male": [20, 13, 8, 8, 6, 6, 7, 6, 4], "female": [20, 13, 8, 6, 4, 4, 6, 4, 2], "pregnant": [3, 5, 4]}}

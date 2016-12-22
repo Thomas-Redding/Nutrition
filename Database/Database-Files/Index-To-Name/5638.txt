@@ -1,0 +1,1 @@
+{"index": 5638, "name": "Coffeecake, cinnamon with crumb topping, commercially prepared, enriched", "healthiness": {"lactating": [-3, -2, -4], "male": [19, 7, 4, 5, -1, -2, -3, -3, -5], "female": [20, 8, 5, 2, -3, -5, -4, -6, -8], "pregnant": [-3, -2, -4]}}

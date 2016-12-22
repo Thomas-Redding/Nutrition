@@ -1,0 +1,1 @@
+{"index": 262, "name": "Spices, coriander seed", "healthiness": {"lactating": [12, 13, 12], "male": [9, 6, 10, 15, 12, 13, 15, 14, 13], "female": [9, 6, 10, 13, 10, 11, 15, 13, 11], "pregnant": [10, 14, 12]}}

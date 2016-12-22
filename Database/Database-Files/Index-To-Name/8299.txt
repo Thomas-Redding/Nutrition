@@ -1,0 +1,1 @@
+{"index": 8299, "name": "Blueberries, wild, frozen (Alaska Native)", "healthiness": {"lactating": [-8, -7, -8], "male": [-16, -19, -17, -13, -9, -7, -6, -6, -7], "female": [-16, -19, -17, -15, -11, -10, -9, -11, -11], "pregnant": [-10, -9, -10]}}

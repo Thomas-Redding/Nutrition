@@ -1,0 +1,1 @@
+{"index": 2029, "name": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Banana Nut", "healthiness": {"lactating": [14, 15, 14], "male": [20, 14, 12, 16, 17, 18, 19, 18, 15], "female": [20, 14, 12, 14, 15, 16, 17, 15, 13], "pregnant": [13, 15, 14]}}

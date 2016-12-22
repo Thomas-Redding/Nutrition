@@ -1,0 +1,1 @@
+{"index": 5682, "name": "Cookies, fig bars", "healthiness": {"lactating": [-5, -5, -6], "male": [16, 3, -3, -3, -5, -4, -4, -5, -6], "female": [17, 4, -1, -5, -7, -7, -6, -8, -10], "pregnant": [-6, -5, -6]}}

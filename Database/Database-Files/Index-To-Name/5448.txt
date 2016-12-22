@@ -1,0 +1,1 @@
+{"index": 5448, "name": "Veal, Australian, shank, hind, bone-in, separable lean only, raw", "healthiness": {"lactating": [19, 20, 19], "male": [4, 3, 4, 10, 16, 19, 21, 20, 19], "female": [4, 3, 4, 8, 13, 15, 16, 15, 15], "pregnant": [17, 18, 17]}}

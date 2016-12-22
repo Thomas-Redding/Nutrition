@@ -1,0 +1,1 @@
+{"index": 6752, "name": "Pizza, cheese topping, regular crust, frozen, cooked", "healthiness": {"lactating": [15, 14, 12], "male": [48, 34, 26, 26, 20, 15, 13, 11, 10], "female": [48, 34, 26, 25, 18, 13, 14, 11, 8], "pregnant": [14, 15, 12]}}

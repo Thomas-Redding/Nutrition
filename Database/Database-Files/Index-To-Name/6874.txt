@@ -1,0 +1,1 @@
+{"index": 6874, "name": "McDONALD'S, Bacon Ranch Salad with Grilled Chicken", "healthiness": {"lactating": [-6, -5, -6], "male": [-9, -14, -14, -9, -6, -4, -3, -4, -5], "female": [-9, -14, -14, -11, -8, -7, -5, -7, -9], "pregnant": [-6, -5, -6]}}

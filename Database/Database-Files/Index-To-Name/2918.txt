@@ -1,0 +1,1 @@
+{"index": 2918, "name": "Chayote, fruit, raw", "healthiness": {"lactating": [41, 41, 39], "male": [47, 45, 46, 49, 48, 42, 40, 38, 37], "female": [47, 45, 46, 48, 46, 41, 42, 39, 36], "pregnant": [39, 40, 38]}}

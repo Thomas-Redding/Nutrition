@@ -1,0 +1,1 @@
+{"index": 5628, "name": "Cake, angelfood, dry mix", "healthiness": {"lactating": [3, 3, 1], "male": [22, 13, 9, 12, 6, 2, 1, 0, -1], "female": [22, 13, 9, 10, 4, 0, 1, -1, -4], "pregnant": [2, 3, 1]}}

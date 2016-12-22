@@ -1,0 +1,1 @@
+{"index": 1395, "name": "CAMPBELL'S, Cream of Mushroom Soup, condensed", "healthiness": {"lactating": [-3, -2, -4], "male": [14, 1, -1, 0, -2, -1, -2, -3, -5], "female": [15, 2, 0, -3, -5, -4, -3, -5, -8], "pregnant": [-3, -2, -3]}}

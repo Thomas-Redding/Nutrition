@@ -1,0 +1,1 @@
+{"index": 6777, "name": "BURGER KING, Cheeseburger", "healthiness": {"lactating": [13, 13, 11], "male": [40, 27, 19, 21, 19, 13, 11, 9, 9], "female": [40, 27, 19, 19, 17, 12, 12, 9, 7], "pregnant": [12, 13, 10]}}

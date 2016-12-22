@@ -1,0 +1,1 @@
+{"index": 7989, "name": "KELLOGG'S, SPECIAL K, Cracker Chips, Cheddar", "healthiness": {"lactating": [-10, -9, -10], "male": [-8, -17, -19, -15, -12, -9, -8, -8, -10], "female": [-8, -17, -19, -16, -14, -12, -10, -12, -13], "pregnant": [-10, -9, -10]}}

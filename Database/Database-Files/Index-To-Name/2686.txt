@@ -1,0 +1,1 @@
+{"index": 2686, "name": "HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork", "healthiness": {"lactating": [-12, -10, -12], "male": [-15, -20, -21, -17, -14, -10, -9, -10, -11], "female": [-15, -20, -21, -19, -16, -14, -12, -13, -15], "pregnant": [-12, -10, -12]}}

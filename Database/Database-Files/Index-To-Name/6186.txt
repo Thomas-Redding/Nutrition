@@ -1,0 +1,1 @@
+{"index": 6186, "name": "Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Original fruits", "healthiness": {"lactating": [-13, -11, -13], "male": [-19, -24, -26, -19, -14, -11, -10, -11, -12], "female": [-19, -24, -26, -21, -16, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

@@ -1,0 +1,1 @@
+{"index": 1481, "name": "Soup, tomato rice, canned, prepared with equal volume water", "healthiness": {"lactating": [-5, -3, -5], "male": [12, 1, -3, -2, -2, -2, -1, -2, -3], "female": [12, 1, -3, -4, -4, -4, -3, -4, -6], "pregnant": [-4, -2, -3]}}

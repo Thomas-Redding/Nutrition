@@ -1,0 +1,1 @@
+{"index": 8668, "name": "Vegetarian meatloaf or patties", "healthiness": {"lactating": [8, 9, 8], "male": [7, 1, 2, 6, 8, 10, 12, 11, 10], "female": [7, 1, 2, 4, 5, 7, 10, 8, 7], "pregnant": [7, 10, 8]}}

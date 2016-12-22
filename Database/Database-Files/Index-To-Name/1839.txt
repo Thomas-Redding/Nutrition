@@ -1,0 +1,1 @@
+{"index": 1839, "name": "Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, without salt", "healthiness": {"lactating": [9, 9, 7], "male": [32, 23, 19, 19, 13, 9, 8, 6, 5], "female": [32, 23, 19, 17, 11, 7, 8, 5, 2], "pregnant": [8, 9, 6]}}

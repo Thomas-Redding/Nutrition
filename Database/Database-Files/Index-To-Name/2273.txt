@@ -1,0 +1,1 @@
+{"index": 2273, "name": "Melons, cantaloupe, raw", "healthiness": {"lactating": [10, 11, 9], "male": [38, 29, 27, 24, 14, 11, 11, 10, 9], "female": [39, 30, 28, 22, 12, 10, 11, 9, 7], "pregnant": [10, 11, 9]}}

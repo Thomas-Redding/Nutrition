@@ -1,0 +1,1 @@
+{"index": 5472, "name": "Lamb, New Zealand, imported, sweetbread, raw", "healthiness": {"lactating": [33, 34, 33], "male": [43, 34, 32, 35, 35, 35, 36, 36, 34], "female": [43, 34, 32, 33, 32, 32, 34, 33, 31], "pregnant": [33, 34, 33]}}

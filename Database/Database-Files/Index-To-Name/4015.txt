@@ -1,0 +1,1 @@
+{"index": 4015, "name": "Beef, round, full cut, separable lean and fat, trimmed to 1/8\" fat, choice, raw", "healthiness": {"lactating": [30, 31, 30], "male": [44, 34, 29, 32, 31, 32, 32, 31, 30], "female": [44, 34, 29, 30, 28, 29, 31, 29, 27], "pregnant": [29, 31, 29]}}

@@ -1,0 +1,1 @@
+{"index": 3673, "name": "Nuts, macadamia nuts, dry roasted, without salt added", "healthiness": {"lactating": [-4, -3, -5], "male": [13, 3, 0, 1, -3, -3, -3, -4, -5], "female": [14, 3, 1, -1, -4, -5, -4, -6, -8], "pregnant": [-4, -3, -4]}}

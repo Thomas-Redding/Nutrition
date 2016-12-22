@@ -1,0 +1,1 @@
+{"index": 4867, "name": "Tofu, salted and fermented (fuyu)", "healthiness": {"lactating": [28, 29, 26], "male": [37, 31, 28, 32, 32, 29, 28, 27, 26], "female": [37, 31, 28, 30, 30, 27, 28, 26, 24], "pregnant": [27, 28, 26]}}

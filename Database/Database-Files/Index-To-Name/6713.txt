@@ -1,0 +1,1 @@
+{"index": 6713, "name": "Fast foods, roast beef sandwich, plain", "healthiness": {"lactating": [-4, -3, -4], "male": [15, 6, -2, -2, -3, -2, -1, -1, -2], "female": [15, 6, -2, -3, -5, -5, -3, -4, -6], "pregnant": [-5, -3, -4]}}

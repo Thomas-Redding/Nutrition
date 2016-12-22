@@ -1,0 +1,1 @@
+{"index": 3338, "name": "Beans, pinto, mature seeds, sprouted, cooked, boiled, drained, with salt", "healthiness": {"lactating": [42, 43, 41], "male": [46, 44, 43, 47, 47, 44, 44, 42, 41], "female": [46, 44, 43, 45, 45, 43, 45, 42, 40], "pregnant": [40, 43, 40]}}

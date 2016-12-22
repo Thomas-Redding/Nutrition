@@ -1,0 +1,1 @@
+{"index": 2229, "name": "Grapefruit, sections, canned, juice pack, solids and liquids", "healthiness": {"lactating": [1, 2, 0], "male": [25, 10, 7, 7, 3, 2, 2, 1, 0], "female": [25, 11, 8, 4, 1, -1, 1, -1, -3], "pregnant": [0, 2, 0]}}

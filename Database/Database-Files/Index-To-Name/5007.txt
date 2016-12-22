@@ -1,0 +1,1 @@
+{"index": 5007, "name": "Soybeans, mature seeds, roasted, no salt added", "healthiness": {"lactating": [23, 23, 21], "male": [34, 25, 25, 26, 25, 24, 22, 21, 20], "female": [34, 25, 25, 24, 24, 23, 24, 21, 19], "pregnant": [23, 24, 22]}}

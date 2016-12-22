@@ -1,0 +1,1 @@
+{"index": 7822, "name": "KELLOGG'S, EGGO, Waffles, French Toast", "healthiness": {"lactating": [-1, 0, -1], "male": [2, -1, -5, -2, 0, 1, 3, 2, 1], "female": [2, -1, -5, -4, -2, -2, 0, -2, -2], "pregnant": [-2, 0, -2]}}

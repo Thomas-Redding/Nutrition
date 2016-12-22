@@ -1,0 +1,1 @@
+{"index": 74, "name": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D", "healthiness": {"lactating": [39, 41, 39], "male": [51, 42, 40, 42, 39, 41, 41, 40, 38], "female": [51, 42, 40, 40, 37, 38, 42, 40, 36], "pregnant": [39, 42, 41]}}

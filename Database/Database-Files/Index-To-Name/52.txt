@@ -1,0 +1,1 @@
+{"index": 52, "name": "Cream, whipped, cream topping, pressurized", "healthiness": {"lactating": [-4, -3, -5], "male": [19, 9, 4, 4, -2, -3, -3, -4, -5], "female": [20, 11, 5, 1, -4, -5, -4, -6, -9], "pregnant": [-3, -2, -4]}}

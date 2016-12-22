@@ -1,0 +1,1 @@
+{"index": 1849, "name": "Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)", "healthiness": {"lactating": [29, 28, 26], "male": [51, 49, 46, 46, 39, 31, 29, 28, 26], "female": [51, 49, 46, 44, 37, 31, 33, 30, 26], "pregnant": [29, 30, 28]}}

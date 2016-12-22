@@ -1,0 +1,1 @@
+{"index": 8307, "name": "Cockles, raw (Alaska Native)", "healthiness": {"lactating": [-6, -5, -6], "male": [-17, -17, -18, -11, -7, -4, -3, -4, -5], "female": [-17, -17, -18, -13, -9, -7, -5, -7, -9], "pregnant": [-6, -4, -6]}}

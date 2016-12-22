@@ -1,0 +1,1 @@
+{"index": 2994, "name": "Lambsquarters, cooked, boiled, drained, without salt", "healthiness": {"lactating": [60, 61, 59], "male": [55, 53, 57, 60, 60, 60, 61, 59, 59], "female": [55, 53, 57, 58, 59, 57, 60, 58, 58], "pregnant": [57, 59, 58]}}

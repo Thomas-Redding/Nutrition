@@ -1,0 +1,1 @@
+{"index": 6720, "name": "Fast foods, potato, french fried in vegetable oil", "healthiness": {"lactating": [-9, -8, -9], "male": [3, -9, -14, -12, -10, -7, -7, -7, -9], "female": [3, -9, -14, -13, -12, -10, -9, -10, -12], "pregnant": [-9, -8, -9]}}

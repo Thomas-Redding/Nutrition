@@ -1,0 +1,1 @@
+{"index": 4579, "name": "Fish, sheepshead, cooked, dry heat", "healthiness": {"lactating": [34, 35, 34], "male": [43, 35, 33, 34, 34, 35, 37, 37, 35], "female": [43, 35, 33, 33, 31, 32, 35, 34, 32], "pregnant": [33, 35, 34]}}

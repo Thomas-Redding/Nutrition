@@ -1,0 +1,1 @@
+{"index": 2567, "name": "Pork, fresh, spareribs, separable lean and fat, cooked, braised", "healthiness": {"lactating": [24, 25, 23], "male": [41, 30, 24, 26, 26, 26, 24, 22, 21], "female": [41, 30, 24, 24, 23, 23, 25, 22, 19], "pregnant": [24, 25, 23]}}

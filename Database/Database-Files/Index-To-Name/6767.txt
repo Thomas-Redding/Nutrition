@@ -1,0 +1,1 @@
+{"index": 6767, "name": "WENDY'S, Jr. Hamburger, without cheese", "healthiness": {"lactating": [16, 15, 13], "male": [44, 33, 26, 28, 24, 16, 14, 12, 12], "female": [44, 33, 26, 26, 22, 15, 15, 12, 10], "pregnant": [15, 15, 12]}}

@@ -1,0 +1,1 @@
+{"index": 8232, "name": "Potatoes, mashed, ready-to-eat", "healthiness": {"lactating": [-3, -2, -3], "male": [15, 3, -5, -3, -3, -1, 0, -1, -2], "female": [15, 3, -5, -5, -5, -4, -2, -3, -5], "pregnant": [-3, -1, -2]}}

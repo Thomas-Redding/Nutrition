@@ -1,0 +1,1 @@
+{"index": 8295, "name": "Whale, beluga, liver, raw (Alaska Native)", "healthiness": {"lactating": [-11, -10, -11], "male": [-26, -26, -26, -19, -16, -11, -9, -10, -11], "female": [-26, -26, -26, -21, -18, -15, -12, -13, -16], "pregnant": [-12, -10, -11]}}

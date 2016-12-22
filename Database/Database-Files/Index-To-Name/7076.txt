@@ -1,0 +1,1 @@
+{"index": 7076, "name": "LEAN POCKETS, Ham N Cheddar", "healthiness": {"lactating": [16, 16, 13], "male": [45, 34, 24, 24, 21, 15, 13, 12, 11], "female": [45, 34, 24, 22, 19, 14, 15, 12, 9], "pregnant": [15, 15, 13]}}

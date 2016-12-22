@@ -1,0 +1,1 @@
+{"index": 8405, "name": "Elk, free range, roast, eye of round, raw (Shoshone Bannock)", "healthiness": {"lactating": [44, 45, 44], "male": [44, 39, 40, 43, 44, 45, 48, 48, 46], "female": [44, 39, 40, 41, 42, 42, 45, 43, 43], "pregnant": [42, 45, 43]}}

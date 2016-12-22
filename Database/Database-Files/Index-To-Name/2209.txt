@@ -1,0 +1,1 @@
+{"index": 2209, "name": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra light syrup, solids and liquids", "healthiness": {"lactating": [-5, -4, -5], "male": [1, -7, -7, -4, -4, -3, -2, -3, -4], "female": [1, -7, -7, -6, -6, -5, -4, -5, -7], "pregnant": [-5, -3, -4]}}

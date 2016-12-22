@@ -1,0 +1,1 @@
+{"index": 1099, "name": "Ostrich, ground, cooked, pan-broiled", "healthiness": {"lactating": [37, 38, 37], "male": [49, 41, 37, 39, 40, 39, 42, 41, 39], "female": [49, 41, 37, 38, 37, 37, 39, 38, 37], "pregnant": [35, 38, 36]}}

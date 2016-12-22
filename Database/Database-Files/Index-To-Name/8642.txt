@@ -1,0 +1,1 @@
+{"index": 8642, "name": "Salad dressing, sweet and sour", "healthiness": {"lactating": [3, 5, 3], "male": [11, 2, -1, 2, 3, 6, 6, 6, 4], "female": [11, 2, -1, 0, 1, 3, 4, 3, 1], "pregnant": [4, 5, 4]}}

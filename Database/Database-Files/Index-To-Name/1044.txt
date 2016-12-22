@@ -1,0 +1,1 @@
+{"index": 1044, "name": "Chicken, wing, frozen, glazed, barbecue flavored", "healthiness": {"lactating": [25, 26, 24], "male": [36, 28, 24, 27, 27, 27, 25, 24, 23], "female": [36, 28, 24, 25, 24, 24, 26, 23, 21], "pregnant": [24, 26, 24]}}

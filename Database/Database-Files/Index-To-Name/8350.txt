@@ -1,0 +1,1 @@
+{"index": 8350, "name": "Walrus, liver, raw (Alaska Native)", "healthiness": {"lactating": [-4, -3, -4], "male": [-30, -30, -30, -12, -9, -4, -2, -3, -4], "female": [-30, -30, -30, -14, -11, -8, -5, -7, -9], "pregnant": [-5, -3, -4]}}

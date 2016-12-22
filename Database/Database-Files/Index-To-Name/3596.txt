@@ -1,0 +1,1 @@
+{"index": 3596, "name": "Mushrooms, straw, canned, drained solids", "healthiness": {"lactating": [11, 13, 11], "male": [12, 8, 9, 13, 11, 12, 14, 14, 13], "female": [12, 8, 9, 11, 10, 11, 14, 12, 11], "pregnant": [9, 12, 11]}}

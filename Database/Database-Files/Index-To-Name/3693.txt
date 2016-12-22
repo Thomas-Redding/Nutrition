@@ -1,0 +1,1 @@
+{"index": 3693, "name": "Seeds, cottonseed kernels, roasted (glandless)", "healthiness": {"lactating": [24, 24, 22], "male": [33, 28, 29, 31, 30, 24, 24, 22, 21], "female": [33, 28, 29, 29, 28, 23, 25, 22, 20], "pregnant": [23, 25, 22]}}

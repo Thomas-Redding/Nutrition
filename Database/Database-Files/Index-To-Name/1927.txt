@@ -1,0 +1,1 @@
+{"index": 1927, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SMART START Strong Heart Antioxidants Cereal", "healthiness": {"lactating": [19, 20, 19], "male": [19, 14, 14, 18, 20, 21, 22, 21, 19], "female": [19, 14, 14, 16, 17, 19, 20, 19, 16], "pregnant": [20, 22, 20]}}

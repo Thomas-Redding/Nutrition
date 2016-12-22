@@ -1,0 +1,1 @@
+{"index": 5559, "name": "Lamb, Australian, imported, fresh, rack, roast, frenched, denuded, bone-in, separable lean and fat, trimmed to 0\" fat, cooked, roasted", "healthiness": {"lactating": [30, 31, 30], "male": [42, 33, 31, 33, 33, 33, 34, 33, 32], "female": [42, 33, 31, 31, 30, 30, 32, 30, 29], "pregnant": [29, 31, 30]}}

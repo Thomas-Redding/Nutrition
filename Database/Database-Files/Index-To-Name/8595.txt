@@ -1,0 +1,1 @@
+{"index": 8595, "name": "Pork sausage rice links, brown and serve, cooked", "healthiness": {"lactating": [-9, -8, -9], "male": [4, -10, -16, -13, -10, -8, -7, -7, -9], "female": [4, -10, -16, -15, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

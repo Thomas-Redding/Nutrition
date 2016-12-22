@@ -1,0 +1,1 @@
+{"index": 1594, "name": "Sauce, worcestershire", "healthiness": {"lactating": [-1, 0, -1], "male": [6, 2, -4, -1, 0, 1, 2, 2, 0], "female": [6, 2, -4, -3, -2, -1, 1, -1, -3], "pregnant": [-1, 1, -1]}}

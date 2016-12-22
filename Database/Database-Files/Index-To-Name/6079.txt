@@ -1,0 +1,1 @@
+{"index": 6079, "name": "Snacks, popcorn, caramel-coated, without peanuts", "healthiness": {"lactating": [-7, -6, -8], "male": [10, -2, -6, -6, -7, -6, -6, -7, -8], "female": [11, -1, -5, -8, -9, -9, -8, -10, -12], "pregnant": [-7, -6, -8]}}

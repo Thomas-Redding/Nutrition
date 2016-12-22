@@ -1,0 +1,1 @@
+{"index": 607, "name": "Infant Formula, MEAD JOHNSON, ENFAMIL GENTLEASE LIPIL, with iron, prepared from powder", "healthiness": {"lactating": [3, 5, 3], "male": [32, 18, 14, 11, 8, 7, 8, 7, 4], "female": [32, 18, 14, 9, 6, 4, 5, 4, 1], "pregnant": [3, 5, 4]}}

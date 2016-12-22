@@ -1,0 +1,1 @@
+{"index": 3649, "name": "Nuts, chestnuts, chinese, roasted", "healthiness": {"lactating": [5, 6, 4], "male": [32, 23, 22, 22, 12, 8, 7, 6, 5], "female": [32, 24, 23, 20, 10, 6, 7, 4, 2], "pregnant": [6, 7, 5]}}

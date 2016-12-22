@@ -1,0 +1,1 @@
+{"index": 6133, "name": "Candies, fudge, chocolate, with nuts, prepared-from-recipe", "healthiness": {"lactating": [-10, -9, -10], "male": [-3, -14, -17, -14, -11, -8, -7, -8, -9], "female": [-3, -14, -17, -16, -14, -11, -10, -11, -13], "pregnant": [-10, -8, -10]}}

@@ -1,0 +1,1 @@
+{"index": 5714, "name": "Cookies, sugar, prepared from recipe, made with margarine", "healthiness": {"lactating": [-4, -3, -5], "male": [18, 6, 3, 2, -2, -3, -3, -4, -5], "female": [19, 7, 4, 0, -4, -6, -4, -6, -9], "pregnant": [-4, -3, -5]}}

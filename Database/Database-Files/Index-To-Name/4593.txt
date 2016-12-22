@@ -1,0 +1,1 @@
+{"index": 4593, "name": "Fish, tilefish, raw", "healthiness": {"lactating": [34, 36, 34], "male": [43, 35, 34, 37, 35, 36, 38, 37, 35], "female": [43, 35, 34, 35, 32, 33, 36, 34, 32], "pregnant": [33, 36, 35]}}

@@ -1,0 +1,1 @@
+{"index": 2887, "name": "Cabbage, raw", "healthiness": {"lactating": [28, 29, 26], "male": [51, 46, 47, 46, 37, 29, 28, 27, 26], "female": [51, 46, 48, 44, 35, 28, 29, 27, 25], "pregnant": [27, 29, 26]}}

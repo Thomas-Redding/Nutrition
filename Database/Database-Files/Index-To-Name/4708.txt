@@ -1,0 +1,1 @@
+{"index": 4708, "name": "Mollusks, oyster, Pacific, cooked, moist heat", "healthiness": {"lactating": [47, 48, 47], "male": [51, 48, 49, 51, 49, 49, 49, 48, 47], "female": [51, 48, 49, 49, 46, 47, 49, 47, 45], "pregnant": [46, 48, 47]}}

@@ -1,0 +1,1 @@
+{"index": 1574, "name": "Soup, beef and vegetables, canned, ready-to-serve", "healthiness": {"lactating": [3, 4, 3], "male": [22, 15, 14, 13, 8, 7, 7, 7, 5], "female": [22, 15, 14, 11, 6, 5, 7, 5, 4], "pregnant": [4, 6, 5]}}

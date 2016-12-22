@@ -1,0 +1,1 @@
+{"index": 4569, "name": "Fish, sardine, Atlantic, canned in oil, drained solids with bone", "healthiness": {"lactating": [40, 42, 40], "male": [56, 47, 41, 42, 39, 40, 43, 43, 40], "female": [56, 47, 41, 40, 37, 37, 41, 39, 37], "pregnant": [38, 41, 40]}}

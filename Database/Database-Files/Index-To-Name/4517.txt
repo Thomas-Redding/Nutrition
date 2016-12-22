@@ -1,0 +1,1 @@
+{"index": 4517, "name": "Fish, halibut, Atlantic and Pacific, raw", "healthiness": {"lactating": [40, 42, 40], "male": [43, 34, 33, 37, 38, 41, 43, 42, 41], "female": [43, 34, 33, 35, 36, 38, 41, 39, 37], "pregnant": [39, 42, 41]}}

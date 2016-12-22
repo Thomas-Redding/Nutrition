@@ -1,0 +1,1 @@
+{"index": 8206, "name": "CAMPBELL'S, V8 Vegetable Juice, Essential Antioxidants V8", "healthiness": {"lactating": [-4, -2, -4], "male": [-15, -18, -16, -11, -6, -3, -2, -2, -3], "female": [-15, -18, -16, -13, -8, -6, -4, -6, -7], "pregnant": [-5, -3, -5]}}

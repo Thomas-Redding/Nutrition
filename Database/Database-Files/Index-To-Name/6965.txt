@@ -1,0 +1,1 @@
+{"index": 6965, "name": "Fast Food, Pizza Chain, 14\" pizza, pepperoni topping, thin crust", "healthiness": {"lactating": [-6, -5, -6], "male": [14, 1, -7, -6, -6, -4, -3, -4, -5], "female": [14, 1, -7, -8, -9, -7, -5, -7, -9], "pregnant": [-6, -4, -6]}}

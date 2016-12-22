@@ -1,0 +1,1 @@
+{"index": 1141, "name": "Chicken, skin (drumsticks and thighs), with added solution, cooked, roasted", "healthiness": {"lactating": [5, 5, 3], "male": [32, 16, 12, 16, 11, 6, 4, 2, 1], "female": [32, 16, 12, 14, 9, 3, 4, 1, -2], "pregnant": [5, 5, 3]}}

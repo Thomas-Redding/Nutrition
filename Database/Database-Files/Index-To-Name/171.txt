@@ -1,0 +1,1 @@
+{"index": 171, "name": "Milk, chocolate, fluid, commercial, reduced fat, with added calcium", "healthiness": {"lactating": [21, 21, 18], "male": [47, 35, 33, 33, 28, 21, 19, 18, 17], "female": [47, 35, 33, 32, 26, 20, 21, 18, 15], "pregnant": [21, 22, 19]}}

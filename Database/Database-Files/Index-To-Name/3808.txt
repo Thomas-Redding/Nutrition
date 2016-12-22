@@ -1,0 +1,1 @@
+{"index": 3808, "name": "Beef, cured, corned beef, canned", "healthiness": {"lactating": [26, 27, 26], "male": [41, 27, 21, 25, 27, 29, 29, 27, 26], "female": [41, 27, 21, 23, 25, 26, 27, 26, 23], "pregnant": [26, 28, 26]}}

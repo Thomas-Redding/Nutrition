@@ -1,0 +1,1 @@
+{"index": 8204, "name": "HEALTHY REQUEST Tomato juice", "healthiness": {"lactating": [-5, -4, -5], "male": [-21, -21, -19, -13, -9, -4, -4, -4, -5], "female": [-21, -21, -19, -15, -11, -7, -5, -7, -9], "pregnant": [-5, -4, -5]}}

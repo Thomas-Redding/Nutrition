@@ -1,0 +1,1 @@
+{"index": 305, "name": "Peppermint, fresh", "healthiness": {"lactating": [45, 46, 44], "male": [47, 47, 49, 54, 50, 46, 45, 43, 42], "female": [47, 47, 49, 52, 48, 45, 48, 45, 41], "pregnant": [44, 46, 44]}}

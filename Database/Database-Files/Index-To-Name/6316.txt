@@ -1,0 +1,1 @@
+{"index": 6316, "name": "Pudding, lemon, dry mix, regular, prepared with sugar, egg yolk and water", "healthiness": {"lactating": [-12, -11, -12], "male": [-13, -23, -24, -19, -15, -11, -10, -11, -12], "female": [-13, -23, -24, -21, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

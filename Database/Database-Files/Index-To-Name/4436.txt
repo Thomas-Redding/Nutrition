@@ -1,0 +1,1 @@
+{"index": 4436, "name": "Beverages, WENDY'S, tea, ready-to-drink, unsweetened", "healthiness": {"lactating": [7, 8, 7], "male": [0, 0, -2, 3, 4, 7, 9, 8, 6], "female": [0, 0, -2, 1, 2, 4, 7, 6, 3], "pregnant": [5, 8, 7]}}

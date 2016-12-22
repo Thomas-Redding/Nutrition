@@ -1,0 +1,240 @@
+<div id="day-widget">
+	<table><tbody><tr>
+		<td><img src="images/left-carrot.svg" onclick="day_widget.last_day();"/></td>
+		<td id="today" onclick="day_widget.calendar_icon_clicked();">Today</td>
+		<td><img src="images/right-carrot.svg" onclick="day_widget.next_day();" /></td>
+		<td><img src="images/calendar.svg" style="width: 2em;" onclick="day_widget.calendar_icon_clicked();"></td>
+	</tr>
+	<tr>
+	<td colspan="3">
+		<table id="calendar"><tbody>
+			<tr style="height: 2em;">
+				<td style="width: 3em"><img src="images/left-carrot.svg" onclick="day_widget.last_month();" /></td>
+				<td id="month-name"></td>
+				<td style="width: 3em"><img src="images/right-carrot.svg" onclick="day_widget.next_month();" /></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<table id="calendar-days">
+					</table>
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+	</tr>
+	</tbody></table>
+</div>
+<style>
+#day-widget {
+	height: 3em;
+	padding: 3em 0;
+	position: relative;
+	z-index: 50;
+	background-color: white;
+}
+
+#day-widget > table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#day-widget img {
+	height: 3em;
+	cursor: pointer;
+}
+
+#today {
+	font-size: 1.5em;
+	font-weight: bold;
+	width: 6.1em;
+	text-align: center;
+	cursor: pointer;
+}
+
+#calendar {
+	width: 13.2em;
+	border: 0.1em solid hsl(240, 0%, 80%);
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	display: none;
+	background-color: white;
+}
+
+#calendar > tbody > tr > td {
+	padding: 0;
+}
+
+#calendar-days {
+	background-color: hsl(240, 0%, 95%);
+	height: 10em;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#calendar-days td {
+	cursor: pointer;
+	text-align: center;
+}
+
+#calendar-days tr:first-child td {
+	cursor: default;
+}
+
+#month-name {
+	width: 100%;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+</style>
+<script>
+function Day_Widget(d) {
+	var self = this;
+	self.div = d;
+	self.displayed_date = new Date();
+	self.calendar_year = self.displayed_date.getFullYear();
+	self.calendar_month = self.displayed_date.getMonth();
+
+	self.date_changed_callback = function() {};
+
+	self.calendar_icon_clicked = function() {
+		if ($("#calendar").css("display") == "none") {
+			self.calendar_year = self.displayed_date.getFullYear();
+			self.calendar_month = self.displayed_date.getMonth();
+			self.redraw_calendar(false);
+			$("#calendar").css("display", "block");
+		}
+		else {
+			$("#calendar").css("display", "none");
+		}
+	}
+	
+	self.redraw_calendar = function(did_date_change) {
+		if (did_date_change === undefined)
+			did_date_change = true;
+		$("#month-name").html(self.num_to_month[self.calendar_month] + " ‘" + (self.calendar_year + "").substr(2));
+		var date = new Date();
+		date.setDate(1)
+		date.setMonth(self.calendar_month);
+		date.setFullYear(self.calendar_year);
+
+		var count = 0;
+		// go to beginning of week
+		while (true) {
+			if (self.date_to_day(date) == 2)
+				break;
+			date.setDate(date.getDate() - 1);
+		}
+
+		// write first week
+		var html = "<tr><td>S</td><td>M</td><td>T</td><td>W</td><td>T</td><td>F</td><td>S</td></tr><tr>";
+		while (true) {
+			++count;
+			if (self.day_date_equality(date, self.displayed_date)) {
+				if (self.day_date_equality(date, new Date())) {
+					html += "<td style=\"font-weight: bold; border: 1px solid black;\" onclick=\"day_widget.change_day_to(" + date.getTime() + ");\">" + date.getDate() + "</td>";
+				}
+				else {
+					html += "<td style=\"font-weight: bold;\" onclick=\"day_widget.change_day_to(" + date.getTime() + ");\">" + date.getDate() + "</td>";
+				}
+			}
+			else if (self.day_date_equality(date, new Date())) {
+				html += "<td style=\"border: 1px solid black;\" onclick=\"day_widget.change_day_to(" + date.getTime() + ");\">" + date.getDate() + "</td>";
+			}
+			else {
+				html += "<td onclick=\"day_widget.change_day_to(" + date.getTime() + ");\">" + date.getDate() + "</td>";
+			}
+			
+			date.setDate(date.getDate() + 1);
+			if (count%7 == 0) {
+				if (date.getMonth() != self.calendar_month)
+					break;
+				else
+					html += "</tr><tr>";
+			}
+		}
+		html += "</tr>";
+		$("#calendar-days").html(html);
+		if (did_date_change)
+			self.date_changed_callback();
+	}
+
+	// 1 = Sun, 2 = Mon, 3 = Tue, 4 = Wed, ...
+	self.date_to_day = function(date) {
+		return (date.getDay()+2)%7;
+	}
+
+	self.change_day_to = function(time) {
+		var did_date_change = true;
+		if (self.day_date_equality(self.displayed_date, new Date(time))) {
+			did_date_change = false;
+		}
+		self.displayed_date = new Date(time);
+		var today = new Date();
+		var tomorrow = new Date();
+		tomorrow.setDate(today.getDate() + 1);
+		var yesterday = new Date();
+		yesterday.setDate(today.getDate() - 1);
+		if (self.day_date_equality(self.displayed_date, today))
+			$("#today").html("Today");
+		else if (self.day_date_equality(self.displayed_date, tomorrow))
+			$("#today").html("Tomorrow");
+		else if (self.day_date_equality(self.displayed_date, yesterday))
+			$("#today").html("Yesterday");
+		else
+			$("#today").html(self.date_to_str(self.displayed_date));
+		self.redraw_calendar(did_date_change);
+	}
+
+	self.last_day = function() {
+		var date = new Date(self.displayed_date);
+		date.setDate(self.displayed_date.getDate() - 1);
+		self.change_day_to(date.getTime());
+		self.calendar_month = self.displayed_date.getMonth();
+		self.calendar_year = self.displayed_date.getFullYear();
+		self.redraw_calendar();
+	}
+
+	self.next_day =  function() {
+		var date = new Date(self.displayed_date);
+		date.setDate(self.displayed_date.getDate() + 1);
+		self.change_day_to(date.getTime());
+		self.calendar_month = self.displayed_date.getMonth();
+		self.calendar_year = self.displayed_date.getFullYear();
+		self.redraw_calendar();
+	}
+	
+	self.last_month = function() {
+		--self.calendar_month;
+		if (self.calendar_month == -1) {
+			self.calendar_month = 11;
+			--self.calendar_year;
+		}
+		self.redraw_calendar(false);
+	}
+
+	self.next_month = function() {
+		++self.calendar_month;
+		if (self.calendar_month == 12) {
+			self.calendar_month = 0;
+			++self.calendar_year;
+		}
+		self.redraw_calendar(false);
+	}
+
+
+	self.day_date_equality = function(d1, d2) {
+		return d1.getDate() == d2.getDate() && d1.getMonth() == d2.getMonth() && d1.getFullYear() == d2.getFullYear();
+	}
+
+	self.date_to_str = function(d) {
+		return self.num_to_month[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+	}
+
+	self.num_to_month = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+}
+
+var day_widget = new Day_Widget($("#day-widget"));
+</script>

@@ -1,0 +1,1 @@
+{"index": 5547, "name": "Lamb, Australian, imported, fresh, external fat, raw", "healthiness": {"lactating": [-1, 0, -2], "male": [21, 8, 6, 9, 3, 0, -2, -3, -4], "female": [21, 8, 6, 7, 1, -3, -2, -4, -7], "pregnant": [-1, 0, -2]}}

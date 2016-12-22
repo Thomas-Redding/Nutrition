@@ -1,0 +1,1 @@
+{"index": 101, "name": "Whey, acid, dried", "healthiness": {"lactating": [28, 28, 25], "male": [43, 35, 35, 40, 36, 30, 27, 26, 24], "female": [43, 35, 35, 38, 34, 28, 29, 26, 23], "pregnant": [28, 28, 26]}}

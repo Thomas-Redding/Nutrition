@@ -1,0 +1,1 @@
+{"index": 2353, "name": "Plums, canned, purple, water pack, solids and liquids", "healthiness": {"lactating": [-4, -3, -4], "male": [19, 4, 4, 2, -1, -1, -1, -2, -3], "female": [19, 4, 4, 0, -3, -3, -2, -4, -6], "pregnant": [-3, -2, -3]}}

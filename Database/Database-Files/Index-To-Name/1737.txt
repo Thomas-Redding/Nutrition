@@ -1,0 +1,1 @@
+{"index": 1737, "name": "Frankfurter, pork", "healthiness": {"lactating": [18, 17, 15], "male": [41, 30, 25, 26, 24, 18, 16, 14, 13], "female": [41, 30, 25, 24, 22, 16, 17, 14, 11], "pregnant": [17, 17, 15]}}

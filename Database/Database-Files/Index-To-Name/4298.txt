@@ -1,0 +1,1 @@
+{"index": 4298, "name": "Beverages, cranberry-apple juice drink, bottled", "healthiness": {"lactating": [-10, -8, -10], "male": [-12, -20, -24, -18, -13, -8, -8, -8, -10], "female": [-12, -20, -24, -20, -15, -12, -10, -12, -14], "pregnant": [-10, -8, -10]}}

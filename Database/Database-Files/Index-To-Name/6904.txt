@@ -1,0 +1,1 @@
+{"index": 6904, "name": "Fast foods, bagel, with breakfast steak, egg, cheese, and condiments", "healthiness": {"lactating": [-3, -2, -3], "male": [18, 6, -2, 0, -2, -1, 0, 0, -2], "female": [18, 6, -2, -2, -4, -4, -2, -4, -5], "pregnant": [-4, -2, -3]}}

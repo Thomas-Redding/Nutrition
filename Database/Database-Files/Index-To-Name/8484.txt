@@ -1,0 +1,1 @@
+{"index": 8484, "name": "Restaurant, family style, fish fillet, battered or breaded, fried", "healthiness": {"lactating": [21, 21, 19], "male": [36, 26, 21, 24, 24, 22, 19, 17, 16], "female": [36, 26, 21, 22, 22, 20, 21, 18, 14], "pregnant": [21, 22, 19]}}

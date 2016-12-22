@@ -1,0 +1,1 @@
+{"index": 8717, "name": "Beverages, Chocolate-flavored drink, whey and milk based", "healthiness": {"lactating": [0, 1, 0], "male": [16, 5, 3, 4, 1, 2, 4, 3, 1], "female": [16, 5, 3, 2, -1, 0, 2, 0, -2], "pregnant": [0, 3, 1]}}

@@ -1,0 +1,1 @@
+{"index": 2429, "name": "Pineapple, raw, traditional varieties", "healthiness": {"lactating": [0, 1, 0], "male": [10, 3, -2, 1, 1, 3, 4, 3, 2], "female": [10, 3, -2, -1, -1, 0, 1, 0, -2], "pregnant": [0, 2, 1]}}

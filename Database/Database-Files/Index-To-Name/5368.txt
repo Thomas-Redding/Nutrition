@@ -1,0 +1,1 @@
+{"index": 5368, "name": "Veal, breast, whole, boneless, separable lean and fat, raw", "healthiness": {"lactating": [19, 20, 18], "male": [23, 12, 10, 14, 17, 20, 18, 17, 16], "female": [23, 12, 10, 12, 14, 17, 19, 16, 13], "pregnant": [19, 20, 18]}}

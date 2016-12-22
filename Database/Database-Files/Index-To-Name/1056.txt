@@ -1,0 +1,1 @@
+{"index": 1056, "name": "Chicken breast tenders, breaded, uncooked", "healthiness": {"lactating": [17, 17, 15], "male": [39, 29, 22, 24, 23, 18, 15, 13, 13], "female": [39, 29, 22, 22, 21, 16, 17, 14, 11], "pregnant": [17, 17, 15]}}

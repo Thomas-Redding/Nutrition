@@ -1,0 +1,1 @@
+{"index": 4800, "name": "Cowpeas, common (blackeyes, crowder, southern), mature seeds, raw", "healthiness": {"lactating": [28, 28, 26], "male": [42, 38, 34, 34, 33, 28, 27, 26, 25], "female": [42, 38, 34, 32, 31, 27, 28, 26, 24], "pregnant": [26, 28, 25]}}

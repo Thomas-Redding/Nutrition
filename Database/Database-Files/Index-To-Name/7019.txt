@@ -1,0 +1,1 @@
+{"index": 7019, "name": "LOMA LINDA Big Franks, canned, unprepared", "healthiness": {"lactating": [6, 8, 6], "male": [0, -4, -3, 1, 5, 8, 10, 9, 8], "female": [0, -4, -3, -1, 3, 5, 7, 5, 4], "pregnant": [6, 8, 6]}}

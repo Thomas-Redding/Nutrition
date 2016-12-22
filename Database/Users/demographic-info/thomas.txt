@@ -1,0 +1,1 @@
+{"lifestyle": "male", "age": 21, "weight": 70, "calorie_goal": 2000, "protein_goal": 90000}

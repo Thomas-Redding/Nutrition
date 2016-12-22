@@ -1,0 +1,1 @@
+{"index": 2216, "name": "Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, heavy syrup, solids and liquids", "healthiness": {"lactating": [-9, -7, -9], "male": [1, -9, -13, -11, -9, -7, -6, -7, -8], "female": [1, -9, -13, -13, -11, -9, -8, -10, -11], "pregnant": [-8, -7, -8]}}

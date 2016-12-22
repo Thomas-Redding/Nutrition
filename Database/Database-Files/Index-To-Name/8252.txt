@@ -1,0 +1,1 @@
+{"index": 8252, "name": "Lasagna, cheese, frozen, unprepared", "healthiness": {"lactating": [-5, -4, -5], "male": [16, 3, -6, -4, -4, -3, -2, -2, -4], "female": [16, 3, -6, -6, -6, -6, -4, -5, -7], "pregnant": [-5, -3, -4]}}

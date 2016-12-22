@@ -1,0 +1,1 @@
+{"index": 3054, "name": "Peas, green (includes baby and lesuer types), canned, drained solids, unprepared", "healthiness": {"lactating": [28, 28, 25], "male": [47, 41, 43, 41, 36, 28, 26, 25, 24], "female": [47, 41, 43, 39, 34, 28, 29, 26, 24], "pregnant": [27, 28, 26]}}

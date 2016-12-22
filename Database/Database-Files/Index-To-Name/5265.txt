@@ -1,0 +1,1 @@
+{"index": 5265, "name": "Game meat, elk, cooked, roasted", "healthiness": {"lactating": [25, 27, 25], "male": [26, 20, 19, 23, 24, 26, 28, 28, 26], "female": [26, 20, 19, 21, 22, 22, 25, 23, 23], "pregnant": [23, 25, 24]}}

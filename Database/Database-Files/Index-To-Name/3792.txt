@@ -1,0 +1,1 @@
+{"index": 3792, "name": "Beef, variety meats and by-products, pancreas, raw", "healthiness": {"lactating": [29, 29, 27], "male": [43, 35, 35, 36, 34, 31, 29, 28, 27], "female": [43, 35, 35, 34, 32, 29, 30, 28, 25], "pregnant": [28, 30, 28]}}

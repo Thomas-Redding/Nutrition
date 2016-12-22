@@ -1,0 +1,1 @@
+{"index": 6529, "name": "Semolina, enriched", "healthiness": {"lactating": [10, 10, 8], "male": [33, 23, 20, 21, 15, 10, 9, 8, 7], "female": [33, 23, 20, 19, 13, 9, 9, 7, 5], "pregnant": [9, 10, 8]}}

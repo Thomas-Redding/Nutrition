@@ -1,0 +1,1 @@
+{"index": 6276, "name": "Snacks, SUNKIST, SUNKIST Fruit Roll, strawberry, with vitamins A, C, and E", "healthiness": {"lactating": [-11, -10, -11], "male": [-26, -26, -25, -18, -13, -9, -9, -9, -11], "female": [-26, -26, -25, -20, -15, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

@@ -1,0 +1,1 @@
+{"index": 128, "name": "Egg, quail, whole, fresh, raw", "healthiness": {"lactating": [38, 40, 38], "male": [49, 40, 38, 39, 39, 40, 41, 40, 38], "female": [49, 40, 38, 37, 37, 37, 39, 37, 35], "pregnant": [37, 40, 38]}}

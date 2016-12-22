@@ -1,0 +1,1 @@
+{"index": 1901, "name": "Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CLUSTERS", "healthiness": {"lactating": [4, 5, 4], "male": [15, 8, 8, 11, 9, 7, 9, 8, 7], "female": [15, 8, 8, 9, 6, 5, 7, 5, 5], "pregnant": [4, 5, 4]}}

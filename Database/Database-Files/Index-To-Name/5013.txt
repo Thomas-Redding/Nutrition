@@ -1,0 +1,1 @@
+{"index": 5013, "name": "Tofu, raw, regular, prepared with calcium sulfate", "healthiness": {"lactating": [35, 37, 35], "male": [41, 38, 34, 38, 37, 38, 38, 36, 35], "female": [41, 38, 34, 36, 35, 35, 37, 35, 33], "pregnant": [35, 37, 35]}}

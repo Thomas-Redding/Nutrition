@@ -1,0 +1,1 @@
+{"index": 2266, "name": "Longans, raw", "healthiness": {"lactating": [1, 2, 0], "male": [18, 7, 6, 7, 3, 3, 3, 2, 1], "female": [19, 8, 8, 4, 1, 1, 2, 0, -2], "pregnant": [2, 3, 1]}}

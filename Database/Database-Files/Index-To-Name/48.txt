@@ -1,0 +1,1 @@
+{"index": 48, "name": "Cream, fluid, half and half", "healthiness": {"lactating": [7, 7, 5], "male": [40, 28, 20, 20, 12, 7, 6, 5, 4], "female": [40, 28, 20, 18, 10, 6, 7, 4, 1], "pregnant": [7, 8, 5]}}

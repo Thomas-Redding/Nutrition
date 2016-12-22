@@ -1,0 +1,1 @@
+{"index": 1727, "name": "Sausage, turkey, hot, smoked", "healthiness": {"lactating": [33, 34, 32], "male": [45, 42, 37, 39, 37, 36, 36, 35, 33], "female": [45, 42, 37, 37, 34, 34, 37, 34, 31], "pregnant": [32, 35, 33]}}

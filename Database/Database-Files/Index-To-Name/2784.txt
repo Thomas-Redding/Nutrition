@@ -1,0 +1,1 @@
+{"index": 2784, "name": "Pork, Shoulder breast, boneless, separable lean and fat, raw", "healthiness": {"lactating": [38, 40, 38], "male": [44, 37, 36, 39, 39, 41, 43, 43, 41], "female": [44, 37, 36, 37, 37, 38, 41, 40, 38], "pregnant": [38, 41, 40]}}

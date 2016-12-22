@@ -1,0 +1,1 @@
+{"index": 6778, "name": "BURGER KING, WHOPPER, no cheese", "healthiness": {"lactating": [12, 12, 10], "male": [37, 25, 22, 23, 19, 12, 10, 9, 8], "female": [37, 25, 22, 21, 17, 10, 11, 8, 6], "pregnant": [11, 11, 9]}}

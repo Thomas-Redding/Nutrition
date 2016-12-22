@@ -1,0 +1,1 @@
+{"index": 324, "name": "Babyfood, meat, chicken, strained", "healthiness": {"lactating": [27, 29, 27], "male": [46, 38, 33, 32, 29, 30, 30, 29, 28], "female": [46, 38, 33, 30, 27, 27, 29, 27, 25], "pregnant": [27, 29, 27]}}

@@ -1,0 +1,1 @@
+{"index": 4233, "name": "Beverages, Energy drink, RED BULL", "healthiness": {"lactating": [4, 6, 4], "male": [1, -6, -7, 0, 3, 6, 6, 6, 4], "female": [1, -6, -7, -2, 0, 3, 4, 3, 1], "pregnant": [4, 6, 4]}}

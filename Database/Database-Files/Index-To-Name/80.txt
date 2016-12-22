@@ -1,0 +1,1 @@
+{"index": 80, "name": "Milk, buttermilk, fluid, cultured, lowfat", "healthiness": {"lactating": [32, 34, 32], "male": [46, 36, 35, 35, 33, 33, 35, 33, 32], "female": [46, 36, 35, 34, 30, 31, 35, 33, 30], "pregnant": [31, 35, 33]}}

@@ -1,0 +1,1 @@
+{"index": 7376, "name": "Beef, Australian, imported, grass-fed,  external fat, raw", "healthiness": {"lactating": [-14, -13, -14], "male": [-26, -30, -29, -23, -17, -13, -12, -13, -14], "female": [-26, -30, -29, -25, -20, -16, -15, -16, -18], "pregnant": [-14, -13, -14]}}

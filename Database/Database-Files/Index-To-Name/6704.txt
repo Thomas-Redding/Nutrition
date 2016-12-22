@@ -1,0 +1,1 @@
+{"index": 6704, "name": "Fast foods, hamburger; double, regular, patty; plain", "healthiness": {"lactating": [19, 18, 16], "male": [35, 24, 21, 23, 23, 19, 16, 15, 14], "female": [35, 24, 21, 21, 21, 17, 18, 15, 12], "pregnant": [18, 18, 15]}}

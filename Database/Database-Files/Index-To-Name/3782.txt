@@ -1,0 +1,1 @@
+{"index": 3782, "name": "Beef, variety meats and by-products, heart, raw", "healthiness": {"lactating": [16, 17, 16], "male": [16, 11, 12, 17, 17, 19, 21, 21, 19], "female": [16, 11, 12, 15, 14, 15, 18, 16, 15], "pregnant": [14, 17, 16]}}

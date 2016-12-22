@@ -1,0 +1,1 @@
+{"index": 2914, "name": "Celery, cooked, boiled, drained, without salt", "healthiness": {"lactating": [39, 39, 37], "male": [58, 55, 60, 60, 51, 41, 41, 40, 39], "female": [58, 55, 60, 58, 49, 41, 43, 41, 39], "pregnant": [39, 41, 39]}}

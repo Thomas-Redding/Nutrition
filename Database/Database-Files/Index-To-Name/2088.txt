@@ -1,0 +1,1 @@
+{"index": 2088, "name": "Cereals ready-to-eat, CASCADIAN FARM, Cinnamon Crunch", "healthiness": {"lactating": [-12, -10, -12], "male": [-21, -27, -26, -20, -15, -11, -10, -10, -12], "female": [-21, -27, -26, -22, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

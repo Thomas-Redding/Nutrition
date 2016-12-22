@@ -1,0 +1,1 @@
+{"index": 4611, "name": "Fish, whiting, mixed species, cooked, dry heat", "healthiness": {"lactating": [36, 37, 36], "male": [46, 38, 33, 35, 34, 36, 39, 38, 35], "female": [46, 38, 33, 33, 32, 34, 37, 35, 31], "pregnant": [34, 37, 36]}}

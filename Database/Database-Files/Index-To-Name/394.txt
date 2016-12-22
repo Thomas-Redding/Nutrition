@@ -1,0 +1,1 @@
+{"index": 394, "name": "Babyfood, vegetables, spinach, creamed, strained", "healthiness": {"lactating": [44, 44, 42], "male": [55, 50, 52, 53, 49, 45, 44, 42, 41], "female": [55, 50, 52, 51, 47, 44, 46, 43, 41], "pregnant": [43, 45, 43]}}

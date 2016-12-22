@@ -1,0 +1,1 @@
+{"index": 8676, "name": "Beverage, instant breakfast powder, chocolate, not reconstituted", "healthiness": {"lactating": [16, 17, 16], "male": [23, 21, 19, 24, 23, 20, 20, 20, 18], "female": [23, 21, 19, 22, 21, 18, 20, 18, 17], "pregnant": [16, 18, 16]}}

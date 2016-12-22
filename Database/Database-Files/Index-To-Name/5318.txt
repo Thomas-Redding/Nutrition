@@ -1,0 +1,1 @@
+{"index": 5318, "name": "Lamb, variety meats and by-products, tongue, raw", "healthiness": {"lactating": [26, 26, 24], "male": [44, 35, 33, 32, 30, 27, 25, 23, 23], "female": [44, 35, 33, 30, 28, 26, 26, 24, 21], "pregnant": [26, 26, 24]}}

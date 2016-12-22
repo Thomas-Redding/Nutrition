@@ -1,0 +1,1 @@
+{"index": 5668, "name": "Cookies, brownies, prepared from recipe", "healthiness": {"lactating": [-4, -3, -5], "male": [21, 8, 5, 4, -2, -3, -3, -4, -5], "female": [22, 9, 6, 1, -4, -5, -4, -6, -8], "pregnant": [-4, -3, -4]}}

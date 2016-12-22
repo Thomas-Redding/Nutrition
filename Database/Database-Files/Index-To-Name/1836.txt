@@ -1,0 +1,1 @@
+{"index": 1836, "name": "Cereals, CREAM OF RICE, dry", "healthiness": {"lactating": [4, 5, 3], "male": [29, 22, 18, 17, 8, 5, 4, 4, 2], "female": [30, 22, 18, 15, 7, 3, 4, 2, -1], "pregnant": [4, 5, 3]}}

@@ -1,0 +1,1 @@
+{"index": 8622, "name": "Snacks, potato chips, white, restructured, baked", "healthiness": {"lactating": [-10, -9, -10], "male": [-2, -11, -18, -14, -12, -9, -8, -8, -10], "female": [-2, -11, -18, -16, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

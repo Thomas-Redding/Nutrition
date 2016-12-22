@@ -1,0 +1,1 @@
+{"index": 467, "name": "Babyfood, teething biscuits", "healthiness": {"lactating": [-7, -6, -7], "male": [6, -6, -10, -8, -8, -5, -4, -5, -6], "female": [6, -6, -10, -10, -10, -9, -7, -8, -10], "pregnant": [-8, -6, -7]}}

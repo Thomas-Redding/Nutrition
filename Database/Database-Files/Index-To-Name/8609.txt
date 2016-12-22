@@ -1,0 +1,1 @@
+{"index": 8609, "name": "Margarine-like, vegetable oil spread, stick or tub, sweetened", "healthiness": {"lactating": [-10, -9, -10], "male": [-20, -21, -21, -14, -11, -8, -8, -9, -10], "female": [-20, -21, -21, -16, -13, -11, -10, -11, -13], "pregnant": [-9, -8, -9]}}

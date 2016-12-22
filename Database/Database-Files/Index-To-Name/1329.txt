@@ -1,0 +1,1 @@
+{"index": 1329, "name": "CAMPBELL'S, 98% Fat Free Broccoli Cheese Soup, condensed", "healthiness": {"lactating": [-9, -8, -9], "male": [-23, -24, -24, -18, -13, -8, -8, -8, -10], "female": [-23, -24, -24, -20, -15, -12, -10, -12, -14], "pregnant": [-10, -8, -9]}}

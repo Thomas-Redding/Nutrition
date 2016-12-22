@@ -1,0 +1,1 @@
+{"index": 8088, "name": "Bread, paratha, whole wheat, commercially prepared, frozen", "healthiness": {"lactating": [-8, -7, -8], "male": [3, -9, -14, -11, -9, -7, -6, -6, -7], "female": [3, -9, -14, -13, -11, -9, -7, -9, -10], "pregnant": [-8, -6, -8]}}

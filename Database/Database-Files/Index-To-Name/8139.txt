@@ -1,0 +1,1 @@
+{"index": 8139, "name": "Bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca", "healthiness": {"lactating": [-8, -7, -8], "male": [-1, -12, -15, -11, -9, -7, -5, -6, -7], "female": [-1, -12, -15, -13, -11, -9, -8, -10, -11], "pregnant": [-9, -7, -8]}}

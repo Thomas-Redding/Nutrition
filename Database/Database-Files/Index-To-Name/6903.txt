@@ -1,0 +1,1 @@
+{"index": 6903, "name": "Fast foods, bagel, with egg, sausage patty, cheese, and condiments", "healthiness": {"lactating": [-5, -4, -5], "male": [16, 2, -5, -4, -5, -3, -2, -2, -4], "female": [16, 2, -5, -6, -7, -6, -4, -6, -8], "pregnant": [-5, -4, -5]}}

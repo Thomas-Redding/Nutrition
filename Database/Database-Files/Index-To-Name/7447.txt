@@ -1,0 +1,1 @@
+{"index": 7447, "name": "Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0\" fat, choice, raw", "healthiness": {"lactating": [35, 37, 35], "male": [45, 37, 33, 38, 38, 38, 40, 40, 37], "female": [45, 37, 33, 36, 36, 35, 38, 36, 35], "pregnant": [34, 36, 35]}}

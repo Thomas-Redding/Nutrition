@@ -1,0 +1,1 @@
+{"index": 5254, "name": "Game meat, bison, separable lean only, raw", "healthiness": {"lactating": [27, 28, 27], "male": [29, 23, 22, 25, 26, 27, 29, 29, 28], "female": [29, 23, 22, 23, 23, 24, 27, 25, 25], "pregnant": [24, 26, 25]}}

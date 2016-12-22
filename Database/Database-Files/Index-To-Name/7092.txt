@@ -1,0 +1,1 @@
+{"index": 7092, "name": "KASHI, Chicken Enchilada with Ancho Sauce, Frozen Entree", "healthiness": {"lactating": [-11, -9, -11], "male": [-11, -21, -22, -17, -13, -10, -9, -9, -10], "female": [-11, -21, -22, -19, -16, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

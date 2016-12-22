@@ -1,0 +1,1 @@
+{"index": 3618, "name": "Seeds, safflower seed meal, partially defatted", "healthiness": {"lactating": [35, 36, 34], "male": [38, 33, 32, 37, 38, 36, 37, 35, 34], "female": [38, 33, 32, 35, 36, 35, 37, 35, 33], "pregnant": [33, 36, 34]}}

@@ -1,0 +1,1 @@
+{"index": 7806, "name": "Sauce, OLD EL PASO, enchilada, red, mild, ready to serve", "healthiness": {"lactating": [-4, -3, -4], "male": [11, 2, 0, 0, -2, -2, 0, -1, -2], "female": [11, 2, 0, -2, -4, -4, -2, -4, -5], "pregnant": [-4, -2, -3]}}

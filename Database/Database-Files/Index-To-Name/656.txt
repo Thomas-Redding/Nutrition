@@ -1,0 +1,1 @@
+{"index": 656, "name": "Oil, peanut, salad or cooking", "healthiness": {"lactating": [-13, -12, -13], "male": [-26, -26, -27, -20, -16, -12, -11, -12, -13], "female": [-26, -26, -27, -22, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

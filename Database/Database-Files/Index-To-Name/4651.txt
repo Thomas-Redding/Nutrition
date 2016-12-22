@@ -1,0 +1,1 @@
+{"index": 4651, "name": "Mollusks, scallop, mixed species, imitation, made from surimi", "healthiness": {"lactating": [30, 31, 30], "male": [33, 21, 20, 26, 27, 30, 31, 30, 29], "female": [33, 21, 20, 24, 25, 27, 30, 28, 26], "pregnant": [28, 31, 30]}}

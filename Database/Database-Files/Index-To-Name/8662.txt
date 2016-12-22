@@ -1,0 +1,1 @@
+{"index": 8662, "name": "Chicken, meatless", "healthiness": {"lactating": [4, 6, 4], "male": [12, 4, 3, 6, 6, 7, 9, 9, 7], "female": [12, 4, 3, 4, 4, 5, 7, 5, 4], "pregnant": [4, 6, 5]}}

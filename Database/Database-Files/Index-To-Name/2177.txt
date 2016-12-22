@@ -1,0 +1,1 @@
+{"index": 2177, "name": "Cherries, sour, red, canned, water pack, solids and liquids (includes USDA commodity red tart cherries, canned)", "healthiness": {"lactating": [-1, 0, -1], "male": [13, 5, 3, 4, 2, 2, 3, 2, 1], "female": [13, 5, 3, 2, 0, 0, 1, -1, -2], "pregnant": [-1, 0, -1]}}

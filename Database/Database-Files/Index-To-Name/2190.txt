@@ -1,0 +1,1 @@
+{"index": 2190, "name": "Cranberries, raw", "healthiness": {"lactating": [8, 9, 7], "male": [31, 23, 25, 23, 15, 11, 10, 10, 9], "female": [32, 24, 26, 21, 13, 10, 11, 9, 7], "pregnant": [11, 11, 10]}}

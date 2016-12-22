@@ -1,0 +1,1 @@
+{"index": 4836, "name": "Peanut flour, defatted", "healthiness": {"lactating": [42, 43, 41], "male": [41, 37, 38, 42, 40, 42, 43, 42, 41], "female": [41, 37, 38, 40, 38, 40, 43, 41, 39], "pregnant": [40, 43, 41]}}

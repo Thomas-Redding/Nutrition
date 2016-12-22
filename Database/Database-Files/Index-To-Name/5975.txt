@@ -1,0 +1,1 @@
+{"index": 5975, "name": "HEINZ, WEIGHT WATCHER, Chocolate Eclair, frozen", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -29, -29, -22, -17, -12, -12, -12, -13], "female": [-25, -29, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

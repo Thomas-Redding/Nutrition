@@ -1,0 +1,1 @@
+{"index": 4626, "name": "Crustaceans, lobster, northern, cooked, moist heat", "healthiness": {"lactating": [43, 44, 43], "male": [48, 41, 38, 42, 41, 43, 46, 45, 44], "female": [48, 41, 38, 40, 39, 40, 44, 42, 40], "pregnant": [41, 44, 43]}}

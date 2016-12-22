@@ -1,0 +1,1 @@
+{"index": 184, "name": "Yogurt, fruit, low fat, 10 grams protein per 8 ounce, fortified with vitamin D", "healthiness": {"lactating": [21, 21, 18], "male": [46, 34, 30, 31, 27, 21, 19, 18, 15], "female": [46, 34, 30, 29, 25, 20, 21, 18, 13], "pregnant": [20, 22, 19]}}

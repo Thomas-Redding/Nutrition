@@ -1,0 +1,1 @@
+{"index": 1733, "name": "Oven-roasted chicken breast roll", "healthiness": {"lactating": [26, 27, 26], "male": [42, 31, 25, 27, 27, 29, 29, 28, 26], "female": [42, 31, 25, 25, 25, 26, 28, 26, 23], "pregnant": [26, 28, 26]}}

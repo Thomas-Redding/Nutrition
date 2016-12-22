@@ -1,0 +1,1 @@
+{"index": 4382, "name": "Beverages, Orange-flavor drink, breakfast type, low calorie, powder", "healthiness": {"lactating": [16, 17, 16], "male": [1, 0, 1, 7, 12, 16, 18, 17, 16], "female": [1, 0, 1, 5, 9, 13, 15, 14, 12], "pregnant": [15, 17, 16]}}

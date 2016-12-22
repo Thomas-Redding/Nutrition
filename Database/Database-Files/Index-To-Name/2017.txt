@@ -1,0 +1,1 @@
+{"index": 2017, "name": "Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, microwaved, without salt", "healthiness": {"lactating": [20, 20, 18], "male": [37, 30, 28, 28, 25, 20, 19, 18, 17], "female": [37, 30, 28, 26, 24, 19, 21, 18, 15], "pregnant": [20, 21, 19]}}

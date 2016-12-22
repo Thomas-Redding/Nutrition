@@ -1,0 +1,1 @@
+{"index": 4899, "name": "Campbell's Brown Sugar And Bacon Flavored Baked Beans", "healthiness": {"lactating": [-11, -10, -11], "male": [-25, -28, -25, -19, -14, -10, -9, -10, -11], "female": [-25, -28, -25, -21, -16, -14, -12, -14, -15], "pregnant": [-12, -10, -12]}}

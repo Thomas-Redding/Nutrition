@@ -1,0 +1,1 @@
+{"index": 2868, "name": "Broadbeans, immature seeds, raw", "healthiness": {"lactating": [32, 32, 30], "male": [41, 37, 39, 39, 35, 31, 30, 29, 29], "female": [41, 37, 39, 37, 33, 31, 32, 29, 28], "pregnant": [30, 31, 29]}}

@@ -1,0 +1,1 @@
+{"index": 6833, "name": "McDONALD'S, Chicken McNUGGETS", "healthiness": {"lactating": [-8, -7, -8], "male": [0, -10, -14, -10, -9, -7, -5, -6, -8], "female": [0, -10, -14, -12, -12, -10, -8, -9, -11], "pregnant": [-9, -7, -8]}}

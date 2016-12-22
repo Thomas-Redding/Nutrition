@@ -1,0 +1,1 @@
+{"index": 845, "name": "Chicken, gizzard, all classes, raw", "healthiness": {"lactating": [10, 12, 10], "male": [18, 12, 13, 15, 13, 12, 15, 14, 13], "female": [18, 12, 13, 13, 11, 10, 12, 10, 10], "pregnant": [8, 11, 9]}}

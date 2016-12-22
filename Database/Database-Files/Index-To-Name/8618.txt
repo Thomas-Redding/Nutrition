@@ -1,0 +1,1 @@
+{"index": 8618, "name": "Babyfood, vegetable and brown rice, strained", "healthiness": {"lactating": [-5, -4, -5], "male": [4, -5, -7, -5, -5, -3, -3, -4, -5], "female": [4, -5, -7, -7, -7, -6, -5, -6, -8], "pregnant": [-5, -4, -5]}}

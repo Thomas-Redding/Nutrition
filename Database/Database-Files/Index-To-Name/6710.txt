@@ -1,0 +1,1 @@
+{"index": 6710, "name": "Fast foods, hotdog, plain", "healthiness": {"lactating": [11, 11, 9], "male": [37, 25, 21, 23, 19, 12, 10, 9, 8], "female": [37, 25, 21, 21, 16, 10, 11, 8, 5], "pregnant": [11, 11, 9]}}

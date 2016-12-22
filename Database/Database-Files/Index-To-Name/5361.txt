@@ -1,0 +1,1 @@
+{"index": 5361, "name": "Lamb, New Zealand, imported, frozen, rib, separable lean and fat, trimmed to 1/8\" fat, cooked, roasted", "healthiness": {"lactating": [21, 21, 19], "male": [33, 20, 18, 21, 23, 22, 19, 17, 16], "female": [33, 20, 18, 19, 20, 20, 21, 18, 14], "pregnant": [21, 21, 19]}}

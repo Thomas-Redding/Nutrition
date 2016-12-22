@@ -1,0 +1,1 @@
+{"index": 195, "name": "Cheese, fresh, queso fresco", "healthiness": {"lactating": [-2, -1, -2], "male": [11, -1, -3, -2, -3, -1, 1, 0, -2], "female": [11, -1, -3, -4, -5, -4, -1, -3, -6], "pregnant": [-3, 0, -1]}}

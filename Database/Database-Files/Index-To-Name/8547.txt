@@ -1,0 +1,1 @@
+{"index": 8547, "name": "Restaurant, Chinese, kung pao chicken", "healthiness": {"lactating": [25, 26, 24], "male": [48, 39, 38, 34, 31, 27, 25, 23, 22], "female": [48, 39, 38, 32, 29, 26, 27, 24, 21], "pregnant": [26, 27, 24]}}

@@ -1,0 +1,1 @@
+{"index": 8176, "name": "VAN'S, Gluten Free, Totally Original Waffles", "healthiness": {"lactating": [-8, -7, -8], "male": [-2, -12, -15, -12, -11, -7, -6, -6, -8], "female": [-2, -12, -15, -14, -13, -10, -8, -9, -11], "pregnant": [-9, -6, -8]}}

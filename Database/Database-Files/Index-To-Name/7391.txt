@@ -1,0 +1,1 @@
+{"index": 7391, "name": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean only, Aust. marble score 4/5, raw", "healthiness": {"lactating": [16, 17, 15], "male": [3, 1, 1, 8, 13, 17, 16, 16, 14], "female": [3, 1, 1, 6, 11, 13, 15, 12, 11], "pregnant": [15, 16, 15]}}

@@ -1,0 +1,1 @@
+{"index": 7524, "name": "Beef, New Zealand, imported, bolar blade, separable lean and fat, cooked, fast roasted", "healthiness": {"lactating": [26, 27, 26], "male": [37, 25, 21, 24, 26, 28, 29, 28, 27], "female": [37, 25, 21, 22, 24, 25, 27, 26, 24], "pregnant": [25, 27, 26]}}

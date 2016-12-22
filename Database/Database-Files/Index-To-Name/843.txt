@@ -1,0 +1,1 @@
+{"index": 843, "name": "Chicken, broilers or fryers, giblets, cooked, fried", "healthiness": {"lactating": [46, 48, 46], "male": [49, 44, 44, 49, 49, 50, 51, 50, 48], "female": [49, 44, 44, 47, 46, 46, 48, 47, 46], "pregnant": [44, 46, 45]}}

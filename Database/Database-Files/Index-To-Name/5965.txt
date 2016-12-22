@@ -1,0 +1,1 @@
+{"index": 5965, "name": "NABISCO, NABISCO RITZ Crackers", "healthiness": {"lactating": [-8, -7, -8], "male": [0, -10, -14, -12, -9, -6, -6, -6, -8], "female": [0, -10, -14, -14, -11, -10, -8, -10, -11], "pregnant": [-8, -7, -8]}}

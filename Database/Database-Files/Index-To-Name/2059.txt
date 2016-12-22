@@ -1,0 +1,1 @@
+{"index": 2059, "name": "Cereals ready-to-eat, KASHI Simply Maize", "healthiness": {"lactating": [-9, -7, -9], "male": [-7, -14, -15, -12, -11, -8, -7, -7, -8], "female": [-7, -14, -15, -14, -13, -11, -9, -10, -12], "pregnant": [-10, -8, -9]}}

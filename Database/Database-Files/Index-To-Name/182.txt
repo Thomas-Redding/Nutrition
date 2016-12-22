@@ -1,0 +1,1 @@
+{"index": 182, "name": "Cheese product, pasteurized process, American, reduced fat, fortified with vitamin D", "healthiness": {"lactating": [3, 4, 3], "male": [15, 5, 3, 4, 3, 4, 6, 5, 2], "female": [15, 5, 3, 3, 0, 2, 4, 3, -1], "pregnant": [2, 5, 4]}}

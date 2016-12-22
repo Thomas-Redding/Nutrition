@@ -1,0 +1,1 @@
+{"index": 2458, "name": "Fruit juice smoothie, NAKED JUICE, GREEN MACHINE", "healthiness": {"lactating": [3, 4, 3], "male": [14, 6, 5, 7, 6, 6, 7, 6, 5], "female": [14, 6, 5, 5, 4, 5, 6, 4, 2], "pregnant": [4, 6, 4]}}

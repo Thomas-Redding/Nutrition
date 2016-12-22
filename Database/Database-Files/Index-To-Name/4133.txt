@@ -1,0 +1,1 @@
+{"index": 4133, "name": "Alcoholic beverage, tequila sunrise, canned", "healthiness": {"lactating": [-11, -10, -11], "male": [-7, -18, -20, -15, -11, -8, -8, -9, -10], "female": [-7, -18, -20, -16, -13, -11, -10, -11, -14], "pregnant": [-10, -9, -10]}}

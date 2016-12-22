@@ -1,0 +1,1 @@
+{"index": 4161, "name": "Beverages, Acai berry drink, fortified", "healthiness": {"lactating": [23, 24, 23], "male": [22, 14, 14, 18, 21, 24, 24, 23, 22], "female": [22, 14, 14, 17, 19, 21, 23, 21, 19], "pregnant": [23, 24, 23]}}

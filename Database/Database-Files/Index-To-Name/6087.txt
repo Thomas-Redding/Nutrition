@@ -1,0 +1,1 @@
+{"index": 6087, "name": "Snacks, pretzels, hard, confectioner's coating, chocolate-flavor", "healthiness": {"lactating": [-3, -2, -4], "male": [26, 13, 6, 6, 0, -2, -2, -3, -4], "female": [27, 13, 7, 4, -2, -4, -3, -5, -7], "pregnant": [-3, -2, -4]}}

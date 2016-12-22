@@ -1,0 +1,1 @@
+{"index": 3447, "name": "Potatoes, boiled, cooked in skin, flesh, with salt", "healthiness": {"lactating": [7, 8, 6], "male": [38, 31, 26, 24, 17, 10, 9, 8, 6], "female": [39, 31, 27, 22, 15, 9, 9, 7, 4], "pregnant": [8, 9, 7]}}

@@ -1,0 +1,1 @@
+{"index": 8750, "name": "Babyfood, mixed fruit yogurt, strained", "healthiness": {"lactating": [-10, -8, -10], "male": [-1, -12, -17, -13, -10, -7, -7, -7, -9], "female": [-1, -12, -17, -15, -12, -10, -9, -11, -13], "pregnant": [-9, -8, -9]}}

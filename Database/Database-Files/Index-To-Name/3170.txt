@@ -1,0 +1,1 @@
+{"index": 3170, "name": "Spinach, frozen, chopped or leaf, unprepared", "healthiness": {"lactating": [67, 68, 66], "male": [57, 57, 60, 66, 67, 68, 68, 67, 66], "female": [57, 57, 60, 64, 64, 67, 69, 67, 64], "pregnant": [66, 68, 66]}}

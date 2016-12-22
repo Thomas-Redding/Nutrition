@@ -1,0 +1,1 @@
+{"index": 3226, "name": "Tomatoes, red, ripe, canned, with green chilies", "healthiness": {"lactating": [16, 17, 16], "male": [20, 16, 15, 18, 17, 17, 19, 18, 17], "female": [20, 16, 15, 16, 15, 14, 17, 15, 14], "pregnant": [14, 16, 15]}}

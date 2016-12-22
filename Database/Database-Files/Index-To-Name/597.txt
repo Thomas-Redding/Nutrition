@@ -1,0 +1,1 @@
+{"index": 597, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, liquid concentrate, not reconstituted", "healthiness": {"lactating": [2, 3, 2], "male": [29, 14, 11, 8, 5, 5, 6, 5, 2], "female": [29, 14, 11, 7, 3, 2, 3, 2, -1], "pregnant": [2, 3, 2]}}

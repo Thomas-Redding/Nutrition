@@ -1,0 +1,1 @@
+{"index": 1630, "name": "Braunschweiger (a liver sausage), pork", "healthiness": {"lactating": [28, 28, 25], "male": [49, 43, 37, 41, 37, 30, 28, 26, 25], "female": [49, 43, 37, 39, 35, 28, 28, 25, 23], "pregnant": [27, 27, 25]}}

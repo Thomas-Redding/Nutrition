@@ -1,0 +1,1 @@
+{"index": 5851, "name": "Waffles, plain, frozen, ready-to-heat", "healthiness": {"lactating": [13, 14, 12], "male": [45, 37, 33, 31, 21, 15, 15, 14, 12], "female": [45, 37, 34, 29, 19, 13, 14, 12, 10], "pregnant": [12, 14, 12]}}

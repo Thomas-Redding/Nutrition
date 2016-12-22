@@ -1,0 +1,1 @@
+{"index": 8533, "name": "CRACKER BARREL, chicken tenderloin platter, fried, from kid's menu", "healthiness": {"lactating": [21, 21, 19], "male": [39, 29, 25, 26, 25, 22, 19, 18, 17], "female": [39, 29, 25, 24, 23, 21, 21, 18, 15], "pregnant": [21, 22, 19]}}

@@ -1,0 +1,1 @@
+{"index": 1685, "name": "Thuringer, cervelat, summer sausage, beef, pork", "healthiness": {"lactating": [-4, -3, -4], "male": [7, -4, -7, -5, -5, -2, -1, -2, -4], "female": [7, -4, -7, -7, -7, -5, -4, -5, -7], "pregnant": [-5, -3, -4]}}

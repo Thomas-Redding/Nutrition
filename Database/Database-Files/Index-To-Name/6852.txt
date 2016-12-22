@@ -1,0 +1,1 @@
+{"index": 6852, "name": "McDONALD'S, McFLURRY with OREO cookies", "healthiness": {"lactating": [-8, -6, -8], "male": [6, -8, -12, -10, -9, -6, -5, -5, -7], "female": [6, -8, -12, -12, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -7]}}

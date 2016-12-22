@@ -1,0 +1,1 @@
+{"index": 4565, "name": "Fish, salmon, pink, canned, total can contents", "healthiness": {"lactating": [41, 42, 41], "male": [53, 44, 41, 42, 40, 42, 45, 44, 42], "female": [53, 44, 41, 40, 38, 39, 43, 41, 39], "pregnant": [39, 43, 41]}}

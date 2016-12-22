@@ -1,0 +1,1 @@
+{"index": 4663, "name": "Fish, tuna, white, canned in water, without salt, drained solids", "healthiness": {"lactating": [32, 34, 32], "male": [36, 28, 27, 31, 31, 33, 35, 35, 33], "female": [36, 28, 27, 29, 28, 30, 33, 31, 29], "pregnant": [30, 33, 32]}}

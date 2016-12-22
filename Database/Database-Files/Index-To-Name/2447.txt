@@ -1,0 +1,1 @@
+{"index": 2447, "name": "Nance, frozen, unsweetened", "healthiness": {"lactating": [2, 3, 2], "male": [9, 0, 0, 1, 2, 3, 3, 3, 2], "female": [9, 0, 0, 0, 0, 1, 2, 1, -1], "pregnant": [2, 4, 2]}}

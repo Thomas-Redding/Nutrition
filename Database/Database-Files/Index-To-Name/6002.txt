@@ -1,0 +1,1 @@
+{"index": 6002, "name": "Bread, pound cake type, pan de torta salvadoran", "healthiness": {"lactating": [-2, -1, -3], "male": [20, 9, 6, 6, 0, -1, -2, -2, -3], "female": [20, 10, 7, 4, -2, -4, -3, -5, -7], "pregnant": [-3, -1, -3]}}

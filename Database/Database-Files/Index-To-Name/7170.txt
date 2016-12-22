@@ -1,0 +1,1 @@
+{"index": 7170, "name": "Beef, chuck eye steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw", "healthiness": {"lactating": [35, 37, 35], "male": [47, 39, 33, 37, 37, 38, 40, 39, 37], "female": [47, 39, 33, 35, 34, 34, 37, 35, 34], "pregnant": [34, 36, 35]}}

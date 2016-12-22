@@ -1,0 +1,1 @@
+{"index": 6871, "name": "McDONALD'S, Deluxe Breakfast, with syrup and margarine", "healthiness": {"lactating": [-9, -8, -9], "male": [2, -12, -17, -13, -11, -8, -7, -7, -9], "female": [2, -12, -17, -15, -13, -11, -9, -11, -12], "pregnant": [-10, -8, -9]}}

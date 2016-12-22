@@ -1,0 +1,145 @@
+<menu>
+	<div id="menu-img">
+		<img src="images/menu.svg" onclick="main_menu_widget.menu_icon_clicked();">
+	</div>
+	<ul>
+		<li onclick="main_menu_widget.open_nutrition();">Nutrition</li>
+		<li onclick="main_menu_widget.open_energy();"">Energy</li>
+		<li>Summary</li>
+		<li onclick="main_menu_widget.open_settings();">Settings</li>
+		<li onclick="main_menu_widget.log_out();">Log Out</li>
+	</ul>
+</menu>
+<style>
+menu {
+	width: 100%;
+	height: 1.95em;
+	left: 0;
+	top: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	position: relative;
+	z-index: 200;
+}
+
+menu a {
+	color: inherit;
+	text-decoration: none;
+}
+
+menu > ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 100vw;
+}
+
+menu > ul > li {
+	margin: 0;
+	padding: 0.8em 0;
+	border: none;
+	display: block;
+	float: left;
+	width: 20%;
+	background-color: hsl(220, 10%, 16%);
+	color: hsl(220, 20%, 93%);
+	text-align: center;
+	cursor: pointer;
+}
+
+menu > ul > li:hover {
+	color: hsl(220, 10%, 65%);
+}
+
+#menu-img {
+	display: none;
+}
+
+#menu-img > img {
+	cursor: pointer;
+}
+
+@media screen and (max-width: 38em) {
+	menu {
+		position: fixed;
+	}
+	menu > #menu-img {
+		display: block;
+	}
+	menu > ul {
+		display: none;
+	}
+	menu > ul > li {
+		width: 100%;
+	}
+}
+
+</style>
+<script>
+function Main_Menu_Widget(d) {
+	var self = this;
+	self.div = d;
+	self.oldUseMobile = window.matchMedia('(max-width: 38em)').matches;
+	self.resize = function() {
+		var useMobile = window.matchMedia('(max-width: 38em)').matches;
+		if (useMobile) {
+			if (!self.oldUseMobile) {
+				self.hide_menu();
+			}
+		}
+		else {
+			if (self.oldUseMobile) {
+				self.show_menu();
+			}
+		}
+		self.oldUseMobile = useMobile;
+	}
+
+	self.menu_icon_clicked = function() {
+		if (self.isMenuShowing)
+			self.hide_menu()
+		else
+			self.show_menu()
+	}
+
+	self.show_menu = function() {
+		$("menu > ul").css("display", "block");
+		$("#menu-img > img").css("filter", "invert(90%)");
+		$("#menu-img").css("background-color", "hsl(220, 10%, 16%)");
+		self.isMenuShowing = true;
+	}
+
+	self.hide_menu = function() {
+		$("menu > ul").css("display", "none");
+		$("#menu-img > img").css("filter", "invert(10%)");
+		$("#menu-img").css("background-color", "transparent");
+		self.isMenuShowing = false;
+	}
+
+	self.isMenuShowing = false;
+	$("#menu-img > img").css("filter", "invert(10%)");
+
+	shared_gui.add_resize_callback(self.resize);
+	self.resize();
+
+	self.open_nutrition = function() {
+		window.location.href = "index.php";
+	}
+
+	self.open_settings = function() {
+		window.location.href = "settings.php";
+	}
+
+	self.open_energy = function() {
+		window.location.href = "energy.php";
+	}
+
+	self.log_out = function() {
+		window.location.href = "unsecure_logout.php?username=" + cache.getUsername();
+	}
+}
+
+var main_menu_widget = new Main_Menu_Widget($("menu"));
+
+</script>

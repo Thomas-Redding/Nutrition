@@ -1,0 +1,1 @@
+{"index": 1966, "name": "Cereals ready-to-eat, KASHI, ORGANIC PROMISE Autumn Wheat", "healthiness": {"lactating": [-3, -2, -3], "male": [4, -3, -6, -4, -4, -2, 0, -1, -2], "female": [4, -3, -6, -6, -6, -5, -3, -4, -5], "pregnant": [-4, -2, -3]}}

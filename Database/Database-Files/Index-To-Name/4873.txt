@@ -1,0 +1,1 @@
+{"index": 4873, "name": "Falafel, home-prepared", "healthiness": {"lactating": [9, 9, 7], "male": [30, 21, 16, 18, 14, 9, 7, 6, 5], "female": [30, 21, 16, 16, 12, 7, 8, 5, 2], "pregnant": [8, 9, 6]}}

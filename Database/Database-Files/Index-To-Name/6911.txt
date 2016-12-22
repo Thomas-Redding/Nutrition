@@ -1,0 +1,1 @@
+{"index": 6911, "name": "KFC, biscuit", "healthiness": {"lactating": [2, 2, 1], "male": [25, 15, 12, 12, 5, 2, 2, 1, 0], "female": [25, 16, 13, 9, 3, -1, 1, -1, -3], "pregnant": [1, 2, 0]}}

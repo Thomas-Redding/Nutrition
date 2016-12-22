@@ -1,0 +1,1 @@
+{"index": 2250, "name": "Jujube, raw", "healthiness": {"lactating": [-6, -4, -6], "male": [3, -7, -12, -9, -7, -4, -3, -4, -5], "female": [3, -7, -12, -11, -9, -7, -6, -7, -9], "pregnant": [-6, -5, -6]}}

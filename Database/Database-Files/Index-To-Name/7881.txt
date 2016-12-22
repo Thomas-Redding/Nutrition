@@ -1,0 +1,1 @@
+{"index": 7881, "name": "KEEBLER, E.L. FUDGE, Double Stuffed Cookies", "healthiness": {"lactating": [-13, -11, -13], "male": [-21, -27, -27, -21, -16, -12, -11, -11, -12], "female": [-21, -27, -27, -23, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

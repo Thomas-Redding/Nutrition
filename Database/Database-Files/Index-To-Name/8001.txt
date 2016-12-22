@@ -1,0 +1,1 @@
+{"index": 8001, "name": "MOTHER'S, Double Fudge Creme Sandwich Cookies", "healthiness": {"lactating": [-12, -10, -12], "male": [-15, -24, -24, -19, -14, -11, -10, -10, -11], "female": [-15, -24, -24, -21, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

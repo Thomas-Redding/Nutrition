@@ -1,0 +1,1 @@
+{"index": 2597, "name": "Pork, cured, breakfast strips, raw or unheated", "healthiness": {"lactating": [4, 5, 3], "male": [35, 20, 19, 20, 12, 6, 4, 3, 2], "female": [35, 20, 19, 18, 9, 4, 4, 2, -1], "pregnant": [5, 5, 3]}}

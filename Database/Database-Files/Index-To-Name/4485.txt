@@ -1,0 +1,1 @@
+{"index": 4485, "name": "Fish, bass, striped, raw", "healthiness": {"lactating": [34, 35, 34], "male": [40, 32, 32, 35, 34, 35, 38, 37, 35], "female": [40, 32, 32, 33, 32, 32, 35, 34, 32], "pregnant": [32, 35, 34]}}

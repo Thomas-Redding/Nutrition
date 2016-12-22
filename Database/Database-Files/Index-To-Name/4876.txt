@@ -1,0 +1,1 @@
+{"index": 4876, "name": "Beans, kidney, red, mature seeds, canned, drained solids", "healthiness": {"lactating": [21, 22, 19], "male": [27, 22, 21, 23, 24, 21, 19, 18, 18], "female": [27, 22, 21, 21, 22, 20, 21, 18, 16], "pregnant": [21, 22, 19]}}

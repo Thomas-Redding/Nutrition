@@ -1,0 +1,1 @@
+{"index": 2260, "name": "Lime juice, raw", "healthiness": {"lactating": [1, 2, 0], "male": [27, 15, 9, 7, 2, 2, 3, 2, 1], "female": [27, 16, 10, 5, 0, 0, 2, 0, -2], "pregnant": [1, 2, 1]}}

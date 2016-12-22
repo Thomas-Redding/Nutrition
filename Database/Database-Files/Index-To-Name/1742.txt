@@ -1,0 +1,1 @@
+{"index": 1742, "name": "Turkey, white, rotisserie, deli cut", "healthiness": {"lactating": [34, 36, 34], "male": [45, 37, 37, 39, 37, 36, 38, 38, 36], "female": [45, 37, 37, 37, 34, 34, 36, 35, 34], "pregnant": [32, 35, 34]}}

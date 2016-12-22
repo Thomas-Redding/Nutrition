@@ -1,0 +1,1 @@
+{"index": 4714, "name": "Fish, salmon, Atlantic, farmed, cooked, dry heat", "healthiness": {"lactating": [36, 37, 36], "male": [45, 35, 34, 37, 37, 39, 39, 38, 37], "female": [45, 35, 34, 35, 35, 36, 38, 37, 34], "pregnant": [36, 38, 37]}}

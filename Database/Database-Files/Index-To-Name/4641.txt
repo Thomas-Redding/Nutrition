@@ -1,0 +1,1 @@
+{"index": 4641, "name": "Mollusks, mussel, blue, raw", "healthiness": {"lactating": [44, 45, 44], "male": [52, 49, 48, 51, 46, 46, 48, 47, 46], "female": [52, 49, 48, 49, 44, 44, 46, 45, 43], "pregnant": [42, 45, 44]}}

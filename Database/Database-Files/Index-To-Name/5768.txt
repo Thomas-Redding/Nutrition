@@ -1,0 +1,1 @@
+{"index": 5768, "name": "English muffins, wheat, toasted", "healthiness": {"lactating": [13, 13, 11], "male": [42, 32, 26, 27, 20, 14, 13, 11, 10], "female": [42, 32, 27, 25, 19, 13, 14, 11, 9], "pregnant": [13, 14, 11]}}

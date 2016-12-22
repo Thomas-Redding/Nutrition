@@ -1,0 +1,1 @@
+{"index": 2976, "name": "Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt", "healthiness": {"lactating": [20, 20, 18], "male": [39, 32, 29, 29, 26, 21, 19, 18, 17], "female": [39, 32, 29, 27, 24, 20, 21, 18, 16], "pregnant": [19, 20, 18]}}

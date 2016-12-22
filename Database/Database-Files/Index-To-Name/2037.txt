@@ -1,0 +1,1 @@
+{"index": 2037, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Blueberry", "healthiness": {"lactating": [14, 16, 14], "male": [19, 15, 11, 14, 17, 18, 18, 17, 15], "female": [19, 15, 11, 12, 14, 16, 17, 16, 13], "pregnant": [16, 17, 16]}}

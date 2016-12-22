@@ -1,0 +1,1 @@
+{"index": 7515, "name": "Beef, New Zealand, imported, sweetbread, cooked, boiled", "healthiness": {"lactating": [14, 14, 12], "male": [33, 20, 18, 23, 20, 14, 12, 11, 10], "female": [33, 20, 18, 21, 18, 12, 13, 10, 7], "pregnant": [14, 14, 12]}}

@@ -1,0 +1,1 @@
+{"index": 8281, "name": "Infant formula, MEAD JOHNSON, ENFAMIL, Premature, 20 calories ready-to-feed Low iron", "healthiness": {"lactating": [13, 14, 13], "male": [35, 25, 22, 22, 20, 18, 18, 18, 16], "female": [35, 25, 22, 20, 17, 16, 18, 16, 14], "pregnant": [14, 16, 15]}}

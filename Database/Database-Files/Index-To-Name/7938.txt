@@ -1,0 +1,1 @@
+{"index": 7938, "name": "KEEBLER, TOASTEDS, Party Pack Cracker Assortment", "healthiness": {"lactating": [-12, -11, -12], "male": [-18, -23, -25, -19, -15, -11, -10, -11, -12], "female": [-18, -23, -25, -21, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

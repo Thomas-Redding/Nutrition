@@ -1,0 +1,1 @@
+{"index": 2701, "name": "Pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted", "healthiness": {"lactating": [33, 34, 33], "male": [46, 37, 35, 37, 33, 34, 36, 35, 33], "female": [46, 37, 35, 35, 31, 32, 35, 33, 30], "pregnant": [31, 34, 33]}}

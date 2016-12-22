@@ -1,0 +1,1 @@
+{"index": 2950, "name": "Cowpeas, young pods with seeds, cooked, boiled, drained, without salt", "healthiness": {"lactating": [15, 17, 15], "male": [20, 17, 17, 20, 20, 19, 22, 21, 19], "female": [20, 17, 17, 18, 18, 18, 20, 18, 17], "pregnant": [15, 18, 17]}}

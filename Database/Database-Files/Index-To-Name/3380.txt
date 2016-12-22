@@ -1,0 +1,1 @@
+{"index": 3380, "name": "Celeriac, cooked, boiled, drained, with salt", "healthiness": {"lactating": [4, 6, 4], "male": [16, 11, 10, 11, 8, 7, 9, 9, 6], "female": [16, 11, 10, 9, 6, 5, 7, 6, 4], "pregnant": [3, 6, 5]}}

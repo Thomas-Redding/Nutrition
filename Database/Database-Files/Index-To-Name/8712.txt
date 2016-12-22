@@ -1,0 +1,1 @@
+{"index": 8712, "name": "Mayonnaise, low sodium, low calorie or diet", "healthiness": {"lactating": [-11, -10, -11], "male": [-21, -21, -22, -17, -12, -9, -9, -10, -11], "female": [-21, -21, -22, -18, -15, -13, -11, -13, -15], "pregnant": [-10, -9, -11]}}

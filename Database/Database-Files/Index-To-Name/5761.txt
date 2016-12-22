@@ -1,0 +1,1 @@
+{"index": 5761, "name": "English muffins, plain, enriched, with ca prop (includes sourdough)", "healthiness": {"lactating": [14, 14, 11], "male": [43, 32, 25, 26, 20, 14, 12, 11, 10], "female": [43, 32, 25, 24, 19, 12, 13, 10, 8], "pregnant": [13, 13, 11]}}

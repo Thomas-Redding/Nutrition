@@ -1,0 +1,1 @@
+{"index": 4684, "name": "Fish, roe, mixed species, cooked, dry heat", "healthiness": {"lactating": [35, 36, 35], "male": [48, 35, 34, 36, 35, 37, 39, 38, 37], "female": [48, 35, 34, 34, 33, 34, 37, 35, 33], "pregnant": [35, 37, 36]}}

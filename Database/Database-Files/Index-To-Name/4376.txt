@@ -1,0 +1,1 @@
+{"index": 4376, "name": "Beverages, cocoa mix, with aspartame, powder, prepared with water", "healthiness": {"lactating": [6, 7, 6], "male": [18, 12, 9, 10, 8, 7, 10, 10, 8], "female": [18, 12, 9, 8, 6, 5, 9, 7, 6], "pregnant": [4, 8, 6]}}

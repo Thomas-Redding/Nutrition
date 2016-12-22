@@ -1,0 +1,1 @@
+{"index": 1409, "name": "Soup, tomato, canned, prepared with equal volume low fat (2%) milk", "healthiness": {"lactating": [23, 23, 20], "male": [55, 45, 39, 39, 33, 24, 22, 20, 18], "female": [55, 45, 39, 37, 31, 23, 24, 21, 17], "pregnant": [23, 24, 22]}}

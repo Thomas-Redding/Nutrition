@@ -1,0 +1,1 @@
+{"index": 2482, "name": "Pork, fresh, backfat, raw", "healthiness": {"lactating": [-11, -10, -11], "male": [-16, -20, -20, -16, -13, -10, -10, -10, -12], "female": [-16, -19, -20, -18, -15, -13, -12, -14, -16], "pregnant": [-11, -10, -11]}}

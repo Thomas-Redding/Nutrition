@@ -1,0 +1,1 @@
+{"index": 4096, "name": "Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0\" fat, all grades, cooked, roasted", "healthiness": {"lactating": [30, 31, 30], "male": [44, 33, 28, 32, 33, 33, 34, 33, 32], "female": [44, 33, 28, 31, 31, 30, 33, 31, 29], "pregnant": [30, 32, 30]}}

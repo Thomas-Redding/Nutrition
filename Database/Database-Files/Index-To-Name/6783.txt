@@ -1,0 +1,1 @@
+{"index": 6783, "name": "BURGER KING, Premium Fish Sandwich", "healthiness": {"lactating": [9, 9, 7], "male": [33, 21, 17, 19, 15, 9, 7, 6, 5], "female": [33, 21, 17, 17, 13, 8, 8, 5, 2], "pregnant": [9, 9, 7]}}

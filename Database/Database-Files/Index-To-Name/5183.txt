@@ -1,0 +1,1 @@
+{"index": 5183, "name": "Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, cooked, braised", "healthiness": {"lactating": [24, 25, 23], "male": [33, 21, 18, 22, 23, 25, 24, 22, 21], "female": [33, 21, 18, 20, 21, 22, 24, 22, 19], "pregnant": [23, 25, 23]}}

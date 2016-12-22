@@ -1,0 +1,1 @@
+{"index": 5861, "name": "Bread crumbs, dry, grated, seasoned", "healthiness": {"lactating": [12, 12, 10], "male": [45, 33, 28, 26, 19, 13, 11, 9, 9], "female": [45, 34, 28, 24, 17, 11, 12, 9, 7], "pregnant": [12, 12, 10]}}

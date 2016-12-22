@@ -1,0 +1,1 @@
+{"index": 264, "name": "Spices, curry powder", "healthiness": {"lactating": [35, 35, 33], "male": [48, 44, 45, 48, 41, 35, 33, 32, 30], "female": [48, 44, 45, 46, 39, 33, 36, 33, 29], "pregnant": [33, 35, 32]}}

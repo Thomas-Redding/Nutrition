@@ -1,0 +1,1 @@
+{"index": 491, "name": "Babyfood, dinner, mixed vegetable, junior", "healthiness": {"lactating": [7, 9, 7], "male": [23, 17, 16, 17, 13, 11, 11, 11, 9], "female": [23, 17, 16, 15, 11, 10, 11, 9, 8], "pregnant": [8, 10, 8]}}

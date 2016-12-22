@@ -1,0 +1,1 @@
+{"index": 3460, "name": "Pumpkin, canned, with salt", "healthiness": {"lactating": [29, 29, 27], "male": [53, 50, 51, 51, 40, 31, 30, 29, 28], "female": [54, 51, 51, 49, 39, 31, 32, 29, 27], "pregnant": [28, 30, 28]}}

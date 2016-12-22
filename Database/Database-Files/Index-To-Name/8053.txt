@@ -1,0 +1,1 @@
+{"index": 8053, "name": "SUNSHINE, CHEEZ-IT, 100 Calorie Right Bites, Reduced Fat", "healthiness": {"lactating": [-10, -9, -10], "male": [-11, -19, -21, -16, -13, -9, -8, -9, -10], "female": [-11, -19, -21, -18, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

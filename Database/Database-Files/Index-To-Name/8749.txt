@@ -1,0 +1,1 @@
+{"index": 8749, "name": "Frozen novelties, ice type, pop, with low calorie sweetener", "healthiness": {"lactating": [-5, -4, -5], "male": [-17, -19, -18, -12, -7, -4, -3, -4, -5], "female": [-17, -19, -18, -14, -10, -8, -7, -8, -8], "pregnant": [-7, -6, -7]}}

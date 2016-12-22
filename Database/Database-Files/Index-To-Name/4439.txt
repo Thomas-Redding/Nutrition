@@ -1,0 +1,1 @@
+{"index": 4439, "name": "Beverages, Water with added vitamins and minerals, bottles, sweetened, assorted fruit flavors", "healthiness": {"lactating": [9, 10, 9], "male": [9, 6, 4, 9, 11, 12, 13, 13, 10], "female": [9, 6, 4, 7, 9, 10, 12, 11, 8], "pregnant": [10, 11, 10]}}

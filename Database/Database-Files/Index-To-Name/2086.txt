@@ -1,0 +1,1 @@
+{"index": 2086, "name": "Cereals ready-to-eat, GENERAL MILLS, FROSTED TOAST CRUNCH", "healthiness": {"lactating": [8, 9, 8], "male": [5, 1, 2, 6, 9, 11, 12, 11, 8], "female": [5, 1, 2, 4, 7, 8, 9, 8, 6], "pregnant": [5, 7, 6]}}

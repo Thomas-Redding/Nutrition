@@ -1,0 +1,1 @@
+{"index": 4291, "name": "Beverages, OCEAN SPRAY, White Cranberry Strawberry Flavored Juice Drink", "healthiness": {"lactating": [-7, -6, -7], "male": [-5, -14, -17, -12, -9, -6, -5, -6, -7], "female": [-5, -14, -17, -14, -11, -9, -7, -9, -11], "pregnant": [-7, -6, -7]}}

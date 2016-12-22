@@ -1,0 +1,1 @@
+{"index": 1561, "name": "Soup, chicken mushroom chowder, chunky, ready-to-serve, single brand", "healthiness": {"lactating": [-13, -11, -13], "male": [-26, -29, -26, -21, -16, -12, -11, -11, -12], "female": [-26, -29, -26, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

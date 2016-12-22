@@ -1,0 +1,1 @@
+{"index": 7317, "name": "Beef, rib, back ribs, bone-in, separable lean and fat, trimmed to 0\" fat, choice, raw", "healthiness": {"lactating": [15, 15, 13], "male": [33, 24, 19, 22, 21, 16, 13, 11, 10], "female": [33, 24, 19, 20, 19, 14, 15, 12, 8], "pregnant": [15, 15, 13]}}

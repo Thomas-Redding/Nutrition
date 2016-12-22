@@ -1,0 +1,1 @@
+{"index": 1225, "name": "Soup, chili beef, canned, condensed", "healthiness": {"lactating": [2, 3, 2], "male": [19, 11, 8, 7, 5, 5, 6, 6, 4], "female": [19, 11, 8, 5, 3, 2, 5, 3, 2], "pregnant": [2, 4, 3]}}

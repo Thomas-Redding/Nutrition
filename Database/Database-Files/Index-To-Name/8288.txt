@@ -1,0 +1,1 @@
+{"index": 8288, "name": "Ascidians (tunughnak) (Alaska Native)", "healthiness": {"lactating": [-4, -3, -4], "male": [-19, -19, -19, -12, -8, -4, -2, -3, -5], "female": [-19, -19, -19, -14, -11, -7, -5, -7, -9], "pregnant": [-5, -3, -4]}}

@@ -1,0 +1,1 @@
+{"index": 7500, "name": "Beef, New Zealand, imported, knuckle, cooked, fast fried", "healthiness": {"lactating": [29, 31, 29], "male": [37, 28, 27, 29, 29, 31, 33, 32, 30], "female": [37, 28, 27, 28, 27, 28, 31, 29, 28], "pregnant": [28, 30, 29]}}

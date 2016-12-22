@@ -1,0 +1,1 @@
+{"index": 6251, "name": "Candies, HERSHEY'S MILK CHOCOLATE WITH ALMOND BITES", "healthiness": {"lactating": [-11, -10, -11], "male": [-6, -20, -22, -17, -14, -10, -9, -10, -11], "female": [-6, -20, -22, -19, -16, -13, -12, -13, -15], "pregnant": [-12, -10, -11]}}

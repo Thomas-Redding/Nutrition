@@ -1,0 +1,205 @@
+<div id="api-widget">
+	<img src="images/waiting.gif"/>
+</div>
+<style>
+#api-widget {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 1000;
+	display: none;
+}
+
+#api-widget > img {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+</style>
+<script>
+function Api(d) {
+	var self = this;
+	self.div = d;
+	self.current_callback = null;
+	self.waiting_for = null;
+	self.search_for_foods = function(search_string, callback) {
+		if (self.current_callback != null) {
+			callback(null);
+			return;
+		}
+		self.waiting_for = self.search_for_foods;
+		self.current_callback = callback;
+		self.div.css("display", "block");
+		var url = "../Database/API/search-foods.php?str=" + search_string;
+		$.ajax(url).done(self.callback);
+	}
+
+	self._verify_security_token = function() {
+		var token = cache.getSecurityToken();
+		if (self.current_callback != null) {
+			self._verify_security_token_callback(null);
+			return;
+		}
+		self.current_callback = self._verify_security_token_callback;
+		self.div.css("display", "block");
+		var url = "../Database/API/verify-token.php?token=" + cache.getSecurityToken() + "&username=" + cache.getUsername();
+		$.ajax(url).done(self.callback);
+	}
+
+	self._verify_security_token_callback = function(response) {
+		if (response["response"] == 0) {
+			window.location.href = "login.php";
+		}
+		else {
+			shared_gui.confirm_token();
+		}
+	}
+
+	self.get_food = function(index, callback) {
+		if (self.current_callback != null) {
+			callback(null);
+			return;
+		}
+		self.waiting_for = self.get_food;
+		self.current_callback = callback;
+		self.div.css("display", "block");
+		var url = "../Database/API/get-food.php?index=" + index;
+		$.ajax(url).done(self.callback);
+	}
+
+	self.callback = function(data) {
+		data = JSON.parse(data);
+		if (self.waiting_for == self.search_for_foods) {
+			console.log(data);
+		}
+		var call = self.current_callback;
+		self.div.css("display", "none");
+		self.waiting_for = null;
+		self.current_callback = null;
+		call(data);
+	}
+
+	self._string_to_trichars = function(str) {
+		var rtn = {};
+		for (var i = 0; i < str.length - 2; ++i)
+			rtn[str.substr(i, 3)] = 1;
+		return rtn;
+	}
+
+	self._trichar_matching = function(a, b) {
+		var score = 0;
+		for (key in a) {
+			if (key in b)
+				++score;
+		}
+		for (key in b) {
+			if (key in a)
+				++score;
+		}
+		return score;
+	}
+
+	self.get_quick_food_results = function(search_str) {
+		search_str = search_str.toLowerCase().replace(/[^0-9a-zA-z\s]/g, '');
+		var search_arr = self._string_to_trichars(search_str);
+		var cached_foods = cache.getFoodNames();
+		var rtn = [];
+		for (id in cached_foods) {
+			var name = cached_foods[id];
+			name = name.toLowerCase().replace(/[^0-9a-zA-z\s]/g, '');
+
+			var score = self._trichar_matching(self._string_to_trichars(name), search_arr);
+			for (i = 0; i < 4; ++i) {
+				if (name.length >= i && name.substr(0, i) == search_str.substr(0, i))
+				score += i;
+			}
+
+			if (score > 0) {
+				rtn.push({
+					"name": cached_foods[id],
+					"index": id,
+					"score": score / name.length
+				});
+			}
+		}
+		rtn.sort(function (a, b) {
+			return b.score - a.score;
+		})
+		if (rtn.length > 5)
+			rtn.splice(5, rtn.length - 5);
+		return rtn;
+	}
+
+	self.get_day = function(date, callback) {
+		if (self.current_callback != null) {
+			callback(null);
+			return;
+		}
+		self.waiting_for = self.get_day;
+		self.current_callback = callback;
+		self.div.css("display", "block");
+		var url = "../Database/API/get-day.php?username=" + cache.getUsername() + "&day=" + self._date_to_8str(date) + "&token=" + cache.getSecurityToken();
+		$.ajax(url).done(self.callback);
+	}
+
+	self.set_day = function(date, json, callback) {
+		if (self.current_callback != null) {
+			callback(null);
+			return;
+		}
+		self.waiting_for = self.set_day;
+		self.current_callback = callback;
+		self.div.css("display", "block");
+		var url = "../Database/API/set-day.php?username=" + cache.getUsername() + "&day=" + self._date_to_8str(date) + "&token=" + cache.getSecurityToken() + "&json=" + JSON.stringify(json);
+		$.ajax(url).done(self.callback);
+	}
+
+	self._date_to_8str = function(d) {
+		return self._number_to_two_digits(d.getMonth()+1) + "" + self._number_to_two_digits(d.getDate()) + "" + d.getFullYear();
+	}
+
+	self._number_to_two_digits = function(num) {
+		if (num < 10)
+			return "0" + num;
+		else if (num < 100)
+			return num;
+		else
+			return num%100;
+	}
+
+	self.cache_food = function(data) {
+		cache.addFoodName(data["food_id"], data["short_name"]);
+	}
+
+	self.get_DRIs = function(lifestyle, age, callback) {
+		if (self.current_callback != null) {
+			callback(null);
+			return;
+		}
+		self.waiting_for = self.get_DRIs;
+		self.current_callback = callback;
+		self.div.css("display", "block");
+		var url = "../Database/API/getDRIs.php?lifestyle=" + lifestyle + "&age=" + age;
+		$.ajax(url).done(self.callback);
+	}
+
+	self.get_my_demographic_info = function(callback) {
+		if (self.current_callback != null) {
+			callback(null);
+			return;
+		}
+		self.waiting_for = self.get_my_demographic_info;
+		self.current_callback = callback;
+		self.div.css("display", "block");
+		var url = "../Database/API/get-my-demographic-info.php?username=" + cache.getUsername() + "&token=" + cache.getSecurityToken();
+		$.ajax(url).done(self.callback);
+	}
+
+	self._verify_security_token();
+}
+
+var api = new Api($("#api-widget"));
+</script>

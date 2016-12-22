@@ -1,0 +1,1 @@
+{"index": 1906, "name": "Cereals, QUAKER, QUAKER MultiGrain Oatmeal, prepared with water, salt", "healthiness": {"lactating": [-2, 0, -2], "male": [3, -2, -4, -1, -2, -1, 1, 1, -1], "female": [3, -2, -4, -3, -4, -3, -1, -2, -4], "pregnant": [-3, 0, -2]}}

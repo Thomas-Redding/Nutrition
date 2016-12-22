@@ -1,0 +1,1 @@
+{"index": 6846, "name": "McDONALD'S, Vanilla Reduced Fat Ice Cream Cone", "healthiness": {"lactating": [-8, -6, -8], "male": [6, -8, -12, -9, -9, -6, -5, -5, -7], "female": [6, -8, -12, -11, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -7]}}

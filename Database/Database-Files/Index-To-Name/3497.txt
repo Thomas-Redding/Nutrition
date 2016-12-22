@@ -1,0 +1,1 @@
+{"index": 3497, "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added", "healthiness": {"lactating": [41, 41, 38], "male": [58, 55, 59, 58, 51, 43, 41, 39, 38], "female": [58, 56, 59, 56, 49, 43, 43, 41, 39], "pregnant": [41, 42, 39]}}

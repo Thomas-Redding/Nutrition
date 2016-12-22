@@ -1,0 +1,1 @@
+{"index": 970, "name": "Goose, domesticated, meat only, raw", "healthiness": {"lactating": [35, 36, 35], "male": [46, 39, 41, 44, 40, 39, 41, 40, 38], "female": [46, 39, 41, 42, 38, 36, 39, 37, 36], "pregnant": [34, 37, 35]}}

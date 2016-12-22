@@ -1,0 +1,1 @@
+{"index": 4535, "name": "Fish, monkfish, raw", "healthiness": {"lactating": [34, 35, 34], "male": [40, 31, 31, 34, 33, 35, 37, 36, 34], "female": [40, 31, 31, 32, 31, 32, 35, 33, 31], "pregnant": [32, 35, 34]}}

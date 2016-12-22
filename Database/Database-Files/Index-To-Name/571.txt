@@ -1,0 +1,1 @@
+{"index": 571, "name": "Child formula, ABBOTT NUTRITION, PEDIASURE, ready-to-feed, with iron and fiber", "healthiness": {"lactating": [6, 7, 6], "male": [30, 22, 17, 17, 12, 10, 11, 10, 7], "female": [30, 22, 17, 15, 10, 7, 9, 7, 5], "pregnant": [6, 8, 7]}}

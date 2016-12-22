@@ -1,0 +1,1 @@
+{"index": 6509, "name": "Rice, brown, parboiled, dry, UNCLE BEN'S", "healthiness": {"lactating": [-4, -2, -4], "male": [7, 1, -4, -3, -4, -2, 0, -1, -2], "female": [7, 1, -4, -5, -6, -5, -2, -4, -6], "pregnant": [-4, -2, -3]}}

@@ -1,0 +1,1 @@
+{"index": 4419, "name": "Carbonated beverage, low calorie, other than cola or pepper, with sodium saccharin, without caffeine", "healthiness": {"lactating": ["-", "-", "-"], "male": ["-", "-", "-", "-", "-", "-", "-", "-", "-"], "female": ["-", "-", "-", "-", "-", "-", "-", "-", "-"], "pregnant": ["-", "-", "-"]}}

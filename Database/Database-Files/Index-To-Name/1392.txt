@@ -1,0 +1,1 @@
+{"index": 1392, "name": "CAMPBELL'S Red and White, Cream of Celery Soup, condensed", "healthiness": {"lactating": [-13, -12, -13], "male": [-29, -29, -28, -21, -16, -12, -11, -12, -13], "female": [-29, -29, -28, -23, -18, -15, -13, -15, -17], "pregnant": [-13, -11, -13]}}

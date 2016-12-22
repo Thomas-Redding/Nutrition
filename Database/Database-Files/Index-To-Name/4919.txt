@@ -1,0 +1,1 @@
+{"index": 4919, "name": "Soymilk, chocolate, nonfat, with added calcium, vitamins A and D", "healthiness": {"lactating": [10, 12, 10], "male": [19, 13, 11, 13, 11, 11, 14, 13, 10], "female": [19, 13, 11, 11, 8, 9, 12, 11, 7], "pregnant": [9, 12, 11]}}

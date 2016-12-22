@@ -1,0 +1,1 @@
+{"index": 1895, "name": "Cereals, QUAKER, Instant Oatmeal, fruit and cream variety, dry", "healthiness": {"lactating": [6, 7, 6], "male": [18, 13, 8, 10, 11, 9, 11, 10, 8], "female": [18, 13, 8, 8, 8, 8, 9, 8, 7], "pregnant": [6, 8, 6]}}

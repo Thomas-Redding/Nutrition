@@ -1,0 +1,1 @@
+{"index": 1639, "name": "Frankfurter, turkey", "healthiness": {"lactating": [22, 22, 20], "male": [43, 31, 25, 26, 25, 22, 20, 18, 17], "female": [43, 31, 25, 24, 22, 20, 22, 19, 15], "pregnant": [21, 22, 20]}}

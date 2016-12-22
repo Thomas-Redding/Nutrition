@@ -1,0 +1,1 @@
+{"index": 7788, "name": "Sauce, tartar, ready-to-serve", "healthiness": {"lactating": [-9, -8, -9], "male": [-9, -19, -20, -15, -11, -7, -8, -8, -10], "female": [-9, -19, -20, -17, -13, -11, -10, -11, -13], "pregnant": [-9, -8, -9]}}

@@ -1,0 +1,1 @@
+{"index": 1492, "name": "CAMPBELL'S Low Sodium Soups, Chicken with Noodles Soup", "healthiness": {"lactating": [-13, -12, -13], "male": [-26, -29, -28, -22, -16, -12, -11, -12, -13], "female": [-26, -29, -28, -23, -18, -15, -14, -16, -17], "pregnant": [-13, -12, -13]}}

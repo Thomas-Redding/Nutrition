@@ -1,0 +1,1 @@
+{"index": 8787, "name": "Mollusks, snail, raw", "healthiness": {"lactating": [14, 15, 14], "male": [13, 12, 10, 14, 14, 16, 17, 17, 15], "female": [13, 12, 10, 12, 12, 12, 15, 13, 12], "pregnant": [12, 14, 13]}}

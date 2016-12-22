@@ -1,0 +1,1 @@
+{"index": 639, "name": "Salad dressing, sesame seed dressing, regular", "healthiness": {"lactating": [-10, -9, -10], "male": [-11, -16, -16, -13, -11, -8, -9, -9, -10], "female": [-10, -15, -16, -15, -13, -12, -10, -12, -14], "pregnant": [-9, -9, -10]}}

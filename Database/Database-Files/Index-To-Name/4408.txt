@@ -1,0 +1,1 @@
+{"index": 4408, "name": "Beverages, PEPSICO QUAKER, Gatorade, G performance O 2, ready-to-drink.", "healthiness": {"lactating": [-11, -10, -11], "male": [-4, -15, -21, -17, -14, -10, -9, -10, -11], "female": [-4, -15, -21, -19, -16, -13, -11, -13, -15], "pregnant": [-12, -10, -11]}}

@@ -1,0 +1,1 @@
+{"index": 1915, "name": "Cereals ready-to-eat, GENERAL MILLS, CINNAMON TOAST CRUNCH", "healthiness": {"lactating": [24, 25, 23], "male": [44, 39, 36, 33, 27, 26, 26, 25, 23], "female": [44, 40, 37, 31, 26, 25, 26, 24, 20], "pregnant": [24, 26, 24]}}

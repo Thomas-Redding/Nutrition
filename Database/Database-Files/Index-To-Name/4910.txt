@@ -1,0 +1,1 @@
+{"index": 4910, "name": "Vitasoy USA, Vitasoy Organic Classic Original Soymilk", "healthiness": {"lactating": [-12, -11, -12], "male": [-24, -28, -27, -21, -16, -12, -11, -11, -12], "female": [-24, -28, -27, -23, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

@@ -1,0 +1,1 @@
+{"index": 938, "name": "Chicken, roasting, giblets, cooked, simmered", "healthiness": {"lactating": [46, 47, 46], "male": [49, 45, 45, 49, 48, 49, 50, 50, 48], "female": [49, 45, 45, 47, 45, 46, 48, 46, 45], "pregnant": [44, 46, 45]}}

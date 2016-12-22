@@ -1,0 +1,1 @@
+{"index": 667, "name": "Salad dressing, french, home recipe", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -27, -27, -21, -16, -12, -11, -12, -13], "female": [-25, -27, -27, -23, -18, -16, -14, -16, -18], "pregnant": [-13, -12, -13]}}

@@ -1,0 +1,1 @@
+{"index": 8588, "name": "Mayonnaise, made with tofu", "healthiness": {"lactating": [-9, -8, -9], "male": [-7, -16, -18, -14, -11, -8, -8, -8, -10], "female": [-7, -16, -18, -16, -13, -11, -10, -11, -13], "pregnant": [-9, -8, -9]}}

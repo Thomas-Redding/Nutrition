@@ -1,0 +1,1 @@
+{"index": 186, "name": "Yogurt, fruit, lowfat, with low calorie sweetener, fortified with vitamin D", "healthiness": {"lactating": [23, 23, 21], "male": [52, 41, 35, 35, 30, 24, 22, 21, 18], "female": [52, 41, 35, 33, 27, 23, 24, 22, 17], "pregnant": [24, 25, 22]}}

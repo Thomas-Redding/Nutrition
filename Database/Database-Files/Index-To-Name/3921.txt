@@ -1,0 +1,1 @@
+{"index": 3921, "name": "Beef, round, tip round, roast, separable lean and fat, trimmed to 0\" fat, choice, raw", "healthiness": {"lactating": [34, 35, 34], "male": [47, 37, 32, 35, 37, 37, 39, 38, 36], "female": [47, 37, 32, 33, 34, 35, 37, 35, 34], "pregnant": [33, 35, 34]}}

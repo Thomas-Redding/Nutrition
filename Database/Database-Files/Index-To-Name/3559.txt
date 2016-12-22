@@ -1,0 +1,1 @@
+{"index": 3559, "name": "Mushrooms, enoki, raw", "healthiness": {"lactating": [41, 42, 40], "male": [41, 40, 42, 47, 45, 42, 42, 41, 40], "female": [41, 40, 42, 45, 43, 40, 42, 40, 39], "pregnant": [39, 41, 39]}}

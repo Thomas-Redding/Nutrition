@@ -1,0 +1,1 @@
+{"index": 746, "name": "Margarine-like spread with yogurt, 70% fat, stick, with salt", "healthiness": {"lactating": [-11, -9, -11], "male": [-18, -21, -20, -15, -11, -8, -9, -9, -10], "female": [-18, -21, -20, -17, -14, -12, -10, -12, -14], "pregnant": [-9, -9, -10]}}

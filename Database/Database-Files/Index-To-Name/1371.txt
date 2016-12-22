@@ -1,0 +1,1 @@
+{"index": 1371, "name": "CAMPBELL'S Red and White, Cream of Asparagus Soup, condensed", "healthiness": {"lactating": [-13, -12, -13], "male": [-30, -30, -28, -22, -17, -12, -12, -12, -13], "female": [-30, -30, -28, -24, -19, -16, -14, -15, -17], "pregnant": [-13, -12, -13]}}

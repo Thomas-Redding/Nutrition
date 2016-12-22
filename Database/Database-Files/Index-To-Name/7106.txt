@@ -1,0 +1,1 @@
+{"index": 7106, "name": "KASHI, Sweet and Sour Chicken, Frozen Entree", "healthiness": {"lactating": [-8, -6, -8], "male": [-10, -15, -14, -11, -8, -7, -6, -6, -7], "female": [-10, -15, -14, -13, -11, -10, -7, -9, -10], "pregnant": [-8, -6, -8]}}

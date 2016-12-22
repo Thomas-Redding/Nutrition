@@ -1,0 +1,1 @@
+{"index": 8766, "name": "Cheese, swiss, low fat", "healthiness": {"lactating": [3, 4, 3], "male": [7, 0, -2, 2, 3, 4, 6, 5, 4], "female": [7, 0, -2, 0, 0, 2, 5, 3, 1], "pregnant": [3, 5, 4]}}

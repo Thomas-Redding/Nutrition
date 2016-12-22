@@ -1,0 +1,1 @@
+{"index": 1219, "name": "Soup, chunky chicken noodle, canned, ready-to-serve", "healthiness": {"lactating": [-1, 1, -1], "male": [19, 11, 4, 5, 3, 2, 3, 3, 1], "female": [19, 11, 4, 3, 1, 0, 2, 0, -1], "pregnant": [0, 2, 1]}}

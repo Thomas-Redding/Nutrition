@@ -1,0 +1,1 @@
+{"index": 7217, "name": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, braised", "healthiness": {"lactating": [29, 30, 28], "male": [42, 31, 25, 28, 30, 31, 31, 30, 29], "female": [42, 31, 25, 26, 27, 28, 29, 27, 25], "pregnant": [28, 30, 28]}}

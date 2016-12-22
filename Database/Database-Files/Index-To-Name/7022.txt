@@ -1,0 +1,1 @@
+{"index": 7022, "name": "Beef macaroni with tomato sauce, frozen entree, reduced fat", "healthiness": {"lactating": [18, 18, 16], "male": [48, 40, 34, 33, 28, 20, 17, 16, 15], "female": [48, 40, 34, 31, 26, 18, 19, 16, 13], "pregnant": [18, 19, 16]}}

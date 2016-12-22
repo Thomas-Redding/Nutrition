@@ -1,0 +1,1 @@
+{"index": 8474, "name": "APPLEBEE'S, chicken tenders platter", "healthiness": {"lactating": [22, 22, 19], "male": [37, 27, 23, 25, 24, 22, 20, 18, 17], "female": [37, 27, 23, 24, 22, 21, 22, 19, 15], "pregnant": [21, 22, 19]}}

@@ -1,0 +1,1 @@
+{"index": 2182, "name": "Cherries, sweet, raw", "healthiness": {"lactating": [-3, -2, -3], "male": [21, 10, 6, 5, 0, -1, -1, -2, -3], "female": [22, 11, 7, 2, -2, -3, -2, -4, -6], "pregnant": [-2, -1, -3]}}

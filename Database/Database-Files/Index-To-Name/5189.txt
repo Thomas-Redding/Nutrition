@@ -1,0 +1,1 @@
+{"index": 5189, "name": "Veal, composite of trimmed retail cuts, separable lean only, cooked", "healthiness": {"lactating": [33, 34, 33], "male": [49, 40, 36, 37, 35, 35, 37, 36, 35], "female": [49, 40, 36, 35, 33, 33, 36, 34, 32], "pregnant": [32, 35, 33]}}

@@ -1,0 +1,1 @@
+{"index": 5458, "name": "Lamb, New Zealand, imported, chump, boneless, separable lean only, cooked, fast roasted", "healthiness": {"lactating": [32, 33, 32], "male": [44, 36, 34, 35, 33, 33, 35, 35, 33], "female": [44, 36, 34, 34, 31, 31, 33, 32, 30], "pregnant": [30, 33, 31]}}

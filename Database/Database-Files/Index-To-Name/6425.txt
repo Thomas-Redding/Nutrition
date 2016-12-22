@@ -1,0 +1,1 @@
+{"index": 6425, "name": "Frozen novelties, No Sugar Added, FUDGSICLE pops", "healthiness": {"lactating": [-3, -2, -3], "male": [8, 0, -4, -3, -4, -3, 0, -1, -2], "female": [8, 0, -4, -5, -7, -6, -3, -4, -6], "pregnant": [-5, -2, -3]}}

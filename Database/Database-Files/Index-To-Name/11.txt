@@ -1,0 +1,1 @@
+{"index": 11, "name": "Cheese, cottage, creamed, large or small curd", "healthiness": {"lactating": [26, 27, 26], "male": [41, 29, 26, 29, 26, 28, 30, 29, 28], "female": [41, 29, 26, 27, 24, 25, 28, 26, 24], "pregnant": [26, 28, 27]}}

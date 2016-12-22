@@ -1,0 +1,1 @@
+{"index": 431, "name": "Babyfood, apple-cranberry juice", "healthiness": {"lactating": [-5, -4, -5], "male": [1, -8, -13, -9, -7, -4, -3, -4, -5], "female": [1, -8, -13, -11, -8, -6, -5, -7, -9], "pregnant": [-5, -4, -5]}}

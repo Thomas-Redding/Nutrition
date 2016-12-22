@@ -1,0 +1,1 @@
+{"index": 8431, "name": "Stinging Nettles, blanched (Northern Plains Indians)", "healthiness": {"lactating": [20, 21, 20], "male": [15, 13, 16, 21, 21, 23, 25, 24, 22], "female": [15, 13, 16, 19, 19, 20, 22, 21, 20], "pregnant": [19, 21, 20]}}

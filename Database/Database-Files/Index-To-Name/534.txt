@@ -1,0 +1,1 @@
+{"index": 534, "name": "Child formula, MEAD JOHNSON, PORTAGEN, with iron, prepared from powder", "healthiness": {"lactating": [10, 12, 10], "male": [24, 21, 21, 22, 17, 15, 16, 15, 11], "female": [24, 21, 21, 20, 15, 12, 14, 12, 10], "pregnant": [11, 13, 12]}}

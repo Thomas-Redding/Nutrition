@@ -1,0 +1,1 @@
+{"index": 6494, "name": "Cornmeal, yellow, self-rising, degermed, enriched", "healthiness": {"lactating": [-4, -3, -4], "male": [4, -5, -9, -6, -7, -4, -2, -2, -4], "female": [4, -5, -9, -8, -9, -7, -5, -6, -7], "pregnant": [-7, -4, -5]}}

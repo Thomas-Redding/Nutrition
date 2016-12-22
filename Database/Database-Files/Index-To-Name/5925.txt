@@ -1,0 +1,1 @@
+{"index": 5925, "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, S'mores", "healthiness": {"lactating": [-10, -9, -10], "male": [-10, -17, -20, -15, -12, -9, -8, -9, -10], "female": [-10, -17, -20, -17, -15, -12, -11, -13, -14], "pregnant": [-11, -10, -11]}}

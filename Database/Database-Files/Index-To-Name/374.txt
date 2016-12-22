@@ -1,0 +1,1 @@
+{"index": 374, "name": "Babyfood, vegetables, green beans, junior", "healthiness": {"lactating": [37, 37, 35], "male": [51, 49, 50, 52, 45, 38, 37, 35, 34], "female": [51, 49, 50, 50, 44, 38, 39, 36, 34], "pregnant": [36, 38, 35]}}

@@ -1,0 +1,1 @@
+{"index": 2103, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN, Cinnamon Almond", "healthiness": {"lactating": [2, 3, 2], "male": [2, -2, 0, 3, 2, 3, 5, 4, 2], "female": [2, -2, 0, 1, 0, 0, 2, 0, -1], "pregnant": [0, 2, 0]}}

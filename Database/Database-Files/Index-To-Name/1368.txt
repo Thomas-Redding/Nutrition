@@ -1,0 +1,1 @@
+{"index": 1368, "name": "Sauce, barbecue, KRAFT, original", "healthiness": {"lactating": [-11, -10, -11], "male": [-5, -17, -20, -16, -13, -9, -9, -9, -10], "female": [-5, -17, -20, -18, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

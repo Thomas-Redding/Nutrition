@@ -1,0 +1,1 @@
+{"index": 5286, "name": "Veal, variety meats and by-products, brain, raw", "healthiness": {"lactating": [39, 39, 37], "male": [48, 40, 41, 45, 43, 40, 40, 39, 37], "female": [48, 40, 41, 43, 41, 39, 41, 38, 36], "pregnant": [37, 39, 37]}}

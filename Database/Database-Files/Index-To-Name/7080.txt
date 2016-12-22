@@ -1,0 +1,1 @@
+{"index": 7080, "name": "Chili with beans, microwavable bowls", "healthiness": {"lactating": [-2, -1, -2], "male": [17, 11, 4, 2, -1, 0, 1, 1, -1], "female": [17, 11, 4, 0, -3, -3, -1, -2, -3], "pregnant": [-2, 0, -2]}}

@@ -1,0 +1,1 @@
+{"index": 2193, "name": "Cranberry-orange relish, canned", "healthiness": {"lactating": [-13, -11, -13], "male": [-20, -25, -24, -18, -14, -11, -10, -11, -12], "female": [-20, -25, -24, -20, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

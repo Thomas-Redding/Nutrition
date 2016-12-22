@@ -1,0 +1,1 @@
+{"index": 549, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, liquid concentrate", "healthiness": {"lactating": [4, 5, 4], "male": [29, 17, 14, 12, 8, 7, 8, 7, 4], "female": [29, 17, 14, 10, 5, 4, 6, 4, 1], "pregnant": [4, 5, 4]}}

@@ -1,0 +1,1 @@
+{"index": 636, "name": "Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing", "healthiness": {"lactating": [-9, -8, -9], "male": [-11, -19, -19, -14, -10, -8, -7, -7, -8], "female": [-11, -19, -19, -16, -13, -11, -9, -10, -12], "pregnant": [-9, -7, -8]}}

@@ -1,0 +1,1 @@
+{"index": 2827, "name": "Asparagus, frozen, unprepared", "healthiness": {"lactating": [54, 55, 53], "male": [51, 51, 54, 57, 58, 55, 56, 54, 53], "female": [51, 51, 54, 56, 56, 54, 57, 55, 53], "pregnant": [52, 54, 53]}}

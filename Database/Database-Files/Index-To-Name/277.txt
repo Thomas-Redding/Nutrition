@@ -1,0 +1,1 @@
+{"index": 277, "name": "Spices, paprika", "healthiness": {"lactating": [44, 44, 42], "male": [53, 52, 54, 59, 53, 46, 43, 41, 41], "female": [53, 52, 54, 57, 51, 45, 47, 44, 41], "pregnant": [44, 45, 43]}}

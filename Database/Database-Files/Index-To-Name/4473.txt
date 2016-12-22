@@ -1,0 +1,1 @@
+{"index": 4473, "name": "Beverages, Energy drink, VAULT Zero, sugar-free, citrus flavor", "healthiness": {"lactating": [-1, 0, -1], "male": [-8, -11, -12, -7, -2, 1, 2, 1, 0], "female": [-8, -11, -12, -9, -5, -3, -2, -3, -4], "pregnant": [-2, 0, -2]}}

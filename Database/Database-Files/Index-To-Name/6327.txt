@@ -1,0 +1,1 @@
+{"index": 6327, "name": "Syrups, malt", "healthiness": {"lactating": [1, 1, 0], "male": [29, 20, 16, 15, 5, 2, 2, 1, -1], "female": [30, 21, 17, 13, 3, 0, 1, -1, -4], "pregnant": [0, 1, 0]}}

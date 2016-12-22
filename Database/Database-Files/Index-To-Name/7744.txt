@@ -1,0 +1,1 @@
+{"index": 7744, "name": "Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, with yogurt coating", "healthiness": {"lactating": [0, 1, 0], "male": [33, 22, 16, 13, 4, 2, 2, 2, 0], "female": [33, 23, 17, 11, 3, 1, 2, 0, -2], "pregnant": [1, 2, 1]}}

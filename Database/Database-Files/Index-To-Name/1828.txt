@@ -1,0 +1,1 @@
+{"index": 1828, "name": "Cereals ready-to-eat, GENERAL MILLS, Multi-Grain CHEERIOS", "healthiness": {"lactating": [16, 18, 16], "male": [25, 21, 19, 21, 20, 21, 22, 21, 18], "female": [25, 21, 19, 19, 18, 20, 22, 20, 17], "pregnant": [18, 20, 19]}}

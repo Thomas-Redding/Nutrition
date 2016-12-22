@@ -1,0 +1,1 @@
+{"index": 5497, "name": "Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean only, cooked, fast fried", "healthiness": {"lactating": [31, 33, 31], "male": [42, 33, 30, 32, 32, 33, 35, 34, 33], "female": [42, 33, 30, 31, 30, 30, 33, 31, 30], "pregnant": [30, 32, 31]}}

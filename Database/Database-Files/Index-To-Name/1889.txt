@@ -1,0 +1,1 @@
+{"index": 1889, "name": "Cereals ready-to-eat, QUAKER, Oatmeal Squares", "healthiness": {"lactating": [6, 8, 6], "male": [17, 14, 14, 15, 10, 9, 11, 10, 8], "female": [17, 14, 14, 13, 8, 8, 10, 9, 6], "pregnant": [7, 9, 8]}}

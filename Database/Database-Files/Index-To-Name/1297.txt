@@ -1,0 +1,1 @@
+{"index": 1297, "name": "Sauce, salsa, ready-to-serve", "healthiness": {"lactating": [13, 14, 13], "male": [24, 19, 24, 22, 19, 16, 17, 16, 16], "female": [24, 19, 24, 20, 17, 15, 17, 15, 15], "pregnant": [14, 16, 14]}}

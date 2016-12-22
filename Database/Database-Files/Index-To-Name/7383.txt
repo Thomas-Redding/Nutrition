@@ -1,0 +1,1 @@
+{"index": 7383, "name": "Beef, Australian, imported, grass-fed, loin, top loin steak/roast, boneless, separable lean only, raw", "healthiness": {"lactating": [17, 18, 17], "male": [4, 1, 2, 8, 14, 18, 19, 18, 17], "female": [4, 1, 2, 6, 11, 14, 15, 14, 13], "pregnant": [16, 17, 16]}}

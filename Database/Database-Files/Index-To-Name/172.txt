@@ -1,0 +1,1 @@
+{"index": 172, "name": "Yogurt, fruit, lowfat, with low calorie sweetener", "healthiness": {"lactating": [21, 21, 18], "male": [49, 38, 32, 32, 27, 21, 20, 18, 17], "female": [49, 38, 32, 30, 25, 20, 22, 19, 15], "pregnant": [21, 22, 20]}}

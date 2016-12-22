@@ -1,0 +1,1 @@
+{"index": 1006, "name": "Turkey, all classes, light meat, cooked, roasted", "healthiness": {"lactating": [34, 35, 34], "male": [44, 36, 34, 35, 34, 36, 38, 37, 36], "female": [44, 36, 34, 33, 32, 33, 36, 34, 32], "pregnant": [34, 36, 35]}}

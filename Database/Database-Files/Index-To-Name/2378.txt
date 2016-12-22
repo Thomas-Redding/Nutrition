@@ -1,0 +1,1 @@
+{"index": 2378, "name": "Rhubarb, frozen, cooked, with sugar", "healthiness": {"lactating": [-8, -7, -8], "male": [-3, -15, -15, -11, -9, -6, -6, -7, -8], "female": [-3, -15, -15, -13, -11, -9, -8, -10, -12], "pregnant": [-8, -6, -8]}}

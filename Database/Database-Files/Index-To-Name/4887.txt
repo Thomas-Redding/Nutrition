@@ -1,0 +1,1 @@
+{"index": 4887, "name": "MORI-NU, Tofu, silken, soft", "healthiness": {"lactating": [25, 25, 24], "male": [29, 22, 20, 24, 25, 25, 25, 23, 22], "female": [29, 22, 20, 22, 22, 22, 24, 22, 20], "pregnant": [23, 25, 23]}}

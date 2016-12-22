@@ -1,0 +1,1 @@
+{"index": 1129, "name": "Chicken, skin (drumsticks and thighs), raw", "healthiness": {"lactating": [-5, -4, -6], "male": [20, 6, 3, 3, -3, -4, -4, -5, -6], "female": [21, 7, 4, 0, -5, -7, -5, -7, -10], "pregnant": [-5, -4, -5]}}

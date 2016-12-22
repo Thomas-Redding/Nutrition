@@ -1,0 +1,188 @@
+<table id="demographics-goals-widget">
+<tbody>
+<tr id="settings-demographics-row">
+	<td colspan="4"><b>Demographics</b></td>
+</tr>
+<tr id="settings-sex-row">
+	<td>Sex:</td>
+	<td colspan="3">
+		<select onchange="demographics_goals_widget.account_updated();">
+			<option value="female">female</option>
+			<option value="male">male</option>
+		</select>
+	</td>
+</tr>
+<tr id="settings-natal-row">
+	<td>Natal:</td>
+	<td colspan="3">
+		<select onchange="demographics_goals_widget.account_updated();">
+			<option value="pregnant">pregnant</option>
+			<option value="lactating">lactating</option>
+			<option value="neither">neither</option>
+		</select>
+	</td>
+</tr>
+<tr id="settings-age-row">
+	<td>Age:</td>
+	<td colspan="3"><input type="number" onchange="demographics_goals_widget.account_updated();" onkeyup="demographics_goals_widget.account_updated();"></td>
+</tr>
+<tr id="settings-daily-goals-row">
+	<td colspan="4">Daily Goals</td>
+</tr>
+<tr id="settings-calorie-row">
+	<td>Calories:</td>
+	<td style="text-align: right;"><input type="number" onchange="demographics_goals_widget.account_updated();" onkeyup="demographics_goals_widget.account_updated();"></td>
+	<td>Cal</td>
+</tr>
+<tr id="settings-protein-row">
+	<td>Protein:</td>
+	<td style="text-align: right;"><input type="number" onchange="demographics_goals_widget.account_updated();" onkeyup="demographics_goals_widget.account_updated();"></td>
+	<td>g</td>
+	<td><img src="images/info-outline.svg"/ class="info-img" onclick="demographics_goals_widget.protein_clicked(event);"></td>
+</tr>
+<tr>
+	<td colspan="4" style="text-align: center; height: 3em; vertical-align: bottom;"><input type="button" value="Save"/></td>
+</tr>
+</tbody>
+</table>
+<div id="hover-div">
+</div>
+<style>
+#demographics-goals-widget {
+	margin: 0 auto;
+	max-width: 15em;
+	border-collapse: collapse;
+}
+
+#demographics-goals-widget td {
+	padding: 0.2em 0.1em;
+}
+
+#demographics-goals-widget input[type="number"] {
+	width: 4.5em;
+	text-align: right;
+}
+
+#demographics-goals-widget select {
+	margin: 0;
+	padding: 0;
+	width: 7em;
+}
+
+#settings-daily-goals-row {
+	vertical-align: bottom;
+	height: 2em;
+	font-weight: bold;
+}
+
+#demographics-goals-widget .info-img {
+	height: 1.2em;
+	cursor: pointer;
+}
+
+#hover-div {
+	position: absolute;
+	display: none;
+	background-color: hsl(0, 0%, 90%);
+	border: 1px solid hsl(0, 0%, 80%);
+	font-size: 13px;
+	width: 150px;
+	padding: 5px;
+	border-radius: 5px;
+}
+</style>
+<script>
+function Demographics_Goals_Widget(d) {
+	var self = this;
+	self.div = d;
+
+	self.load_defaults = function() {
+		// todo
+		sex = "male";
+		age = 21;
+		calories = 2000;
+		protein = 60;
+
+		$("#settings-sex-row select").val(sex);
+		$("#settings-age-row input").val(age);
+		$("#settings-calorie-row input").val(calories);
+		$("#settings-protein-row input").val(protein);
+		self.account_updated();
+	}
+
+	self.compute_xy_for_hover = function(mouseX, mouseY) {
+		mouseY += window.scrollY;
+		var width = window.innerWidth;
+		var height = $(document).height();
+		var x = mouseX;
+		var y = mouseY;
+		if (x + 150 >= width - 20) {
+			x = width - 150 - 20;
+		}
+		return {"x": x, "y": y};
+	}
+
+	self.protein_clicked = function() {
+		$("#hover-div").html("Most people with your age and calorie-intake, should consume between " + (min_protein*calories)/4 + " and " + (max_protein*calories)/4 + " grams of protein.");
+		var pos = self.compute_xy_for_hover(event.clientX, event.clientY);
+		self.display_hover_div_at(pos.x, pos.y);
+	}
+
+	self.display_hover_div_at = function(x, y) {
+		$("#hover-div").css({
+			"display": "block",
+			"left": x,
+			"top": y
+		});
+	}
+
+	self.hide_hover_div = function(event) {
+		if(event.srcElement.classList[0] != "info-img")
+			$("#hover-div").css("display", "none");
+	}
+
+	self.account_updated = function() {
+		if ($("#settings-sex-row select").val() == "male")
+			$("#settings-natal-row").hide();
+		else
+			$("#settings-natal-row").show();
+
+		$("#settings-email").html("<a href=\"mailto:" + email + "\">" + email + "</a>");
+
+		sex = $("#settings-sex-row select").val();
+		age = parseInt($("#settings-age-row input").val());
+		calories = parseInt($("#settings-calorie-row input").val());
+		protein = parseInt($("#settings-protein-row input").val());
+
+		min_protein = 0.05;
+		max_protein = 0.20;
+		if (age >= 4)
+			min_protein = 0.10;
+		if (age >= 19)
+			max_protein = 0.35;
+		else if (age >= 4)
+			max_protein = 0.30;
+
+		if (protein < min_protein * calories / 4 || max_protein * calories / 4 < protein)
+			$("#settings-protein-row .info-img")[0].src = "images/info-outline-red.svg";
+		else
+			$("#settings-protein-row .info-img")[0].src = "images/info-outline.svg";
+	}
+}
+
+var demographics_goals_widget = new Demographics_Goals_Widget($("#demographics-goals-widget"));
+
+$("body").click(function(event) {
+	demographics_goals_widget.hide_hover_div(event.originalEvent);
+})
+
+var sex = "male";
+var age = 21;
+var calories = 21;
+var protein = 60;
+var min_protein = 0;
+var max_protein = 0;
+
+shared_gui.add_onload_callback(demographics_goals_widget.load_defaults);
+
+</script>

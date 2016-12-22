@@ -1,0 +1,1 @@
+{"index": 5317, "name": "Veal, variety meats and by-products, thymus, cooked, braised", "healthiness": {"lactating": [7, 8, 7], "male": [16, 6, 5, 9, 9, 10, 11, 11, 9], "female": [16, 6, 5, 7, 7, 7, 9, 8, 6], "pregnant": [7, 9, 8]}}

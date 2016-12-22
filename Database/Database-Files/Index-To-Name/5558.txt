@@ -1,0 +1,1 @@
+{"index": 5558, "name": "Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean only, trimmed to 0\" fat, cooked, grilled", "healthiness": {"lactating": [30, 32, 30], "male": [43, 34, 31, 34, 33, 33, 35, 34, 32], "female": [43, 34, 31, 32, 31, 31, 33, 31, 30], "pregnant": [30, 32, 30]}}

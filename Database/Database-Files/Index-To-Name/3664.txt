@@ -1,0 +1,1 @@
+{"index": 3664, "name": "Nuts, coconut water (liquid from coconuts)", "healthiness": {"lactating": [24, 24, 22], "male": [43, 37, 40, 41, 34, 26, 24, 23, 22], "female": [43, 37, 40, 39, 33, 25, 26, 23, 21], "pregnant": [24, 25, 23]}}

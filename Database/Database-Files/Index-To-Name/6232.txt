@@ -1,0 +1,1 @@
+{"index": 6232, "name": "Rennin, vanilla, dry mix, prepared with 2% milk", "healthiness": {"lactating": [19, 19, 17], "male": [41, 30, 29, 30, 26, 19, 18, 16, 14], "female": [41, 30, 29, 28, 24, 18, 19, 17, 12], "pregnant": [19, 20, 18]}}

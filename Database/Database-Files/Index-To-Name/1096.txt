@@ -1,0 +1,1 @@
+{"index": 1096, "name": "Emu, oyster, raw", "healthiness": {"lactating": [46, 47, 46], "male": [45, 41, 40, 45, 46, 49, 50, 49, 47], "female": [45, 41, 40, 43, 44, 46, 48, 46, 45], "pregnant": [44, 46, 45]}}

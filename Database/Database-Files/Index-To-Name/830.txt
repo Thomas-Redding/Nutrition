@@ -1,0 +1,1 @@
+{"index": 830, "name": "Chicken, broilers or fryers, meat and skin, cooked, fried, flour", "healthiness": {"lactating": [25, 26, 25], "male": [44, 32, 25, 26, 26, 27, 27, 26, 25], "female": [44, 32, 25, 24, 23, 24, 26, 24, 22], "pregnant": [24, 26, 25]}}

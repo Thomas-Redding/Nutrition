@@ -1,0 +1,1 @@
+{"index": 8102, "name": "Cookies, oatmeal sandwich, with creme filling", "healthiness": {"lactating": [-10, -9, -10], "male": [-3, -13, -19, -15, -12, -9, -8, -8, -10], "female": [-3, -13, -19, -17, -14, -12, -10, -12, -13], "pregnant": [-10, -9, -10]}}

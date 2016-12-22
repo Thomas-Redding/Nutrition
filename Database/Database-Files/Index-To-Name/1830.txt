@@ -1,0 +1,1 @@
+{"index": 1830, "name": "Cereals, corn grits, white, regular and quick, enriched, dry", "healthiness": {"lactating": [1, 1, -1], "male": [27, 13, 10, 10, 4, 1, 0, -1, -2], "female": [27, 13, 11, 8, 2, -1, 0, -3, -5], "pregnant": [0, 1, -1]}}

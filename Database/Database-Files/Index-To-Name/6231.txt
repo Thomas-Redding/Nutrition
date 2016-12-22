@@ -1,0 +1,1 @@
+{"index": 6231, "name": "Rennin, chocolate, dry mix, prepared with 2% milk", "healthiness": {"lactating": [19, 19, 17], "male": [45, 35, 33, 33, 27, 20, 18, 17, 14], "female": [45, 35, 33, 31, 25, 18, 20, 17, 13], "pregnant": [19, 20, 18]}}

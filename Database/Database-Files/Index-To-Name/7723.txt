@@ -1,0 +1,1 @@
+{"index": 7723, "name": "Tortilla chips, yellow, plain, salted", "healthiness": {"lactating": [-10, -9, -10], "male": [-1, -15, -18, -15, -12, -9, -8, -8, -10], "female": [-1, -15, -18, -17, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

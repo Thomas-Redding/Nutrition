@@ -1,0 +1,1 @@
+{"index": 4390, "name": "Beverages, dairy drink mix, chocolate, reduced calorie, with aspartame, powder, prepared with water and ice", "healthiness": {"lactating": [13, 14, 13], "male": [21, 15, 16, 16, 16, 15, 17, 17, 16], "female": [21, 15, 16, 14, 14, 12, 15, 13, 13], "pregnant": [11, 14, 13]}}

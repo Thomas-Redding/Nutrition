@@ -1,0 +1,1 @@
+{"index": 8357, "name": "Fish, whitefish, broad, head, eyes, cheeks and soft bones (Alaska Native)", "healthiness": {"lactating": [-7, -6, -7], "male": [-30, -23, -30, -23, -12, -7, -5, -6, -7], "female": [-30, -23, -30, -25, -14, -12, -9, -11, -11], "pregnant": [-11, -8, -9]}}

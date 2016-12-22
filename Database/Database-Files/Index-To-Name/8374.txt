@@ -1,0 +1,1 @@
+{"index": 8374, "name": "Stew, dumpling with mutton (Navajo)", "healthiness": {"lactating": [-1, 1, -1], "male": [15, 4, -2, 1, 1, 2, 3, 3, 1], "female": [15, 4, -2, -1, -2, -1, 1, -1, -2], "pregnant": [-2, 0, -1]}}

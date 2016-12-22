@@ -1,0 +1,1 @@
+{"index": 977, "name": "Pheasant, breast, meat only, raw", "healthiness": {"lactating": [34, 35, 34], "male": [43, 33, 35, 36, 36, 36, 38, 37, 36], "female": [43, 33, 35, 34, 33, 33, 36, 34, 32], "pregnant": [33, 36, 35]}}

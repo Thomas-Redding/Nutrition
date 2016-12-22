@@ -1,0 +1,1 @@
+{"index": 3626, "name": "Seeds, sunflower seed kernels, dry roasted, without salt", "healthiness": {"lactating": [21, 21, 19], "male": [45, 40, 37, 38, 30, 23, 22, 21, 20], "female": [45, 40, 37, 36, 29, 22, 24, 21, 18], "pregnant": [22, 24, 21]}}

@@ -1,0 +1,1 @@
+{"index": 5315, "name": "Veal, variety meats and by-products, spleen, cooked, braised", "healthiness": {"lactating": [43, 45, 43], "male": [44, 38, 36, 42, 43, 45, 47, 46, 45], "female": [44, 38, 36, 40, 40, 43, 46, 44, 42], "pregnant": [41, 44, 43]}}

@@ -1,0 +1,1 @@
+{"index": 384, "name": "Babyfood, potatoes, toddler", "healthiness": {"lactating": [-5, -4, -5], "male": [10, 0, -5, -3, -3, -2, -1, -2, -3], "female": [10, 0, -5, -5, -5, -4, -3, -4, -6], "pregnant": [-4, -2, -4]}}

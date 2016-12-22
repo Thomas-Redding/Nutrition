@@ -1,0 +1,1 @@
+{"index": 2107, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Multi-grain", "healthiness": {"lactating": [11, 12, 11], "male": [5, 1, 1, 6, 9, 12, 13, 12, 10], "female": [5, 1, 1, 4, 7, 10, 12, 10, 7], "pregnant": [11, 12, 11]}}

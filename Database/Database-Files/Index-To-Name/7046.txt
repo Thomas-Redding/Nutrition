@@ -1,0 +1,1 @@
+{"index": 7046, "name": "Burrito, beef and bean, microwaved", "healthiness": {"lactating": [-6, -5, -6], "male": [11, -2, -9, -8, -7, -5, -4, -4, -5], "female": [11, -2, -9, -9, -9, -7, -6, -7, -9], "pregnant": [-7, -5, -6]}}

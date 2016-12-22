@@ -1,0 +1,1 @@
+{"index": 3529, "name": "Peppers, sweet, red, frozen, chopped, boiled, drained, without salt", "healthiness": {"lactating": [41, 41, 39], "male": [49, 47, 48, 51, 46, 42, 39, 38, 38], "female": [49, 47, 48, 49, 45, 41, 41, 38, 37], "pregnant": [40, 41, 38]}}

@@ -1,0 +1,1 @@
+{"index": 1025, "name": "Pate de foie gras, canned (goose liver pate), smoked", "healthiness": {"lactating": [11, 11, 9], "male": [37, 25, 23, 26, 19, 12, 11, 10, 9], "female": [37, 25, 23, 24, 17, 11, 11, 9, 7], "pregnant": [12, 12, 10]}}

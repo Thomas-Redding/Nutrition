@@ -1,0 +1,1 @@
+{"index": 3409, "name": "Kohlrabi, cooked, boiled, drained, with salt", "healthiness": {"lactating": [28, 28, 26], "male": [51, 46, 44, 44, 35, 28, 28, 27, 26], "female": [51, 46, 44, 42, 34, 27, 29, 26, 25], "pregnant": [26, 28, 26]}}

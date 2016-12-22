@@ -1,0 +1,1 @@
+{"index": 4883, "name": "Chickpea flour (besan)", "healthiness": {"lactating": [-2, -1, -2], "male": [7, 1, -3, -1, -1, 0, 1, 1, -1], "female": [7, 1, -3, -3, -3, -3, -1, -2, -3], "pregnant": [-3, -1, -2]}}

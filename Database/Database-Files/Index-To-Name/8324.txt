@@ -1,0 +1,1 @@
+{"index": 8324, "name": "Mouse nuts, seedlings (Alaska Native)", "healthiness": {"lactating": [-10, -8, -10], "male": [-16, -18, -18, -12, -12, -9, -7, -8, -9], "female": [-16, -18, -18, -14, -14, -12, -9, -11, -13], "pregnant": [-10, -8, -9]}}

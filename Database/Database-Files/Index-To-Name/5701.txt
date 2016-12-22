@@ -1,0 +1,1 @@
+{"index": 5701, "name": "Cookies, peanut butter sandwich, regular", "healthiness": {"lactating": [-1, 0, -2], "male": [31, 17, 9, 8, 2, 0, -1, -2, -3], "female": [32, 18, 10, 6, 0, -3, -1, -4, -6], "pregnant": [-1, 0, -2]}}

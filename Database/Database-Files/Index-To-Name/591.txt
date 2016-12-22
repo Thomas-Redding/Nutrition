@@ -1,0 +1,1 @@
+{"index": 591, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, NEOSURE, powder, with ARA and DHA", "healthiness": {"lactating": [11, 12, 11], "male": [34, 27, 25, 22, 17, 15, 16, 15, 12], "female": [34, 27, 25, 20, 15, 12, 14, 12, 9], "pregnant": [11, 13, 12]}}

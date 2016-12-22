@@ -1,0 +1,1 @@
+{"index": 6214, "name": "Puddings, chocolate, dry mix, regular, prepared with 2% milk", "healthiness": {"lactating": [10, 10, 8], "male": [44, 33, 28, 27, 17, 11, 10, 9, 7], "female": [44, 33, 28, 25, 15, 9, 10, 8, 4], "pregnant": [10, 11, 9]}}

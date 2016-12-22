@@ -1,0 +1,1 @@
+{"index": 8447, "name": "Tamales, masa and pork filling (Hopi)", "healthiness": {"lactating": [-2, 0, -2], "male": [18, 9, 2, 1, -1, 1, 2, 1, 0], "female": [18, 9, 2, -1, -3, -2, 1, -1, -3], "pregnant": [-1, 1, -1]}}

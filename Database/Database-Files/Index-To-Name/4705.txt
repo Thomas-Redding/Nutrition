@@ -1,0 +1,1 @@
+{"index": 4705, "name": "Crustaceans, spiny lobster, mixed species, cooked, moist heat", "healthiness": {"lactating": [38, 40, 38], "male": [43, 36, 35, 38, 38, 40, 42, 41, 40], "female": [43, 36, 35, 36, 36, 37, 39, 38, 36], "pregnant": [37, 39, 38]}}

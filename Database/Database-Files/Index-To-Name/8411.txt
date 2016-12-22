@@ -1,0 +1,1 @@
+{"index": 8411, "name": "Corn, dried, yellow (Northern Plains Indians)", "healthiness": {"lactating": [12, 12, 10], "male": [37, 32, 30, 30, 21, 13, 12, 11, 10], "female": [37, 32, 30, 28, 19, 12, 13, 11, 8], "pregnant": [12, 13, 11]}}

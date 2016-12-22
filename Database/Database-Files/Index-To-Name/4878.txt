@@ -1,0 +1,1 @@
+{"index": 4878, "name": "Veggie burgers or soyburgers, unprepared", "healthiness": {"lactating": [35, 36, 34], "male": [50, 46, 43, 42, 38, 37, 36, 34, 33], "female": [50, 46, 43, 40, 37, 36, 38, 35, 33], "pregnant": [35, 37, 35]}}

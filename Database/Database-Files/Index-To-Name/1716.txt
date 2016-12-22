@@ -1,0 +1,1 @@
+{"index": 1716, "name": "Sausage, summer, pork and beef, sticks, with cheddar cheese", "healthiness": {"lactating": [7, 7, 5], "male": [33, 17, 15, 19, 14, 8, 6, 5, 3], "female": [33, 17, 15, 17, 12, 6, 6, 4, 1], "pregnant": [7, 7, 5]}}

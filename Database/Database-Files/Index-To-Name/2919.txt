@@ -1,0 +1,1 @@
+{"index": 2919, "name": "Chayote, fruit, cooked, boiled, drained, without salt", "healthiness": {"lactating": [29, 30, 28], "male": [46, 42, 44, 46, 39, 32, 30, 29, 28], "female": [46, 42, 44, 44, 37, 31, 32, 29, 27], "pregnant": [30, 31, 29]}}

@@ -1,0 +1,1 @@
+{"index": 2036, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K, Cinnamon Pecan", "healthiness": {"lactating": [18, 19, 18], "male": [22, 18, 16, 19, 21, 22, 22, 21, 19], "female": [22, 18, 16, 17, 19, 20, 22, 20, 17], "pregnant": [20, 21, 20]}}

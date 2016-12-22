@@ -1,0 +1,1 @@
+{"index": 3250, "name": "Vegetables, mixed, canned, solids and liquids", "healthiness": {"lactating": [24, 24, 22], "male": [41, 37, 39, 41, 33, 25, 24, 22, 21], "female": [41, 37, 39, 39, 31, 24, 25, 22, 20], "pregnant": [23, 24, 22]}}

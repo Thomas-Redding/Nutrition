@@ -1,0 +1,1 @@
+{"index": 3199, "name": "Succotash, (corn and limas), canned, with whole kernel corn, solids and liquids", "healthiness": {"lactating": [18, 18, 16], "male": [40, 32, 33, 33, 27, 19, 17, 16, 15], "female": [40, 32, 33, 31, 25, 18, 19, 17, 14], "pregnant": [18, 19, 17]}}

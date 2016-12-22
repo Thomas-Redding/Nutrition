@@ -1,0 +1,1 @@
+{"index": 5790, "name": "Pancakes, plain, dry mix, incomplete (includes buttermilk)", "healthiness": {"lactating": [6, 7, 5], "male": [35, 24, 18, 18, 10, 6, 6, 5, 4], "female": [35, 24, 19, 16, 8, 3, 6, 3, 1], "pregnant": [4, 6, 4]}}

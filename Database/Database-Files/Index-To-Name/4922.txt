@@ -1,0 +1,1 @@
+{"index": 4922, "name": "SILK Chocolate, soymilk", "healthiness": {"lactating": [2, 3, 2], "male": [-3, -7, -6, -3, 0, 2, 4, 3, 0], "female": [-3, -7, -6, -5, -2, 0, 2, 0, -3], "pregnant": [0, 2, 1]}}

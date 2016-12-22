@@ -1,0 +1,1 @@
+{"index": 1842, "name": "Cereals, CREAM OF WHEAT, instant, dry", "healthiness": {"lactating": [17, 18, 16], "male": [37, 31, 28, 29, 25, 20, 19, 17, 16], "female": [37, 31, 28, 27, 23, 19, 20, 17, 14], "pregnant": [18, 18, 16]}}

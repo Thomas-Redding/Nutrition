@@ -1,0 +1,1 @@
+{"index": 7550, "name": "Beef, ground, 93% lean meat / 7% fat, raw", "healthiness": {"lactating": [34, 35, 34], "male": [45, 36, 32, 36, 36, 36, 37, 37, 35], "female": [45, 36, 32, 34, 34, 34, 35, 33, 32], "pregnant": [32, 35, 33]}}

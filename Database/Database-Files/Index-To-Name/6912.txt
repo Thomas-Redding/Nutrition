@@ -1,0 +1,1 @@
+{"index": 6912, "name": "KFC, Coleslaw", "healthiness": {"lactating": [-5, -3, -5], "male": [5, -6, -7, -4, -4, -3, -3, -3, -5], "female": [6, -5, -6, -6, -6, -5, -4, -6, -8], "pregnant": [-4, -3, -4]}}

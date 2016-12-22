@@ -1,0 +1,1 @@
+{"index": 2108, "name": "Cereals, KELLOGG'S SPECIAL K NOURISH, Cinnamon Raisin Pecan, dry", "healthiness": {"lactating": [4, 6, 4], "male": [9, 6, 9, 9, 6, 5, 8, 7, 4], "female": [9, 6, 9, 7, 4, 2, 5, 3, 1], "pregnant": [1, 4, 3]}}

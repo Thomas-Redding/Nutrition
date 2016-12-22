@@ -1,0 +1,1 @@
+{"index": 495, "name": "Babyfood, vegetables, mix vegetables strained", "healthiness": {"lactating": [15, 15, 13], "male": [44, 36, 37, 34, 24, 16, 14, 13, 12], "female": [44, 36, 38, 32, 22, 15, 15, 13, 11], "pregnant": [15, 15, 13]}}

@@ -1,0 +1,1 @@
+{"index": 2265, "name": "Loganberries, frozen", "healthiness": {"lactating": [8, 9, 8], "male": [19, 12, 11, 12, 11, 10, 11, 10, 9], "female": [19, 12, 11, 10, 9, 8, 10, 8, 7], "pregnant": [8, 10, 9]}}

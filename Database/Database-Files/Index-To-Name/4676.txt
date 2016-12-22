@@ -1,0 +1,1 @@
+{"index": 4676, "name": "Fish, lingcod, cooked, dry heat", "healthiness": {"lactating": [34, 36, 34], "male": [43, 35, 33, 35, 35, 36, 38, 37, 36], "female": [43, 35, 33, 34, 32, 33, 36, 35, 32], "pregnant": [33, 36, 35]}}

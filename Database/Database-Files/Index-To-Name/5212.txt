@@ -1,0 +1,1 @@
+{"index": 5212, "name": "Veal, rib, separable lean only, cooked, braised", "healthiness": {"lactating": [31, 32, 31], "male": [48, 39, 33, 34, 34, 34, 35, 34, 33], "female": [48, 39, 33, 32, 32, 31, 34, 32, 30], "pregnant": [30, 33, 31]}}

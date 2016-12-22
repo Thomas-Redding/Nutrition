@@ -1,0 +1,1 @@
+{"index": 1811, "name": "Cereals ready-to-eat, POST Raisin Bran Cereal", "healthiness": {"lactating": [19, 20, 18], "male": [41, 39, 39, 39, 27, 21, 21, 20, 18], "female": [42, 40, 40, 37, 25, 20, 22, 20, 17], "pregnant": [18, 20, 18]}}

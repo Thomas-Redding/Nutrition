@@ -1,0 +1,1 @@
+{"index": 1470, "name": "CAMPBELL'S CHUNKY Soups, Savory Vegetable Soup", "healthiness": {"lactating": [-12, -10, -12], "male": [-24, -28, -26, -20, -15, -11, -10, -11, -12], "female": [-24, -28, -26, -22, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

@@ -1,0 +1,1 @@
+{"index": 8730, "name": "Beverages, coffee, instant, with whitener, reduced calorie", "healthiness": {"lactating": [-14, -12, -14], "male": [-18, -25, -29, -22, -17, -12, -12, -12, -14], "female": [-18, -25, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

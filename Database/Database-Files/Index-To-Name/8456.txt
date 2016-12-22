@@ -1,0 +1,1 @@
+{"index": 8456, "name": "APPLEBEE'S, chicken tenders, from kids' menu", "healthiness": {"lactating": [22, 21, 19], "male": [41, 31, 26, 27, 26, 22, 19, 18, 17], "female": [41, 31, 26, 25, 23, 21, 21, 18, 15], "pregnant": [21, 22, 19]}}

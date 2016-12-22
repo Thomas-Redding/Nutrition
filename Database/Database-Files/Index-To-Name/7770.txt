@@ -1,0 +1,1 @@
+{"index": 7770, "name": "CAMPBELL'S Homestyle HEALTHY REQUEST Chicken with Whole Grain Pasta Soup", "healthiness": {"lactating": [-3, -2, -3], "male": [2, -5, -8, -5, -3, -2, 0, -1, -2], "female": [2, -5, -8, -6, -5, -4, -2, -4, -5], "pregnant": [-4, -2, -3]}}

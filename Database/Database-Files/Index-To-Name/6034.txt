@@ -1,0 +1,1 @@
+{"index": 6034, "name": "AUSTIN, Grilled Cheese on Wafer Crackers, sandwich-type", "healthiness": {"lactating": [-12, -10, -12], "male": [-15, -23, -25, -19, -15, -11, -10, -10, -12], "female": [-15, -23, -25, -21, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

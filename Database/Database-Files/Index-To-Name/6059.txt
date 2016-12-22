@@ -1,0 +1,1 @@
+{"index": 6059, "name": "Snacks, fruit leather, rolls", "healthiness": {"lactating": [-9, -7, -9], "male": [-4, -14, -18, -14, -10, -6, -6, -6, -8], "female": [-4, -14, -18, -16, -12, -10, -8, -10, -12], "pregnant": [-8, -7, -8]}}

@@ -1,0 +1,1 @@
+{"index": 8276, "name": "Infant formula, GERBER, GOOD START 2, PROTECT PLUS, powder", "healthiness": {"lactating": [5, 7, 5], "male": [30, 19, 16, 13, 9, 8, 10, 9, 6], "female": [30, 19, 16, 11, 7, 5, 7, 5, 3], "pregnant": [5, 7, 6]}}

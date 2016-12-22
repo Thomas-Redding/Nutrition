@@ -1,0 +1,1 @@
+{"index": 6007, "name": "Pastry, Pastelitos de Guava (guava pastries)", "healthiness": {"lactating": [-10, -9, -10], "male": [-3, -15, -19, -15, -12, -9, -8, -9, -10], "female": [-3, -15, -19, -17, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

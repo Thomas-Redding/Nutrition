@@ -1,0 +1,1 @@
+{"index": 57, "name": "Milk, filled, fluid, with blend of hydrogenated vegetable oils", "healthiness": {"lactating": [23, 23, 21], "male": [40, 28, 27, 29, 26, 23, 21, 19, 18], "female": [40, 28, 27, 27, 24, 21, 23, 20, 16], "pregnant": [22, 24, 21]}}

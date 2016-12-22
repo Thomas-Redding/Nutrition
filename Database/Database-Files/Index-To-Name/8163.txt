@@ -1,0 +1,1 @@
+{"index": 8163, "name": "PEPPERIDGE FARM, Goldfish, Baked Snack Crackers, Explosive Pizza", "healthiness": {"lactating": [-9, -8, -9], "male": [-3, -13, -17, -13, -11, -8, -7, -7, -9], "female": [-3, -13, -17, -15, -13, -11, -9, -11, -12], "pregnant": [-10, -8, -10]}}

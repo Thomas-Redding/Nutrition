@@ -1,0 +1,1 @@
+{"index": 4124, "name": "Alcoholic beverage, beer, light, BUDWEISER SELECT", "healthiness": {"lactating": [-13, -12, -13], "male": [-21, -25, -26, -21, -16, -12, -12, -12, -13], "female": [-21, -25, -26, -23, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -13]}}

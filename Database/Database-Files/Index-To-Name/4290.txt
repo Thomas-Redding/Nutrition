@@ -1,0 +1,1 @@
+{"index": 4290, "name": "Beverages, OCEAN SPRAY, Light Cranberry and Raspberry Flavored Juice", "healthiness": {"lactating": [-8, -6, -8], "male": [-8, -17, -19, -14, -10, -7, -6, -6, -7], "female": [-8, -17, -19, -16, -12, -10, -8, -9, -11], "pregnant": [-8, -6, -7]}}

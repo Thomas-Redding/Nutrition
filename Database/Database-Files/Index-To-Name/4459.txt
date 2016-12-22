@@ -1,0 +1,1 @@
+{"index": 4459, "name": "Beverages, Energy Drink, Monster, fortified with vitamins C, B2, B3, B6, B12", "healthiness": {"lactating": [1, 2, 1], "male": [-8, -15, -15, -8, -3, 2, 3, 2, 1], "female": [-8, -15, -15, -10, -5, -2, 0, -2, -4], "pregnant": [1, 2, 1]}}

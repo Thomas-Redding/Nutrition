@@ -1,0 +1,1 @@
+{"index": 2661, "name": "Pork, fresh, loin, sirloin (chops or roasts), boneless, separable lean only, raw", "healthiness": {"lactating": [37, 38, 37], "male": [45, 37, 35, 39, 37, 39, 41, 40, 38], "female": [45, 37, 35, 37, 35, 36, 39, 37, 35], "pregnant": [36, 39, 37]}}

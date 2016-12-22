@@ -1,0 +1,1 @@
+{"index": 2922, "name": "Chicory roots, raw", "healthiness": {"lactating": [-2, -1, -2], "male": [8, 1, 0, 1, -1, 0, 1, 1, -1], "female": [8, 1, 0, -1, -2, -2, -1, -2, -4], "pregnant": [-3, -1, -2]}}

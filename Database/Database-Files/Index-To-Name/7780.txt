@@ -1,0 +1,1 @@
+{"index": 7780, "name": "Soup, ramen noodle, dry, any flavor, reduced fat, reduced sodium", "healthiness": {"lactating": [-8, -6, -8], "male": [-1, -10, -14, -10, -8, -6, -5, -5, -7], "female": [-1, -10, -14, -12, -11, -9, -8, -9, -11], "pregnant": [-9, -7, -8]}}

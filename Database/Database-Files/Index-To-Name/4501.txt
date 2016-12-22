@@ -1,0 +1,1 @@
+{"index": 4501, "name": "Fish, croaker, Atlantic, raw", "healthiness": {"lactating": [37, 38, 37], "male": [47, 38, 36, 39, 38, 39, 41, 40, 38], "female": [47, 38, 36, 37, 36, 36, 39, 37, 34], "pregnant": [36, 39, 37]}}

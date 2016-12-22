@@ -1,0 +1,1 @@
+{"index": 5758, "name": "Doughnuts, yeast-leavened, with creme filling", "healthiness": {"lactating": [-3, -2, -4], "male": [25, 11, 6, 6, 0, -2, -2, -3, -4], "female": [26, 12, 7, 3, -2, -4, -3, -5, -8], "pregnant": [-3, -2, -4]}}

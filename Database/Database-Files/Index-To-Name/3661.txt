@@ -1,0 +1,1 @@
+{"index": 3661, "name": "Nuts, coconut cream, canned, sweetened", "healthiness": {"lactating": [-10, -9, -11], "male": [-9, -14, -17, -13, -12, -9, -8, -9, -10], "female": [-9, -13, -17, -15, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

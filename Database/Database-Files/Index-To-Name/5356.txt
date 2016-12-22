@@ -1,0 +1,1 @@
+{"index": 5356, "name": "Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, raw", "healthiness": {"lactating": [28, 29, 28], "male": [38, 28, 25, 28, 28, 30, 30, 28, 27], "female": [38, 28, 25, 26, 26, 27, 29, 27, 25], "pregnant": [27, 29, 27]}}

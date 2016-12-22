@@ -1,0 +1,1 @@
+{"index": 2499, "name": "Pork, fresh, loin, whole, separable lean and fat, cooked, braised", "healthiness": {"lactating": [27, 28, 27], "male": [41, 31, 27, 28, 28, 30, 31, 30, 28], "female": [41, 31, 27, 26, 25, 27, 29, 27, 25], "pregnant": [27, 29, 28]}}

@@ -1,0 +1,1 @@
+{"index": 5371, "name": "Veal, breast, point half, boneless, separable lean and fat, cooked, braised", "healthiness": {"lactating": [26, 28, 26], "male": [40, 30, 26, 29, 28, 29, 30, 29, 28], "female": [40, 30, 26, 27, 26, 26, 28, 27, 25], "pregnant": [26, 28, 27]}}

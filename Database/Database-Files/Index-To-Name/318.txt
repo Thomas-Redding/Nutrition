@@ -1,0 +1,1 @@
+{"index": 318, "name": "Babyfood, meat, veal, strained", "healthiness": {"lactating": [4, 6, 4], "male": [15, 5, 2, 6, 6, 6, 8, 8, 5], "female": [15, 5, 2, 4, 3, 4, 6, 5, 2], "pregnant": [3, 6, 5]}}

@@ -1,0 +1,1 @@
+{"index": 3313, "name": "Shallots, raw", "healthiness": {"lactating": [14, 14, 12], "male": [40, 34, 33, 31, 22, 16, 15, 13, 12], "female": [40, 34, 33, 29, 21, 15, 15, 13, 11], "pregnant": [14, 15, 12]}}

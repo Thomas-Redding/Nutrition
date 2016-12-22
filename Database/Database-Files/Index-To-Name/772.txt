@@ -1,0 +1,1 @@
+{"index": 772, "name": "Margarine-like shortening, industrial, soy (partially hydrogenated), cottonseed, and soy, principal use flaky pastries", "healthiness": {"lactating": [-13, -12, -13], "male": [-24, -24, -26, -20, -15, -11, -11, -12, -13], "female": [-24, -24, -26, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -11, -13]}}

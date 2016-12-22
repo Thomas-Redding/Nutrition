@@ -1,0 +1,1 @@
+{"index": 4753, "name": "Beans, black, mature seeds, cooked, boiled, without salt", "healthiness": {"lactating": [25, 26, 23], "male": [38, 31, 29, 31, 29, 25, 23, 22, 22], "female": [38, 31, 29, 29, 27, 24, 26, 23, 21], "pregnant": [24, 26, 23]}}

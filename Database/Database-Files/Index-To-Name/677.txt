@@ -1,0 +1,1 @@
+{"index": 677, "name": "Oil, cottonseed, salad or cooking", "healthiness": {"lactating": [-12, -10, -12], "male": [-23, -23, -25, -19, -13, -10, -9, -10, -11], "female": [-23, -23, -25, -21, -16, -13, -12, -13, -15], "pregnant": [-11, -10, -11]}}

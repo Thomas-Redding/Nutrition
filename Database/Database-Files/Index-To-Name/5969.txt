@@ -1,0 +1,1 @@
+{"index": 5969, "name": "PILLSBURY, Traditional Fudge Brownie Mix, dry", "healthiness": {"lactating": [-13, -12, -13], "male": [-30, -29, -29, -22, -17, -12, -12, -12, -13], "female": [-30, -29, -29, -24, -19, -16, -15, -16, -18], "pregnant": [-14, -13, -14]}}

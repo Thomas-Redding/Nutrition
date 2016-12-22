@@ -1,0 +1,1 @@
+{"index": 2485, "name": "Pork, fresh, separable fat, cooked", "healthiness": {"lactating": [-6, -5, -7], "male": [12, 1, -2, -1, -5, -5, -5, -6, -7], "female": [14, 2, 0, -3, -7, -8, -6, -8, -11], "pregnant": [-6, -5, -6]}}

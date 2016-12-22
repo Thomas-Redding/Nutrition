@@ -1,0 +1,1 @@
+{"index": 2090, "name": "Cereals ready-to-eat, CASCADIAN FARM, Multi-Grain Squares", "healthiness": {"lactating": [-13, -11, -13], "male": [-26, -29, -28, -21, -16, -12, -11, -12, -13], "female": [-26, -29, -28, -23, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

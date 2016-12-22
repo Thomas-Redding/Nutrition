@@ -1,0 +1,1 @@
+{"index": 1885, "name": "Cereals ready-to-eat, chocolate-flavored frosted puffed corn", "healthiness": {"lactating": [8, 9, 8], "male": [14, 5, 3, 8, 11, 12, 13, 12, 10], "female": [14, 5, 3, 6, 9, 10, 11, 9, 8], "pregnant": [7, 9, 8]}}

@@ -1,0 +1,1 @@
+{"index": 166, "name": "KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product", "healthiness": {"lactating": [-5, -3, -5], "male": [-13, -15, -15, -9, -6, -3, -2, -3, -4], "female": [-13, -15, -15, -11, -9, -6, -4, -6, -8], "pregnant": [-5, -3, -4]}}

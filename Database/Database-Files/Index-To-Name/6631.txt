@@ -1,0 +1,1 @@
+{"index": 6631, "name": "Wheat flour, white (industrial), 10% protein, bleached, enriched", "healthiness": {"lactating": [2, 3, 1], "male": [27, 19, 15, 13, 7, 3, 3, 2, 1], "female": [28, 19, 15, 11, 5, 1, 2, -1, -2], "pregnant": [2, 2, 0]}}

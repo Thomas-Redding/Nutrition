@@ -1,0 +1,1 @@
+{"index": 8365, "name": "Corn, white, steamed (Navajo)", "healthiness": {"lactating": [3, 4, 2], "male": [25, 18, 14, 14, 6, 3, 3, 2, 1], "female": [26, 18, 14, 12, 5, 2, 3, 1, -1], "pregnant": [2, 4, 2]}}

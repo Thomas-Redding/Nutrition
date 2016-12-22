@@ -1,0 +1,1 @@
+{"index": 2763, "name": "Pork, cured, ham, shank, bone-in, separable lean and fat, unheated", "healthiness": {"lactating": [30, 31, 30], "male": [43, 34, 33, 36, 33, 33, 34, 34, 32], "female": [43, 34, 33, 34, 31, 30, 33, 31, 29], "pregnant": [29, 32, 30]}}

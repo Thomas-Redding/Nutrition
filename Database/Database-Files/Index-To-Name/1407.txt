@@ -1,0 +1,1 @@
+{"index": 1407, "name": "CAMPBELL'S Red and White, GOLDFISH Pasta with Chicken in Chicken Broth, condensed", "healthiness": {"lactating": [-13, -12, -13], "male": [-26, -30, -29, -22, -17, -12, -11, -12, -13], "female": [-26, -30, -29, -24, -19, -16, -14, -16, -17], "pregnant": [-14, -12, -14]}}

@@ -1,0 +1,1 @@
+{"index": 8585, "name": "Bologna, beef, low fat", "healthiness": {"lactating": [-5, -4, -5], "male": [3, -5, -9, -7, -6, -4, -2, -3, -4], "female": [3, -5, -9, -9, -8, -7, -5, -6, -8], "pregnant": [-6, -4, -5]}}

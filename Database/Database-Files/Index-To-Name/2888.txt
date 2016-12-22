@@ -1,0 +1,1 @@
+{"index": 2888, "name": "Cabbage, cooked, boiled, drained, without salt", "healthiness": {"lactating": [31, 31, 28], "male": [52, 47, 48, 48, 38, 30, 30, 28, 27], "female": [52, 47, 48, 46, 37, 30, 32, 29, 26], "pregnant": [29, 31, 29]}}

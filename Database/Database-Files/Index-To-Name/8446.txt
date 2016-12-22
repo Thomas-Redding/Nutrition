@@ -1,0 +1,1 @@
+{"index": 8446, "name": "Stew, pinto bean and hominy, badufsuki (Hopi)", "healthiness": {"lactating": [-3, -2, -3], "male": [9, 3, -1, -2, -3, -2, 0, -1, -2], "female": [9, 3, -1, -4, -5, -4, -2, -4, -5], "pregnant": [-4, -2, -3]}}

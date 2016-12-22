@@ -1,0 +1,1 @@
+{"index": 8421, "name": "Cattail, Narrow Leaf Shoots (Northern Plains Indians)", "healthiness": {"lactating": [18, 20, 18], "male": [17, 15, 19, 21, 19, 21, 23, 22, 20], "female": [17, 15, 19, 20, 16, 17, 20, 18, 17], "pregnant": [15, 18, 17]}}

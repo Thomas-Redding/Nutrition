@@ -1,0 +1,1 @@
+{"index": 1502, "name": "CAMPBELL'S Homestyle Butternut Squash Bisque", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -29, -29, -22, -17, -12, -12, -12, -13], "female": [-25, -29, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

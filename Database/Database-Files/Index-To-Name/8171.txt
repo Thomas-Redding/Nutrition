@@ -1,0 +1,1 @@
+{"index": 8171, "name": "UDI'S, Gluten Free, Classic French Dinner Rolls", "healthiness": {"lactating": [-10, -9, -10], "male": [-10, -18, -20, -16, -13, -9, -8, -9, -10], "female": [-10, -18, -20, -18, -15, -12, -10, -12, -14], "pregnant": [-11, -9, -10]}}

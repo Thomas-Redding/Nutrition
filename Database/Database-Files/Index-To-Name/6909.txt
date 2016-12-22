@@ -1,0 +1,1 @@
+{"index": 6909, "name": "POPEYES, Mild Chicken Strips, analyzed 2006", "healthiness": {"lactating": [22, 22, 19], "male": [33, 24, 21, 24, 24, 22, 20, 18, 17], "female": [33, 24, 21, 22, 22, 20, 22, 19, 16], "pregnant": [21, 22, 20]}}

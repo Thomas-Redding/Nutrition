@@ -1,0 +1,1 @@
+{"index": 771, "name": "Oil, industrial, soy (partially hydrogenated)  and cottonseed, principal use as a tortilla shortening", "healthiness": {"lactating": [-13, -12, -13], "male": [-23, -23, -26, -20, -16, -12, -11, -12, -13], "female": [-23, -23, -26, -22, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

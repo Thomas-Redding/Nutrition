@@ -1,0 +1,1 @@
+{"index": 8549, "name": "Restaurant, Chinese, sweet and sour chicken", "healthiness": {"lactating": [11, 10, 8], "male": [35, 24, 20, 21, 18, 11, 8, 7, 6], "female": [35, 24, 20, 19, 16, 9, 9, 6, 4], "pregnant": [10, 10, 8]}}

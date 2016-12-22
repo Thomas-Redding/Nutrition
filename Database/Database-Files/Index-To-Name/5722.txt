@@ -1,0 +1,1 @@
+{"index": 5722, "name": "Crackers, crispbread, rye", "healthiness": {"lactating": [6, 7, 5], "male": [35, 26, 22, 20, 12, 7, 7, 6, 5], "female": [36, 27, 23, 18, 10, 6, 7, 5, 3], "pregnant": [7, 8, 6]}}

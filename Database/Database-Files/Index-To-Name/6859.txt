@@ -1,0 +1,1 @@
+{"index": 6859, "name": "McDONALD'S, NEWMAN'S OWN Creamy Caesar Dressing", "healthiness": {"lactating": [-11, -10, -11], "male": [-14, -20, -22, -16, -12, -9, -8, -8, -10], "female": [-14, -20, -22, -18, -14, -12, -10, -12, -14], "pregnant": [-11, -9, -11]}}

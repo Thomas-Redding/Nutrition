@@ -1,0 +1,1 @@
+{"index": 5473, "name": "Lamb, New Zealand, imported, testes, cooked, soaked and fried", "healthiness": {"lactating": [36, 37, 36], "male": [46, 36, 35, 37, 36, 37, 39, 39, 38], "female": [46, 36, 35, 36, 34, 34, 37, 36, 35], "pregnant": [34, 37, 36]}}

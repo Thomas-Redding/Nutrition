@@ -1,0 +1,1 @@
+{"index": 8112, "name": "Cookies, shortbread, reduced fat", "healthiness": {"lactating": [-11, -9, -11], "male": [-3, -15, -20, -16, -12, -9, -8, -9, -10], "female": [-3, -15, -20, -18, -15, -12, -11, -12, -14], "pregnant": [-11, -10, -11]}}

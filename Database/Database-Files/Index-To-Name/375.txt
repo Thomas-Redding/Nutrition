@@ -1,0 +1,1 @@
+{"index": 375, "name": "Babyfood, green beans, dices, toddler", "healthiness": {"lactating": [4, 5, 4], "male": [18, 11, 10, 9, 6, 5, 7, 6, 5], "female": [18, 11, 10, 7, 4, 4, 6, 4, 3], "pregnant": [3, 6, 4]}}

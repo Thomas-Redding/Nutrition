@@ -1,0 +1,1 @@
+{"index": 6074, "name": "Snacks, GENERAL MILLS, CHEX MIX, traditional flavor", "healthiness": {"lactating": [-7, -6, -7], "male": [7, -5, -11, -9, -8, -5, -4, -5, -6], "female": [7, -5, -11, -11, -10, -8, -7, -8, -9], "pregnant": [-7, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 1244, "name": "Soup, pea, split with ham, canned, chunky, ready-to-serve", "healthiness": {"lactating": [24, 24, 21], "male": [50, 44, 42, 39, 33, 25, 23, 22, 21], "female": [50, 44, 42, 37, 31, 25, 25, 23, 20], "pregnant": [24, 25, 23]}}

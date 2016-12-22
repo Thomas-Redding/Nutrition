@@ -1,0 +1,1 @@
+{"index": 3013, "name": "Mushrooms, brown, italian, or crimini, raw", "healthiness": {"lactating": [55, 56, 55], "male": [49, 47, 48, 53, 55, 57, 56, 55, 54], "female": [49, 47, 48, 51, 53, 54, 56, 54, 52], "pregnant": [54, 56, 54]}}

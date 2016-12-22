@@ -1,0 +1,1 @@
+{"index": 77, "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)", "healthiness": {"lactating": [42, 43, 42], "male": [51, 43, 41, 45, 43, 44, 46, 45, 43], "female": [51, 43, 41, 43, 41, 41, 45, 43, 41], "pregnant": [42, 45, 44]}}

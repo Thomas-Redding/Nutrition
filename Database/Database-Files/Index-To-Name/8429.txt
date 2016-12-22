@@ -1,0 +1,1 @@
+{"index": 8429, "name": "Rose Hips, wild (Northern Plains Indians)", "healthiness": {"lactating": [8, 9, 8], "male": [22, 11, 11, 13, 12, 11, 12, 11, 9], "female": [22, 11, 11, 11, 9, 9, 11, 9, 7], "pregnant": [10, 11, 10]}}

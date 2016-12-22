@@ -1,0 +1,1 @@
+{"index": 4091, "name": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, all grades, cooked, broiled", "healthiness": {"lactating": [33, 34, 33], "male": [45, 35, 29, 34, 35, 36, 37, 36, 35], "female": [45, 35, 29, 32, 33, 33, 36, 34, 32], "pregnant": [32, 34, 33]}}

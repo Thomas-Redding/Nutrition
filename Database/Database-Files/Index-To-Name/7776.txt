@@ -1,0 +1,1 @@
+{"index": 7776, "name": "PACE, Triple Pepper Salsa", "healthiness": {"lactating": [-10, -9, -10], "male": [-26, -26, -30, -16, -12, -9, -9, -9, -10], "female": [-26, -26, -30, -18, -13, -11, -10, -11, -13], "pregnant": [-9, -8, -10]}}

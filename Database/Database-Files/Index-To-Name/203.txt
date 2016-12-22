@@ -1,0 +1,1 @@
+{"index": 203, "name": "Ice cream cookie sandwich", "healthiness": {"lactating": [-11, -10, -11], "male": [-5, -17, -21, -17, -13, -10, -9, -9, -11], "female": [-5, -17, -21, -19, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

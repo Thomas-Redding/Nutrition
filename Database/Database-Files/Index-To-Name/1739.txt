@@ -1,0 +1,1 @@
+{"index": 1739, "name": "Salami, Italian, pork and beef, dry, sliced, 50% less sodium", "healthiness": {"lactating": [21, 21, 18], "male": [39, 28, 23, 25, 25, 22, 19, 17, 16], "female": [39, 28, 23, 23, 23, 20, 21, 18, 14], "pregnant": [21, 21, 18]}}

@@ -1,0 +1,1 @@
+{"index": 2842, "name": "Lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, without salt", "healthiness": {"lactating": [26, 26, 24], "male": [43, 37, 36, 36, 33, 27, 25, 24, 23], "female": [43, 37, 36, 34, 31, 26, 27, 24, 23], "pregnant": [26, 27, 24]}}

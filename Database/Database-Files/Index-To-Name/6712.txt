@@ -1,0 +1,1 @@
+{"index": 6712, "name": "Fast foods, hotdog, with corn flour coating (corndog)", "healthiness": {"lactating": [9, 9, 6], "male": [36, 22, 18, 20, 16, 9, 8, 6, 5], "female": [36, 22, 18, 18, 13, 7, 8, 5, 3], "pregnant": [8, 8, 6]}}

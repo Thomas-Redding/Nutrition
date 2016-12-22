@@ -1,0 +1,1 @@
+{"index": 2240, "name": "Grapes, red or green (European type, such as Thompson seedless), raw", "healthiness": {"lactating": [-2, -1, -2], "male": [17, 5, 5, 5, 1, 1, 0, -1, -2], "female": [17, 6, 6, 2, -1, -2, -1, -3, -5], "pregnant": [-1, 0, -2]}}

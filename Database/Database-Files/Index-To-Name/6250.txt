@@ -1,0 +1,1 @@
+{"index": 6250, "name": "Puddings, chocolate, ready-to-eat, fat free", "healthiness": {"lactating": [-7, -5, -7], "male": [4, -6, -11, -9, -8, -6, -4, -4, -6], "female": [4, -6, -11, -11, -10, -9, -7, -9, -10], "pregnant": [-8, -6, -8]}}

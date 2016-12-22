@@ -1,0 +1,1 @@
+{"index": 3544, "name": "Potatoes, mashed, home-prepared, whole milk and butter added", "healthiness": {"lactating": [2, 3, 1], "male": [36, 24, 21, 18, 8, 4, 3, 2, 1], "female": [37, 25, 22, 16, 6, 2, 3, 1, -2], "pregnant": [2, 3, 2]}}

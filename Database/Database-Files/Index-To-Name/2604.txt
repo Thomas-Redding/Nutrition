@@ -1,0 +1,1 @@
+{"index": 2604, "name": "Pork, cured, ham, regular (approximately 13% fat), canned, roasted", "healthiness": {"lactating": [28, 29, 27], "male": [43, 33, 32, 34, 31, 30, 30, 29, 28], "female": [43, 33, 32, 32, 28, 28, 30, 28, 25], "pregnant": [28, 29, 28]}}

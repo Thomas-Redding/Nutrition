@@ -1,0 +1,1 @@
+{"index": 7089, "name": "Chicken tenders, breaded, frozen, prepared", "healthiness": {"lactating": [17, 16, 14], "male": [41, 32, 26, 27, 24, 17, 14, 12, 11], "female": [41, 32, 26, 25, 22, 16, 16, 13, 10], "pregnant": [17, 17, 14]}}

@@ -1,0 +1,1 @@
+{"index": 6910, "name": "POPEYES, Spicy Chicken Strips, analyzed 2006", "healthiness": {"lactating": [23, 24, 22], "male": [36, 26, 23, 25, 25, 24, 23, 21, 20], "female": [36, 26, 23, 23, 23, 22, 24, 21, 18], "pregnant": [23, 24, 22]}}

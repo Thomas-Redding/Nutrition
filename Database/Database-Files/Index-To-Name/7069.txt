@@ -1,0 +1,1 @@
+{"index": 7069, "name": "Egg rolls, vegetable, frozen, prepared", "healthiness": {"lactating": [3, 4, 2], "male": [35, 23, 20, 17, 9, 5, 4, 3, 2], "female": [36, 24, 21, 15, 7, 3, 4, 1, -1], "pregnant": [4, 4, 2]}}

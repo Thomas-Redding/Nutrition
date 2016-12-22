@@ -1,0 +1,1 @@
+{"index": 3641, "name": "Nuts, butternuts, dried", "healthiness": {"lactating": [15, 16, 13], "male": [30, 23, 20, 22, 20, 15, 13, 12, 11], "female": [30, 23, 20, 20, 18, 13, 14, 11, 8], "pregnant": [14, 15, 13]}}

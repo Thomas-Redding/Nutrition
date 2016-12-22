@@ -1,0 +1,1 @@
+{"index": 1213, "name": "Soup, cheese, canned, condensed", "healthiness": {"lactating": [-5, -4, -5], "male": [12, 0, -4, -4, -4, -3, -2, -3, -4], "female": [12, 0, -4, -6, -6, -5, -3, -5, -7], "pregnant": [-4, -3, -4]}}

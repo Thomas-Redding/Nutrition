@@ -1,0 +1,1 @@
+{"index": 936, "name": "Chicken, roasting, meat only, cooked, roasted", "healthiness": {"lactating": [29, 30, 29], "male": [42, 33, 29, 31, 31, 31, 33, 33, 31], "female": [42, 33, 29, 29, 28, 29, 31, 29, 28], "pregnant": [28, 30, 29]}}

@@ -1,0 +1,1 @@
+{"index": 6496, "name": "Couscous, dry", "healthiness": {"lactating": [4, 4, 2], "male": [28, 16, 11, 13, 8, 4, 3, 2, 1], "female": [28, 16, 11, 11, 6, 3, 3, 1, -2], "pregnant": [4, 4, 2]}}

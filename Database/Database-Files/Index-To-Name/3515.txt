@@ -1,0 +1,1 @@
+{"index": 3515, "name": "Corn, sweet, white, canned, whole kernel, no salt added, solids and liquids", "healthiness": {"lactating": [8, 8, 6], "male": [39, 29, 26, 26, 16, 9, 8, 7, 6], "female": [39, 29, 26, 24, 14, 7, 8, 6, 3], "pregnant": [8, 9, 6]}}

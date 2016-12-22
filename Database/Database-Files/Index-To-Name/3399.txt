@@ -1,0 +1,1 @@
+{"index": 3399, "name": "Eggplant, cooked, boiled, drained, with salt", "healthiness": {"lactating": [11, 11, 9], "male": [38, 31, 34, 31, 19, 12, 11, 10, 9], "female": [39, 32, 35, 28, 18, 12, 13, 10, 8], "pregnant": [11, 12, 10]}}

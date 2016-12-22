@@ -1,0 +1,1 @@
+{"index": 1701, "name": "Turkey, pork, and beef sausage, low fat, smoked", "healthiness": {"lactating": [0, 2, 0], "male": [9, 4, 2, 2, 1, 2, 4, 3, 2], "female": [9, 4, 2, 0, -1, -1, 1, -1, -2], "pregnant": [-2, 0, -1]}}

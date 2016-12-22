@@ -1,0 +1,1 @@
+{"index": 3241, "name": "Turnips, frozen, cooked, boiled, drained, without salt", "healthiness": {"lactating": [29, 29, 27], "male": [49, 47, 46, 47, 40, 31, 29, 28, 27], "female": [49, 47, 46, 46, 39, 31, 32, 29, 26], "pregnant": [28, 29, 27]}}

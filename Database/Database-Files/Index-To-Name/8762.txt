@@ -1,0 +1,1 @@
+{"index": 8762, "name": "Snacks, tortilla chips, light (baked with less oil)", "healthiness": {"lactating": [-9, -8, -9], "male": [-2, -12, -16, -13, -11, -8, -7, -7, -9], "female": [-2, -12, -16, -15, -13, -11, -9, -11, -13], "pregnant": [-10, -8, -9]}}

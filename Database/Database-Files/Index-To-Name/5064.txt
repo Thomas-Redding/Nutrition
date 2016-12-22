@@ -1,0 +1,1 @@
+{"index": 5064, "name": "MORNINGSTAR FARMS Corn Dog, frozen, unprepared", "healthiness": {"lactating": [-12, -10, -12], "male": [-20, -26, -25, -19, -15, -11, -10, -10, -11], "female": [-20, -26, -25, -21, -17, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

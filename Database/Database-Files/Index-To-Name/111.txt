@@ -1,0 +1,1 @@
+{"index": 111, "name": "Egg, whole, raw, fresh", "healthiness": {"lactating": [36, 37, 36], "male": [51, 40, 38, 40, 39, 39, 40, 39, 36], "female": [51, 40, 38, 38, 37, 37, 39, 37, 34], "pregnant": [36, 38, 37]}}

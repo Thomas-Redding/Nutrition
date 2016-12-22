@@ -1,0 +1,1 @@
+{"index": 4276, "name": "Beverages, coffee, brewed, prepared with tap water", "healthiness": {"lactating": [32, 33, 31], "male": [38, 35, 34, 36, 35, 33, 33, 31, 30], "female": [39, 35, 34, 34, 32, 30, 32, 30, 27], "pregnant": [31, 33, 31]}}

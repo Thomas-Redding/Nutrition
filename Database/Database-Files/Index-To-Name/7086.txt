@@ -1,0 +1,1 @@
+{"index": 7086, "name": "Chicken, nuggets, white meat, precooked, frozen, not reheated", "healthiness": {"lactating": [-5, -4, -5], "male": [10, 2, -6, -5, -5, -4, -2, -3, -5], "female": [10, 2, -6, -7, -7, -6, -4, -6, -8], "pregnant": [-6, -4, -5]}}

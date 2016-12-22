@@ -1,0 +1,1 @@
+{"index": 6440, "name": "Frozen novelties, KLONDIKE, SLIM-A-BEAR, No Sugar Added, Stickless Bar", "healthiness": {"lactating": [-12, -11, -12], "male": [-22, -26, -26, -20, -16, -11, -10, -11, -12], "female": [-22, -26, -26, -22, -18, -15, -13, -14, -16], "pregnant": [-12, -11, -12]}}

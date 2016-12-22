@@ -1,0 +1,1 @@
+{"index": 2846, "name": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt", "healthiness": {"lactating": [50, 50, 48], "male": [50, 48, 49, 54, 54, 51, 50, 48, 47], "female": [50, 48, 49, 52, 52, 49, 51, 49, 47], "pregnant": [48, 50, 47]}}

@@ -1,0 +1,1 @@
+{"index": 8671, "name": "Cabbage, mustard, salted", "healthiness": {"lactating": [19, 20, 19], "male": [21, 19, 22, 24, 22, 20, 23, 22, 21], "female": [21, 19, 22, 22, 19, 18, 21, 19, 19], "pregnant": [17, 20, 19]}}

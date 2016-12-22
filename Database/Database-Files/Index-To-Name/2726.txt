@@ -1,0 +1,1 @@
+{"index": 2726, "name": "Pork, pickled pork hocks", "healthiness": {"lactating": [17, 18, 15], "male": [37, 23, 20, 23, 22, 19, 16, 15, 14], "female": [37, 23, 20, 21, 20, 16, 17, 15, 12], "pregnant": [17, 18, 16]}}

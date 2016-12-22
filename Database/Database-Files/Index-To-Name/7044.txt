@@ -1,0 +1,1 @@
+{"index": 7044, "name": "Burrito, bean and cheese, frozen", "healthiness": {"lactating": [-6, -5, -6], "male": [11, 0, -8, -7, -6, -4, -3, -4, -5], "female": [11, 0, -8, -9, -8, -7, -5, -7, -8], "pregnant": [-6, -5, -6]}}

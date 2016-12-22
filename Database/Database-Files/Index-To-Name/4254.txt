@@ -1,0 +1,1 @@
+{"index": 4254, "name": "Beverages, coffee, brewed, breakfast blend", "healthiness": {"lactating": [4, 5, 4], "male": [0, -3, -5, -1, 2, 5, 7, 6, 5], "female": [0, -3, -5, -3, -1, 1, 4, 2, 1], "pregnant": [3, 5, 4]}}

@@ -1,0 +1,1 @@
+{"index": 7051, "name": "SPAGHETTIOS, SpaghettiOs in Meat Sauce", "healthiness": {"lactating": [-7, -6, -7], "male": [-14, -17, -17, -13, -9, -6, -5, -5, -7], "female": [-14, -17, -17, -15, -12, -10, -8, -10, -11], "pregnant": [-9, -7, -9]}}

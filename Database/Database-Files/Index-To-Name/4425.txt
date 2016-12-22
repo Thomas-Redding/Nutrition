@@ -1,0 +1,1 @@
+{"index": 4425, "name": "Beverages, tea, herb, brewed, chamomile", "healthiness": {"lactating": [12, 13, 12], "male": [3, 2, 3, 9, 11, 14, 15, 14, 13], "female": [3, 2, 3, 7, 9, 11, 14, 12, 10], "pregnant": [12, 14, 13]}}

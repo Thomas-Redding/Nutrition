@@ -1,0 +1,1 @@
+{"index": 8423, "name": "Lambsquarters, steamed (Northern Plains Indians)", "healthiness": {"lactating": [20, 21, 20], "male": [14, 12, 16, 20, 22, 22, 24, 24, 22], "female": [14, 12, 16, 18, 19, 19, 21, 20, 19], "pregnant": [19, 21, 19]}}

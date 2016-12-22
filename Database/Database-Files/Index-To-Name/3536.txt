@@ -1,0 +1,1 @@
+{"index": 3536, "name": "Lentils, sprouted, cooked, stir-fried, with salt", "healthiness": {"lactating": [27, 28, 26], "male": [37, 34, 33, 36, 32, 29, 29, 28, 26], "female": [37, 34, 33, 34, 30, 28, 29, 27, 25], "pregnant": [26, 28, 26]}}

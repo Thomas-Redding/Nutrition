@@ -1,0 +1,1 @@
+{"index": 1085, "name": "USDA Commodity, turkey ham, dark meat, smoked, frozen", "healthiness": {"lactating": [3, 5, 3], "male": [4, -2, -3, 3, 3, 4, 6, 6, 5], "female": [4, -2, -3, 1, 1, 2, 5, 3, 2], "pregnant": [1, 4, 3]}}

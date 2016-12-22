@@ -1,0 +1,1 @@
+{"index": 6361, "name": "Snacks, potato chips, plain, salted", "healthiness": {"lactating": [-2, -2, -3], "male": [28, 16, 11, 8, 1, -1, -1, -2, -3], "female": [28, 16, 12, 6, -1, -3, -2, -4, -7], "pregnant": [-2, -1, -3]}}

@@ -1,0 +1,1 @@
+{"index": 6392, "name": "Puddings, lemon, dry mix, regular, with added oil, potassium, sodium", "healthiness": {"lactating": [-14, -13, -14], "male": [-23, -29, -29, -22, -17, -13, -12, -13, -14], "female": [-23, -29, -29, -24, -19, -16, -15, -16, -18], "pregnant": [-14, -13, -14]}}

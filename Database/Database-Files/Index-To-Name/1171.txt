@@ -1,0 +1,1 @@
+{"index": 1171, "name": "Turkey, retail parts, drumstick, meat only, raw", "healthiness": {"lactating": [38, 39, 38], "male": [46, 38, 37, 41, 42, 41, 43, 42, 40], "female": [46, 38, 37, 39, 39, 39, 42, 40, 38], "pregnant": [37, 40, 38]}}

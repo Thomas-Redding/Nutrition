@@ -1,0 +1,1 @@
+{"index": 2823, "name": "Asparagus, raw", "healthiness": {"lactating": [64, 64, 62], "male": [59, 59, 62, 67, 70, 67, 67, 65, 64], "female": [59, 59, 62, 66, 67, 66, 70, 67, 64], "pregnant": [65, 68, 66]}}

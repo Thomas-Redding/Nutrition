@@ -1,0 +1,1 @@
+{"index": 4294, "name": "Beverages, OCEAN SPRAY, Cran Lemonade", "healthiness": {"lactating": [-9, -8, -9], "male": [-16, -23, -24, -18, -13, -8, -8, -8, -9], "female": [-16, -23, -24, -19, -15, -12, -10, -12, -14], "pregnant": [-9, -8, -9]}}

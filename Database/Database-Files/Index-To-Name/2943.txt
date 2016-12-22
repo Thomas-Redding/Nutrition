@@ -1,0 +1,1 @@
+{"index": 2943, "name": "Corn with red and green peppers, canned, solids and liquids", "healthiness": {"lactating": [9, 9, 7], "male": [40, 32, 28, 28, 18, 10, 9, 8, 7], "female": [40, 32, 28, 25, 16, 9, 9, 7, 4], "pregnant": [9, 9, 7]}}

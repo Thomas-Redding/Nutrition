@@ -1,0 +1,1 @@
+{"index": 7327, "name": "Beef, top loin filet, boneless, separable lean only, trimmed to 1/8\" fat, all grades, cooked, grilled", "healthiness": {"lactating": [34, 35, 34], "male": [39, 34, 29, 33, 36, 37, 38, 38, 36], "female": [39, 34, 29, 31, 33, 34, 37, 35, 33], "pregnant": [33, 35, 34]}}

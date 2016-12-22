@@ -1,0 +1,1 @@
+{"index": 4586, "name": "Fish, sturgeon, mixed species, cooked, dry heat", "healthiness": {"lactating": [39, 40, 39], "male": [50, 41, 40, 42, 41, 41, 43, 42, 41], "female": [50, 41, 40, 40, 38, 38, 41, 40, 38], "pregnant": [39, 41, 40]}}

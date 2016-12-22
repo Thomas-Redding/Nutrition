@@ -1,0 +1,1 @@
+{"index": 8710, "name": "Frozen novelties, juice type, orange", "healthiness": {"lactating": [-10, -8, -10], "male": [-7, -19, -21, -15, -11, -7, -7, -7, -9], "female": [-7, -19, -21, -17, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

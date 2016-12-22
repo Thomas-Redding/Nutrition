@@ -1,0 +1,1 @@
+{"index": 6402, "name": "Snacks, potato chips, plain, made with partially hydrogenated soybean oil, salted", "healthiness": {"lactating": [-3, -3, -4], "male": [22, 9, 8, 6, -1, -2, -2, -3, -4], "female": [23, 10, 9, 4, -3, -4, -3, -5, -8], "pregnant": [-3, -2, -4]}}

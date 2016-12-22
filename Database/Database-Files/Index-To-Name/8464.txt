@@ -1,0 +1,1 @@
+{"index": 8464, "name": "Restaurant, family style, sirloin steak", "healthiness": {"lactating": [34, 35, 34], "male": [43, 35, 33, 37, 37, 37, 39, 38, 36], "female": [43, 35, 33, 35, 35, 35, 37, 35, 34], "pregnant": [33, 35, 34]}}

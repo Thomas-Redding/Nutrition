@@ -1,0 +1,1 @@
+{"index": 5779, "name": "Muffins, blueberry, toaster-type", "healthiness": {"lactating": [-2, -2, -3], "male": [24, 12, 8, 7, 1, -1, -2, -3, -4], "female": [25, 13, 9, 4, -2, -3, -2, -5, -7], "pregnant": [-2, -1, -3]}}

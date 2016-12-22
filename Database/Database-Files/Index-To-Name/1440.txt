@@ -1,0 +1,1 @@
+{"index": 1440, "name": "Soup, bean with frankfurters, canned, prepared with equal volume water", "healthiness": {"lactating": [19, 19, 16], "male": [38, 29, 26, 27, 25, 19, 18, 17, 16], "female": [38, 29, 26, 25, 23, 18, 19, 16, 14], "pregnant": [18, 19, 17]}}

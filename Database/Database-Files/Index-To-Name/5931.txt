@@ -1,0 +1,1 @@
+{"index": 5931, "name": "KELLOGG, KELLOGG'S EGGO, Buttermilk Pancake", "healthiness": {"lactating": [-6, -5, -6], "male": [-6, -9, -12, -8, -7, -5, -3, -4, -5], "female": [-6, -9, -12, -10, -10, -9, -7, -8, -9], "pregnant": [-8, -6, -7]}}

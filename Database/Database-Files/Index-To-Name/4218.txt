@@ -1,0 +1,1 @@
+{"index": 4218, "name": "Beverages, NESTEA, tea, black, ready-to-drink, lemon", "healthiness": {"lactating": [-11, -9, -11], "male": [-19, -20, -22, -17, -14, -10, -9, -9, -10], "female": [-19, -20, -22, -19, -16, -13, -11, -12, -14], "pregnant": [-11, -9, -10]}}

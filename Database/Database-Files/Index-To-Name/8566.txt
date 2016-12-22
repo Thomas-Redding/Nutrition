@@ -1,0 +1,1 @@
+{"index": 8566, "name": "Babyfood, banana juice with low fat yogurt", "healthiness": {"lactating": [-3, -2, -3], "male": [8, -1, -7, -4, -4, -2, 0, -1, -2], "female": [8, -1, -7, -6, -6, -5, -2, -4, -6], "pregnant": [-4, -2, -3]}}

@@ -1,0 +1,1 @@
+{"index": 7082, "name": "Potato salad with egg", "healthiness": {"lactating": [-9, -7, -9], "male": [4, -10, -13, -11, -9, -7, -6, -7, -8], "female": [4, -10, -13, -13, -12, -10, -8, -10, -12], "pregnant": [-8, -7, -8]}}

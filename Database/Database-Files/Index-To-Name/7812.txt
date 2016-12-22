@@ -1,0 +1,1 @@
+{"index": 7812, "name": "KELLOGG'S, EGGO, Pancakes, Chocolate Chip", "healthiness": {"lactating": [-5, -4, -5], "male": [-2, -6, -8, -5, -5, -3, -2, -2, -4], "female": [-2, -6, -8, -6, -7, -6, -5, -6, -7], "pregnant": [-6, -4, -5]}}

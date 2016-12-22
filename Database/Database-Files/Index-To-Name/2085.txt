@@ -1,0 +1,1 @@
+{"index": 2085, "name": "Cereals ready-to-eat, GENERAL MILLS, Apple Cinnamon CHEX", "healthiness": {"lactating": [7, 8, 7], "male": [5, 1, 1, 6, 9, 10, 11, 10, 7], "female": [5, 1, 1, 4, 7, 9, 10, 9, 5], "pregnant": [6, 8, 7]}}

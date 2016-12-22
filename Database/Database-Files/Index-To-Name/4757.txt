@@ -1,0 +1,1 @@
+{"index": 4757, "name": "Beans, cranberry (roman), mature seeds, raw", "healthiness": {"lactating": [27, 27, 25], "male": [37, 31, 30, 32, 30, 27, 25, 24, 23], "female": [37, 31, 30, 30, 29, 26, 27, 25, 23], "pregnant": [26, 27, 25]}}

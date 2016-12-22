@@ -1,0 +1,1 @@
+{"index": 6356, "name": "Snacks, granola bars, soft, uncoated, nut and raisin", "healthiness": {"lactating": [0, 0, -1], "male": [27, 16, 12, 10, 3, 1, 0, -1, -2], "female": [28, 17, 13, 8, 1, -2, 0, -2, -5], "pregnant": [-1, 1, -1]}}

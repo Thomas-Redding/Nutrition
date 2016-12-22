@@ -1,0 +1,1 @@
+{"index": 2479, "name": "Pork, fresh, carcass, separable lean and fat, raw", "healthiness": {"lactating": [9, 9, 6], "male": [33, 20, 15, 18, 16, 9, 7, 5, 5], "female": [33, 20, 15, 16, 14, 7, 8, 5, 2], "pregnant": [9, 9, 6]}}

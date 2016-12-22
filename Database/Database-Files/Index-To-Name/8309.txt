@@ -1,0 +1,1 @@
+{"index": 8309, "name": "Cranberry, low bush or lingenberry, raw (Alaska Native)", "healthiness": {"lactating": [-7, -6, -7], "male": [-9, -16, -19, -13, -10, -6, -5, -5, -7], "female": [-9, -16, -19, -15, -12, -9, -8, -9, -11], "pregnant": [-8, -6, -8]}}

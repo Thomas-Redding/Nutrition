@@ -1,0 +1,1 @@
+{"index": 4777, "name": "Beans, navy, mature seeds, canned", "healthiness": {"lactating": [26, 26, 23], "male": [42, 35, 32, 32, 29, 26, 24, 23, 22], "female": [42, 35, 32, 30, 28, 25, 26, 23, 21], "pregnant": [25, 26, 23]}}

@@ -1,0 +1,1 @@
+{"index": 4466, "name": "Beverages, milk beverage, reduced fat, flavored and sweetened, Ready-to-drink,  added calcium, vitamin A and vitamin D", "healthiness": {"lactating": [1, 2, 1], "male": [13, 2, 0, 2, 1, 2, 4, 3, 0], "female": [13, 2, 0, 0, -2, 0, 2, 1, -3], "pregnant": [0, 3, 2]}}

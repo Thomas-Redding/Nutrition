@@ -1,0 +1,1 @@
+{"index": 6974, "name": "DOMINO'S 14\" Sausage Pizza, Ultimate Deep Dish Crust", "healthiness": {"lactating": [-6, -5, -6], "male": [8, -4, -10, -8, -7, -5, -4, -4, -6], "female": [8, -4, -10, -10, -10, -8, -6, -8, -9], "pregnant": [-7, -5, -7]}}

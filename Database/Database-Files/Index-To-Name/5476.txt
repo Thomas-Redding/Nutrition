@@ -1,0 +1,1 @@
+{"index": 5476, "name": "Lamb, New Zealand, imported, tongue - swiss cut, raw", "healthiness": {"lactating": [19, 20, 18], "male": [36, 22, 17, 20, 21, 21, 18, 17, 16], "female": [36, 22, 17, 18, 18, 18, 19, 17, 14], "pregnant": [19, 20, 18]}}

@@ -1,0 +1,1 @@
+{"index": 4140, "name": "Beverages, Whiskey sour mix, bottled", "healthiness": {"lactating": [-13, -12, -13], "male": [-23, -28, -26, -21, -16, -12, -11, -12, -13], "female": [-23, -28, -26, -23, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -13]}}

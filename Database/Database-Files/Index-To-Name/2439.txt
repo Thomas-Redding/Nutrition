@@ -1,0 +1,1 @@
+{"index": 2439, "name": "USDA Commodity pears, canned, juice pack, drained", "healthiness": {"lactating": [-8, -7, -8], "male": [3, -11, -15, -12, -10, -7, -6, -7, -8], "female": [3, -11, -15, -14, -12, -10, -8, -10, -11], "pregnant": [-8, -7, -8]}}

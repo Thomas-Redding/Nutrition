@@ -1,0 +1,1 @@
+{"index": 2947, "name": "Cowpeas (blackeyes), immature seeds, frozen, unprepared", "healthiness": {"lactating": [24, 24, 22], "male": [36, 30, 30, 32, 29, 25, 23, 21, 21], "female": [36, 30, 30, 30, 27, 23, 25, 22, 20], "pregnant": [24, 24, 22]}}

@@ -1,0 +1,1 @@
+{"index": 2966, "name": "Escarole, cooked, boiled, drained, no salt added", "healthiness": {"lactating": [50, 50, 48], "male": [56, 55, 56, 61, 57, 50, 49, 47, 46], "female": [56, 55, 56, 59, 55, 49, 50, 47, 45], "pregnant": [47, 49, 47]}}

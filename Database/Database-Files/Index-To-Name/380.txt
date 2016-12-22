@@ -1,0 +1,1 @@
+{"index": 380, "name": "Babyfood, vegetables, squash, strained", "healthiness": {"lactating": [6, 8, 6], "male": [23, 18, 17, 17, 12, 10, 11, 10, 9], "female": [23, 18, 17, 15, 10, 9, 10, 8, 7], "pregnant": [7, 9, 8]}}

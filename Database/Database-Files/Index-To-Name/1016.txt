@@ -1,0 +1,1 @@
+{"index": 1016, "name": "Turkey, fryer-roasters, meat and skin, cooked, roasted", "healthiness": {"lactating": [31, 32, 31], "male": [48, 38, 33, 35, 33, 33, 35, 34, 33], "female": [48, 38, 33, 33, 30, 30, 33, 31, 30], "pregnant": [30, 32, 31]}}

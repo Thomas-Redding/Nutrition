@@ -1,0 +1,1 @@
+{"index": 1996, "name": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, CINNAMON HARVEST", "healthiness": {"lactating": [-12, -11, -12], "male": [-26, -29, -27, -21, -15, -11, -10, -11, -12], "female": [-26, -29, -27, -23, -17, -15, -13, -15, -16], "pregnant": [-13, -11, -13]}}

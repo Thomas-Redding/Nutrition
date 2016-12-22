@@ -1,0 +1,1 @@
+{"index": 6676, "name": "Fast foods, shrimp, breaded and fried", "healthiness": {"lactating": [-10, -8, -10], "male": [3, -10, -17, -13, -11, -8, -7, -8, -9], "female": [3, -10, -17, -15, -14, -12, -10, -11, -13], "pregnant": [-10, -8, -9]}}

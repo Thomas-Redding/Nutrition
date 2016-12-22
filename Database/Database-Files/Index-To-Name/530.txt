@@ -1,0 +1,1 @@
+{"index": 530, "name": "Infant formula, MEAD JOHNSON, ENFAMIL LIPIL, with iron, ready-to-feed, with ARA and DHA", "healthiness": {"lactating": [3, 5, 3], "male": [32, 18, 14, 11, 8, 6, 8, 7, 4], "female": [32, 18, 14, 9, 5, 4, 5, 4, 1], "pregnant": [3, 5, 4]}}

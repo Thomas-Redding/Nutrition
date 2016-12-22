@@ -1,0 +1,1 @@
+{"index": 6774, "name": "WENDY'S, Frosty Dairy Dessert", "healthiness": {"lactating": [11, 11, 9], "male": [39, 28, 24, 25, 16, 10, 10, 9, 8], "female": [39, 28, 24, 23, 14, 8, 10, 7, 5], "pregnant": [10, 11, 9]}}

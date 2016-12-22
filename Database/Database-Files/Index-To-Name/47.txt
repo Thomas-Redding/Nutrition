@@ -1,0 +1,1 @@
+{"index": 47, "name": "Cheese spread, pasteurized process, American", "healthiness": {"lactating": [25, 25, 23], "male": [44, 29, 25, 26, 25, 25, 23, 22, 20], "female": [44, 29, 25, 24, 23, 23, 25, 22, 18], "pregnant": [25, 26, 24]}}

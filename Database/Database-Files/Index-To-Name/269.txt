@@ -1,0 +1,1 @@
+{"index": 269, "name": "Spices, garlic powder", "healthiness": {"lactating": [14, 14, 12], "male": [35, 31, 30, 30, 22, 15, 15, 13, 12], "female": [35, 31, 30, 27, 20, 14, 15, 12, 11], "pregnant": [13, 14, 12]}}

@@ -1,0 +1,1 @@
+{"index": 3805, "name": "Beef, cured, breakfast strips, cooked", "healthiness": {"lactating": [22, 22, 19], "male": [39, 27, 21, 24, 25, 23, 20, 18, 17], "female": [39, 27, 21, 22, 22, 21, 22, 19, 15], "pregnant": [22, 22, 19]}}

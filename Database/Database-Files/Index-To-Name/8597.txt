@@ -1,0 +1,1 @@
+{"index": 8597, "name": "Salad Dressing, mayonnaise-like, fat-free", "healthiness": {"lactating": [-9, -8, -9], "male": [-14, -23, -22, -16, -12, -8, -8, -8, -10], "female": [-14, -23, -22, -18, -14, -11, -9, -11, -13], "pregnant": [-9, -7, -9]}}

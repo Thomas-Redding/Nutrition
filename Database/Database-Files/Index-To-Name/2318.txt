@@ -1,0 +1,1 @@
+{"index": 2318, "name": "Peaches, dehydrated (low-moisture), sulfured, uncooked", "healthiness": {"lactating": [-1, -1, -2], "male": [21, 12, 10, 7, 1, 0, 0, 0, -2], "female": [22, 13, 12, 5, -1, -3, -2, -4, -5], "pregnant": [-2, -1, -3]}}

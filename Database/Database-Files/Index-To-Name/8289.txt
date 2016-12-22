@@ -1,0 +1,1 @@
+{"index": 8289, "name": "Bear, black, meat (Alaska Native)", "healthiness": {"lactating": [-5, -3, -5], "male": [-30, -30, -16, -10, -7, -3, -2, -3, -4], "female": [-30, -30, -16, -12, -10, -7, -5, -7, -8], "pregnant": [-7, -5, -6]}}

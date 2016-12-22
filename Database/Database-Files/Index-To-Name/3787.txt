@@ -1,0 +1,1 @@
+{"index": 3787, "name": "Beef, variety meats and by-products, liver, cooked, braised", "healthiness": {"lactating": [57, 58, 57], "male": [54, 51, 47, 52, 55, 58, 60, 60, 57], "female": [54, 51, 47, 50, 53, 55, 57, 56, 54], "pregnant": [54, 57, 55]}}

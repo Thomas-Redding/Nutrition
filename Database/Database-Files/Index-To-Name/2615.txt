@@ -1,0 +1,1 @@
+{"index": 2615, "name": "Pork, cured, salt pork, raw", "healthiness": {"lactating": [-11, -10, -11], "male": [-9, -17, -18, -14, -12, -10, -10, -10, -11], "female": [-9, -16, -17, -16, -15, -13, -12, -13, -16], "pregnant": [-11, -10, -11]}}

@@ -1,0 +1,1 @@
+{"index": 7361, "name": "Beef, loin, top sirloin cap steak, boneless, separable lean and fat, trimmed to 1/8\" fat, all grades, raw", "healthiness": {"lactating": [32, 34, 32], "male": [41, 35, 29, 33, 33, 35, 36, 35, 33], "female": [41, 35, 29, 31, 31, 31, 33, 32, 30], "pregnant": [31, 34, 32]}}

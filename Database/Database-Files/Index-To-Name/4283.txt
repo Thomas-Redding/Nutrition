@@ -1,0 +1,1 @@
+{"index": 4283, "name": "Beverages, coffee, instant, decaffeinated, powder", "healthiness": {"lactating": [6, 7, 5], "male": [20, 15, 10, 11, 7, 6, 7, 6, 5], "female": [21, 15, 11, 8, 6, 4, 6, 4, 2], "pregnant": [5, 6, 5]}}

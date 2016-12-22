@@ -1,0 +1,1 @@
+{"index": 3614, "name": "Seeds, lotus seeds, dried", "healthiness": {"lactating": [21, 21, 19], "male": [32, 27, 25, 29, 26, 21, 20, 18, 17], "female": [32, 27, 25, 27, 24, 19, 21, 18, 15], "pregnant": [20, 21, 19]}}

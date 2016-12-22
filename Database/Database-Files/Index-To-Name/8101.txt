@@ -1,0 +1,1 @@
+{"index": 8101, "name": "Cookies, chocolate sandwich, with creme filling, reduced fat", "healthiness": {"lactating": [-10, -9, -10], "male": [-7, -16, -19, -16, -12, -9, -8, -9, -10], "female": [-7, -16, -19, -17, -14, -12, -11, -12, -14], "pregnant": [-11, -9, -11]}}

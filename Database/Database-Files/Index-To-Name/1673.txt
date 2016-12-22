@@ -1,0 +1,1 @@
+{"index": 1673, "name": "Pork and beef sausage, fresh, cooked", "healthiness": {"lactating": [5, 5, 2], "male": [30, 15, 11, 14, 10, 5, 3, 2, 1], "female": [30, 15, 11, 12, 8, 3, 3, 1, -2], "pregnant": [4, 5, 2]}}

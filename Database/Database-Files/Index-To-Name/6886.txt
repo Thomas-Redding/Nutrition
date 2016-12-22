@@ -1,0 +1,1 @@
+{"index": 6886, "name": "Fast foods, miniature cinnamon rolls", "healthiness": {"lactating": [-2, -2, -3], "male": [22, 11, 5, 5, 0, -2, -2, -3, -4], "female": [23, 12, 6, 3, -2, -4, -3, -5, -7], "pregnant": [-3, -2, -3]}}

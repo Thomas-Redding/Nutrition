@@ -1,0 +1,1 @@
+{"index": 3807, "name": "Beef, cured, corned beef, brisket, cooked", "healthiness": {"lactating": [24, 24, 22], "male": [42, 30, 23, 27, 28, 26, 23, 21, 21], "female": [42, 30, 23, 25, 26, 23, 25, 22, 19], "pregnant": [24, 25, 22]}}

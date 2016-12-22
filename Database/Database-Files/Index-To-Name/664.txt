@@ -1,0 +1,1 @@
+{"index": 664, "name": "Salad dressing, italian dressing, commercial, regular", "healthiness": {"lactating": [-9, -8, -10], "male": [-8, -19, -20, -14, -11, -7, -8, -9, -10], "female": [-8, -19, -20, -16, -13, -11, -10, -12, -14], "pregnant": [-9, -8, -9]}}

@@ -1,0 +1,1 @@
+{"index": 6374, "name": "Tortilla chips, low fat, baked without fat", "healthiness": {"lactating": [-9, -8, -9], "male": [-3, -13, -16, -13, -11, -8, -7, -7, -9], "female": [-3, -13, -16, -15, -13, -11, -9, -11, -12], "pregnant": [-10, -8, -9]}}

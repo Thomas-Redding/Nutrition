@@ -1,0 +1,1 @@
+{"index": 5244, "name": "Game meat, bear, raw", "healthiness": {"lactating": [-4, -3, -4], "male": [-11, -12, -14, -9, -6, -2, -1, -2, -3], "female": [-11, -12, -14, -11, -8, -6, -5, -6, -7], "pregnant": [-6, -4, -6]}}

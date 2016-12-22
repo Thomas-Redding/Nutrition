@@ -1,0 +1,1 @@
+{"index": 2526, "name": "Pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean only, raw", "healthiness": {"lactating": [35, 36, 35], "male": [45, 36, 34, 37, 35, 37, 39, 38, 36], "female": [45, 36, 34, 35, 33, 34, 37, 36, 33], "pregnant": [34, 37, 35]}}

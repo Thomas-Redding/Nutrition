@@ -1,0 +1,1 @@
+{"index": 4462, "name": "Beverages, Energy drink, ROCKSTAR, sugar free", "healthiness": {"lactating": [13, 14, 13], "male": [7, 3, 3, 8, 11, 13, 15, 14, 12], "female": [7, 3, 3, 6, 9, 10, 13, 11, 8], "pregnant": [11, 14, 13]}}

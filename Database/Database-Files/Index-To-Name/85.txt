@@ -1,0 +1,1 @@
+{"index": 85, "name": "Milk, dry, nonfat, calcium reduced", "healthiness": {"lactating": [32, 33, 32], "male": [42, 32, 30, 32, 32, 34, 36, 35, 34], "female": [42, 32, 30, 30, 29, 31, 34, 32, 30], "pregnant": [32, 34, 33]}}

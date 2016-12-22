@@ -1,0 +1,1 @@
+{"index": 6461, "name": "Candies, NESTLE, BUTTERFINGER Crisp", "healthiness": {"lactating": [-4, -3, -5], "male": [24, 11, 4, 3, -2, -3, -3, -4, -5], "female": [25, 12, 5, 1, -4, -5, -4, -6, -8], "pregnant": [-4, -3, -4]}}

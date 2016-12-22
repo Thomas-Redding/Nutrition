@@ -1,0 +1,1 @@
+{"index": 6870, "name": "McDONALD'S, Sausage Biscuit with Egg", "healthiness": {"lactating": [-8, -6, -8], "male": [5, -7, -12, -10, -9, -6, -5, -5, -7], "female": [5, -7, -12, -12, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -8]}}

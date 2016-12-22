@@ -1,0 +1,1 @@
+{"index": 7497, "name": "Beef, New Zealand, imported, intermuscular fat, cooked", "healthiness": {"lactating": [-6, -5, -7], "male": [11, 0, -1, -1, -5, -5, -6, -6, -8], "female": [12, 1, 0, -3, -7, -8, -7, -9, -12], "pregnant": [-6, -5, -7]}}

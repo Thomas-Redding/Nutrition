@@ -1,0 +1,1 @@
+{"index": 2338, "name": "Persimmons, native, raw", "healthiness": {"lactating": [-5, -4, -5], "male": [-8, -11, -11, -8, -6, -4, -3, -4, -5], "female": [-7, -10, -10, -10, -8, -8, -7, -9, -9], "pregnant": [-6, -5, -7]}}

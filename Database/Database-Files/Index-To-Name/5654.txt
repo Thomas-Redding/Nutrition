@@ -1,0 +1,1 @@
+{"index": 5654, "name": "Cake, white, dry mix, special dietary (includes lemon-flavored)", "healthiness": {"lactating": [-8, -7, -8], "male": [2, -8, -11, -8, -9, -7, -6, -7, -8], "female": [3, -7, -10, -10, -11, -10, -9, -10, -12], "pregnant": [-9, -7, -8]}}

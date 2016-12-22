@@ -1,0 +1,1 @@
+{"index": 1732, "name": "Kielbasa, Polish, turkey and beef, smoked", "healthiness": {"lactating": [-13, -12, -13], "male": [-24, -28, -25, -20, -15, -12, -11, -11, -13], "female": [-24, -28, -25, -21, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

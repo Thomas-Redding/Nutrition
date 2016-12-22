@@ -1,0 +1,1 @@
+{"index": 238, "name": "Milk, chocolate, fat free, with added vitamin A and vitamin D", "healthiness": {"lactating": [3, 4, 3], "male": [22, 10, 9, 8, 4, 5, 7, 6, 3], "female": [22, 10, 9, 6, 2, 2, 5, 4, 0], "pregnant": [3, 6, 4]}}

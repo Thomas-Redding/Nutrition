@@ -1,0 +1,1 @@
+{"index": 5089, "name": "MORNINGSTAR FARMS Roasted Garlic & Quinoa Burger, frozen, unprepared", "healthiness": {"lactating": [-9, -8, -9], "male": [-15, -23, -21, -17, -13, -9, -8, -8, -9], "female": [-15, -23, -21, -19, -15, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

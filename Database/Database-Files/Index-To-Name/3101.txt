@@ -1,0 +1,1 @@
+{"index": 3101, "name": "Potatoes, canned, solids and liquids", "healthiness": {"lactating": [13, 13, 11], "male": [42, 36, 34, 32, 23, 15, 14, 13, 11], "female": [42, 36, 35, 30, 22, 14, 14, 12, 10], "pregnant": [12, 13, 11]}}

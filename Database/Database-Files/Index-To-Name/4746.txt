@@ -1,0 +1,1 @@
+{"index": 4746, "name": "Beans, baked, canned, plain or vegetarian", "healthiness": {"lactating": [19, 19, 17], "male": [41, 33, 28, 29, 26, 19, 18, 16, 16], "female": [41, 33, 28, 27, 24, 18, 19, 17, 15], "pregnant": [18, 19, 17]}}

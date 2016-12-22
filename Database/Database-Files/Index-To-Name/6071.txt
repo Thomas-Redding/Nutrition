@@ -1,0 +1,1 @@
+{"index": 6071, "name": "Topping, SMUCKER'S MAGIC SHELL", "healthiness": {"lactating": [-10, -9, -10], "male": [-8, -13, -16, -12, -11, -9, -9, -9, -10], "female": [-7, -12, -15, -14, -13, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

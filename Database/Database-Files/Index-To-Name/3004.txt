@@ -1,0 +1,1 @@
+{"index": 3004, "name": "Lotus root, cooked, boiled, drained, without salt", "healthiness": {"lactating": [9, 10, 9], "male": [28, 22, 22, 19, 13, 11, 12, 11, 10], "female": [29, 23, 23, 17, 11, 9, 11, 9, 7], "pregnant": [9, 11, 9]}}

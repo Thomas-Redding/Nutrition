@@ -1,0 +1,1 @@
+{"index": 604, "name": "Babyfood, mashed cheddar potatoes and broccoli, toddlers", "healthiness": {"lactating": [7, 7, 5], "male": [40, 29, 28, 25, 15, 9, 7, 6, 5], "female": [41, 29, 29, 23, 13, 7, 8, 5, 3], "pregnant": [8, 8, 6]}}

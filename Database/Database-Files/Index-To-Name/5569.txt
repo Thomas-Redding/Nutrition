@@ -1,0 +1,1 @@
+{"index": 5569, "name": "Biscuits, plain or buttermilk, dry mix", "healthiness": {"lactating": [0, 1, -1], "male": [30, 18, 11, 10, 2, 1, 1, 0, -1], "female": [31, 19, 11, 8, 0, -2, 0, -2, -4], "pregnant": [-1, 1, -1]}}

@@ -1,0 +1,1 @@
+{"index": 3945, "name": "Beef, shoulder pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, select, raw", "healthiness": {"lactating": [41, 42, 41], "male": [49, 42, 39, 41, 42, 43, 45, 45, 43], "female": [49, 42, 39, 39, 39, 40, 42, 41, 40], "pregnant": [39, 41, 40]}}

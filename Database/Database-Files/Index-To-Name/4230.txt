@@ -1,0 +1,1 @@
+{"index": 4230, "name": "Beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine", "healthiness": {"lactating": ["-", "-", "-"], "male": ["-", "-", "-", "-", "-", "-", "-", "-", "-"], "female": ["-", "-", "-", "-", "-", "-", "-", "-", "-"], "pregnant": ["-", "-", "-"]}}

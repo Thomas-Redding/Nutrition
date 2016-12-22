@@ -1,0 +1,1 @@
+{"index": 8568, "name": "Turkey ham, sliced, extra lean, prepackaged or deli-sliced", "healthiness": {"lactating": [3, 4, 3], "male": [8, 4, 2, 6, 3, 4, 6, 6, 4], "female": [8, 4, 2, 4, 1, 1, 4, 3, 1], "pregnant": [1, 4, 3]}}

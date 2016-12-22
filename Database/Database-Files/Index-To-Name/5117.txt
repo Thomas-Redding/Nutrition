@@ -1,0 +1,1 @@
+{"index": 5117, "name": "Lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/4\" fat, choice, raw", "healthiness": {"lactating": [24, 24, 21], "male": [40, 27, 24, 26, 26, 25, 21, 20, 19], "female": [40, 27, 24, 24, 24, 23, 24, 21, 17], "pregnant": [23, 24, 21]}}

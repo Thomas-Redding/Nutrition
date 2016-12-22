@@ -1,0 +1,1 @@
+{"index": 1163, "name": "Turkey, retail parts, breast, meat only, with added solution, raw", "healthiness": {"lactating": [35, 36, 35], "male": [44, 36, 35, 36, 35, 37, 39, 38, 37], "female": [44, 36, 35, 34, 32, 34, 37, 35, 33], "pregnant": [35, 37, 36]}}

@@ -1,0 +1,1 @@
+{"index": 1933, "name": "Cereals ready-to-eat, QUAKER, MOTHER'S PEANUT BUTTER BUMPERS Cereal", "healthiness": {"lactating": [-10, -9, -10], "male": [-6, -18, -20, -15, -13, -9, -8, -9, -10], "female": [-6, -18, -20, -17, -15, -13, -11, -12, -14], "pregnant": [-11, -9, -11]}}

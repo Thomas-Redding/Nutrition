@@ -1,0 +1,1 @@
+{"index": 2620, "name": "Pork, cured, shoulder, blade roll, separable lean and fat, unheated", "healthiness": {"lactating": [21, 21, 18], "male": [38, 27, 22, 24, 24, 22, 19, 17, 16], "female": [38, 27, 22, 22, 22, 20, 21, 18, 14], "pregnant": [20, 21, 19]}}

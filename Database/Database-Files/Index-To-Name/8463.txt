@@ -1,0 +1,1 @@
+{"index": 8463, "name": "Restaurant, family style, fried mozzarella sticks", "healthiness": {"lactating": [18, 18, 15], "male": [42, 30, 24, 24, 23, 18, 16, 14, 13], "female": [42, 30, 24, 22, 21, 16, 17, 14, 11], "pregnant": [17, 18, 16]}}

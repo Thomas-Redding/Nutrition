@@ -1,0 +1,1 @@
+{"index": 2002, "name": "Cereals ready-to-eat, QUAKER, Christmas Crunch", "healthiness": {"lactating": [5, 7, 5], "male": [2, -3, -5, 0, 4, 8, 8, 8, 7], "female": [2, -3, -5, -2, 1, 4, 6, 4, 3], "pregnant": [4, 6, 4]}}

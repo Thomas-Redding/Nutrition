@@ -1,0 +1,1 @@
+{"index": 104, "name": "Yogurt, plain, whole milk, 8 grams protein per 8 ounce", "healthiness": {"lactating": [25, 25, 23], "male": [44, 33, 31, 32, 28, 25, 24, 22, 21], "female": [44, 33, 31, 30, 26, 24, 26, 23, 19], "pregnant": [25, 26, 24]}}

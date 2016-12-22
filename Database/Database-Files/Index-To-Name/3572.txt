@@ -1,0 +1,1 @@
+{"index": 3572, "name": "Nopales, raw", "healthiness": {"lactating": [52, 52, 50], "male": [55, 53, 56, 62, 60, 55, 53, 52, 50], "female": [55, 53, 56, 60, 58, 54, 54, 52, 50], "pregnant": [51, 52, 50]}}

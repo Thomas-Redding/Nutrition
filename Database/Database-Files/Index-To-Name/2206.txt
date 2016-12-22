@@ -1,0 +1,1 @@
+{"index": 2206, "name": "Figs, dried, stewed", "healthiness": {"lactating": [-1, 0, -1], "male": [23, 14, 12, 7, 2, 1, 1, 0, -1], "female": [24, 15, 13, 5, 0, -1, 0, -2, -4], "pregnant": [-1, 0, -1]}}

@@ -1,0 +1,1 @@
+{"index": 4904, "name": "Vitasoy USA, Nasoya Lite Firm Tofu", "healthiness": {"lactating": [10, 11, 10], "male": [-4, -5, -3, 3, 7, 9, 12, 12, 10], "female": [-4, -5, -3, 1, 4, 6, 9, 7, 6], "pregnant": [7, 10, 8]}}

@@ -1,0 +1,1 @@
+{"index": 2920, "name": "Chicory, witloof, raw", "healthiness": {"lactating": [26, 27, 25], "male": [44, 40, 42, 43, 36, 29, 29, 27, 26], "female": [44, 40, 42, 41, 34, 28, 29, 27, 25], "pregnant": [26, 28, 26]}}

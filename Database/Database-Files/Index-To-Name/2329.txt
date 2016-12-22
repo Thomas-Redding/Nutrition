@@ -1,0 +1,1 @@
+{"index": 2329, "name": "Pears, canned, light syrup pack, solids and liquids", "healthiness": {"lactating": [-9, -8, -9], "male": [-1, -13, -16, -13, -11, -8, -7, -8, -9], "female": [-1, -13, -15, -15, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

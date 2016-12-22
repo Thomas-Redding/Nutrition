@@ -1,0 +1,1 @@
+{"index": 4271, "name": "Beverages, coffee, brewed, espresso, restaurant-prepared, decaffeinated", "healthiness": {"lactating": [8, 9, 8], "male": [9, 3, 0, 3, 6, 9, 10, 10, 8], "female": [9, 3, 0, 1, 4, 6, 8, 6, 5], "pregnant": [7, 9, 7]}}

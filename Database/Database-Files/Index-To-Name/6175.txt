@@ -1,0 +1,1 @@
+{"index": 6175, "name": "Candies, NESTLE, CRUNCH Bar and Dessert Topping", "healthiness": {"lactating": [-14, -12, -14], "male": [-25, -29, -29, -22, -17, -13, -12, -13, -14], "female": [-25, -29, -29, -24, -19, -16, -15, -16, -18], "pregnant": [-14, -13, -14]}}

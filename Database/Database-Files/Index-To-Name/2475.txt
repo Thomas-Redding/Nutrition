@@ -1,0 +1,1 @@
+{"index": 2475, "name": "Ruby Red grapefruit juice blend (grapefruit, grape, apple), OCEAN SPRAY, bottled, with added vitamin C", "healthiness": {"lactating": [-10, -8, -10], "male": [-21, -25, -25, -18, -13, -9, -8, -8, -10], "female": [-21, -25, -25, -20, -15, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

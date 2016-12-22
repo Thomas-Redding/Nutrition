@@ -1,0 +1,1 @@
+{"index": 3234, "name": "Tomato products, canned, sauce, with herbs and cheese", "healthiness": {"lactating": [15, 15, 13], "male": [46, 39, 39, 36, 26, 17, 16, 15, 15], "female": [46, 39, 39, 34, 24, 17, 18, 15, 14], "pregnant": [16, 17, 15]}}

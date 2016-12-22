@@ -1,0 +1,1 @@
+{"index": 5443, "name": "Game meat, deer, shoulder clod, separable lean only, cooked, braised", "healthiness": {"lactating": [39, 40, 39], "male": [49, 42, 39, 42, 42, 41, 44, 43, 42], "female": [49, 42, 39, 40, 40, 39, 40, 39, 38], "pregnant": [37, 39, 38]}}

@@ -1,0 +1,1 @@
+{"index": 3173, "name": "Squash, summer, crookneck and straightneck, cooked, boiled, drained, without salt", "healthiness": {"lactating": [30, 30, 28], "male": [54, 50, 51, 52, 43, 33, 32, 30, 29], "female": [54, 50, 51, 50, 42, 33, 34, 32, 30], "pregnant": [31, 32, 30]}}

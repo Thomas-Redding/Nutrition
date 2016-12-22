@@ -1,0 +1,1 @@
+{"index": 2058, "name": "Cereals ready-to-eat, KASHI INDIGO MORNING", "healthiness": {"lactating": [-8, -7, -8], "male": [-6, -13, -14, -11, -10, -7, -6, -7, -8], "female": [-6, -13, -14, -13, -12, -10, -8, -10, -11], "pregnant": [-9, -7, -9]}}

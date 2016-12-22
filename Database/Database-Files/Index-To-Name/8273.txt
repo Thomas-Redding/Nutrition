@@ -1,0 +1,1 @@
+{"index": 8273, "name": "Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, GENTLEASE, Toddler, LIPIL, powder", "healthiness": {"lactating": [6, 7, 6], "male": [31, 19, 17, 14, 9, 8, 10, 9, 6], "female": [31, 19, 17, 12, 7, 5, 8, 6, 3], "pregnant": [5, 7, 6]}}

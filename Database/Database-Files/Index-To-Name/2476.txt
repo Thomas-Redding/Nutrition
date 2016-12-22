@@ -1,0 +1,1 @@
+{"index": 2476, "name": "Fruit juice smoothie, ODWALLA, strawberry banana", "healthiness": {"lactating": [1, 3, 1], "male": [16, 7, 1, 2, 2, 4, 4, 4, 2], "female": [16, 7, 1, 0, 0, 1, 3, 1, -1], "pregnant": [2, 3, 2]}}

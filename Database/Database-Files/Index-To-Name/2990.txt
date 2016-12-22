@@ -1,0 +1,1 @@
+{"index": 2990, "name": "Kohlrabi, raw", "healthiness": {"lactating": [30, 30, 28], "male": [48, 44, 43, 44, 37, 30, 30, 29, 28], "female": [48, 44, 43, 42, 35, 29, 31, 28, 26], "pregnant": [28, 30, 28]}}

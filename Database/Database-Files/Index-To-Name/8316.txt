@@ -1,0 +1,1 @@
+{"index": 8316, "name": "Huckleberries, raw (Alaska Native)", "healthiness": {"lactating": [-11, -10, -11], "male": [-15, -21, -21, -16, -13, -10, -9, -9, -11], "female": [-15, -21, -21, -18, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

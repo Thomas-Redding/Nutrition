@@ -1,0 +1,1 @@
+{"index": 3133, "name": "Potatoes, french fried, steak fries, salt added in processing, frozen, oven-heated", "healthiness": {"lactating": [-7, -6, -7], "male": [7, -2, -8, -6, -7, -5, -4, -5, -6], "female": [7, -2, -8, -8, -9, -7, -6, -7, -9], "pregnant": [-7, -5, -6]}}

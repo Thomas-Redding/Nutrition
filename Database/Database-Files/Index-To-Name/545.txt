@@ -1,0 +1,1 @@
+{"index": 545, "name": "Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN LIPIL, with iron, powder, not reconstituted, with ARA and DHA", "healthiness": {"lactating": [2, 3, 2], "male": [29, 15, 10, 8, 5, 4, 6, 5, 2], "female": [29, 15, 10, 6, 3, 2, 3, 2, -1], "pregnant": [2, 3, 2]}}

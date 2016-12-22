@@ -1,0 +1,1 @@
+{"index": 7075, "name": "HOT POCKETS, meatballs & mozzarella stuffed sandwich, frozen", "healthiness": {"lactating": [12, 12, 9], "male": [45, 32, 23, 23, 18, 12, 10, 9, 8], "female": [45, 32, 23, 21, 16, 10, 11, 8, 5], "pregnant": [11, 12, 9]}}

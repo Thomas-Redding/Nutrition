@@ -1,0 +1,1 @@
+{"index": 6597, "name": "Corn flour, yellow, masa, enriched", "healthiness": {"lactating": [7, 7, 5], "male": [33, 27, 24, 22, 13, 7, 8, 7, 5], "female": [34, 27, 25, 20, 11, 5, 6, 4, 3], "pregnant": [5, 6, 4]}}

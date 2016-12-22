@@ -1,0 +1,1 @@
+{"index": 1824, "name": "Cereals ready-to-eat, GENERAL MILLS, Wheat CHEX", "healthiness": {"lactating": [14, 15, 14], "male": [21, 18, 19, 19, 17, 17, 18, 17, 15], "female": [21, 18, 19, 18, 15, 16, 18, 16, 13], "pregnant": [14, 17, 15]}}

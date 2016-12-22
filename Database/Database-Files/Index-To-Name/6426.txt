@@ -1,0 +1,1 @@
+{"index": 6426, "name": "Frozen novelties, ice type, sugar free, orange, cherry, and grape POPSICLE pops", "healthiness": {"lactating": [-5, -3, -5], "male": [-17, -19, -18, -12, -7, -4, -3, -3, -4], "female": [-17, -19, -18, -14, -9, -8, -6, -8, -8], "pregnant": [-7, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 4865, "name": "Tofu, fried", "healthiness": {"lactating": [24, 24, 22], "male": [38, 32, 29, 30, 28, 24, 24, 22, 21], "female": [38, 32, 29, 28, 26, 23, 24, 21, 19], "pregnant": [23, 24, 22]}}

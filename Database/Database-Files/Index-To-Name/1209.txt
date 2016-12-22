@@ -1,0 +1,1 @@
+{"index": 1209, "name": "Soup, bean with ham, canned, chunky, ready-to-serve", "healthiness": {"lactating": [-2, -1, -2], "male": [10, 0, 1, 1, -1, 0, 1, 1, 0], "female": [10, 0, 1, -1, -2, -2, 0, -2, -3], "pregnant": [-2, 0, -1]}}

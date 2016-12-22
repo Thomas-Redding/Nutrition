@@ -1,0 +1,1 @@
+{"index": 1670, "name": "Picnic loaf, pork, beef", "healthiness": {"lactating": [24, 24, 21], "male": [41, 29, 25, 27, 28, 25, 22, 20, 19], "female": [41, 29, 25, 25, 26, 23, 24, 21, 17], "pregnant": [24, 24, 21]}}

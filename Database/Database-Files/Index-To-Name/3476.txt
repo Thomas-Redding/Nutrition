@@ -1,0 +1,1 @@
+{"index": 3476, "name": "Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, with salt", "healthiness": {"lactating": [48, 47, 45], "male": [53, 51, 55, 59, 57, 49, 47, 45, 44], "female": [53, 51, 55, 57, 55, 49, 51, 48, 46], "pregnant": [47, 48, 46]}}

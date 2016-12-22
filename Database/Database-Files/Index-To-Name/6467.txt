@@ -1,0 +1,1 @@
+{"index": 6467, "name": "Jams, preserves, marmalades, sweetened with fruit juice", "healthiness": {"lactating": [-12, -11, -12], "male": [-13, -21, -23, -17, -14, -10, -10, -10, -12], "female": [-13, -21, -23, -19, -16, -13, -12, -14, -16], "pregnant": [-12, -10, -12]}}

@@ -1,0 +1,1 @@
+{"index": 8493, "name": "OLIVE GARDEN, lasagna classico", "healthiness": {"lactating": [22, 21, 19], "male": [46, 36, 30, 29, 26, 22, 20, 18, 17], "female": [46, 36, 30, 27, 24, 20, 22, 19, 15], "pregnant": [21, 22, 20]}}

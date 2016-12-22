@@ -1,0 +1,1 @@
+{"index": 5978, "name": "NABISCO, NABISCO SNACKWELL'S Fat Free Devil's Food Cookie Cakes", "healthiness": {"lactating": [-11, -9, -11], "male": [-10, -19, -21, -16, -13, -10, -8, -9, -10], "female": [-10, -19, -21, -18, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

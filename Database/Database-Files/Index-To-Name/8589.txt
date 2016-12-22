@@ -1,0 +1,1 @@
+{"index": 8589, "name": "Frankfurter, beef, low fat", "healthiness": {"lactating": [-6, -5, -6], "male": [6, -4, -10, -8, -6, -4, -3, -4, -5], "female": [6, -4, -10, -10, -9, -8, -5, -7, -9], "pregnant": [-6, -5, -6]}}

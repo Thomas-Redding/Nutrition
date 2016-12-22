@@ -1,0 +1,1 @@
+{"index": 1288, "name": "CAMPBELL'S Red and White, Beef Noodle Soup, condensed", "healthiness": {"lactating": [-12, -11, -12], "male": [-26, -29, -28, -21, -16, -12, -11, -11, -12], "female": [-26, -29, -28, -23, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

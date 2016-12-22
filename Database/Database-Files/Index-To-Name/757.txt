@@ -1,0 +1,1 @@
+{"index": 757, "name": "Salad dressing, ranch dressing, regular", "healthiness": {"lactating": [-9, -7, -9], "male": [-9, -20, -21, -15, -12, -7, -7, -8, -9], "female": [-9, -20, -21, -17, -14, -11, -9, -11, -13], "pregnant": [-9, -7, -8]}}

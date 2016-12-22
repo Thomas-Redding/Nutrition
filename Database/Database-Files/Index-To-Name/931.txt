@@ -1,0 +1,1 @@
+{"index": 931, "name": "Chicken, roasting, meat and skin and giblets and neck, raw", "healthiness": {"lactating": [26, 26, 25], "male": [44, 31, 30, 31, 29, 28, 26, 25, 24], "female": [44, 31, 30, 29, 27, 26, 27, 25, 22], "pregnant": [26, 27, 25]}}

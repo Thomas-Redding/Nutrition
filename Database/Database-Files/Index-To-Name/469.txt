@@ -1,0 +1,1 @@
+{"index": 469, "name": "Babyfood, dessert, dutch apple, strained", "healthiness": {"lactating": [-9, -8, -9], "male": [-10, -17, -20, -15, -11, -7, -6, -7, -8], "female": [-10, -17, -20, -17, -13, -10, -9, -10, -12], "pregnant": [-8, -7, -8]}}

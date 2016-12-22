@@ -1,0 +1,1 @@
+{"index": 6843, "name": "McDONALD'S, Bacon, Egg & Cheese McGRIDDLES", "healthiness": {"lactating": [-12, -11, -12], "male": [-18, -23, -24, -19, -14, -11, -10, -10, -12], "female": [-18, -23, -24, -21, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

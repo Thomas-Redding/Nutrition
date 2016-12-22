@@ -1,0 +1,1 @@
+{"index": 1820, "name": "Cereals ready-to-eat, RALSTON TASTEEOS", "healthiness": {"lactating": [39, 39, 37], "male": [55, 54, 55, 57, 48, 42, 41, 40, 37], "female": [55, 54, 55, 54, 46, 41, 43, 40, 36], "pregnant": [40, 42, 40]}}

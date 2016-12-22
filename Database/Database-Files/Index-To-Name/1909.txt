@@ -1,0 +1,1 @@
+{"index": 1909, "name": "Cereals ready-to-eat, GENERAL MILLS, BASIC 4", "healthiness": {"lactating": [5, 7, 5], "male": [18, 11, 11, 11, 9, 8, 10, 9, 7], "female": [18, 11, 11, 9, 7, 6, 8, 6, 5], "pregnant": [4, 6, 5]}}

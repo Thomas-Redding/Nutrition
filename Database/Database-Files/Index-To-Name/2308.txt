@@ -1,0 +1,1 @@
+{"index": 2308, "name": "Passion-fruit juice, purple, raw", "healthiness": {"lactating": [-2, -1, -2], "male": [6, 0, -4, -1, -1, 0, 1, 0, -1], "female": [6, 0, -4, -3, -3, -2, -1, -2, -4], "pregnant": [-2, -1, -2]}}

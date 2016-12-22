@@ -1,0 +1,1 @@
+{"index": 7117, "name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled", "healthiness": {"lactating": [26, 27, 26], "male": [36, 27, 25, 29, 28, 29, 28, 27, 26], "female": [36, 27, 25, 27, 26, 26, 28, 25, 23], "pregnant": [26, 27, 25]}}

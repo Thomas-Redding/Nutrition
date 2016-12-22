@@ -1,0 +1,1 @@
+{"index": 5091, "name": "MORNINGSTAR FARMS Breakfast Sandwich Veggie Sausage Egg & Cheese English Muffin, frozen, unprepared", "healthiness": {"lactating": [-7, -6, -7], "male": [-9, -16, -17, -13, -11, -8, -5, -6, -7], "female": [-9, -16, -17, -15, -13, -11, -8, -10, -11], "pregnant": [-10, -7, -8]}}

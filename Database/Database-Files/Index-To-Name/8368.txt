@@ -1,0 +1,1 @@
+{"index": 8368, "name": "Squash, Indian, raw (Navajo)", "healthiness": {"lactating": [-5, -4, -5], "male": [8, -2, -7, -3, -4, -3, -2, -3, -4], "female": [8, -2, -7, -5, -6, -5, -4, -6, -7], "pregnant": [-5, -4, -5]}}

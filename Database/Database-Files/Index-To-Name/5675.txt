@@ -1,0 +1,1 @@
+{"index": 5675, "name": "Cookies, chocolate chip, dry mix", "healthiness": {"lactating": [-8, -7, -8], "male": [6, -4, -7, -6, -8, -6, -6, -7, -8], "female": [7, -3, -6, -8, -10, -10, -8, -10, -12], "pregnant": [-8, -7, -8]}}

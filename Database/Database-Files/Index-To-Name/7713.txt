@@ -1,0 +1,1 @@
+{"index": 7713, "name": "Formulated bar, POWER BAR, chocolate", "healthiness": {"lactating": [46, 46, 43], "male": [55, 54, 53, 58, 54, 46, 45, 43, 42], "female": [55, 54, 53, 56, 52, 45, 47, 44, 42], "pregnant": [44, 46, 43]}}

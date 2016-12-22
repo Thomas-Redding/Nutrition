@@ -1,0 +1,1 @@
+{"index": 8008, "name": "MOTHER'S, Macaroon Cookies", "healthiness": {"lactating": [-12, -11, -12], "male": [-13, -23, -24, -19, -15, -11, -10, -11, -12], "female": [-13, -23, -24, -21, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

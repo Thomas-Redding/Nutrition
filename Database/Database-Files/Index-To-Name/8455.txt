@@ -1,0 +1,1 @@
+{"index": 8455, "name": "APPLEBEE'S, mozzarella sticks", "healthiness": {"lactating": [19, 19, 16], "male": [41, 29, 24, 24, 23, 19, 16, 15, 14], "female": [41, 29, 24, 22, 21, 17, 18, 15, 12], "pregnant": [18, 19, 17]}}

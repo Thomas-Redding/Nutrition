@@ -1,0 +1,1 @@
+{"index": 5583, "name": "Bread, egg", "healthiness": {"lactating": [9, 9, 7], "male": [37, 27, 21, 23, 16, 10, 8, 7, 6], "female": [37, 27, 21, 21, 14, 8, 9, 6, 4], "pregnant": [9, 9, 7]}}

@@ -1,0 +1,1 @@
+{"index": 4999, "name": "Peanuts, valencia, oil-roasted, without salt", "healthiness": {"lactating": [11, 11, 9], "male": [32, 24, 22, 23, 17, 12, 10, 8, 8], "female": [32, 24, 22, 21, 15, 11, 12, 9, 6], "pregnant": [11, 12, 10]}}

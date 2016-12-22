@@ -1,0 +1,1 @@
+{"index": 4631, "name": "Crustaceans, shrimp, mixed species, imitation, made from surimi", "healthiness": {"lactating": [30, 31, 30], "male": [33, 22, 21, 26, 27, 30, 31, 30, 29], "female": [33, 22, 21, 24, 25, 27, 30, 28, 26], "pregnant": [28, 31, 30]}}

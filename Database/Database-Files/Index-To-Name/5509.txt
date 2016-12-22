@@ -1,0 +1,1 @@
+{"index": 5509, "name": "Lamb, New Zealand, imported, neck chops, separable lean and fat, raw", "healthiness": {"lactating": [24, 25, 23], "male": [36, 23, 19, 23, 24, 25, 24, 23, 22], "female": [36, 23, 19, 21, 21, 22, 24, 22, 20], "pregnant": [23, 25, 23]}}

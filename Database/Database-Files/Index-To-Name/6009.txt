@@ -1,0 +1,1 @@
+{"index": 6009, "name": "Crackers, cream, GAMESA SABROSAS", "healthiness": {"lactating": [-8, -7, -8], "male": [0, -9, -15, -12, -9, -7, -6, -6, -7], "female": [0, -9, -15, -14, -11, -10, -9, -10, -11], "pregnant": [-9, -8, -9]}}

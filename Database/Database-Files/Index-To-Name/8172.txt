@@ -1,0 +1,1 @@
+{"index": 8172, "name": "UDI'S, Gluten Free, Soft & Delicious White Sandwich Bread", "healthiness": {"lactating": [0, 1, -1], "male": [28, 14, 11, 12, 4, 1, 0, -1, -2], "female": [28, 14, 11, 9, 2, -1, 0, -2, -5], "pregnant": [0, 1, -1]}}

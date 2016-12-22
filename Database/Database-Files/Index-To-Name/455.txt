@@ -1,0 +1,1 @@
+{"index": 455, "name": "Babyfood, cereal, with egg yolks, strained", "healthiness": {"lactating": [15, 15, 12], "male": [35, 24, 22, 24, 22, 16, 14, 12, 11], "female": [35, 24, 22, 22, 20, 14, 15, 12, 9], "pregnant": [15, 15, 13]}}

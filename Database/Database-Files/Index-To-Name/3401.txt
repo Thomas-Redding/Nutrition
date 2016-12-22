@@ -1,0 +1,1 @@
+{"index": 3401, "name": "Gourd, dishcloth (towelgourd), cooked, boiled, drained, with salt", "healthiness": {"lactating": [0, 1, 0], "male": [12, 4, 4, 6, 3, 2, 3, 3, 1], "female": [12, 4, 4, 5, 1, 1, 2, 1, -1], "pregnant": [0, 2, 1]}}

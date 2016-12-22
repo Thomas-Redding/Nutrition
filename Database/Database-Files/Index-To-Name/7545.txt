@@ -1,0 +1,1 @@
+{"index": 7545, "name": "Beef, New Zealand, imported, rump centre, separable lean and fat, raw", "healthiness": {"lactating": [30, 32, 30], "male": [40, 32, 30, 32, 31, 32, 34, 33, 32], "female": [40, 32, 30, 30, 29, 29, 32, 30, 29], "pregnant": [29, 31, 30]}}

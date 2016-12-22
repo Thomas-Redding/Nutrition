@@ -1,0 +1,1 @@
+{"index": 134, "name": "Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin A", "healthiness": {"lactating": [30, 31, 28], "male": [44, 33, 33, 33, 31, 30, 30, 28, 27], "female": [44, 33, 33, 31, 29, 29, 32, 29, 25], "pregnant": [29, 32, 29]}}

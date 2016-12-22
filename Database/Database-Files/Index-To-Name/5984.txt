@@ -1,0 +1,1 @@
+{"index": 5984, "name": "Waffle, buttermilk, frozen, ready-to-heat, microwaved", "healthiness": {"lactating": [4, 5, 4], "male": [14, 7, 4, 7, 6, 6, 9, 8, 6], "female": [14, 7, 4, 5, 4, 4, 6, 4, 3], "pregnant": [3, 5, 4]}}

@@ -1,0 +1,1 @@
+{"index": 4701, "name": "Fish, wolffish, Atlantic, cooked, dry heat", "healthiness": {"lactating": [34, 35, 34], "male": [44, 35, 35, 36, 35, 36, 38, 37, 35], "female": [44, 35, 35, 34, 32, 34, 37, 35, 33], "pregnant": [33, 36, 35]}}

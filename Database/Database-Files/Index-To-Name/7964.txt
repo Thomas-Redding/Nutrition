@@ -1,0 +1,1 @@
+{"index": 7964, "name": "KELLOGG'S, ALL-BRAN, Garlic and Herb Crackers", "healthiness": {"lactating": [-9, -8, -9], "male": [-14, -20, -21, -16, -13, -9, -8, -8, -9], "female": [-14, -20, -21, -18, -15, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

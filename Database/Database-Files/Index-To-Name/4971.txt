@@ -1,0 +1,1 @@
+{"index": 4971, "name": "Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium", "healthiness": {"lactating": [26, 26, 24], "male": [40, 34, 33, 33, 29, 26, 24, 23, 22], "female": [40, 34, 33, 31, 28, 25, 26, 24, 22], "pregnant": [25, 26, 24]}}

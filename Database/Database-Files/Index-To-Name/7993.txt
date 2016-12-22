@@ -1,0 +1,1 @@
+{"index": 7993, "name": "KELLOGG'S, SPECIAL K, Multigrain Crackers", "healthiness": {"lactating": [-11, -10, -11], "male": [-11, -22, -22, -17, -14, -10, -9, -10, -11], "female": [-11, -22, -22, -19, -16, -13, -11, -13, -14], "pregnant": [-12, -10, -11]}}

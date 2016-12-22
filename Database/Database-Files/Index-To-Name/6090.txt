@@ -1,0 +1,1 @@
+{"index": 6090, "name": "Snacks, rice cracker brown rice, plain", "healthiness": {"lactating": [8, 8, 6], "male": [38, 30, 27, 23, 13, 8, 8, 7, 6], "female": [38, 30, 27, 21, 11, 6, 8, 6, 3], "pregnant": [7, 9, 7]}}

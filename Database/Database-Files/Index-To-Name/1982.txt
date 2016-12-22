@@ -1,0 +1,1 @@
+{"index": 1982, "name": "Cereals ready-to-eat, MALT-O-MEAL, Fruity DYNO-BITES", "healthiness": {"lactating": [11, 13, 11], "male": [11, 6, 4, 8, 11, 14, 15, 15, 12], "female": [11, 6, 4, 6, 9, 11, 12, 11, 9], "pregnant": [12, 13, 12]}}

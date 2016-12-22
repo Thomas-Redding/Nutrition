@@ -1,0 +1,1 @@
+{"index": 1938, "name": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Toasted Wheat Bran", "healthiness": {"lactating": [22, 23, 22], "male": [12, 11, 13, 19, 23, 25, 26, 26, 24], "female": [12, 11, 13, 17, 21, 23, 24, 22, 20], "pregnant": [22, 23, 22]}}

@@ -1,0 +1,1 @@
+{"index": 4287, "name": "Beverages, coffee, instant, with chicory", "healthiness": {"lactating": [1, 2, 1], "male": [11, 6, 4, 4, 2, 1, 2, 1, 0], "female": [12, 7, 5, 2, 0, -1, 0, -1, -3], "pregnant": [0, 1, 0]}}

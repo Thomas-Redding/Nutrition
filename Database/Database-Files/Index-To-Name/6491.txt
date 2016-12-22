@@ -1,0 +1,1 @@
+{"index": 6491, "name": "Cornmeal, degermed, enriched, yellow", "healthiness": {"lactating": [-1, 0, -2], "male": [22, 9, 7, 7, 2, 0, -1, -2, -3], "female": [23, 10, 8, 5, 0, -3, -2, -4, -6], "pregnant": [-2, -1, -3]}}

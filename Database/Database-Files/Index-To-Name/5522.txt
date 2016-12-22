@@ -1,0 +1,1 @@
+{"index": 5522, "name": "Veal, leg, top round, cap off, cutlet, boneless, cooked, grilled", "healthiness": {"lactating": [39, 41, 39], "male": [49, 42, 37, 41, 41, 42, 44, 43, 41], "female": [49, 42, 37, 39, 39, 39, 42, 41, 39], "pregnant": [38, 41, 40]}}

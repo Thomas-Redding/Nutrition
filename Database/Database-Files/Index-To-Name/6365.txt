@@ -1,0 +1,1 @@
+{"index": 6365, "name": "Snacks, potato sticks", "healthiness": {"lactating": [-8, -6, -8], "male": [9, -5, -10, -7, -7, -5, -5, -5, -7], "female": [9, -5, -10, -9, -9, -8, -7, -8, -10], "pregnant": [-7, -6, -7]}}

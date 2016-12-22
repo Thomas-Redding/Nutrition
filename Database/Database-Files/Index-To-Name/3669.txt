@@ -1,0 +1,1 @@
+{"index": 3669, "name": "Nuts, ginkgo nuts, dried", "healthiness": {"lactating": [10, 10, 8], "male": [33, 24, 24, 26, 18, 11, 10, 8, 7], "female": [34, 24, 24, 24, 16, 10, 10, 8, 5], "pregnant": [10, 10, 8]}}

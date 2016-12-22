@@ -1,0 +1,1 @@
+{"index": 1062, "name": "USDA Commodity, Chicken, canned, meat only, with water", "healthiness": {"lactating": [28, 29, 28], "male": [47, 37, 29, 31, 30, 31, 32, 32, 30], "female": [47, 37, 29, 29, 28, 28, 30, 29, 27], "pregnant": [28, 30, 28]}}

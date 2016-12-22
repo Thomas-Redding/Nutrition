@@ -1,0 +1,1 @@
+{"index": 8633, "name": "Margarine-like, vegetable oil-butter spread, reduced calorie, tub, with salt", "healthiness": {"lactating": [-10, -9, -10], "male": [-16, -18, -19, -14, -10, -8, -8, -8, -9], "female": [-16, -18, -19, -16, -12, -11, -9, -11, -13], "pregnant": [-8, -8, -9]}}

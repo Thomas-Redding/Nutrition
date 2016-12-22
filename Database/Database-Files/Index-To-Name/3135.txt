@@ -1,0 +1,1 @@
+{"index": 3135, "name": "Potato salad, home-prepared", "healthiness": {"lactating": [2, 2, 1], "male": [35, 21, 19, 17, 8, 4, 2, 1, 0], "female": [35, 21, 19, 15, 6, 1, 2, 0, -3], "pregnant": [2, 3, 1]}}

@@ -1,0 +1,1 @@
+{"index": 5086, "name": "MORNINGSTAR FARMS Buffalo Chik Patties, frozen, unprepared", "healthiness": {"lactating": [-6, -5, -6], "male": [-8, -15, -17, -12, -8, -5, -4, -4, -6], "female": [-8, -15, -17, -14, -11, -9, -7, -8, -9], "pregnant": [-7, -6, -7]}}

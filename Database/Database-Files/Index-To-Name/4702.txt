@@ -1,0 +1,1 @@
+{"index": 4702, "name": "Fish, yellowtail, mixed species, cooked, dry heat", "healthiness": {"lactating": [30, 31, 30], "male": [38, 29, 26, 29, 30, 32, 33, 33, 31], "female": [38, 29, 26, 27, 27, 29, 31, 30, 28], "pregnant": [29, 31, 30]}}

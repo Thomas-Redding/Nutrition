@@ -1,0 +1,1 @@
+{"index": 6269, "name": "Frozen novelties, fruit and juice bars", "healthiness": {"lactating": [-11, -9, -11], "male": [-7, -16, -20, -15, -12, -9, -8, -9, -10], "female": [-7, -16, -20, -17, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

@@ -1,0 +1,1 @@
+{"index": 584, "name": "Infant formula, PBM PRODUCTS, store brand, powder", "healthiness": {"lactating": [0, 1, 0], "male": [21, 9, 6, 4, 2, 2, 3, 3, 0], "female": [21, 9, 6, 3, 0, 0, 1, -1, -3], "pregnant": [0, 1, 0]}}

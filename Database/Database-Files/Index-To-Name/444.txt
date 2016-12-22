@@ -1,0 +1,1 @@
+{"index": 444, "name": "Babyfood, cereal, mixed, dry fortified", "healthiness": {"lactating": [20, 21, 18], "male": [43, 38, 35, 34, 26, 20, 19, 18, 17], "female": [43, 39, 35, 32, 24, 18, 20, 18, 14], "pregnant": [20, 21, 19]}}

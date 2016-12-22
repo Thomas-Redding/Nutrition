@@ -1,0 +1,1 @@
+{"index": 2824, "name": "Asparagus, cooked, boiled, drained", "healthiness": {"lactating": [65, 65, 63], "male": [59, 59, 61, 67, 69, 66, 66, 65, 64], "female": [59, 59, 61, 65, 67, 66, 69, 66, 64], "pregnant": [64, 66, 64]}}

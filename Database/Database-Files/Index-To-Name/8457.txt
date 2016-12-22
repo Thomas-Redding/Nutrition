@@ -1,0 +1,1 @@
+{"index": 8457, "name": "T.G.I. FRIDAY'S, FRIDAY'S Shrimp, breaded", "healthiness": {"lactating": [8, 8, 6], "male": [27, 15, 10, 15, 13, 8, 6, 4, 4], "female": [27, 15, 10, 13, 11, 6, 7, 4, 1], "pregnant": [8, 8, 6]}}

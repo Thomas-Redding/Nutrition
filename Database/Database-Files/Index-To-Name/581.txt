@@ -1,0 +1,1 @@
+{"index": 581, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ALIMENTUM, ADVANCE, ready-to-feed, with ARA and DHA", "healthiness": {"lactating": [4, 5, 4], "male": [29, 16, 14, 12, 8, 7, 8, 7, 4], "female": [29, 16, 14, 10, 6, 4, 5, 4, 2], "pregnant": [4, 5, 4]}}

@@ -1,0 +1,1 @@
+{"index": 5739, "name": "Crackers, wheat, sandwich, with cheese filling", "healthiness": {"lactating": [1, 1, -1], "male": [30, 18, 12, 11, 4, 1, 1, 0, -1], "female": [31, 19, 13, 9, 2, -1, 0, -2, -4], "pregnant": [0, 1, 0]}}

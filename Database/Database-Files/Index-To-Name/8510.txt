@@ -1,0 +1,1 @@
+{"index": 8510, "name": "Restaurant, Italian, chicken parmesan without pasta", "healthiness": {"lactating": [26, 27, 25], "male": [46, 36, 29, 31, 29, 28, 27, 25, 25], "female": [46, 36, 29, 29, 26, 26, 28, 25, 22], "pregnant": [26, 28, 26]}}

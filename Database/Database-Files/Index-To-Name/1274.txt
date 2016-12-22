@@ -1,0 +1,1 @@
+{"index": 1274, "name": "CAMPBELL'S Red and White, Bean with Bacon Soup, condensed", "healthiness": {"lactating": [-10, -9, -10], "male": [-24, -27, -23, -18, -13, -10, -9, -9, -10], "female": [-24, -27, -23, -20, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

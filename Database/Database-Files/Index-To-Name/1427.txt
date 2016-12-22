@@ -1,0 +1,1 @@
+{"index": 1427, "name": "CAMPBELL'S CHUNKY, Creamy Chicken and Dumplings Soup", "healthiness": {"lactating": [-10, -9, -10], "male": [-15, -21, -20, -16, -13, -10, -8, -9, -10], "female": [-15, -21, -20, -18, -15, -13, -11, -13, -14], "pregnant": [-11, -9, -11]}}

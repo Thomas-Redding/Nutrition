@@ -1,0 +1,1 @@
+{"index": 5405, "name": "Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean only, trimmed to 1/8\" fat, raw", "healthiness": {"lactating": [34, 35, 34], "male": [43, 35, 35, 38, 37, 36, 39, 38, 36], "female": [43, 35, 35, 36, 35, 34, 37, 35, 34], "pregnant": [33, 35, 34]}}

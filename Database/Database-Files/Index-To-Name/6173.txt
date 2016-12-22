@@ -1,0 +1,1 @@
+{"index": 6173, "name": "Candies, MR. GOODBAR Chocolate Bar", "healthiness": {"lactating": [-11, -9, -11], "male": [-2, -15, -20, -16, -13, -9, -9, -9, -10], "female": [-2, -15, -20, -18, -15, -13, -11, -13, -14], "pregnant": [-11, -9, -11]}}

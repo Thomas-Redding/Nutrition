@@ -1,0 +1,1 @@
+{"index": 8027, "name": "MURRAY, SUGAR FREE, Peanut Butter Cookies", "healthiness": {"lactating": [-11, -10, -11], "male": [-14, -23, -24, -18, -14, -11, -10, -10, -11], "female": [-14, -23, -24, -20, -17, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

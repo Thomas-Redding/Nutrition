@@ -1,0 +1,1 @@
+{"index": 5453, "name": "Lamb, New Zealand, imported, subcutaneous fat, raw", "healthiness": {"lactating": [-11, -10, -11], "male": [-10, -16, -17, -13, -12, -9, -9, -10, -11], "female": [-9, -15, -16, -15, -14, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

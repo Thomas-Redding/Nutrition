@@ -1,0 +1,1 @@
+{"index": 2375, "name": "Raspberries, frozen, red, sweetened", "healthiness": {"lactating": [-4, -2, -4], "male": [6, -5, -6, -4, -2, -1, -1, -1, -2], "female": [6, -5, -6, -6, -4, -3, -2, -3, -5], "pregnant": [-2, -1, -2]}}

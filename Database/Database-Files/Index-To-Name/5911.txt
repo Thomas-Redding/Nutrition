@@ -1,0 +1,1 @@
+{"index": 5911, "name": "Taco shells, baked, without added salt", "healthiness": {"lactating": [-3, -2, -4], "male": [19, 8, 5, 5, -2, -3, -3, -3, -5], "female": [20, 9, 6, 2, -4, -5, -4, -6, -8], "pregnant": [-4, -2, -4]}}

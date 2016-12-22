@@ -1,0 +1,1 @@
+{"index": 2136, "name": "Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water without added ascorbic acid", "healthiness": {"lactating": [-11, -10, -11], "male": [-8, -17, -20, -16, -13, -9, -8, -9, -10], "female": [-8, -17, -20, -18, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

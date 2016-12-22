@@ -1,0 +1,1 @@
+{"index": 4966, "name": "Beans, kidney, all types, mature seeds, cooked, boiled, with salt", "healthiness": {"lactating": [26, 27, 24], "male": [39, 34, 32, 32, 30, 26, 25, 24, 23], "female": [39, 34, 32, 30, 28, 25, 26, 23, 22], "pregnant": [25, 26, 24]}}

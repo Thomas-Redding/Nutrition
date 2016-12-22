@@ -1,0 +1,1 @@
+{"index": 1766, "name": "Bologna, meat and poultry", "healthiness": {"lactating": [9, 9, 7], "male": [41, 27, 18, 20, 16, 9, 8, 6, 5], "female": [41, 27, 18, 19, 14, 7, 8, 5, 2], "pregnant": [8, 9, 7]}}

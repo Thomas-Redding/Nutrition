@@ -1,0 +1,1 @@
+{"index": 3674, "name": "Nuts, mixed nuts, dry roasted, with peanuts, without salt added", "healthiness": {"lactating": [10, 10, 8], "male": [39, 30, 24, 25, 17, 11, 10, 8, 7], "female": [40, 31, 25, 23, 15, 10, 11, 8, 5], "pregnant": [10, 11, 9]}}

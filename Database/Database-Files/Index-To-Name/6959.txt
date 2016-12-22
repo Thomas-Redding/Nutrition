@@ -1,0 +1,1 @@
+{"index": 6959, "name": "DIGIORNO Pizza, pepperoni topping, thin crispy crust, frozen, baked", "healthiness": {"lactating": [-6, -5, -6], "male": [17, 3, -7, -6, -6, -4, -3, -3, -5], "female": [17, 3, -7, -8, -8, -7, -5, -6, -8], "pregnant": [-6, -4, -5]}}

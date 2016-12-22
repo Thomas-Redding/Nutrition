@@ -1,0 +1,1 @@
+{"index": 3471, "name": "Squash, summer, all varieties, cooked, boiled, drained, with salt", "healthiness": {"lactating": [36, 36, 33], "male": [52, 49, 54, 56, 46, 37, 35, 34, 33], "female": [52, 49, 54, 54, 44, 37, 38, 35, 34], "pregnant": [35, 36, 34]}}

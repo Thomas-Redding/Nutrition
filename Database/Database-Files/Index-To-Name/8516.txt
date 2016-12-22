@@ -1,0 +1,1 @@
+{"index": 8516, "name": "Restaurant, Latino, Arroz con frijoles negros (rice and black beans)", "healthiness": {"lactating": [9, 9, 7], "male": [38, 27, 23, 22, 15, 10, 8, 7, 6], "female": [38, 27, 23, 20, 14, 8, 9, 6, 4], "pregnant": [9, 9, 7]}}

@@ -1,0 +1,1 @@
+{"index": 6378, "name": "Snacks, potato chips, fat free, salted", "healthiness": {"lactating": [-7, -6, -7], "male": [0, -7, -10, -8, -7, -5, -4, -5, -6], "female": [0, -7, -10, -10, -10, -8, -7, -8, -10], "pregnant": [-8, -6, -7]}}

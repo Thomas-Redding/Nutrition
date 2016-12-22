@@ -1,0 +1,1 @@
+{"index": 3645, "name": "Nuts, cashew butter, plain, without salt added", "healthiness": {"lactating": [11, 11, 8], "male": [31, 23, 20, 22, 16, 11, 9, 8, 7], "female": [31, 23, 20, 20, 14, 9, 10, 7, 5], "pregnant": [10, 11, 8]}}

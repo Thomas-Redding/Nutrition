@@ -1,0 +1,1 @@
+{"index": 2340, "name": "Pineapple, canned, water pack, solids and liquids", "healthiness": {"lactating": [8, 9, 7], "male": [29, 22, 19, 18, 13, 11, 11, 10, 9], "female": [30, 23, 20, 15, 11, 9, 10, 8, 6], "pregnant": [9, 10, 8]}}

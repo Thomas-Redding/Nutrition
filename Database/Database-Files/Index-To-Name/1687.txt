@@ -1,0 +1,1 @@
+{"index": 1687, "name": "Sausage, Vienna, canned, chicken, beef, pork", "healthiness": {"lactating": [13, 13, 10], "male": [34, 22, 17, 20, 20, 13, 11, 10, 9], "female": [34, 22, 17, 18, 18, 11, 12, 9, 6], "pregnant": [13, 13, 10]}}

@@ -1,0 +1,1 @@
+{"index": 456, "name": "Babyfood, cereal, with egg yolks, junior", "healthiness": {"lactating": [14, 14, 12], "male": [34, 23, 21, 24, 21, 15, 13, 12, 11], "female": [34, 23, 21, 22, 19, 13, 14, 12, 9], "pregnant": [14, 15, 12]}}

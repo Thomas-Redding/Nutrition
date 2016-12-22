@@ -1,0 +1,1 @@
+{"index": 2277, "name": "Mulberries, raw", "healthiness": {"lactating": [7, 8, 7], "male": [13, 12, 10, 12, 9, 9, 9, 9, 7], "female": [13, 12, 10, 10, 7, 6, 8, 6, 5], "pregnant": [5, 7, 6]}}

@@ -1,0 +1,1 @@
+{"index": 2788, "name": "Pork, Leg sirloin tip roast, boneless, separable lean and fat, cooked, braised", "healthiness": {"lactating": [35, 36, 35], "male": [43, 34, 33, 37, 37, 37, 39, 38, 36], "female": [43, 34, 33, 35, 34, 35, 38, 36, 34], "pregnant": [33, 36, 35]}}

@@ -1,0 +1,1 @@
+{"index": 236, "name": "Kefir, lowfat, strawberry, LIFEWAY", "healthiness": {"lactating": [5, 7, 5], "male": [23, 14, 10, 10, 7, 8, 10, 10, 6], "female": [23, 14, 10, 8, 5, 6, 9, 7, 3], "pregnant": [6, 9, 8]}}

@@ -1,0 +1,1 @@
+{"index": 403, "name": "Babyfood, fruit, prunes with tapioca, without ascorbic acid, strained", "healthiness": {"lactating": [-4, -3, -4], "male": [6, -4, -5, -4, -3, -2, -2, -3, -4], "female": [6, -4, -5, -5, -5, -4, -3, -5, -6], "pregnant": [-4, -3, -4]}}

@@ -1,0 +1,1 @@
+{"index": 2980, "name": "Jute, potherb, raw", "healthiness": {"lactating": [56, 57, 55], "male": [47, 47, 46, 52, 54, 56, 57, 56, 55], "female": [47, 47, 46, 50, 52, 54, 57, 55, 53], "pregnant": [54, 57, 56]}}

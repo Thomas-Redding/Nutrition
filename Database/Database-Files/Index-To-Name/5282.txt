@@ -1,0 +1,1 @@
+{"index": 5282, "name": "Game meat, squirrel, cooked, roasted", "healthiness": {"lactating": [30, 31, 30], "male": [45, 39, 34, 35, 32, 32, 34, 33, 32], "female": [45, 39, 34, 33, 29, 29, 31, 29, 28], "pregnant": [28, 30, 29]}}

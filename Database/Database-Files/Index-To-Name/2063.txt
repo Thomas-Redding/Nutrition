@@ -1,0 +1,1 @@
+{"index": 2063, "name": "Cereals ready-to-eat, KELLOGG'S RICE KRISPIES, Gluten Free", "healthiness": {"lactating": [11, 12, 11], "male": [10, 7, 7, 13, 14, 14, 15, 14, 11], "female": [10, 7, 7, 11, 12, 12, 14, 13, 9], "pregnant": [11, 13, 12]}}

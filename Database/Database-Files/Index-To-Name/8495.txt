@@ -1,0 +1,1 @@
+{"index": 8495, "name": "ON THE BORDER, Mexican rice", "healthiness": {"lactating": [-8, -6, -8], "male": [4, -6, -12, -10, -8, -6, -5, -6, -7], "female": [4, -6, -12, -12, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -8]}}

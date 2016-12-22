@@ -1,0 +1,1 @@
+{"index": 1333, "name": "CAMPBELL'S, 98% Fat Free Cream of Chicken Soup, condensed", "healthiness": {"lactating": [-12, -11, -12], "male": [-16, -24, -25, -19, -15, -11, -10, -11, -12], "female": [-16, -24, -25, -21, -18, -15, -13, -14, -16], "pregnant": [-13, -11, -12]}}

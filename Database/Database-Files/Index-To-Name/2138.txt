@@ -1,0 +1,1 @@
+{"index": 2138, "name": "Applesauce, canned, sweetened, without salt (includes USDA commodity)", "healthiness": {"lactating": [-10, -9, -10], "male": [-2, -13, -17, -13, -12, -9, -8, -9, -10], "female": [-1, -13, -16, -15, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

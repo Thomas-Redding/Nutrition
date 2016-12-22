@@ -1,0 +1,1 @@
+{"index": 1212, "name": "Soup, cream of celery, canned, condensed", "healthiness": {"lactating": [7, 7, 6], "male": [37, 26, 23, 22, 14, 10, 8, 7, 6], "female": [38, 27, 24, 20, 12, 8, 8, 6, 4], "pregnant": [8, 9, 7]}}

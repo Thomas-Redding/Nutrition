@@ -1,0 +1,1 @@
+{"index": 1728, "name": "Yachtwurst, with pistachio nuts, cooked", "healthiness": {"lactating": [-14, -13, -14], "male": [-26, -29, -29, -23, -17, -13, -12, -12, -14], "female": [-26, -29, -29, -24, -19, -16, -15, -16, -18], "pregnant": [-14, -13, -14]}}

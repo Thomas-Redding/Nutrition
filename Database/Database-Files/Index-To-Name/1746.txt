@@ -1,0 +1,1 @@
+{"index": 1746, "name": "Scrapple, pork", "healthiness": {"lactating": [-4, -3, -4], "male": [13, 3, -4, -3, -2, -1, 0, 0, -2], "female": [13, 3, -4, -5, -5, -4, -2, -4, -6], "pregnant": [-3, -2, -3]}}

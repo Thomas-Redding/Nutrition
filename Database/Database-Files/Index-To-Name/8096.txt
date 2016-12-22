@@ -1,0 +1,1 @@
+{"index": 8096, "name": "Cookie, chocolate, with icing or coating", "healthiness": {"lactating": [-7, -7, -8], "male": [6, -3, -8, -6, -8, -6, -6, -7, -8], "female": [7, -2, -7, -9, -10, -10, -8, -10, -12], "pregnant": [-8, -7, -8]}}

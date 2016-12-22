@@ -1,0 +1,1 @@
+{"index": 3802, "name": "Beef, sandwich steaks, flaked, chopped, formed and thinly sliced, raw", "healthiness": {"lactating": [19, 19, 16], "male": [38, 25, 20, 22, 24, 20, 17, 15, 14], "female": [38, 25, 20, 21, 21, 18, 18, 15, 12], "pregnant": [19, 19, 16]}}

@@ -1,0 +1,1 @@
+{"index": 6524, "name": "Rice flour, white, unenriched", "healthiness": {"lactating": [-2, -1, -3], "male": [24, 13, 10, 9, 2, 0, -1, -2, -3], "female": [25, 14, 11, 7, 0, -2, -1, -3, -6], "pregnant": [-1, 0, -2]}}

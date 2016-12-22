@@ -1,0 +1,1 @@
+{"index": 1756, "name": "Chicken breast, deli, rotisserie seasoned, sliced, prepackaged", "healthiness": {"lactating": [33, 34, 33], "male": [41, 32, 30, 33, 34, 35, 37, 37, 35], "female": [41, 32, 30, 31, 31, 32, 35, 33, 31], "pregnant": [32, 35, 33]}}

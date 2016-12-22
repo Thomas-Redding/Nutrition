@@ -1,0 +1,1 @@
+{"index": 6792, "name": "TACO BELL, BURRITO SUPREME with steak", "healthiness": {"lactating": [18, 18, 16], "male": [48, 37, 28, 27, 24, 18, 16, 14, 13], "female": [48, 37, 28, 26, 22, 17, 18, 15, 12], "pregnant": [17, 18, 15]}}

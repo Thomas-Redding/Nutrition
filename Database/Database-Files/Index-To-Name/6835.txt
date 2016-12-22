@@ -1,0 +1,1 @@
+{"index": 6835, "name": "McDONALD'S, Creamy Ranch Sauce", "healthiness": {"lactating": [-13, -12, -13], "male": [-17, -25, -26, -20, -16, -12, -11, -12, -13], "female": [-17, -25, -26, -22, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

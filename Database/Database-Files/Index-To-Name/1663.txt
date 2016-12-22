@@ -1,0 +1,1 @@
+{"index": 1663, "name": "Pate, liver, not specified, canned", "healthiness": {"lactating": [22, 22, 19], "male": [44, 34, 32, 34, 31, 23, 22, 20, 19], "female": [44, 34, 32, 32, 29, 22, 22, 19, 17], "pregnant": [22, 22, 20]}}

@@ -1,0 +1,1 @@
+{"index": 4682, "name": "Fish, pollock, Atlantic, cooked, dry heat", "healthiness": {"lactating": [37, 38, 37], "male": [45, 36, 34, 38, 38, 38, 40, 40, 38], "female": [45, 36, 34, 36, 35, 35, 39, 37, 35], "pregnant": [35, 38, 37]}}

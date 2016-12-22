@@ -1,0 +1,1 @@
+{"index": 117, "name": "Egg, whole, cooked, hard-boiled", "healthiness": {"lactating": [34, 35, 33], "male": [47, 35, 33, 36, 36, 37, 36, 35, 33], "female": [47, 35, 33, 34, 34, 35, 37, 34, 30], "pregnant": [35, 36, 35]}}

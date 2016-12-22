@@ -1,0 +1,1 @@
+{"index": 4421, "name": "Beverages, fruit punch-flavor drink, powder, without added sodium, prepared with water", "healthiness": {"lactating": [-10, -9, -10], "male": [-12, -20, -22, -17, -12, -8, -7, -8, -9], "female": [-12, -20, -22, -18, -14, -11, -10, -11, -13], "pregnant": [-9, -8, -9]}}

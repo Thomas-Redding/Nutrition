@@ -1,0 +1,1 @@
+{"index": 1273, "name": "Gravy, beef, canned, ready-to-serve", "healthiness": {"lactating": [-4, -2, -4], "male": [5, -2, -6, -3, -3, -2, 0, -1, -2], "female": [5, -2, -6, -5, -5, -4, -2, -4, -5], "pregnant": [-4, -2, -3]}}

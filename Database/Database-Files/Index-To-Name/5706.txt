@@ -1,0 +1,1 @@
+{"index": 5706, "name": "Cookies, chocolate chip, commercially prepared, special dietary", "healthiness": {"lactating": [-7, -6, -7], "male": [11, -1, -6, -5, -7, -6, -6, -6, -7], "female": [12, 0, -5, -8, -9, -9, -8, -9, -11], "pregnant": [-7, -6, -8]}}

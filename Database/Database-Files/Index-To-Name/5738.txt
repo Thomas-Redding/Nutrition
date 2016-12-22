@@ -1,0 +1,1 @@
+{"index": 5738, "name": "Crackers, wheat, regular", "healthiness": {"lactating": [1, 1, 0], "male": [30, 20, 13, 11, 4, 2, 1, 0, -1], "female": [31, 20, 14, 9, 2, 0, 1, -1, -4], "pregnant": [0, 2, 0]}}

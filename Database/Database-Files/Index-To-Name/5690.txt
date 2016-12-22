@@ -1,0 +1,1 @@
+{"index": 5690, "name": "Cookies, oatmeal, commercially prepared, regular", "healthiness": {"lactating": [-4, -3, -5], "male": [20, 9, 2, 2, -3, -3, -3, -4, -5], "female": [20, 9, 3, 0, -4, -6, -4, -6, -9], "pregnant": [-4, -3, -5]}}

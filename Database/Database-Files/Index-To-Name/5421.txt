@@ -1,0 +1,1 @@
+{"index": 5421, "name": "Lamb, Australian, imported, fresh, shoulder, arm, separable lean only, trimmed to 1/8\" fat, raw", "healthiness": {"lactating": [33, 35, 33], "male": [45, 36, 36, 37, 36, 36, 38, 37, 35], "female": [45, 36, 36, 35, 33, 33, 36, 34, 33], "pregnant": [32, 35, 33]}}

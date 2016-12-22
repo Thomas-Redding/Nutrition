@@ -1,0 +1,1 @@
+{"index": 1939, "name": "Cereals ready-to-eat, QUAKER, Shredded Wheat, bagged cereal", "healthiness": {"lactating": [-6, -5, -6], "male": [-6, -11, -12, -9, -8, -6, -4, -5, -6], "female": [-6, -11, -12, -11, -10, -9, -6, -8, -9], "pregnant": [-8, -6, -7]}}

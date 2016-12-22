@@ -1,0 +1,1 @@
+{"index": 4168, "name": "Beverages, chocolate powder, no sugar added", "healthiness": {"lactating": [13, 14, 13], "male": [11, 6, 7, 11, 13, 14, 16, 15, 13], "female": [11, 6, 7, 10, 10, 11, 14, 13, 11], "pregnant": [11, 14, 13]}}

@@ -1,0 +1,49 @@
+<form id="login" action="unsecure_login.php">
+<table>
+<tbody>
+<tr><td id="message"></td></tr>
+<tr><td>Username</td></tr>
+<tr><td><input name="username" type="text"/></td></tr>
+<tr><td>Password</td></tr>
+<tr><td><input name="password" type="password"/></td></tr>
+<tr><td><input type="submit" value="login"/></td></tr>
+</tbody>
+</table>
+</form>
+<style>
+#login {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%) scale(1.5, 1.5);
+	padding: 1em;
+}
+
+#login input[type=text], input[type=password] {
+	border: 1px solid #CCC;
+}
+
+#login > form {
+	max-width: 20em;
+	width: 90%;
+	margin: 0;
+	border: 1px solid red;
+}
+
+#login > table > tbody > tr:last-child td {
+	text-align: center;
+}
+
+#message {
+	color: red;
+}
+
+</style>
+<script>
+onload = function () {
+	var url = window.location.href;
+	if (url.substr(url.length-6) == "failed") {
+		document.getElementById("message").innerHTML = "Incorrect username or password."
+	}
+}
+</script>

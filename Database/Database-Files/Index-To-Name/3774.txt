@@ -1,0 +1,1 @@
+{"index": 3774, "name": "Beef, rib eye, small end (ribs 10-12), separable lean only, trimmed to 0\" fat, select, raw", "healthiness": {"lactating": [32, 33, 32], "male": [41, 32, 30, 34, 33, 34, 36, 35, 34], "female": [41, 32, 30, 32, 31, 31, 33, 31, 30], "pregnant": [31, 33, 32]}}

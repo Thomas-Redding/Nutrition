@@ -1,0 +1,1 @@
+{"index": 3194, "name": "Squash, winter, spaghetti, raw", "healthiness": {"lactating": [10, 11, 9], "male": [40, 32, 32, 30, 19, 13, 12, 11, 10], "female": [41, 33, 33, 28, 17, 12, 13, 11, 9], "pregnant": [10, 11, 10]}}

@@ -1,0 +1,1 @@
+{"index": 3293, "name": "Sweet potato, canned, syrup pack, drained solids", "healthiness": {"lactating": [6, 7, 5], "male": [34, 22, 20, 20, 11, 8, 8, 7, 6], "female": [35, 23, 22, 17, 10, 7, 7, 5, 4], "pregnant": [7, 8, 6]}}

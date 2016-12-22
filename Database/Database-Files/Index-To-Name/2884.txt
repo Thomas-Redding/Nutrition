@@ -1,0 +1,1 @@
+{"index": 2884, "name": "Butterbur, (fuki), raw", "healthiness": {"lactating": [14, 16, 14], "male": [17, 13, 10, 13, 14, 15, 17, 16, 15], "female": [17, 13, 10, 11, 11, 12, 15, 13, 12], "pregnant": [13, 15, 14]}}

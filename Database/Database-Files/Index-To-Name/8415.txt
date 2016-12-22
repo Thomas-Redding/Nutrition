@@ -1,0 +1,1 @@
+{"index": 8415, "name": "Tennis Bread, plain (Apache)", "healthiness": {"lactating": [-7, -5, -7], "male": [3, -6, -11, -9, -8, -5, -4, -4, -6], "female": [3, -6, -11, -11, -10, -8, -7, -8, -9], "pregnant": [-8, -6, -7]}}

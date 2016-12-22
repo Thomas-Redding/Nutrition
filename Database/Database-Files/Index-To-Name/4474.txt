@@ -1,0 +1,1 @@
+{"index": 4474, "name": "Beverages, PEPSICO QUAKER, Gatorade G2, low calorie", "healthiness": {"lactating": [-9, -8, -9], "male": [-19, -19, -23, -17, -13, -8, -7, -8, -9], "female": [-19, -19, -23, -19, -15, -12, -10, -11, -13], "pregnant": [-9, -8, -9]}}

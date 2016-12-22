@@ -1,0 +1,1 @@
+{"index": 3620, "name": "Seeds, sesame seeds, whole, roasted and toasted", "healthiness": {"lactating": [21, 21, 19], "male": [37, 34, 34, 34, 27, 20, 20, 18, 17], "female": [37, 34, 34, 32, 26, 19, 20, 17, 16], "pregnant": [18, 20, 17]}}

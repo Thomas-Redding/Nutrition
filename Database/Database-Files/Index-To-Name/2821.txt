@@ -1,0 +1,1 @@
+{"index": 2821, "name": "Artichokes, (globe or french), frozen, unprepared", "healthiness": {"lactating": [9, 10, 9], "male": [14, 9, 14, 16, 14, 11, 13, 12, 11], "female": [14, 9, 14, 14, 11, 10, 13, 11, 10], "pregnant": [9, 11, 10]}}

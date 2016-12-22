@@ -1,0 +1,1 @@
+{"index": 419, "name": "Babyfood, fruit, bananas and pineapple with tapioca, strained", "healthiness": {"lactating": [-7, -6, -7], "male": [-2, -9, -14, -10, -8, -5, -4, -5, -6], "female": [-2, -9, -14, -12, -10, -8, -6, -8, -10], "pregnant": [-6, -5, -6]}}

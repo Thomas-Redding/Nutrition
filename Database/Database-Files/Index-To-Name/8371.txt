@@ -1,0 +1,1 @@
+{"index": 8371, "name": "Mutton, cooked, roasted (Navajo)", "healthiness": {"lactating": [34, 35, 34], "male": [42, 34, 33, 36, 35, 36, 38, 37, 36], "female": [42, 34, 33, 34, 33, 33, 35, 33, 33], "pregnant": [32, 34, 33]}}

@@ -1,0 +1,1 @@
+{"index": 8094, "name": "Crackers, multigrain", "healthiness": {"lactating": [-3, -2, -4], "male": [20, 9, 5, 4, -1, -2, -2, -3, -4], "female": [21, 9, 6, 1, -4, -5, -4, -6, -8], "pregnant": [-3, -2, -4]}}

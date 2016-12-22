@@ -1,0 +1,1 @@
+{"index": 2084, "name": "Cereals ready-to-eat, KELLOGG'S FROSTED MINI-WHEATS Touch of Fruit in the Middle, Raspberry", "healthiness": {"lactating": [2, 3, 2], "male": [1, 0, 0, 3, 3, 4, 5, 5, 3], "female": [1, 0, 0, 1, 0, 2, 4, 3, 0], "pregnant": [1, 4, 2]}}

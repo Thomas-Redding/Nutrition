@@ -1,0 +1,1 @@
+{"index": 1545, "name": "SMART SOUP, Greek Minestrone", "healthiness": {"lactating": [-8, -7, -8], "male": [-24, -25, -21, -17, -11, -8, -6, -7, -8], "female": [-24, -25, -21, -18, -13, -11, -10, -12, -11], "pregnant": [-10, -9, -10]}}

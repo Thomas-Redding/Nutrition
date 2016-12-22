@@ -1,0 +1,1 @@
+{"index": 544, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, PM 60/40, powder not reconstituted", "healthiness": {"lactating": [-1, 1, -1], "male": [28, 12, 8, 6, 3, 3, 3, 3, 0], "female": [28, 12, 8, 4, 1, 0, 2, 0, -3], "pregnant": [1, 2, 1]}}

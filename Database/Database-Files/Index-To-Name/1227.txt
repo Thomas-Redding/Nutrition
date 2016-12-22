@@ -1,0 +1,1 @@
+{"index": 1227, "name": "Soup, clam chowder, manhattan, canned, condensed", "healthiness": {"lactating": [6, 8, 6], "male": [23, 16, 17, 15, 11, 10, 11, 10, 9], "female": [23, 16, 17, 13, 10, 8, 9, 7, 7], "pregnant": [7, 8, 7]}}

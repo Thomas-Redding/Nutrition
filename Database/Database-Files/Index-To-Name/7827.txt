@@ -1,0 +1,1 @@
+{"index": 7827, "name": "KELLOGG'S, EGGO, NUTRI-GRAIN, Waffles, Honey Oat", "healthiness": {"lactating": [0, 1, 0], "male": [4, 0, -1, 2, 2, 2, 4, 3, 2], "female": [4, 0, -1, 0, -1, -1, 1, -1, -1], "pregnant": [-2, 1, -1]}}

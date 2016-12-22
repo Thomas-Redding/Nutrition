@@ -1,0 +1,1 @@
+{"index": 8152, "name": "Cookies, chocolate cream covered biscuit sticks", "healthiness": {"lactating": [-9, -8, -9], "male": [-1, -12, -16, -12, -11, -8, -7, -7, -9], "female": [-1, -12, -16, -14, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

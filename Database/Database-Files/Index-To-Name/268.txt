@@ -1,0 +1,1 @@
+{"index": 268, "name": "Spices, fenugreek seed", "healthiness": {"lactating": [31, 31, 29], "male": [37, 33, 33, 36, 34, 31, 29, 28, 27], "female": [37, 33, 33, 34, 32, 31, 32, 30, 27], "pregnant": [31, 32, 30]}}

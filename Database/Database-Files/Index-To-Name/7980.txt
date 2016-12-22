@@ -1,0 +1,1 @@
+{"index": 7980, "name": "KELLOGG'S, POP-TARTS, Frosted Wild Strawberry Toaster Pastries", "healthiness": {"lactating": [-10, -9, -10], "male": [-11, -17, -19, -14, -11, -9, -8, -8, -10], "female": [-11, -17, -19, -16, -14, -12, -10, -12, -13], "pregnant": [-10, -9, -10]}}

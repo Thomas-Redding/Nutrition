@@ -1,0 +1,1 @@
+{"index": 6587, "name": "Wheat, KAMUT khorasan, uncooked", "healthiness": {"lactating": [21, 21, 18], "male": [40, 35, 33, 34, 26, 21, 19, 18, 17], "female": [41, 36, 33, 32, 24, 19, 20, 18, 15], "pregnant": [19, 21, 18]}}

@@ -1,0 +1,1 @@
+{"index": 1565, "name": "Soup, bean with bacon, condensed, single brand", "healthiness": {"lactating": [-11, -10, -11], "male": [-26, -29, -26, -20, -15, -11, -10, -10, -11], "female": [-26, -29, -26, -22, -17, -14, -13, -14, -15], "pregnant": [-12, -11, -12]}}

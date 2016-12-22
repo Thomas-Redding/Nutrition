@@ -1,0 +1,1 @@
+{"index": 5452, "name": "Lamb, New Zealand, imported, Intermuscular fat, raw", "healthiness": {"lactating": [-9, -8, -10], "male": [-4, -11, -13, -10, -10, -8, -8, -9, -10], "female": [-3, -10, -12, -12, -12, -12, -10, -12, -14], "pregnant": [-9, -8, -10]}}

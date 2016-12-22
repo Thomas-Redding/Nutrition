@@ -1,0 +1,1 @@
+{"index": 7547, "name": "Beef, New Zealand, imported, striploin, separable lean and fat, raw", "healthiness": {"lactating": [20, 20, 18], "male": [32, 22, 17, 20, 20, 21, 18, 17, 16], "female": [32, 22, 17, 18, 18, 18, 20, 17, 14], "pregnant": [19, 20, 18]}}

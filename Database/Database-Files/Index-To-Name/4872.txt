@@ -1,0 +1,1 @@
+{"index": 4872, "name": "Hummus, home prepared", "healthiness": {"lactating": [8, 8, 6], "male": [37, 29, 27, 24, 15, 9, 8, 7, 5], "female": [37, 29, 27, 22, 14, 8, 8, 6, 3], "pregnant": [8, 8, 6]}}

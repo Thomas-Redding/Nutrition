@@ -1,0 +1,1 @@
+{"index": 8540, "name": "DENNY'S, mozzarella cheese sticks", "healthiness": {"lactating": [17, 17, 15], "male": [42, 30, 25, 24, 23, 17, 15, 13, 13], "female": [42, 30, 25, 22, 21, 16, 17, 14, 11], "pregnant": [17, 18, 16]}}

@@ -1,0 +1,1 @@
+{"index": 108, "name": "Yogurt, fruit, low fat, 9 grams protein per 8 ounce", "healthiness": {"lactating": [16, 16, 14], "male": [42, 31, 26, 27, 23, 17, 15, 13, 12], "female": [42, 31, 26, 25, 21, 15, 17, 14, 10], "pregnant": [16, 17, 15]}}

@@ -1,0 +1,1 @@
+{"index": 4093, "name": "Beef, brisket, flat half, separable lean and fat, trimmed to 0\" fat, select, cooked, braised", "healthiness": {"lactating": [33, 34, 33], "male": [45, 35, 29, 32, 33, 35, 36, 36, 34], "female": [45, 35, 29, 30, 30, 31, 33, 32, 30], "pregnant": [32, 34, 32]}}

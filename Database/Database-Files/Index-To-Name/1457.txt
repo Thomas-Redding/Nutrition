@@ -1,0 +1,1 @@
+{"index": 1457, "name": "CAMPBELL'S CHUNKY, New England Clam Chowder", "healthiness": {"lactating": [-9, -8, -9], "male": [-3, -15, -17, -14, -11, -8, -7, -8, -9], "female": [-3, -15, -17, -16, -14, -12, -9, -11, -13], "pregnant": [-10, -8, -10]}}

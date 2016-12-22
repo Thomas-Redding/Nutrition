@@ -1,0 +1,1 @@
+{"index": 7192, "name": "Beef, chuck, under blade pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw", "healthiness": {"lactating": [32, 33, 31], "male": [45, 35, 29, 33, 33, 34, 34, 33, 32], "female": [45, 35, 29, 31, 30, 31, 32, 30, 28], "pregnant": [31, 33, 31]}}

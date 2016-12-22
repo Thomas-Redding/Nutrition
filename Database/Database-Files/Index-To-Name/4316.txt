@@ -1,0 +1,1 @@
+{"index": 4316, "name": "Beverages, OCEAN SPRAY, Light Cranberry, Concord Grape", "healthiness": {"lactating": [-8, -7, -8], "male": [-12, -18, -20, -15, -11, -7, -6, -7, -8], "female": [-12, -18, -20, -17, -13, -10, -8, -10, -11], "pregnant": [-8, -7, -8]}}

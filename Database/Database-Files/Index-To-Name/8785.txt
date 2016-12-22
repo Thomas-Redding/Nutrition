@@ -1,0 +1,1 @@
+{"index": 8785, "name": "Mollusks, scallop, (bay and sea), cooked, steamed", "healthiness": {"lactating": [31, 33, 31], "male": [38, 30, 27, 30, 31, 33, 34, 33, 32], "female": [38, 30, 27, 28, 29, 30, 32, 31, 29], "pregnant": [31, 33, 32]}}

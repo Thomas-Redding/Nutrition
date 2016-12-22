@@ -1,0 +1,1 @@
+{"index": 4147, "name": "Beverages, CYTOSPORT, Muscle Milk, ready-to-drink", "healthiness": {"lactating": [21, 23, 21], "male": [25, 24, 24, 28, 27, 25, 28, 27, 24], "female": [25, 24, 24, 26, 24, 23, 26, 24, 22], "pregnant": [20, 23, 22]}}

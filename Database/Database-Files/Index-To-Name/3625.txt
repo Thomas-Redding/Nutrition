@@ -1,0 +1,1 @@
+{"index": 3625, "name": "Seeds, sunflower seed kernels, dried", "healthiness": {"lactating": [23, 23, 20], "male": [41, 37, 35, 37, 30, 24, 22, 21, 20], "female": [41, 37, 35, 35, 29, 23, 24, 21, 19], "pregnant": [23, 24, 21]}}

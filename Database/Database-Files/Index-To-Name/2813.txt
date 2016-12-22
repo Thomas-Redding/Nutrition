@@ -1,0 +1,1 @@
+{"index": 2813, "name": "Canadian bacon, cooked, pan-fried", "healthiness": {"lactating": [33, 34, 33], "male": [44, 36, 33, 35, 33, 34, 36, 36, 34], "female": [44, 36, 33, 33, 30, 31, 35, 33, 31], "pregnant": [32, 35, 33]}}

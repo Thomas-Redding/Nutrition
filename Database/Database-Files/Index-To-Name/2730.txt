@@ -1,0 +1,1 @@
+{"index": 2730, "name": "Pork, cured, ham with natural juices, slice, bone-in, separable lean and fat, unheated", "healthiness": {"lactating": [31, 33, 31], "male": [43, 34, 32, 35, 33, 33, 35, 34, 33], "female": [43, 34, 32, 33, 30, 31, 33, 32, 30], "pregnant": [30, 33, 31]}}

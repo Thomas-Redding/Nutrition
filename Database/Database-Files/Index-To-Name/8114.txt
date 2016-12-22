@@ -1,0 +1,1 @@
+{"index": 8114, "name": "Rolls, hamburger or hot dog, wheat/cracked wheat", "healthiness": {"lactating": [-2, -1, -2], "male": [17, 7, 0, 0, -1, 0, 1, 0, -1], "female": [17, 7, 0, -2, -3, -2, -1, -2, -4], "pregnant": [-2, -1, -2]}}

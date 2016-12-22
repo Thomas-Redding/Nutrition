@@ -1,0 +1,1 @@
+{"index": 1976, "name": "Cereals, MALT-O-MEAL, Maple & Brown Sugar Hot Wheat Cereal, dry", "healthiness": {"lactating": [-1, 0, -1], "male": [-5, -9, -11, -5, -2, 1, 2, 2, 0], "female": [-5, -9, -11, -7, -4, -1, 1, -1, -3], "pregnant": [-2, 0, -1]}}

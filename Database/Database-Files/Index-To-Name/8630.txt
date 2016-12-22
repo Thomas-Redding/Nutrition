@@ -1,0 +1,1 @@
+{"index": 8630, "name": "Cheese, muenster, low fat", "healthiness": {"lactating": [-3, -2, -3], "male": [8, -1, -4, -2, -4, -2, 0, 0, -2], "female": [8, -1, -4, -4, -6, -5, -2, -3, -6], "pregnant": [-4, -1, -2]}}

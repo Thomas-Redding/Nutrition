@@ -1,0 +1,1 @@
+{"index": 6578, "name": "Wheat flours, bread, unenriched", "healthiness": {"lactating": [4, 4, 2], "male": [24, 14, 10, 14, 9, 5, 3, 2, 1], "female": [24, 14, 11, 11, 7, 3, 3, 1, -2], "pregnant": [4, 4, 2]}}

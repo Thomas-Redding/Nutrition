@@ -1,0 +1,1 @@
+{"index": 7503, "name": "Beef, New Zealand, imported, variety meats and by-products, liver, raw", "healthiness": {"lactating": [56, 57, 56], "male": [52, 49, 49, 54, 56, 58, 59, 59, 57], "female": [52, 49, 49, 53, 54, 55, 58, 56, 54], "pregnant": [54, 57, 56]}}

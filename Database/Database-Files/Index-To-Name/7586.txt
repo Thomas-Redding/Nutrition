@@ -1,0 +1,1 @@
+{"index": 7586, "name": "Beef, chuck, mock tender steak, separable lean and fat, trimmed to 0\" fat, USDA select, cooked, broiled", "healthiness": {"lactating": [35, 36, 35], "male": [40, 36, 35, 37, 36, 37, 39, 39, 37], "female": [40, 36, 35, 35, 34, 34, 36, 34, 33], "pregnant": [34, 36, 35]}}

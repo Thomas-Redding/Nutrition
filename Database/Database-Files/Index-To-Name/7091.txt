@@ -1,0 +1,1 @@
+{"index": 7091, "name": "KASHI, Chicken and Chipotle BBQ Sauce with Mango, Frozen Entree", "healthiness": {"lactating": [-10, -9, -10], "male": [-10, -20, -21, -16, -13, -10, -8, -9, -10], "female": [-10, -20, -21, -18, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

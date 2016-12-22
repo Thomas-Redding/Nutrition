@@ -1,0 +1,1 @@
+{"index": 1414, "name": "CAMPBELL'S Red and White, Minestrone Soup, condensed", "healthiness": {"lactating": [-11, -10, -11], "male": [-25, -28, -26, -20, -15, -11, -10, -10, -11], "female": [-25, -28, -26, -22, -17, -14, -13, -14, -15], "pregnant": [-12, -11, -12]}}

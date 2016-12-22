@@ -1,0 +1,1 @@
+{"index": 6993, "name": "KASHI Pizza, Mushroom and Spinach, single serve, frozen, unprepared", "healthiness": {"lactating": [-10, -8, -10], "male": [-8, -17, -20, -15, -12, -9, -8, -8, -9], "female": [-8, -17, -20, -17, -14, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

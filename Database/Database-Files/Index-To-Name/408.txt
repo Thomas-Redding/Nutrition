@@ -1,0 +1,1 @@
+{"index": 408, "name": "Babyfood, fruit, applesauce and apricots, strained", "healthiness": {"lactating": [-4, -3, -4], "male": [4, -6, -9, -7, -5, -3, -2, -2, -3], "female": [4, -6, -9, -9, -7, -5, -4, -5, -7], "pregnant": [-4, -3, -4]}}

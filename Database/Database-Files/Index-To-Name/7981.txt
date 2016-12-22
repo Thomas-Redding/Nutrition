@@ -1,0 +1,1 @@
+{"index": 7981, "name": "KELLOGG'S, POP-TARTS, Ice Cream Shoppe Frosted Hot Fudge Sundae Toaster Pastries", "healthiness": {"lactating": [-10, -8, -10], "male": [-10, -16, -18, -14, -11, -8, -7, -7, -9], "female": [-10, -16, -18, -16, -13, -11, -9, -11, -13], "pregnant": [-10, -9, -10]}}

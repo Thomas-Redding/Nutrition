@@ -1,0 +1,1 @@
+{"index": 1230, "name": "Soup, beef broth bouillon and consomme, canned, condensed", "healthiness": {"lactating": [8, 10, 8], "male": [12, 10, 9, 12, 9, 10, 12, 11, 10], "female": [12, 10, 9, 10, 7, 7, 9, 8, 7], "pregnant": [5, 8, 7]}}

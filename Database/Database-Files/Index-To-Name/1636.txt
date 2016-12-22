@@ -1,0 +1,1 @@
+{"index": 1636, "name": "Dutch brand loaf, chicken, pork and beef", "healthiness": {"lactating": [20, 20, 17], "male": [38, 26, 21, 22, 22, 21, 17, 16, 15], "female": [38, 26, 21, 20, 20, 19, 20, 17, 13], "pregnant": [20, 20, 18]}}

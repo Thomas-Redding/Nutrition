@@ -1,0 +1,1 @@
+{"index": 3005, "name": "Lettuce, red leaf, raw", "healthiness": {"lactating": [50, 51, 49], "male": [58, 57, 60, 63, 58, 52, 51, 50, 49], "female": [58, 57, 60, 61, 56, 51, 54, 52, 49], "pregnant": [50, 53, 51]}}

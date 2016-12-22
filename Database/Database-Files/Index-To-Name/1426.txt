@@ -1,0 +1,1 @@
+{"index": 1426, "name": "CAMPBELL'S CHUNKY Soups, Beef with White and Wild Rice Soup", "healthiness": {"lactating": [-13, -11, -13], "male": [-26, -29, -28, -21, -16, -12, -11, -11, -13], "female": [-26, -29, -28, -23, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

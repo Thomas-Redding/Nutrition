@@ -1,0 +1,1 @@
+{"index": 8023, "name": "MURRAY, SUGAR FREE, Chocolate Chip & Pecan Cookies", "healthiness": {"lactating": [-12, -10, -12], "male": [-14, -23, -24, -18, -14, -11, -10, -10, -11], "female": [-14, -23, -24, -20, -17, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

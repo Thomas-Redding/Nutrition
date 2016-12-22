@@ -1,0 +1,1 @@
+{"index": 8256, "name": "KASHI Mushroom & Asparagus Risotto, frozen, unprepared", "healthiness": {"lactating": [-10, -9, -10], "male": [-12, -20, -22, -17, -13, -10, -8, -9, -10], "female": [-12, -20, -22, -19, -16, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

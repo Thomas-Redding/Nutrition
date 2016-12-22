@@ -1,0 +1,1 @@
+{"index": 416, "name": "Babyfood, fruit, apple and raspberry, junior", "healthiness": {"lactating": [-6, -5, -6], "male": [-2, -11, -14, -10, -8, -4, -4, -4, -5], "female": [-2, -11, -14, -12, -10, -7, -6, -7, -9], "pregnant": [-6, -5, -6]}}

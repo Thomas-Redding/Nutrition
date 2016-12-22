@@ -1,0 +1,1 @@
+{"index": 647, "name": "Salad dressing, mayonnaise, soybean and safflower oil, with salt", "healthiness": {"lactating": [-10, -9, -10], "male": [-10, -14, -18, -13, -11, -8, -8, -8, -10], "female": [-10, -14, -18, -15, -13, -12, -10, -12, -14], "pregnant": [-10, -8, -10]}}

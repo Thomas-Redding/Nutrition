@@ -1,0 +1,1 @@
+{"index": 7922, "name": "KEEBLER, 100 Calorie RIGHT BITES, FUDGE SHOPPE, Mini Fudge Grahams Cookies", "healthiness": {"lactating": [-13, -12, -13], "male": [-23, -26, -27, -21, -16, -12, -11, -12, -13], "female": [-23, -26, -27, -23, -19, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

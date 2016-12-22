@@ -1,0 +1,1 @@
+{"index": 4734, "name": "Fish, pollock, Alaska, raw (not previously frozen)", "healthiness": {"lactating": [-7, -6, -7], "male": [-8, -16, -17, -12, -11, -7, -5, -6, -7], "female": [-8, -16, -17, -14, -13, -11, -8, -9, -11], "pregnant": [-9, -6, -7]}}

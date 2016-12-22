@@ -1,0 +1,1 @@
+{"index": 7925, "name": "KEEBLER, 100 Calorie RIGHT BITES, Sandies Shortbread Cookies, Fudge Dipped", "healthiness": {"lactating": [-11, -10, -11], "male": [-18, -25, -24, -19, -14, -11, -10, -10, -11], "female": [-18, -25, -24, -21, -16, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

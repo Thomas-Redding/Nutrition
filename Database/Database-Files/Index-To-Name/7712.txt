@@ -1,0 +1,1 @@
+{"index": 7712, "name": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Energy Bar, all flavors", "healthiness": {"lactating": [51, 51, 49], "male": [58, 57, 54, 58, 55, 50, 49, 47, 45], "female": [58, 57, 54, 56, 54, 49, 50, 48, 44], "pregnant": [48, 50, 48]}}

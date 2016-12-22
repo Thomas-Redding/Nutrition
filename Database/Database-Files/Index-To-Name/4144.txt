@@ -1,0 +1,1 @@
+{"index": 4144, "name": "Beverages, ABBOTT, EAS whey protein powder", "healthiness": {"lactating": [3, 4, 3], "male": [12, 7, 6, 10, 7, 6, 8, 7, 5], "female": [12, 7, 6, 9, 5, 4, 7, 5, 3], "pregnant": [3, 5, 4]}}

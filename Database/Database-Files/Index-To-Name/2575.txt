@@ -1,0 +1,1 @@
+{"index": 2575, "name": "Pork, fresh, variety meats and by-products, ears, frozen, cooked, simmered", "healthiness": {"lactating": [11, 12, 9], "male": [19, 7, 6, 11, 12, 12, 9, 8, 7], "female": [19, 7, 6, 9, 10, 9, 10, 7, 4], "pregnant": [11, 11, 9]}}

@@ -1,0 +1,1 @@
+{"index": 33, "name": "Cheese, port de salut", "healthiness": {"lactating": [24, 25, 23], "male": [39, 26, 22, 24, 23, 25, 23, 21, 20], "female": [39, 26, 22, 22, 21, 22, 25, 22, 18], "pregnant": [24, 26, 23]}}

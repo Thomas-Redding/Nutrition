@@ -1,0 +1,1 @@
+{"index": 4541, "name": "Fish, perch, mixed species, raw", "healthiness": {"lactating": [42, 43, 42], "male": [53, 50, 47, 48, 44, 44, 47, 46, 44], "female": [53, 50, 47, 46, 42, 41, 45, 43, 41], "pregnant": [41, 44, 43]}}

@@ -1,0 +1,1 @@
+{"index": 649, "name": "Salad dressing, mayonnaise, imitation, milk cream", "healthiness": {"lactating": [4, 4, 2], "male": [33, 19, 15, 16, 8, 4, 3, 2, 1], "female": [33, 19, 15, 14, 6, 2, 3, 0, -2], "pregnant": [3, 4, 2]}}

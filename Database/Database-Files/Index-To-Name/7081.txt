@@ -1,0 +1,1 @@
+{"index": 7081, "name": "Macaroni and cheese, frozen entree", "healthiness": {"lactating": [-5, -4, -5], "male": [13, 0, -8, -6, -6, -4, -2, -3, -4], "female": [13, 0, -8, -8, -8, -7, -4, -6, -8], "pregnant": [-5, -3, -5]}}

@@ -1,0 +1,1 @@
+{"index": 3023, "name": "New Zealand spinach, raw", "healthiness": {"lactating": [39, 40, 39], "male": [26, 25, 28, 34, 37, 39, 41, 40, 39], "female": [26, 25, 28, 32, 34, 36, 40, 38, 36], "pregnant": [36, 39, 38]}}

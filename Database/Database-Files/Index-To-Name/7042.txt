@@ -1,0 +1,1 @@
+{"index": 7042, "name": "Lasagna with meat & sauce, frozen entree", "healthiness": {"lactating": [21, 20, 18], "male": [50, 40, 33, 33, 30, 22, 19, 17, 16], "female": [50, 40, 33, 31, 28, 21, 21, 18, 15], "pregnant": [21, 21, 19]}}

@@ -1,0 +1,1 @@
+{"index": 3667, "name": "Nuts, hazelnuts or filberts, dry roasted, without salt added", "healthiness": {"lactating": [7, 8, 6], "male": [29, 22, 21, 20, 13, 9, 8, 7, 6], "female": [30, 23, 21, 18, 11, 6, 8, 5, 3], "pregnant": [7, 8, 6]}}

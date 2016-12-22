@@ -1,0 +1,1 @@
+{"index": 1994, "name": "Cereals ready-to-eat, KASHI 7 Whole Grain Flakes", "healthiness": {"lactating": [-8, -7, -8], "male": [-7, -15, -16, -13, -11, -8, -7, -7, -8], "female": [-7, -15, -16, -15, -13, -11, -9, -10, -12], "pregnant": [-9, -8, -9]}}

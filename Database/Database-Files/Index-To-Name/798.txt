@@ -1,0 +1,1 @@
+{"index": 798, "name": "Salad dressing, honey mustard dressing, reduced calorie", "healthiness": {"lactating": [-11, -9, -11], "male": [-6, -17, -20, -16, -13, -9, -9, -9, -11], "female": [-6, -17, -20, -18, -15, -13, -11, -13, -15], "pregnant": [-11, -9, -11]}}

@@ -1,0 +1,1 @@
+{"index": 5787, "name": "Pancakes plain, frozen, ready-to-heat (includes buttermilk)", "healthiness": {"lactating": [11, 12, 10], "male": [41, 35, 30, 28, 19, 13, 13, 12, 11], "female": [42, 36, 31, 26, 17, 11, 12, 10, 9], "pregnant": [10, 12, 10]}}

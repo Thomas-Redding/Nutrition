@@ -1,0 +1,1 @@
+{"index": 6353, "name": "Snacks, crisped rice bar, almond", "healthiness": {"lactating": [6, 7, 5], "male": [27, 20, 20, 19, 12, 9, 9, 8, 6], "female": [28, 21, 21, 17, 11, 8, 8, 6, 4], "pregnant": [5, 7, 5]}}

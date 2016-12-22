@@ -1,0 +1,1 @@
+{"index": 162, "name": "KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce", "healthiness": {"lactating": [-8, -7, -8], "male": [-13, -18, -19, -14, -12, -8, -6, -6, -8], "female": [-13, -18, -19, -16, -14, -11, -8, -10, -12], "pregnant": [-9, -7, -8]}}

@@ -1,0 +1,1 @@
+{"index": 6559, "name": "Pasta, homemade, made without egg, cooked", "healthiness": {"lactating": [5, 5, 3], "male": [28, 16, 12, 14, 9, 5, 4, 2, 1], "female": [28, 16, 12, 12, 7, 3, 4, 1, -1], "pregnant": [4, 5, 2]}}

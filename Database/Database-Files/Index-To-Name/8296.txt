@@ -1,0 +1,1 @@
+{"index": 8296, "name": "Oil, beluga, whale (Alaska Native)", "healthiness": {"lactating": [-12, -10, -12], "male": [-24, -25, -24, -18, -14, -10, -9, -10, -12], "female": [-24, -25, -24, -20, -16, -13, -12, -13, -16], "pregnant": [-11, -10, -11]}}

@@ -1,0 +1,1 @@
+{"index": 1223, "name": "Soup, chicken and vegetable, canned, ready-to-serve", "healthiness": {"lactating": [25, 25, 22], "male": [56, 50, 45, 44, 38, 27, 25, 23, 22], "female": [56, 50, 45, 42, 36, 27, 28, 25, 22], "pregnant": [26, 27, 24]}}

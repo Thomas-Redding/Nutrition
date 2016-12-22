@@ -1,0 +1,1 @@
+{"index": 5885, "name": "Cake, pudding-type, white, unenriched, dry mix", "healthiness": {"lactating": [-8, -7, -9], "male": [2, -7, -10, -8, -9, -7, -7, -8, -9], "female": [3, -6, -9, -10, -11, -10, -9, -11, -13], "pregnant": [-8, -7, -8]}}

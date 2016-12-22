@@ -1,0 +1,1 @@
+{"index": 4528, "name": "Fish, mackerel, Atlantic, cooked, dry heat", "healthiness": {"lactating": [31, 32, 30], "male": [40, 33, 31, 34, 32, 33, 33, 32, 31], "female": [40, 33, 31, 32, 29, 31, 33, 30, 28], "pregnant": [31, 33, 31]}}

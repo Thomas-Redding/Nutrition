@@ -1,0 +1,1 @@
+{"index": 4530, "name": "Fish, mackerel, king, raw", "healthiness": {"lactating": [43, 44, 43], "male": [47, 40, 40, 43, 44, 45, 48, 48, 45], "female": [47, 40, 40, 41, 42, 42, 46, 44, 43], "pregnant": [42, 45, 44]}}

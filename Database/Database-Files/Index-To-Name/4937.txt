@@ -1,0 +1,1 @@
+{"index": 4937, "name": "SILK Plain soy yogurt", "healthiness": {"lactating": [-6, -5, -6], "male": [-19, -19, -19, -13, -8, -4, -4, -4, -8], "female": [-19, -19, -19, -15, -11, -8, -6, -8, -11], "pregnant": [-6, -4, -6]}}

@@ -1,0 +1,1 @@
+{"index": 7828, "name": "KASHI, TLC, Pita Crisps, Zesty Salsa", "healthiness": {"lactating": [-10, -9, -10], "male": [-11, -22, -20, -16, -12, -9, -8, -9, -10], "female": [-11, -22, -20, -18, -15, -12, -10, -12, -13], "pregnant": [-10, -9, -10]}}

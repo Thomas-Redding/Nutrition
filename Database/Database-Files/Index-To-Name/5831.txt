@@ -1,0 +1,1 @@
+{"index": 5831, "name": "Rolls, dinner, egg", "healthiness": {"lactating": [7, 8, 5], "male": [39, 27, 21, 21, 14, 8, 7, 6, 5], "female": [39, 28, 21, 19, 12, 7, 7, 5, 2], "pregnant": [7, 8, 5]}}

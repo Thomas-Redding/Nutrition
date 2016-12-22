@@ -1,0 +1,1 @@
+{"index": 2796, "name": "Pork, ground, 84% lean / 16% fat, cooked, pan-broiled", "healthiness": {"lactating": [27, 27, 26], "male": [39, 29, 27, 30, 28, 29, 29, 27, 26], "female": [39, 29, 27, 28, 26, 27, 28, 26, 23], "pregnant": [26, 28, 26]}}

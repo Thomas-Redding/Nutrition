@@ -1,0 +1,1 @@
+{"index": 2112, "name": "Cereals ready-to-eat, KELLOGG SCOOBY-DOO! cereal", "healthiness": {"lactating": [8, 9, 8], "male": [5, 3, 4, 8, 10, 11, 11, 11, 8], "female": [5, 3, 4, 6, 8, 9, 11, 10, 6], "pregnant": [7, 9, 8]}}

@@ -1,0 +1,1 @@
+{"index": 2106, "name": "Cereals ready-to-eat, KELLOGG RAISIN BRAN with Omega-3 from flaxseed", "healthiness": {"lactating": [2, 3, 2], "male": [2, -2, 0, 3, 3, 4, 6, 5, 3], "female": [2, -2, 0, 1, 1, 1, 3, 1, 0], "pregnant": [0, 2, 1]}}

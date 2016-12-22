@@ -1,0 +1,1 @@
+{"index": 6056, "name": "Snacks, KRAFT, CORNNUTS, plain", "healthiness": {"lactating": [-8, -7, -8], "male": [3, -8, -14, -11, -10, -7, -6, -7, -8], "female": [3, -8, -14, -13, -12, -10, -8, -10, -12], "pregnant": [-9, -7, -8]}}

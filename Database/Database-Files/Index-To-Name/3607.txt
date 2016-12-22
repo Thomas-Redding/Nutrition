@@ -1,0 +1,1 @@
+{"index": 3607, "name": "Seeds, breadnut tree seeds, raw", "healthiness": {"lactating": [13, 13, 11], "male": [34, 23, 22, 23, 19, 14, 12, 11, 9], "female": [34, 24, 22, 21, 17, 12, 13, 10, 7], "pregnant": [12, 13, 11]}}

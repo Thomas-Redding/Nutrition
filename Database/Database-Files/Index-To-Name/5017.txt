@@ -1,0 +1,1 @@
+{"index": 5017, "name": "Yardlong beans, mature seeds, cooked, boiled, with salt", "healthiness": {"lactating": [28, 28, 26], "male": [36, 31, 31, 32, 31, 27, 26, 25, 24], "female": [36, 31, 31, 30, 30, 26, 27, 25, 23], "pregnant": [25, 27, 25]}}

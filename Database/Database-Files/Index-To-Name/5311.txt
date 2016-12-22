@@ -1,0 +1,1 @@
+{"index": 5311, "name": "Veal, variety meats and by-products, pancreas, cooked, braised", "healthiness": {"lactating": [2, 3, 2], "male": [10, 2, 0, 4, 3, 4, 6, 5, 4], "female": [10, 2, 0, 2, 0, 1, 4, 2, 1], "pregnant": [1, 4, 2]}}

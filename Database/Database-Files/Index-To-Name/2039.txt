@@ -1,0 +1,1 @@
+{"index": 2039, "name": "Cereals ready-to-eat, KASHI Honey Sunshine", "healthiness": {"lactating": [-3, -1, -3], "male": [5, -4, -7, -6, -4, -2, -1, -1, -2], "female": [5, -4, -7, -7, -6, -5, -3, -4, -5], "pregnant": [-4, -2, -3]}}

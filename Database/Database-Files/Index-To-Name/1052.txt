@@ -1,0 +1,1 @@
+{"index": 1052, "name": "Chicken, wing, frozen, glazed, barbecue flavored, heated (conventional oven)", "healthiness": {"lactating": [24, 25, 23], "male": [35, 27, 23, 26, 26, 26, 24, 23, 22], "female": [35, 27, 23, 24, 24, 23, 25, 22, 20], "pregnant": [24, 25, 23]}}

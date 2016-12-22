@@ -1,0 +1,1 @@
+{"index": 3184, "name": "Squash, winter, acorn, raw", "healthiness": {"lactating": [14, 14, 13], "male": [35, 32, 32, 31, 22, 16, 17, 16, 14], "female": [36, 33, 33, 29, 21, 15, 17, 15, 13], "pregnant": [14, 15, 14]}}

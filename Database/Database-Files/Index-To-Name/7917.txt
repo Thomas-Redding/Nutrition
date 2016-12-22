@@ -1,0 +1,1 @@
+{"index": 7917, "name": "KEEBLER, 100 Calorie RIGHT BITES, CHIPS DELUXE, Chocolate Chip Cookies", "healthiness": {"lactating": [-12, -11, -12], "male": [-16, -24, -24, -19, -15, -11, -10, -10, -12], "female": [-16, -24, -24, -21, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

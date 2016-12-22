@@ -1,0 +1,1 @@
+{"index": 6398, "name": "Snacks, corn-based, extruded, puffs or twists, cheese-flavor, unenriched", "healthiness": {"lactating": [-4, -3, -5], "male": [22, 10, 5, 4, -1, -2, -3, -4, -5], "female": [23, 11, 6, 2, -4, -5, -4, -6, -9], "pregnant": [-3, -3, -4]}}

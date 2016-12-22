@@ -1,0 +1,1 @@
+{"index": 622, "name": "Infant Formula, GERBER GOOD START 2, GENTLE PLUS, ready-to-feed", "healthiness": {"lactating": [5, 6, 5], "male": [28, 17, 15, 12, 8, 7, 9, 8, 5], "female": [28, 17, 15, 10, 6, 4, 6, 5, 2], "pregnant": [4, 6, 5]}}

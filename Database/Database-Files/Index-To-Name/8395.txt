@@ -1,0 +1,1 @@
+{"index": 8395, "name": "Fish, salmon, red, (sockeye), kippered (Alaska Native)", "healthiness": {"lactating": [10, 11, 10], "male": [20, 11, 10, 12, 9, 11, 13, 13, 9], "female": [20, 11, 10, 10, 7, 8, 11, 10, 6], "pregnant": [9, 12, 10]}}

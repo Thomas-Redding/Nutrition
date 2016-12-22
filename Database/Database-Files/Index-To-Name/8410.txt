@@ -1,0 +1,1 @@
+{"index": 8410, "name": "Acorn stew (Apache)", "healthiness": {"lactating": [26, 27, 24], "male": [42, 33, 29, 31, 30, 28, 26, 25, 24], "female": [42, 33, 29, 29, 28, 26, 27, 25, 22], "pregnant": [26, 27, 25]}}

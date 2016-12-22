@@ -1,0 +1,1 @@
+{"index": 6460, "name": "Sweetener, syrup, agave", "healthiness": {"lactating": [-12, -10, -12], "male": [-11, -19, -19, -16, -13, -9, -9, -10, -11], "female": [-11, -19, -19, -17, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

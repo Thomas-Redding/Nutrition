@@ -1,0 +1,1 @@
+{"index": 2123, "name": "Apples, raw, without skin, cooked, boiled", "healthiness": {"lactating": [-9, -8, -9], "male": [-4, -11, -16, -13, -10, -7, -7, -7, -8], "female": [-4, -11, -16, -15, -12, -10, -8, -10, -11], "pregnant": [-9, -7, -8]}}

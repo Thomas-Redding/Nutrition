@@ -1,0 +1,1 @@
+{"index": 6098, "name": "Snacks, trail mix, regular, with chocolate chips, salted nuts and seeds", "healthiness": {"lactating": [8, 8, 6], "male": [43, 34, 26, 24, 15, 9, 8, 7, 6], "female": [43, 34, 26, 22, 13, 7, 8, 6, 3], "pregnant": [8, 9, 7]}}

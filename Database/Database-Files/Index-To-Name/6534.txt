@@ -1,0 +1,1 @@
+{"index": 6534, "name": "Wheat, hard red spring", "healthiness": {"lactating": [21, 21, 18], "male": [40, 36, 32, 33, 26, 21, 19, 18, 17], "female": [40, 36, 33, 31, 24, 19, 21, 18, 15], "pregnant": [20, 21, 18]}}

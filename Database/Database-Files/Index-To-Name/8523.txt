@@ -1,0 +1,1 @@
+{"index": 8523, "name": "Restaurant, Latino, tamale, pork", "healthiness": {"lactating": [12, 12, 10], "male": [45, 31, 25, 26, 21, 13, 11, 9, 8], "female": [45, 31, 25, 24, 19, 12, 12, 9, 6], "pregnant": [12, 13, 10]}}

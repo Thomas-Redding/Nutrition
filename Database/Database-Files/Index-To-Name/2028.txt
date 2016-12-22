@@ -1,0 +1,1 @@
+{"index": 2028, "name": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, ISLAND VANILLA", "healthiness": {"lactating": [-3, -2, -3], "male": [1, -5, -8, -5, -5, -3, -1, -2, -3], "female": [1, -5, -8, -7, -7, -5, -3, -5, -6], "pregnant": [-4, -2, -4]}}

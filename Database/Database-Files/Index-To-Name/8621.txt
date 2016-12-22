@@ -1,0 +1,1 @@
+{"index": 8621, "name": "Gums, seed gums (includes locust bean, guar)", "healthiness": {"lactating": [-10, -8, -10], "male": [-26, -26, -24, -18, -13, -9, -8, -8, -10], "female": [-26, -26, -24, -20, -16, -12, -10, -12, -14], "pregnant": [-10, -8, -10]}}

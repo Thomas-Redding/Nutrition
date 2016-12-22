@@ -1,0 +1,1 @@
+{"index": 2882, "name": "Burdock root, raw", "healthiness": {"lactating": [4, 4, 3], "male": [28, 20, 19, 15, 8, 5, 6, 5, 3], "female": [29, 21, 20, 12, 6, 4, 5, 3, 2], "pregnant": [3, 5, 3]}}

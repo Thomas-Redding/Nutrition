@@ -1,0 +1,1 @@
+{"index": 8259, "name": "Turnover, chicken- or turkey-, and vegetable-filled, reduced fat, frozen", "healthiness": {"lactating": [24, 24, 22], "male": [44, 38, 32, 31, 29, 24, 23, 21, 20], "female": [44, 38, 32, 29, 27, 23, 24, 21, 19], "pregnant": [23, 24, 21]}}

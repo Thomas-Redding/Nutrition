@@ -1,0 +1,1 @@
+{"index": 3384, "name": "Chrysanthemum, garland, cooked, boiled, drained, with salt", "healthiness": {"lactating": [36, 38, 36], "male": [24, 24, 28, 32, 34, 35, 38, 37, 36], "female": [24, 24, 28, 30, 31, 33, 37, 36, 33], "pregnant": [34, 38, 36]}}

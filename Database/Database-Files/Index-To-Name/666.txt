@@ -1,0 +1,1 @@
+{"index": 666, "name": "Margarine-like, vegetable oil spread, unspecified oils, approximately 37% fat, with salt", "healthiness": {"lactating": [-5, -3, -5], "male": [-13, -14, -14, -8, -4, -2, -3, -3, -4], "female": [-13, -13, -14, -10, -7, -5, -4, -6, -8], "pregnant": [-3, -2, -4]}}

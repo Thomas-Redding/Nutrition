@@ -1,0 +1,1 @@
+{"index": 8542, "name": "DENNY'S, macaroni & cheese, from kid's menu", "healthiness": {"lactating": [14, 14, 11], "male": [47, 35, 25, 27, 21, 14, 12, 11, 10], "female": [47, 35, 25, 25, 19, 13, 14, 11, 8], "pregnant": [14, 14, 12]}}

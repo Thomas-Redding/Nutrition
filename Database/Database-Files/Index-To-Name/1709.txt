@@ -1,0 +1,1 @@
+{"index": 1709, "name": "Liverwurst spread", "healthiness": {"lactating": [30, 30, 27], "male": [46, 39, 36, 38, 38, 31, 29, 28, 27], "female": [46, 39, 36, 36, 36, 30, 30, 27, 25], "pregnant": [29, 29, 26]}}

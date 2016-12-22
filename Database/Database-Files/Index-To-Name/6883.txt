@@ -1,0 +1,1 @@
+{"index": 6883, "name": "BURGER KING, CROISSAN'WICH with Egg and Cheese", "healthiness": {"lactating": [12, 12, 9], "male": [45, 33, 24, 25, 18, 12, 10, 9, 8], "female": [45, 33, 24, 23, 16, 10, 11, 8, 5], "pregnant": [11, 12, 10]}}

@@ -1,0 +1,1 @@
+{"index": 572, "name": "Infant formula, NESTLE, GOOD START 2 ESSENTIALS, with iron, ready-to-feed", "healthiness": {"lactating": [3, 4, 3], "male": [23, 14, 11, 8, 5, 5, 6, 6, 2], "female": [23, 14, 11, 7, 3, 2, 4, 2, -1], "pregnant": [2, 4, 3]}}

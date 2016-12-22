@@ -1,0 +1,1 @@
+{"index": 1641, "name": "Ham, chopped, not canned", "healthiness": {"lactating": [-3, -2, -3], "male": [6, 0, -3, 0, -1, -1, 1, 0, -2], "female": [6, 0, -3, -1, -4, -3, -1, -3, -5], "pregnant": [-3, -1, -3]}}

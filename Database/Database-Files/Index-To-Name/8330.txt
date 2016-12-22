@@ -1,0 +1,1 @@
+{"index": 8330, "name": "Owl, horned, flesh, raw (Alaska Native)", "healthiness": {"lactating": [-8, -7, -8], "male": [-22, -22, -22, -16, -12, -8, -6, -7, -8], "female": [-22, -22, -22, -18, -15, -13, -10, -12, -12], "pregnant": [-11, -9, -10]}}

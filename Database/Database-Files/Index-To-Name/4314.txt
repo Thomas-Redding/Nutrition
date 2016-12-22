@@ -1,0 +1,1 @@
+{"index": 4314, "name": "Beverages, OCEAN SPRAY, Light Cranberry", "healthiness": {"lactating": [-11, -9, -11], "male": [-13, -20, -19, -16, -13, -9, -9, -9, -10], "female": [-13, -20, -19, -17, -15, -12, -11, -12, -14], "pregnant": [-10, -9, -10]}}

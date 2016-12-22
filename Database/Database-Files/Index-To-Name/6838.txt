@@ -1,0 +1,1 @@
+{"index": 6838, "name": "McDONALD'S, Sweet 'N Sour Sauce", "healthiness": {"lactating": [-12, -11, -12], "male": [-12, -23, -24, -19, -15, -11, -10, -11, -12], "female": [-12, -23, -24, -21, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

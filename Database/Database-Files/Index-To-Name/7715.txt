@@ -1,0 +1,1 @@
+{"index": 7715, "name": "Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut", "healthiness": {"lactating": [47, 46, 44], "male": [66, 63, 61, 63, 56, 49, 47, 45, 43], "female": [66, 63, 61, 61, 54, 48, 50, 47, 43], "pregnant": [47, 49, 47]}}

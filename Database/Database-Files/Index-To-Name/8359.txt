@@ -1,0 +1,1 @@
+{"index": 8359, "name": "Willow, young leaves, chopped (Alaska Native)", "healthiness": {"lactating": [-4, -3, -4], "male": [-30, -13, -15, -11, -7, -4, -2, -2, -4], "female": [-30, -13, -15, -13, -10, -8, -6, -7, -8], "pregnant": [-7, -4, -6]}}

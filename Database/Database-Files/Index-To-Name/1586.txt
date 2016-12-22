@@ -1,0 +1,1 @@
+{"index": 1586, "name": "Fish broth", "healthiness": {"lactating": [5, 6, 5], "male": [15, 7, 4, 6, 5, 7, 9, 9, 7], "female": [15, 7, 4, 4, 3, 3, 7, 5, 3], "pregnant": [4, 7, 6]}}

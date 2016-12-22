@@ -1,0 +1,1 @@
+{"index": 2589, "name": "Pork, fresh, variety meats and by-products, pancreas, cooked, braised", "healthiness": {"lactating": [37, 39, 37], "male": [44, 37, 36, 39, 39, 39, 41, 40, 38], "female": [44, 37, 36, 37, 36, 37, 39, 38, 36], "pregnant": [36, 39, 37]}}

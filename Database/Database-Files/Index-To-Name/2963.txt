@@ -1,0 +1,1 @@
+{"index": 2963, "name": "Edamame, frozen, unprepared", "healthiness": {"lactating": [37, 38, 36], "male": [47, 42, 44, 46, 43, 39, 37, 36, 35], "female": [47, 42, 44, 44, 41, 37, 39, 36, 35], "pregnant": [36, 38, 36]}}

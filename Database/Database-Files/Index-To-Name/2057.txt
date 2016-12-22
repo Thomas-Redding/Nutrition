@@ -1,0 +1,1 @@
+{"index": 2057, "name": "Cereals ready-to-eat, GENERAL MILLS, Honey KIX", "healthiness": {"lactating": [18, 19, 18], "male": [17, 12, 13, 16, 17, 20, 21, 20, 17], "female": [17, 12, 13, 14, 15, 17, 20, 18, 14], "pregnant": [19, 21, 20]}}

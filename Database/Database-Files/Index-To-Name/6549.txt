@@ -1,0 +1,1 @@
+{"index": 6549, "name": "Wild rice, raw", "healthiness": {"lactating": [17, 17, 14], "male": [38, 34, 29, 32, 24, 17, 15, 14, 13], "female": [38, 34, 29, 30, 23, 17, 18, 15, 12], "pregnant": [17, 18, 15]}}

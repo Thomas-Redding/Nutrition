@@ -1,0 +1,1 @@
+{"index": 3499, "name": "Tomato products, canned, puree, with salt added", "healthiness": {"lactating": [26, 27, 25], "male": [49, 48, 49, 48, 38, 30, 29, 28, 27], "female": [50, 49, 50, 46, 36, 30, 31, 29, 27], "pregnant": [27, 28, 27]}}

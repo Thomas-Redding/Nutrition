@@ -1,0 +1,1 @@
+{"index": 1790, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN COMPLETE Wheat Flakes", "healthiness": {"lactating": [35, 36, 35], "male": [30, 28, 30, 35, 34, 36, 38, 37, 35], "female": [30, 28, 30, 33, 32, 34, 37, 36, 33], "pregnant": [36, 38, 37]}}

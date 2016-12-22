@@ -1,0 +1,1 @@
+{"index": 8167, "name": "RUDI'S, Gluten-Free Bakery, Original Sandwich Bread", "healthiness": {"lactating": [-13, -12, -13], "male": [-19, -27, -27, -21, -16, -12, -11, -12, -13], "female": [-19, -27, -27, -23, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

@@ -1,0 +1,1 @@
+{"index": 808, "name": "Margarine, regular, 80% fat, composite, stick, without salt, with added vitamin D", "healthiness": {"lactating": [-8, -6, -8], "male": [-15, -17, -17, -12, -8, -5, -5, -6, -9], "female": [-15, -17, -17, -14, -11, -9, -7, -9, -13], "pregnant": [-6, -5, -7]}}

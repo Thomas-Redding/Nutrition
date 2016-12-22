@@ -1,0 +1,1 @@
+{"index": 4782, "name": "Beans, pinto, mature seeds, canned, solids and liquids", "healthiness": {"lactating": [22, 22, 20], "male": [38, 32, 30, 31, 27, 22, 20, 19, 18], "female": [38, 32, 30, 29, 26, 21, 22, 19, 18], "pregnant": [21, 22, 19]}}

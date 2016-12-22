@@ -1,0 +1,1 @@
+{"index": 1935, "name": "Cereals ready-to-eat, QUAKER, MOTHER'S Cinnamon Oat Crunch", "healthiness": {"lactating": [-8, -7, -8], "male": [-4, -13, -14, -11, -10, -7, -6, -6, -8], "female": [-4, -13, -14, -13, -12, -11, -8, -10, -11], "pregnant": [-9, -7, -8]}}

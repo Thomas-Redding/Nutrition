@@ -1,0 +1,1 @@
+{"index": 2332, "name": "Pears, dried, sulfured, uncooked", "healthiness": {"lactating": [-5, -4, -6], "male": [9, -4, -4, -4, -5, -4, -4, -4, -5], "female": [9, -3, -4, -6, -7, -7, -5, -7, -8], "pregnant": [-5, -4, -6]}}

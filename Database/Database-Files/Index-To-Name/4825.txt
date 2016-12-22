@@ -1,0 +1,1 @@
+{"index": 4825, "name": "Peanuts, all types, cooked, boiled, with salt", "healthiness": {"lactating": [12, 12, 9], "male": [37, 28, 25, 26, 18, 12, 10, 9, 8], "female": [37, 28, 25, 24, 16, 11, 12, 9, 7], "pregnant": [12, 13, 10]}}

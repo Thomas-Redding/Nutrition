@@ -1,0 +1,1 @@
+{"index": 4882, "name": "Peanut butter, chunky, vitamin and mineral fortified", "healthiness": {"lactating": [7, 9, 7], "male": [6, 3, 3, 8, 11, 11, 12, 12, 10], "female": [6, 3, 3, 6, 9, 8, 10, 9, 8], "pregnant": [6, 8, 7]}}

@@ -1,0 +1,1 @@
+{"index": 6479, "name": "Buckwheat groats, roasted, dry", "healthiness": {"lactating": [13, 13, 11], "male": [36, 31, 28, 29, 21, 13, 12, 11, 10], "female": [37, 31, 29, 27, 20, 13, 14, 11, 9], "pregnant": [12, 14, 11]}}

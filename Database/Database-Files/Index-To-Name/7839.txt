@@ -1,0 +1,1 @@
+{"index": 7839, "name": "GIRL SCOUTS, Do-si-dos Cookies", "healthiness": {"lactating": [-11, -10, -11], "male": [-21, -24, -24, -18, -14, -10, -9, -10, -11], "female": [-21, -24, -24, -20, -16, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

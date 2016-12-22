@@ -1,0 +1,1 @@
+{"index": 1118, "name": "Ground turkey, fat free, pan-broiled crumbles", "healthiness": {"lactating": [36, 38, 36], "male": [43, 35, 34, 37, 36, 38, 40, 39, 38], "female": [43, 35, 34, 35, 33, 34, 38, 36, 34], "pregnant": [35, 38, 37]}}

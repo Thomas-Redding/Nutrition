@@ -1,0 +1,1 @@
+{"index": 7221, "name": "Beef, shoulder pot roast, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, braised", "healthiness": {"lactating": [35, 37, 35], "male": [47, 39, 33, 36, 36, 38, 40, 39, 37], "female": [47, 39, 33, 34, 34, 35, 37, 35, 34], "pregnant": [34, 36, 35]}}

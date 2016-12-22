@@ -1,0 +1,1 @@
+{"index": 8111, "name": "Cookies, coconut macaroon", "healthiness": {"lactating": [-12, -11, -12], "male": [-13, -21, -23, -18, -14, -11, -10, -11, -12], "female": [-13, -21, -23, -20, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

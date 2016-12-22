@@ -1,0 +1,1 @@
+{"index": 3153, "name": "Salsify, cooked, boiled, drained, without salt", "healthiness": {"lactating": [0, 1, 0], "male": [14, 6, 5, 4, 2, 2, 3, 3, 1], "female": [14, 6, 5, 2, 1, 1, 2, 1, -1], "pregnant": [0, 2, 0]}}

@@ -1,0 +1,1 @@
+{"index": 3611, "name": "Seeds, cottonseed flour, low fat (glandless)", "healthiness": {"lactating": [40, 42, 40], "male": [38, 37, 35, 39, 41, 44, 44, 44, 42], "female": [38, 37, 35, 37, 39, 40, 42, 40, 39], "pregnant": [40, 41, 40]}}

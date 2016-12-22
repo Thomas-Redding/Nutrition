@@ -1,0 +1,1 @@
+{"index": 4292, "name": "Beverages, KRAFT, coffee, instant, French Vanilla Cafe", "healthiness": {"lactating": [-13, -12, -13], "male": [-23, -28, -29, -22, -17, -12, -12, -12, -13], "female": [-23, -28, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -13]}}

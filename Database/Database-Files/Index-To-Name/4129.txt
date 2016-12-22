@@ -1,0 +1,1 @@
+{"index": 4129, "name": "Alcoholic beverage, beer, light, low carb", "healthiness": {"lactating": [-13, -12, -13], "male": [-18, -25, -26, -21, -16, -12, -11, -12, -13], "female": [-18, -25, -26, -22, -19, -16, -14, -15, -17], "pregnant": [-13, -12, -13]}}

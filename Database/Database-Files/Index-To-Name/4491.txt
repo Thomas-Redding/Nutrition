@@ -1,0 +1,1 @@
+{"index": 4491, "name": "Fish, catfish, channel, wild, raw", "healthiness": {"lactating": [35, 36, 35], "male": [46, 37, 35, 37, 35, 36, 38, 38, 36], "female": [46, 37, 35, 35, 33, 33, 36, 35, 33], "pregnant": [34, 36, 35]}}

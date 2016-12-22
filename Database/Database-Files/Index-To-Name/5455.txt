@@ -1,0 +1,1 @@
+{"index": 5455, "name": "Lamb, New Zealand, imported, brains, raw", "healthiness": {"lactating": [36, 37, 35], "male": [46, 37, 36, 39, 39, 39, 40, 39, 38], "female": [46, 37, 36, 37, 36, 36, 39, 37, 35], "pregnant": [36, 38, 36]}}

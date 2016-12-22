@@ -1,0 +1,1 @@
+{"index": 1674, "name": "Turkey sausage, reduced fat, brown and serve, cooked (include BUTTERBALL breakfast links turkey sausage)", "healthiness": {"lactating": [25, 26, 24], "male": [43, 33, 26, 27, 26, 27, 26, 24, 23], "female": [43, 33, 26, 25, 24, 24, 26, 24, 21], "pregnant": [24, 26, 24]}}

@@ -1,0 +1,1 @@
+{"index": 3608, "name": "Seeds, breadnut tree seeds, dried", "healthiness": {"lactating": [13, 13, 11], "male": [34, 24, 25, 26, 19, 14, 12, 11, 10], "female": [35, 24, 25, 24, 18, 12, 13, 10, 8], "pregnant": [12, 13, 11]}}

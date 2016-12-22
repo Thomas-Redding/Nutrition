@@ -1,0 +1,1 @@
+{"index": 4521, "name": "Fish, herring, Atlantic, cooked, dry heat", "healthiness": {"lactating": [36, 38, 36], "male": [50, 41, 38, 39, 36, 38, 39, 38, 36], "female": [50, 41, 38, 37, 34, 35, 38, 36, 33], "pregnant": [35, 38, 36]}}

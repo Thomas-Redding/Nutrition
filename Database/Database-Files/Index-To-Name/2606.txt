@@ -1,0 +1,1 @@
+{"index": 2606, "name": "Pork, cured, ham, center slice, separable lean and fat, unheated", "healthiness": {"lactating": [26, 27, 26], "male": [40, 30, 27, 30, 28, 28, 28, 28, 26], "female": [40, 30, 27, 28, 26, 26, 28, 26, 23], "pregnant": [26, 27, 26]}}

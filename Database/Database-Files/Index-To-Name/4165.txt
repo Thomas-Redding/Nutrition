@@ -1,0 +1,1 @@
+{"index": 4165, "name": "Beverages, Energy Drink with carbonated water and high fructose corn syrup", "healthiness": {"lactating": [0, 1, 0], "male": [-11, -11, -11, -6, -2, 1, 2, 1, 0], "female": [-11, -11, -11, -8, -4, -2, 0, -2, -4], "pregnant": [0, 1, 0]}}

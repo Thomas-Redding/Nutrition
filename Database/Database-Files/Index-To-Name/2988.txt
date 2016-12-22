@@ -1,0 +1,1 @@
+{"index": 2988, "name": "Mushrooms, Chanterelle, raw", "healthiness": {"lactating": [22, 23, 22], "male": [17, 16, 17, 21, 21, 22, 24, 23, 23], "female": [17, 16, 17, 19, 18, 20, 23, 22, 19], "pregnant": [21, 24, 23]}}

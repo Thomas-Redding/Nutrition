@@ -1,0 +1,1 @@
+{"index": 4307, "name": "Alcoholic beverage, beer, light, higher alcohol", "healthiness": {"lactating": [-12, -10, -12], "male": [-9, -19, -22, -17, -14, -10, -10, -10, -11], "female": [-9, -19, -22, -19, -16, -14, -12, -14, -16], "pregnant": [-12, -10, -12]}}

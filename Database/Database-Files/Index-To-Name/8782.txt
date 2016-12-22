@@ -1,0 +1,1 @@
+{"index": 8782, "name": "Vital wheat gluten", "healthiness": {"lactating": [-8, -7, -8], "male": [-10, -16, -18, -13, -10, -7, -6, -6, -8], "female": [-10, -16, -18, -15, -13, -11, -9, -11, -12], "pregnant": [-10, -8, -9]}}

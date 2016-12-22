@@ -1,0 +1,1 @@
+{"index": 3265, "name": "Yam, raw", "healthiness": {"lactating": [1, 2, 0], "male": [26, 17, 14, 13, 6, 4, 3, 3, 1], "female": [27, 18, 15, 11, 5, 2, 3, 1, -1], "pregnant": [2, 3, 2]}}

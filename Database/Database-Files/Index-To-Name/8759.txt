@@ -1,0 +1,1 @@
+{"index": 8759, "name": "Babyfood, cereal, rice with pears and apple, dry, instant fortified", "healthiness": {"lactating": [5, 6, 5], "male": [10, 2, 1, 2, 4, 6, 8, 8, 6], "female": [10, 2, 1, 0, 2, 3, 5, 3, 3], "pregnant": [4, 5, 4]}}

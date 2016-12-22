@@ -1,0 +1,1 @@
+{"index": 3522, "name": "Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, without salt", "healthiness": {"lactating": [13, 13, 10], "male": [36, 28, 26, 25, 20, 13, 11, 9, 8], "female": [36, 28, 26, 24, 18, 12, 13, 10, 7], "pregnant": [12, 13, 10]}}

@@ -1,0 +1,1 @@
+{"index": 8582, "name": "Cheese, monterey, low fat", "healthiness": {"lactating": [-4, -3, -4], "male": [7, -3, -6, -5, -6, -4, -2, -2, -4], "female": [7, -3, -6, -7, -9, -7, -4, -5, -8], "pregnant": [-6, -3, -4]}}

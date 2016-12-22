@@ -1,0 +1,1 @@
+{"index": 8659, "name": "Beans, chili, barbecue, ranch style, cooked", "healthiness": {"lactating": [2, 3, 2], "male": [4, 0, 2, 5, 4, 3, 6, 5, 4], "female": [4, 0, 2, 3, 2, 1, 4, 2, 2], "pregnant": [0, 3, 1]}}

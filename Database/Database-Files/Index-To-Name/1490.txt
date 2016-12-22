@@ -1,0 +1,1 @@
+{"index": 1490, "name": "Soup, chicken broth or bouillon, dry, prepared with water", "healthiness": {"lactating": [-3, -2, -3], "male": [10, 0, -5, -1, -2, -1, 0, 0, -2], "female": [10, 0, -5, -3, -4, -4, -2, -3, -5], "pregnant": [-3, -1, -3]}}

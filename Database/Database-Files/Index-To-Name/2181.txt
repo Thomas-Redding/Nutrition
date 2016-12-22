@@ -1,0 +1,1 @@
+{"index": 2181, "name": "Cherries, sour, red, frozen, unsweetened", "healthiness": {"lactating": [-4, -3, -4], "male": [10, -1, -1, -1, -2, -1, 0, -1, -2], "female": [10, -1, -1, -3, -4, -4, -2, -4, -5], "pregnant": [-3, -2, -3]}}

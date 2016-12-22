@@ -1,0 +1,1 @@
+{"index": 7581, "name": "Beef, chuck, clod roast, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted", "healthiness": {"lactating": [34, 35, 34], "male": [37, 33, 31, 34, 34, 36, 38, 37, 36], "female": [37, 33, 31, 32, 32, 32, 35, 33, 32], "pregnant": [32, 35, 33]}}

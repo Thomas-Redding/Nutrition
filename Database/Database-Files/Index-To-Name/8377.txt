@@ -1,0 +1,1 @@
+{"index": 8377, "name": "Tamales (Navajo)", "healthiness": {"lactating": [13, 13, 11], "male": [39, 28, 25, 25, 20, 13, 11, 10, 9], "female": [39, 28, 25, 23, 19, 12, 13, 10, 7], "pregnant": [13, 13, 11]}}

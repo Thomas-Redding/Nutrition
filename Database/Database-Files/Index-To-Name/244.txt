@@ -1,0 +1,1 @@
+{"index": 244, "name": "Ice cream bar, covered with chocolate and nuts", "healthiness": {"lactating": [-9, -8, -9], "male": [5, -7, -14, -11, -10, -7, -6, -7, -8], "female": [5, -7, -14, -13, -12, -10, -9, -10, -12], "pregnant": [-9, -7, -9]}}

@@ -1,0 +1,1 @@
+{"index": 4790, "name": "Broadbeans (fava beans), mature seeds, raw", "healthiness": {"lactating": [29, 29, 26], "male": [42, 37, 35, 36, 33, 29, 27, 26, 25], "female": [42, 37, 35, 34, 31, 28, 29, 26, 25], "pregnant": [27, 29, 26]}}

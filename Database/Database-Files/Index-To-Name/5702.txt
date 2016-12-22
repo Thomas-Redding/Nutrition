@@ -1,0 +1,1 @@
+{"index": 5702, "name": "Cookies, raisin, soft-type", "healthiness": {"lactating": [-6, -5, -6], "male": [16, 4, -2, -2, -5, -4, -4, -5, -6], "female": [17, 5, 0, -4, -7, -7, -6, -8, -10], "pregnant": [-6, -5, -6]}}

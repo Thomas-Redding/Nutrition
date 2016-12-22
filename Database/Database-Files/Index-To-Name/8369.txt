@@ -1,0 +1,1 @@
+{"index": 8369, "name": "Squash, Indian, cooked, boiled (Navajo)", "healthiness": {"lactating": [-8, -6, -8], "male": [-17, -19, -17, -12, -9, -6, -6, -6, -7], "female": [-17, -19, -17, -13, -11, -9, -7, -9, -11], "pregnant": [-7, -6, -7]}}

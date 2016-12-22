@@ -1,0 +1,1 @@
+{"index": 283, "name": "Spices, poultry seasoning", "healthiness": {"lactating": [13, 15, 13], "male": [15, 10, 13, 15, 15, 16, 17, 17, 14], "female": [15, 10, 13, 13, 13, 14, 17, 15, 12], "pregnant": [13, 16, 15]}}

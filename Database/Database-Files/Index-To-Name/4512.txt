@@ -1,0 +1,1 @@
+{"index": 4512, "name": "Fish, grouper, mixed species, raw", "healthiness": {"lactating": [32, 33, 32], "male": [38, 29, 29, 32, 32, 33, 36, 35, 33], "female": [38, 29, 29, 31, 30, 30, 33, 31, 30], "pregnant": [30, 33, 32]}}

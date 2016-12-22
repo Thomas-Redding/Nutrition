@@ -1,0 +1,1 @@
+{"index": 2981, "name": "Jute, potherb, cooked, boiled, drained, without salt", "healthiness": {"lactating": [59, 59, 58], "male": [55, 54, 56, 60, 59, 59, 58, 56, 56], "female": [55, 54, 56, 58, 58, 58, 60, 58, 55], "pregnant": [58, 60, 58]}}

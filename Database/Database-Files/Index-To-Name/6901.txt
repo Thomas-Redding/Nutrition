@@ -1,0 +1,1 @@
+{"index": 6901, "name": "McDONALD'S, Premium Grilled Chicken Ranch BLT Sandwich", "healthiness": {"lactating": [-9, -8, -9], "male": [-15, -19, -18, -14, -11, -8, -7, -8, -9], "female": [-15, -19, -18, -16, -13, -11, -9, -11, -13], "pregnant": [-10, -9, -10]}}

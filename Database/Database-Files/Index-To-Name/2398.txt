@@ -1,0 +1,1 @@
+{"index": 2398, "name": "Blueberries, wild, canned, heavy syrup, drained", "healthiness": {"lactating": [-1, 0, -1], "male": [-4, -12, -9, -6, -2, 0, 1, 0, -1], "female": [-4, -12, -9, -8, -4, -3, -2, -3, -4], "pregnant": [-2, -1, -3]}}

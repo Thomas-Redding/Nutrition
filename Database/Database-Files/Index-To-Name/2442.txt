@@ -1,0 +1,1 @@
+{"index": 2442, "name": "Juice, apple and grape blend, with added ascorbic acid", "healthiness": {"lactating": [-8, -7, -8], "male": [-2, -14, -19, -14, -10, -7, -6, -6, -8], "female": [-2, -14, -19, -16, -12, -10, -8, -10, -12], "pregnant": [-8, -7, -8]}}

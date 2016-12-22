@@ -1,0 +1,1 @@
+{"index": 4244, "name": "Beverages, carbonated, limeade, high caffeine", "healthiness": {"lactating": [-11, -10, -11], "male": [-16, -23, -24, -18, -15, -11, -9, -9, -11], "female": [-16, -23, -24, -20, -17, -14, -12, -13, -15], "pregnant": [-12, -10, -11]}}

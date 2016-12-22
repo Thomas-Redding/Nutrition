@@ -1,0 +1,1 @@
+{"index": 259, "name": "Spices, cinnamon, ground", "healthiness": {"lactating": [14, 15, 13], "male": [35, 28, 31, 27, 18, 15, 15, 14, 12], "female": [36, 29, 32, 25, 16, 12, 13, 11, 10], "pregnant": [12, 13, 11]}}

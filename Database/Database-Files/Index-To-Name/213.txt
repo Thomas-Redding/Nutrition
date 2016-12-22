@@ -1,0 +1,1 @@
+{"index": 213, "name": "Cheese food, pasteurized process, American, without added vitamin D", "healthiness": {"lactating": [22, 22, 20], "male": [46, 32, 27, 29, 27, 22, 20, 19, 17], "female": [46, 32, 27, 27, 24, 20, 22, 19, 15], "pregnant": [22, 23, 21]}}

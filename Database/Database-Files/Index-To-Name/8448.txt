@@ -1,0 +1,1 @@
+{"index": 8448, "name": "Tea, herbal, brewed, Hohoysi (Hopi)", "healthiness": {"lactating": [-5, -4, -5], "male": [-11, -15, -15, -10, -7, -3, -2, -2, -4], "female": [-11, -15, -15, -12, -9, -7, -4, -6, -8], "pregnant": [-6, -4, -5]}}

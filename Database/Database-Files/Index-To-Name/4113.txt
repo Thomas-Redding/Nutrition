@@ -1,0 +1,1 @@
+{"index": 4113, "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0\" fat, select, raw", "healthiness": {"lactating": [38, 39, 38], "male": [48, 40, 35, 38, 39, 40, 42, 42, 40], "female": [48, 40, 35, 36, 37, 37, 39, 37, 36], "pregnant": [36, 38, 37]}}

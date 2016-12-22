@@ -1,0 +1,1 @@
+{"index": 8162, "name": "PEPPERIDGE FARM, Goldfish, Baked Snack Crackers, Cheddar", "healthiness": {"lactating": [-11, -10, -11], "male": [-12, -21, -23, -18, -14, -10, -9, -9, -11], "female": [-12, -21, -23, -20, -16, -14, -12, -13, -15], "pregnant": [-12, -10, -11]}}

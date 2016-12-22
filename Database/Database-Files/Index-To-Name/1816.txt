@@ -1,0 +1,1 @@
+{"index": 1816, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CORN POPS", "healthiness": {"lactating": [6, 7, 6], "male": [10, 1, 5, 8, 9, 9, 11, 10, 7], "female": [10, 1, 5, 6, 7, 8, 9, 8, 6], "pregnant": [6, 7, 6]}}

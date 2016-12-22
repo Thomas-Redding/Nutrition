@@ -1,0 +1,1 @@
+{"index": 5745, "name": "Croissants, apple", "healthiness": {"lactating": [4, 4, 2], "male": [31, 18, 15, 16, 10, 5, 3, 2, 1], "female": [31, 18, 16, 14, 8, 3, 4, 1, -1], "pregnant": [4, 5, 3]}}

@@ -1,0 +1,1 @@
+{"index": 6771, "name": "WENDY'S, Ultimate Chicken Grill Sandwich", "healthiness": {"lactating": [26, 26, 24], "male": [42, 34, 26, 28, 27, 27, 25, 23, 23], "female": [42, 34, 26, 26, 25, 25, 26, 23, 21], "pregnant": [25, 26, 24]}}

@@ -1,0 +1,1 @@
+{"index": 2900, "name": "Carrots, raw", "healthiness": {"lactating": [28, 28, 26], "male": [55, 50, 50, 48, 37, 30, 28, 27, 25], "female": [55, 50, 50, 46, 36, 30, 31, 28, 26], "pregnant": [28, 29, 27]}}

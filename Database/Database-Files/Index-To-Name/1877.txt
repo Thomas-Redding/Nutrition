@@ -1,0 +1,1 @@
+{"index": 1877, "name": "Cereals, WHEATENA, cooked with water, with salt", "healthiness": {"lactating": [3, 4, 3], "male": [15, 7, 2, 4, 2, 4, 6, 5, 4], "female": [15, 7, 2, 2, 0, 1, 4, 2, 1], "pregnant": [2, 4, 3]}}

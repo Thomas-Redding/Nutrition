@@ -1,0 +1,1 @@
+{"index": 7577, "name": "USDA Commodity, beef, ground, bulk/coarse ground, frozen, raw", "healthiness": {"lactating": [-4, -2, -4], "male": [9, -3, -6, -3, -3, -1, 0, -1, -2], "female": [9, -3, -6, -5, -6, -4, -2, -4, -6], "pregnant": [-4, -2, -4]}}

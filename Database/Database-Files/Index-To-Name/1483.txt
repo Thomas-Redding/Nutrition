@@ -1,0 +1,1 @@
+{"index": 1483, "name": "Soup, turkey vegetable, canned, prepared with equal volume water", "healthiness": {"lactating": [14, 14, 11], "male": [42, 34, 30, 31, 23, 15, 14, 12, 11], "female": [42, 34, 30, 29, 21, 15, 15, 12, 10], "pregnant": [14, 15, 13]}}

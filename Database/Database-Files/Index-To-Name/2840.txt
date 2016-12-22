@@ -1,0 +1,1 @@
+{"index": 2840, "name": "Lima beans, immature seeds, canned, regular pack, solids and liquids", "healthiness": {"lactating": [27, 28, 25], "male": [39, 33, 34, 36, 33, 28, 26, 25, 24], "female": [39, 33, 34, 34, 31, 26, 27, 24, 23], "pregnant": [26, 27, 24]}}

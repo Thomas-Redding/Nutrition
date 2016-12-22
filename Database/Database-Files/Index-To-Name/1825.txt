@@ -1,0 +1,1 @@
+{"index": 1825, "name": "Cereals ready-to-eat, MALT-O-MEAL, CORN BURSTS", "healthiness": {"lactating": [9, 10, 9], "male": [5, 1, 2, 7, 10, 11, 12, 12, 10], "female": [5, 1, 2, 5, 8, 9, 10, 8, 7], "pregnant": [9, 11, 9]}}

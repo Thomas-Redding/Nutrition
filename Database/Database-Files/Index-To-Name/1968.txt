@@ -1,0 +1,1 @@
+{"index": 1968, "name": "Cereals ready-to-eat, KELLOGG'S, Reduced Sugar Frosted Flakes Cereal", "healthiness": {"lactating": [9, 11, 9], "male": [15, 7, 10, 12, 13, 14, 14, 14, 11], "female": [15, 7, 10, 10, 11, 12, 13, 11, 9], "pregnant": [9, 11, 9]}}

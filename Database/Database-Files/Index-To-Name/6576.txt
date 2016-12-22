@@ -1,0 +1,1 @@
+{"index": 6576, "name": "Spaghetti, spinach, dry", "healthiness": {"lactating": [18, 18, 16], "male": [41, 35, 32, 34, 25, 20, 18, 17, 16], "female": [41, 35, 32, 32, 23, 18, 19, 17, 14], "pregnant": [19, 20, 17]}}

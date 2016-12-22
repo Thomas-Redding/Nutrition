@@ -1,0 +1,1 @@
+{"index": 3640, "name": "Nuts, brazilnuts, dried, unblanched", "healthiness": {"lactating": [10, 10, 8], "male": [29, 22, 19, 20, 13, 10, 10, 8, 7], "female": [29, 22, 20, 18, 11, 8, 10, 7, 5], "pregnant": [9, 11, 9]}}

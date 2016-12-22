@@ -1,0 +1,1 @@
+{"index": 2973, "name": "Drumstick leaves, raw", "healthiness": {"lactating": [52, 53, 52], "male": [46, 46, 48, 52, 50, 52, 53, 53, 51], "female": [46, 46, 48, 50, 48, 49, 53, 51, 49], "pregnant": [49, 52, 51]}}

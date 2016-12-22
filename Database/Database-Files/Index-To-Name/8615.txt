@@ -1,0 +1,1 @@
+{"index": 8615, "name": "Babyfood, juice, orange-carrot", "healthiness": {"lactating": [-2, -1, -2], "male": [11, 3, -4, -1, -1, 0, 1, 1, -1], "female": [11, 3, -4, -3, -3, -2, 0, -2, -4], "pregnant": [-1, 0, -1]}}

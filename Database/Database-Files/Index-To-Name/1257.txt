@@ -1,0 +1,1 @@
+{"index": 1257, "name": "Soup, chunky beef, canned, ready-to-serve", "healthiness": {"lactating": [28, 28, 26], "male": [48, 40, 37, 37, 33, 30, 27, 25, 25], "female": [48, 40, 37, 35, 31, 28, 29, 26, 24], "pregnant": [28, 29, 26]}}

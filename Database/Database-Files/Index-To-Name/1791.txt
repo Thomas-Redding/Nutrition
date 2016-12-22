@@ -1,0 +1,1 @@
+{"index": 1791, "name": "Cereals ready-to-eat, POST Bran Flakes", "healthiness": {"lactating": [19, 20, 19], "male": [17, 16, 17, 22, 22, 22, 24, 23, 21], "female": [17, 16, 17, 20, 20, 21, 24, 22, 20], "pregnant": [20, 22, 21]}}

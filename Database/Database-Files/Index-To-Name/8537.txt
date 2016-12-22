@@ -1,0 +1,1 @@
+{"index": 8537, "name": "CRACKER BARREL, grilled sirloin steak", "healthiness": {"lactating": [35, 36, 35], "male": [46, 37, 34, 37, 38, 37, 39, 39, 37], "female": [46, 37, 34, 35, 36, 35, 38, 36, 34], "pregnant": [33, 36, 35]}}

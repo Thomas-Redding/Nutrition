@@ -1,0 +1,1 @@
+{"index": 1549, "name": "SMART SOUP, Vietnamese Carrot Lemongrass", "healthiness": {"lactating": [-12, -11, -12], "male": [-27, -28, -27, -21, -16, -12, -11, -11, -13], "female": [-27, -28, -27, -23, -18, -15, -13, -15, -16], "pregnant": [-12, -11, -12]}}

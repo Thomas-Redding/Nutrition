@@ -1,0 +1,1 @@
+{"index": 3469, "name": "Spinach, canned, no salt added, solids and liquids", "healthiness": {"lactating": [65, 67, 65], "male": [56, 56, 59, 63, 65, 67, 68, 66, 65], "female": [56, 56, 59, 62, 62, 64, 68, 66, 63], "pregnant": [64, 67, 65]}}

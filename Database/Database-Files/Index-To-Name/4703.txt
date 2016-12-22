@@ -1,0 +1,1 @@
+{"index": 4703, "name": "Crustaceans, crab, dungeness, cooked, moist heat", "healthiness": {"lactating": [41, 43, 41], "male": [47, 41, 41, 44, 42, 42, 44, 44, 42], "female": [47, 41, 41, 42, 39, 40, 43, 41, 39], "pregnant": [40, 43, 41]}}

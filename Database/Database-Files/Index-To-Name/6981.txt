@@ -1,0 +1,1 @@
+{"index": 6981, "name": "KASHI Pizza, Mediterranean, frozen, unprepared", "healthiness": {"lactating": [-9, -8, -9], "male": [-6, -15, -15, -13, -11, -8, -7, -7, -9], "female": [-6, -15, -15, -14, -13, -11, -9, -11, -12], "pregnant": [-10, -8, -9]}}

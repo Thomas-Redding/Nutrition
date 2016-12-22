@@ -1,0 +1,1 @@
+{"index": 2423, "name": "Dates, medjool", "healthiness": {"lactating": [-7, -6, -7], "male": [9, -1, -7, -6, -7, -5, -5, -5, -6], "female": [9, -1, -7, -8, -9, -8, -6, -8, -10], "pregnant": [-7, -5, -7]}}

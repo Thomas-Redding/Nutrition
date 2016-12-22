@@ -1,0 +1,1 @@
+{"index": 2839, "name": "Lima beans, immature seeds, cooked, boiled, drained, without salt", "healthiness": {"lactating": [28, 28, 26], "male": [43, 36, 37, 38, 34, 28, 27, 25, 24], "female": [43, 36, 37, 36, 32, 27, 28, 25, 23], "pregnant": [26, 27, 25]}}

@@ -1,0 +1,1 @@
+{"index": 6190, "name": "Candies, MARS SNACKFOOD US, TWIX Peanut Butter Cookie Bars", "healthiness": {"lactating": [-9, -8, -9], "male": [5, -8, -16, -13, -11, -8, -7, -7, -9], "female": [5, -8, -16, -15, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

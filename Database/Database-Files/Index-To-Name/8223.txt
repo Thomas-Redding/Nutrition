@@ -1,0 +1,1 @@
+{"index": 8223, "name": "Potatoes, yellow fleshed, french fried, frozen, unprepared", "healthiness": {"lactating": [-13, -11, -13], "male": [-24, -28, -25, -19, -15, -11, -11, -11, -12], "female": [-24, -28, -25, -21, -17, -15, -13, -15, -17], "pregnant": [-13, -11, -13]}}

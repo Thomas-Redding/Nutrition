@@ -1,0 +1,1 @@
+{"index": 4520, "name": "Fish, herring, Atlantic, raw", "healthiness": {"lactating": [37, 38, 37], "male": [51, 41, 39, 39, 37, 38, 40, 39, 37], "female": [51, 41, 39, 37, 34, 35, 38, 36, 34], "pregnant": [35, 38, 37]}}

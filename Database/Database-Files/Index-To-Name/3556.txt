@@ -1,0 +1,1 @@
+{"index": 3556, "name": "Pickles, cucumber, dill, reduced sodium", "healthiness": {"lactating": [34, 34, 31], "male": [49, 46, 50, 52, 46, 36, 35, 34, 33], "female": [50, 46, 50, 50, 45, 36, 37, 34, 33], "pregnant": [34, 35, 33]}}

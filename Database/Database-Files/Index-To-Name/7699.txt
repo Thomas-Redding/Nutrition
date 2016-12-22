@@ -1,0 +1,1 @@
+{"index": 7699, "name": "Snacks, popcorn, microwave, low fat", "healthiness": {"lactating": [-7, -6, -7], "male": [0, -9, -11, -8, -8, -6, -5, -5, -6], "female": [0, -9, -11, -10, -10, -9, -6, -8, -10], "pregnant": [-8, -6, -7]}}

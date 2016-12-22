@@ -1,0 +1,1 @@
+{"index": 2019, "name": "Incaparina, dry mix (corn and soy flours), unprepared", "healthiness": {"lactating": [40, 40, 38], "male": [49, 48, 49, 51, 46, 40, 39, 38, 36], "female": [49, 48, 49, 49, 45, 40, 41, 38, 35], "pregnant": [39, 40, 38]}}

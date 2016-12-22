@@ -1,0 +1,1 @@
+{"index": 2913, "name": "Celery, raw", "healthiness": {"lactating": [35, 35, 33], "male": [56, 52, 56, 57, 48, 38, 37, 36, 35], "female": [56, 52, 56, 55, 46, 38, 40, 38, 35], "pregnant": [36, 38, 35]}}

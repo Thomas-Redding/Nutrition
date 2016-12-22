@@ -1,0 +1,1 @@
+{"index": 2022, "name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Chocolatey Delight", "healthiness": {"lactating": [18, 19, 18], "male": [23, 18, 16, 20, 21, 22, 22, 21, 20], "female": [23, 18, 16, 18, 19, 20, 21, 20, 17], "pregnant": [19, 21, 20]}}

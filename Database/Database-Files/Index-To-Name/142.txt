@@ -1,0 +1,1 @@
+{"index": 142, "name": "Cheese substitute, mozzarella", "healthiness": {"lactating": [21, 21, 19], "male": [45, 33, 30, 32, 28, 21, 20, 18, 17], "female": [45, 33, 30, 30, 26, 20, 22, 19, 16], "pregnant": [21, 23, 20]}}

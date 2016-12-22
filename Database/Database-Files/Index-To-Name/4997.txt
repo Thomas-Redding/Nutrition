@@ -1,0 +1,1 @@
+{"index": 4997, "name": "Peanuts, all types, dry-roasted, without salt", "healthiness": {"lactating": [10, 10, 8], "male": [35, 27, 23, 23, 15, 10, 8, 7, 6], "female": [35, 27, 23, 21, 14, 9, 10, 7, 4], "pregnant": [10, 10, 8]}}

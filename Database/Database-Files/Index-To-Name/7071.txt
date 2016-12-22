@@ -1,0 +1,1 @@
+{"index": 7071, "name": "Turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwaved", "healthiness": {"lactating": [21, 21, 19], "male": [45, 37, 33, 32, 29, 23, 20, 18, 17], "female": [45, 37, 33, 30, 27, 22, 22, 19, 16], "pregnant": [21, 22, 19]}}

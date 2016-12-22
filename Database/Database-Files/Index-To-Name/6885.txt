@@ -1,0 +1,1 @@
+{"index": 6885, "name": "BURGER KING, Hash Brown Rounds", "healthiness": {"lactating": [-6, -5, -7], "male": [15, 0, -2, -2, -5, -5, -5, -5, -7], "female": [16, 2, -1, -4, -8, -8, -6, -8, -10], "pregnant": [-6, -5, -6]}}

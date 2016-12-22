@@ -1,0 +1,1 @@
+{"index": 8437, "name": "Sea lion, Steller, kidney (Alaska Native)", "healthiness": {"lactating": [14, 15, 13], "male": [14, 11, 10, 14, 14, 14, 15, 14, 13], "female": [14, 12, 10, 12, 12, 12, 14, 12, 10], "pregnant": [13, 15, 13]}}

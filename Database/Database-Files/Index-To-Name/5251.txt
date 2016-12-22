@@ -1,0 +1,1 @@
+{"index": 5251, "name": "Game meat, beefalo, composite of cuts, cooked, roasted", "healthiness": {"lactating": [1, 2, 1], "male": [-2, -5, -3, 0, 0, 2, 4, 4, 2], "female": [-2, -5, -3, -2, -2, -1, 1, -1, -1], "pregnant": [-1, 2, 0]}}

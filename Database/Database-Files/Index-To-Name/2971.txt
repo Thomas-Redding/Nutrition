@@ -1,0 +1,1 @@
+{"index": 2971, "name": "Gourd, dishcloth (towelgourd), raw", "healthiness": {"lactating": [11, 12, 11], "male": [19, 16, 16, 17, 14, 12, 15, 14, 13], "female": [19, 16, 16, 15, 13, 11, 14, 12, 11], "pregnant": [9, 12, 11]}}

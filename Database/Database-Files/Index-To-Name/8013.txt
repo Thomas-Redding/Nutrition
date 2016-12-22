@@ -1,0 +1,1 @@
+{"index": 8013, "name": "MURRAY, SUGAR FREE, Vanilla Sugar Wafer", "healthiness": {"lactating": [-12, -11, -12], "male": [-21, -27, -26, -20, -15, -11, -10, -11, -12], "female": [-21, -27, -26, -22, -17, -14, -13, -14, -16], "pregnant": [-12, -11, -12]}}

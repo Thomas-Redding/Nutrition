@@ -1,0 +1,1 @@
+{"index": 3402, "name": "Drumstick leaves, cooked, boiled, drained, with salt", "healthiness": {"lactating": [52, 53, 51], "male": [50, 49, 50, 54, 52, 52, 52, 50, 49], "female": [50, 49, 50, 52, 50, 49, 52, 49, 48], "pregnant": [49, 51, 49]}}

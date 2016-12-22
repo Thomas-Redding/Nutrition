@@ -1,0 +1,1 @@
+{"index": 5619, "name": "Bread, whole-wheat, prepared from recipe", "healthiness": {"lactating": [12, 12, 10], "male": [40, 33, 28, 27, 20, 13, 12, 11, 10], "female": [40, 34, 28, 24, 18, 11, 12, 10, 8], "pregnant": [12, 12, 10]}}

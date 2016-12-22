@@ -1,0 +1,1 @@
+{"index": 8293, "name": "Whale, beluga, meat, raw (Alaska Native)", "healthiness": {"lactating": [11, 12, 11], "male": [17, 10, 10, 12, 11, 12, 14, 14, 12], "female": [17, 10, 10, 10, 9, 10, 14, 12, 10], "pregnant": [10, 13, 12]}}

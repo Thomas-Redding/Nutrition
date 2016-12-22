@@ -1,0 +1,1 @@
+{"index": 8679, "name": "Salad dressing, buttermilk, lite", "healthiness": {"lactating": [-7, -6, -7], "male": [1, -9, -12, -9, -8, -5, -5, -5, -7], "female": [1, -9, -12, -11, -10, -9, -7, -8, -10], "pregnant": [-7, -5, -7]}}

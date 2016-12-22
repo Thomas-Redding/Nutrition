@@ -1,0 +1,1 @@
+{"index": 5585, "name": "Bread, french or vienna (includes sourdough)", "healthiness": {"lactating": [-5, -4, -5], "male": [9, -2, -7, -5, -4, -3, -2, -2, -3], "female": [9, -2, -7, -6, -6, -6, -4, -6, -7], "pregnant": [-5, -4, -5]}}

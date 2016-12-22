@@ -1,0 +1,1 @@
+{"index": 1664, "name": "Peppered loaf, pork, beef", "healthiness": {"lactating": [3, 4, 3], "male": [20, 12, 6, 7, 5, 5, 7, 6, 4], "female": [20, 12, 6, 5, 2, 3, 5, 3, 1], "pregnant": [2, 4, 3]}}

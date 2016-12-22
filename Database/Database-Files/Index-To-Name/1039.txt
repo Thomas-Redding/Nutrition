@@ -1,0 +1,1 @@
+{"index": 1039, "name": "Chicken, cornish game hens, meat and skin, raw", "healthiness": {"lactating": [23, 24, 22], "male": [43, 31, 24, 25, 24, 25, 24, 22, 22], "female": [43, 31, 24, 23, 22, 22, 24, 22, 19], "pregnant": [23, 24, 22]}}

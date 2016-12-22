@@ -1,0 +1,1 @@
+{"index": 6715, "name": "Fast foods, submarine sandwich, roast beef on white bread with lettuce and tomato", "healthiness": {"lactating": [28, 28, 26], "male": [49, 43, 36, 35, 32, 29, 27, 26, 25], "female": [49, 43, 36, 34, 30, 28, 29, 26, 23], "pregnant": [27, 28, 26]}}

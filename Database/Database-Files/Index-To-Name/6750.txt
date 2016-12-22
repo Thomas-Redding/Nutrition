@@ -1,0 +1,1 @@
+{"index": 6750, "name": "SUBWAY, cold cut sub on white bread with lettuce and tomato", "healthiness": {"lactating": [15, 15, 13], "male": [44, 34, 29, 28, 23, 16, 14, 13, 12], "female": [44, 34, 29, 27, 21, 15, 15, 13, 10], "pregnant": [15, 16, 13]}}

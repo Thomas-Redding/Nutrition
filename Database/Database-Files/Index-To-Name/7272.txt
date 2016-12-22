@@ -1,0 +1,1 @@
+{"index": 7272, "name": "Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0\" fat, choice, cooked, braised", "healthiness": {"lactating": [27, 29, 27], "male": [37, 30, 26, 30, 29, 30, 30, 29, 28], "female": [37, 30, 26, 28, 27, 27, 29, 27, 25], "pregnant": [27, 29, 27]}}

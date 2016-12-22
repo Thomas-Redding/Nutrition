@@ -1,0 +1,1 @@
+{"index": 1809, "name": "Cereals ready-to-eat, QUAKER, SWEET CRUNCH/QUISP", "healthiness": {"lactating": [4, 5, 4], "male": [3, -4, -5, 0, 4, 7, 8, 8, 6], "female": [3, -4, -5, -2, 1, 4, 5, 4, 2], "pregnant": [3, 4, 3]}}

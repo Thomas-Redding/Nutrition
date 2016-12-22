@@ -1,0 +1,1 @@
+{"index": 8513, "name": "Restaurant, Latino, chicken and rice, entree, prepared", "healthiness": {"lactating": [24, 24, 21], "male": [43, 34, 25, 27, 26, 25, 22, 21, 20], "female": [43, 34, 25, 25, 24, 23, 24, 21, 18], "pregnant": [23, 24, 22]}}

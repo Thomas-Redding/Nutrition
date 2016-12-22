@@ -1,0 +1,1 @@
+{"index": 6765, "name": "WENDY'S, CLASSIC SINGLE Hamburger, no cheese", "healthiness": {"lactating": [20, 20, 17], "male": [45, 34, 28, 28, 28, 21, 18, 17, 16], "female": [45, 34, 28, 26, 25, 20, 20, 17, 14], "pregnant": [20, 20, 17]}}

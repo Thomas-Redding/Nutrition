@@ -1,0 +1,1 @@
+{"index": 6397, "name": "Snacks, corn cakes, very low sodium", "healthiness": {"lactating": [3, 3, 1], "male": [30, 21, 18, 17, 7, 4, 3, 2, 1], "female": [31, 21, 19, 14, 6, 2, 3, 1, -2], "pregnant": [3, 4, 2]}}

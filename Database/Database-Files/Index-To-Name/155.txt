@@ -1,0 +1,1 @@
+{"index": 155, "name": "Sour cream, light", "healthiness": {"lactating": [-8, -7, -8], "male": [1, -9, -12, -10, -9, -7, -5, -6, -8], "female": [1, -9, -12, -12, -12, -10, -7, -9, -12], "pregnant": [-8, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 353, "name": "Babyfood, dinner, vegetables and ham, strained", "healthiness": {"lactating": [-1, 0, -1], "male": [21, 12, 6, 4, 2, 2, 3, 3, 1], "female": [21, 12, 6, 2, 0, 1, 2, 1, -1], "pregnant": [1, 2, 1]}}

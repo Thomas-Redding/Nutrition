@@ -1,0 +1,1 @@
+{"index": 8056, "name": "SUNSHINE, CHEEZ-IT, Snack Mix, White Cheddar", "healthiness": {"lactating": [-12, -10, -12], "male": [-15, -23, -24, -18, -14, -11, -10, -10, -11], "female": [-15, -23, -24, -20, -17, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

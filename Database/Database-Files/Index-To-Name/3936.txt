@@ -1,0 +1,1 @@
+{"index": 3936, "name": "Beef, shoulder top blade steak, boneless, separable lean only, trimmed to 0\" fat, all grades, raw", "healthiness": {"lactating": [37, 39, 37], "male": [49, 41, 37, 40, 39, 40, 42, 41, 40], "female": [49, 41, 37, 38, 37, 37, 39, 37, 36], "pregnant": [36, 38, 37]}}

@@ -1,0 +1,1 @@
+{"index": 4487, "name": "Fish, burbot, raw", "healthiness": {"lactating": [38, 39, 38], "male": [45, 41, 39, 42, 41, 41, 43, 43, 41], "female": [45, 41, 39, 40, 39, 38, 41, 39, 38], "pregnant": [37, 40, 39]}}

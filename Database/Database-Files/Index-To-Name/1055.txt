@@ -1,0 +1,1 @@
+{"index": 1055, "name": "Chicken breast tenders, breaded, cooked, microwaved", "healthiness": {"lactating": [20, 20, 18], "male": [41, 31, 23, 26, 26, 21, 19, 17, 16], "female": [41, 31, 23, 24, 24, 19, 20, 17, 14], "pregnant": [20, 21, 18]}}

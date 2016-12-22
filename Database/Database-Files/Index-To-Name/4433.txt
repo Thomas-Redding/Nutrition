@@ -1,0 +1,1 @@
+{"index": 4433, "name": "Beverages, chocolate-flavor beverage mix for milk, powder, with added nutrients, prepared with whole milk", "healthiness": {"lactating": [1, 2, 1], "male": [18, 11, 8, 6, 2, 3, 4, 4, 1], "female": [18, 11, 8, 4, 0, 1, 3, 1, -2], "pregnant": [1, 3, 2]}}

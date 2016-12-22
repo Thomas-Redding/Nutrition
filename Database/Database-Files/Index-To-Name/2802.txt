@@ -1,0 +1,1 @@
+{"index": 2802, "name": "Pork, fresh, loin, blade (chops), boneless, separable lean only, boneless, cooked, broiled", "healthiness": {"lactating": [34, 35, 34], "male": [44, 35, 34, 38, 36, 36, 38, 38, 36], "female": [44, 35, 34, 36, 34, 34, 37, 35, 33], "pregnant": [33, 36, 34]}}

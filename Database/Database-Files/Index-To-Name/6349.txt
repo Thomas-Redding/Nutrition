@@ -1,0 +1,1 @@
+{"index": 6349, "name": "Frozen novelties, ice type, pineapple-coconut", "healthiness": {"lactating": [-8, -6, -8], "male": [-11, -17, -17, -12, -8, -6, -5, -6, -7], "female": [-11, -17, -17, -14, -11, -10, -9, -11, -11], "pregnant": [-9, -8, -9]}}

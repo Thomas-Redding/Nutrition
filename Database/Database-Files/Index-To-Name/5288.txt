@@ -1,0 +1,1 @@
+{"index": 5288, "name": "Veal, variety meats and by-products, brain, cooked, pan-fried", "healthiness": {"lactating": [28, 28, 26], "male": [45, 35, 37, 38, 33, 29, 28, 26, 25], "female": [45, 35, 37, 36, 31, 28, 29, 26, 24], "pregnant": [27, 29, 27]}}

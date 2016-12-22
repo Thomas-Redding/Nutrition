@@ -1,0 +1,1 @@
+{"index": 443, "name": "Babyfood, cereal, whole wheat, with apples, dry fortified", "healthiness": {"lactating": [10, 12, 10], "male": [20, 18, 14, 17, 14, 14, 15, 14, 13], "female": [20, 18, 14, 15, 12, 12, 15, 13, 11], "pregnant": [12, 14, 13]}}

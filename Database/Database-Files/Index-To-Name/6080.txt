@@ -1,0 +1,1 @@
+{"index": 6080, "name": "Snacks, popcorn, cheese-flavor", "healthiness": {"lactating": [1, 1, -1], "male": [34, 22, 14, 12, 4, 1, 1, 0, -1], "female": [34, 22, 15, 10, 2, -1, 0, -2, -4], "pregnant": [0, 1, -1]}}

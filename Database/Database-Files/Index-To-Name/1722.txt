@@ -1,0 +1,1 @@
+{"index": 1722, "name": "Bratwurst, pork, beef and turkey, lite, smoked", "healthiness": {"lactating": [25, 25, 23], "male": [39, 28, 23, 27, 27, 26, 24, 22, 21], "female": [39, 28, 23, 25, 25, 24, 26, 23, 20], "pregnant": [25, 26, 24]}}

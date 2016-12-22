@@ -1,0 +1,1 @@
+{"index": 8594, "name": "Milk, buttermilk, fluid, cultured, reduced fat", "healthiness": {"lactating": [29, 30, 28], "male": [36, 28, 27, 29, 28, 30, 29, 27, 26], "female": [36, 28, 27, 27, 26, 27, 30, 28, 24], "pregnant": [28, 31, 29]}}

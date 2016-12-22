@@ -1,0 +1,1 @@
+{"index": 6168, "name": "Candies, truffles, prepared-from-recipe", "healthiness": {"lactating": [-10, -8, -10], "male": [4, -10, -17, -13, -11, -8, -7, -8, -9], "female": [4, -10, -17, -15, -13, -11, -9, -11, -13], "pregnant": [-10, -8, -9]}}

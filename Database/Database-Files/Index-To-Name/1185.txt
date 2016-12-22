@@ -1,0 +1,1 @@
+{"index": 1185, "name": "Turkey, wing, from whole bird, meat only, with added solution, roasted", "healthiness": {"lactating": [39, 40, 39], "male": [44, 37, 36, 38, 37, 40, 42, 41, 40], "female": [44, 37, 36, 36, 35, 37, 40, 38, 36], "pregnant": [37, 40, 39]}}

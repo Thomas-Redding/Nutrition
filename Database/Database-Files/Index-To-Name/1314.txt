@@ -1,0 +1,1 @@
+{"index": 1314, "name": "Soup, beef broth, less/reduced sodium, ready to serve", "healthiness": {"lactating": [8, 9, 8], "male": [10, 3, 1, 6, 7, 9, 11, 11, 9], "female": [10, 3, 1, 4, 4, 6, 9, 7, 5], "pregnant": [7, 10, 8]}}

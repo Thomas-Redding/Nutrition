@@ -1,0 +1,1 @@
+{"index": 3124, "name": "Potatoes, frozen, whole, cooked, boiled, drained, without salt", "healthiness": {"lactating": [11, 11, 9], "male": [36, 29, 29, 28, 22, 13, 12, 10, 9], "female": [36, 29, 29, 26, 20, 12, 12, 10, 7], "pregnant": [11, 12, 9]}}

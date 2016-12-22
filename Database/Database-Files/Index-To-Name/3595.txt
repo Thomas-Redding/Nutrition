@@ -1,0 +1,1 @@
+{"index": 3595, "name": "Fungi, Cloud ears, dried", "healthiness": {"lactating": [5, 6, 5], "male": [10, 3, 4, 6, 7, 7, 9, 8, 7], "female": [10, 3, 4, 4, 5, 4, 6, 5, 4], "pregnant": [4, 6, 5]}}

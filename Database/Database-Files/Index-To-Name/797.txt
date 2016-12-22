@@ -1,0 +1,1 @@
+{"index": 797, "name": "Oil, cooking and salad, ENOVA, 80% diglycerides", "healthiness": {"lactating": [-13, -12, -13], "male": [-30, -30, -30, -23, -15, -11, -11, -11, -12], "female": [-30, -30, -30, -25, -18, -15, -13, -15, -17], "pregnant": [-12, -11, -12]}}

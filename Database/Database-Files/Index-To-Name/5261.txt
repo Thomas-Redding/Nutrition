@@ -1,0 +1,1 @@
+{"index": 5261, "name": "Game meat, caribou, cooked, roasted", "healthiness": {"lactating": [41, 43, 41], "male": [50, 45, 41, 45, 44, 45, 46, 46, 44], "female": [50, 45, 41, 44, 42, 41, 43, 42, 41], "pregnant": [39, 42, 41]}}

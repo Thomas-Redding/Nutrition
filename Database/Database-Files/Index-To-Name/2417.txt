@@ -1,0 +1,1 @@
+{"index": 2417, "name": "Pears, raw, bartlett", "healthiness": {"lactating": [-6, -5, -6], "male": [8, -5, -4, -3, -5, -4, -4, -5, -6], "female": [9, -5, -3, -5, -7, -6, -5, -7, -8], "pregnant": [-5, -4, -5]}}

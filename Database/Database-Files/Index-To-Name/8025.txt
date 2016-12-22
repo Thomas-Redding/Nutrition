@@ -1,0 +1,1 @@
+{"index": 8025, "name": "MURRAY, SUGAR FREE, Fudge Dipped Mint Cookies", "healthiness": {"lactating": [-12, -10, -12], "male": [-15, -24, -24, -19, -15, -11, -10, -10, -12], "female": [-15, -24, -24, -21, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

@@ -1,0 +1,1 @@
+{"index": 8134, "name": "Cookies, gluten-free, chocolate sandwich, with creme filling", "healthiness": {"lactating": [-11, -9, -11], "male": [-7, -16, -20, -16, -13, -9, -9, -9, -10], "female": [-7, -16, -20, -18, -15, -12, -11, -13, -14], "pregnant": [-11, -9, -11]}}

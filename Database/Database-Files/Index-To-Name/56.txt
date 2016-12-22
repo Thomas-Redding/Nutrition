@@ -1,0 +1,1 @@
+{"index": 56, "name": "Sour dressing, non-butterfat, cultured, filled cream-type", "healthiness": {"lactating": [1, 1, -1], "male": [31, 20, 13, 13, 5, 1, 0, -1, -2], "female": [31, 20, 13, 10, 3, -1, 0, -2, -5], "pregnant": [1, 2, 0]}}

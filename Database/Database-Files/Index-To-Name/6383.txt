@@ -1,0 +1,1 @@
+{"index": 6383, "name": "Snacks, tortilla chips, low fat, made with olestra, nacho cheese", "healthiness": {"lactating": [0, 1, 0], "male": [13, 5, 0, 0, -1, 1, 2, 2, 1], "female": [13, 5, 0, -2, -3, -2, 0, -2, -3], "pregnant": [-2, 0, -1]}}

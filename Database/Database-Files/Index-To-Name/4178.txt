@@ -1,0 +1,1 @@
+{"index": 4178, "name": "Beverages, yellow green colored citrus soft drink with caffeine", "healthiness": {"lactating": [-5, -4, -5], "male": [-13, -16, -17, -11, -6, -2, -2, -2, -4], "female": [-13, -16, -17, -13, -8, -5, -4, -5, -8], "pregnant": [-5, -4, -5]}}

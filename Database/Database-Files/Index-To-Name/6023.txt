@@ -1,0 +1,1 @@
+{"index": 6023, "name": "KASHI, TLC, Original 7-Grain Crackers", "healthiness": {"lactating": [-6, -5, -6], "male": [-2, -7, -10, -8, -8, -6, -4, -4, -6], "female": [-2, -7, -10, -10, -10, -9, -6, -8, -9], "pregnant": [-8, -5, -7]}}

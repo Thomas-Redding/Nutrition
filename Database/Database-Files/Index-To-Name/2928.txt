@@ -1,0 +1,1 @@
+{"index": 2928, "name": "Collards, frozen, chopped, unprepared", "healthiness": {"lactating": [47, 48, 45], "male": [49, 47, 49, 53, 54, 48, 47, 45, 44], "female": [49, 47, 49, 51, 51, 47, 48, 45, 43], "pregnant": [45, 46, 44]}}

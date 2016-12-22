@@ -1,0 +1,1 @@
+{"index": 209, "name": "Nutritional supplement for people with diabetes, liquid", "healthiness": {"lactating": [19, 20, 19], "male": [36, 33, 32, 33, 29, 24, 26, 26, 23], "female": [36, 33, 32, 31, 27, 23, 25, 24, 21], "pregnant": [20, 23, 21]}}

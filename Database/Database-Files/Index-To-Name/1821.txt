@@ -1,0 +1,1 @@
+{"index": 1821, "name": "Cereals ready-to-eat, GENERAL MILLS, Whole Grain TOTAL", "healthiness": {"lactating": [36, 37, 36], "male": [33, 32, 30, 34, 35, 37, 38, 38, 36], "female": [33, 32, 30, 32, 33, 35, 37, 35, 33], "pregnant": [37, 38, 37]}}

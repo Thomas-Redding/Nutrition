@@ -1,0 +1,1 @@
+{"index": 4478, "name": "Beverages, fruit juice drink, greater than 3% fruit juice, high vitamin C and added thiamin", "healthiness": {"lactating": [-8, -7, -8], "male": [-10, -19, -20, -15, -11, -7, -6, -7, -8], "female": [-10, -19, -20, -17, -13, -11, -9, -11, -12], "pregnant": [-9, -7, -9]}}

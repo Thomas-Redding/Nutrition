@@ -1,0 +1,1 @@
+{"index": 2384, "name": "Strawberries, raw", "healthiness": {"lactating": [12, 13, 11], "male": [38, 32, 31, 27, 16, 13, 13, 12, 11], "female": [39, 33, 31, 25, 15, 11, 13, 11, 9], "pregnant": [11, 13, 11]}}

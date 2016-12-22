@@ -1,0 +1,1 @@
+{"index": 1652, "name": "Liver cheese, pork", "healthiness": {"lactating": [35, 35, 32], "male": [46, 41, 40, 44, 43, 37, 34, 32, 31], "female": [46, 41, 40, 42, 41, 35, 35, 32, 30], "pregnant": [33, 34, 31]}}

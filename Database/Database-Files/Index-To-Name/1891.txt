@@ -1,0 +1,1 @@
+{"index": 1891, "name": "Cereals ready-to-eat, QUAKER, Toasted Multigrain Crisps", "healthiness": {"lactating": [8, 9, 8], "male": [19, 16, 15, 17, 11, 10, 12, 11, 10], "female": [19, 16, 15, 15, 9, 9, 12, 10, 8], "pregnant": [8, 11, 9]}}

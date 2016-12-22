@@ -1,0 +1,1 @@
+{"index": 8124, "name": "Bagels, multigrain", "healthiness": {"lactating": [0, 1, 0], "male": [13, 6, 2, 3, 1, 2, 4, 3, 2], "female": [13, 6, 2, 1, -1, -1, 2, 0, -1], "pregnant": [0, 2, 1]}}

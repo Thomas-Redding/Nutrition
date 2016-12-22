@@ -1,0 +1,1 @@
+{"index": 3103, "name": "Potatoes, mashed, dehydrated, flakes without milk, dry form", "healthiness": {"lactating": [5, 6, 4], "male": [39, 28, 23, 21, 12, 8, 6, 5, 4], "female": [39, 28, 24, 18, 10, 6, 7, 4, 2], "pregnant": [6, 7, 5]}}

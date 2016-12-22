@@ -1,0 +1,1 @@
+{"index": 4837, "name": "Peanut flour, low fat", "healthiness": {"lactating": [27, 28, 25], "male": [36, 29, 29, 32, 30, 27, 26, 24, 24], "female": [36, 29, 29, 30, 28, 25, 27, 24, 22], "pregnant": [26, 27, 25]}}

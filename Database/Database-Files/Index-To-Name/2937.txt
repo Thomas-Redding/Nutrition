@@ -1,0 +1,1 @@
+{"index": 2937, "name": "Corn, sweet, yellow, canned, drained solids, rinsed with tap water", "healthiness": {"lactating": [4, 4, 2], "male": [24, 13, 13, 15, 9, 4, 2, 1, 0], "female": [24, 13, 13, 13, 7, 2, 3, 0, -2], "pregnant": [4, 4, 2]}}

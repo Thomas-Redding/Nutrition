@@ -1,0 +1,1 @@
+{"index": 1049, "name": "Duck, young duckling, domesticated, White Pekin, leg, meat and skin, bone in, cooked, roasted", "healthiness": {"lactating": [20, 21, 20], "male": [11, 8, 9, 15, 19, 22, 22, 22, 21], "female": [11, 8, 9, 13, 16, 18, 20, 18, 16], "pregnant": [19, 21, 19]}}

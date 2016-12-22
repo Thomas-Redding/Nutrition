@@ -1,0 +1,1 @@
+{"index": 7636, "name": "Beef, round, bottom round, steak, separable lean only, trimmed to 1/8\" fat, select, cooked, braised", "healthiness": {"lactating": [34, 35, 34], "male": [46, 36, 31, 35, 35, 36, 38, 37, 35], "female": [46, 36, 31, 33, 33, 33, 35, 34, 33], "pregnant": [33, 35, 34]}}

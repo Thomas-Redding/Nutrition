@@ -1,0 +1,1 @@
+{"index": 6455, "name": "Sweeteners, for baking, contains sugar and sucralose", "healthiness": {"lactating": [-14, -13, -14], "male": [-26, -30, -30, -23, -18, -13, -12, -13, -14], "female": [-26, -30, -30, -25, -20, -17, -15, -17, -19], "pregnant": [-14, -13, -14]}}

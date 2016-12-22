@@ -1,0 +1,1 @@
+{"index": 6734, "name": "SUBWAY, SUBWAY CLUB sub on white bread with lettuce and tomato", "healthiness": {"lactating": [0, 1, 0], "male": [16, 10, 4, 4, 2, 2, 4, 3, 2], "female": [16, 10, 4, 2, 0, -1, 2, 0, -1], "pregnant": [-1, 1, 0]}}

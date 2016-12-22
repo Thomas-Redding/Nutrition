@@ -1,0 +1,1 @@
+{"index": 8489, "name": "Restaurant, family style, spaghetti and meatballs", "healthiness": {"lactating": [18, 18, 15], "male": [45, 34, 27, 28, 26, 19, 16, 15, 14], "female": [45, 34, 27, 26, 24, 17, 18, 15, 12], "pregnant": [18, 18, 16]}}

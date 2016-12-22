@@ -1,0 +1,1 @@
+{"index": 1800, "name": "Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CHEERIOS", "healthiness": {"lactating": [21, 22, 21], "male": [27, 24, 21, 22, 22, 24, 25, 24, 22], "female": [27, 24, 21, 20, 20, 22, 24, 22, 19], "pregnant": [21, 23, 22]}}

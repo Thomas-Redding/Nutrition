@@ -1,0 +1,1 @@
+{"index": 1879, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola without Raisins", "healthiness": {"lactating": [6, 8, 6], "male": [16, 8, 9, 12, 9, 9, 10, 10, 8], "female": [16, 8, 9, 10, 7, 7, 9, 7, 6], "pregnant": [7, 9, 7]}}

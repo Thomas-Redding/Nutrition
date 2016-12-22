@@ -1,0 +1,1 @@
+{"index": 4363, "name": "Beverages, tea, black, brewed, prepared with tap water", "healthiness": {"lactating": [8, 9, 8], "male": [0, -2, -2, 4, 7, 9, 11, 11, 9], "female": [0, -2, -2, 2, 4, 5, 8, 6, 6], "pregnant": [6, 8, 7]}}

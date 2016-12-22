@@ -1,0 +1,1 @@
+{"index": 4608, "name": "Fish, whitefish, mixed species, raw", "healthiness": {"lactating": [34, 35, 34], "male": [49, 40, 37, 39, 36, 36, 38, 38, 36], "female": [49, 40, 37, 37, 33, 34, 37, 35, 33], "pregnant": [33, 36, 35]}}

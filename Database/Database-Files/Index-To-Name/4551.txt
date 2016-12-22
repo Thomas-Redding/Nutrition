@@ -1,0 +1,1 @@
+{"index": 4551, "name": "Fish, rockfish, Pacific, mixed species, raw", "healthiness": {"lactating": [38, 39, 38], "male": [45, 37, 36, 40, 37, 39, 41, 40, 39], "female": [45, 37, 36, 38, 35, 36, 39, 38, 35], "pregnant": [36, 39, 38]}}

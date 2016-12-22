@@ -1,0 +1,1 @@
+{"index": 6897, "name": "McDONALD'S, Premium Grilled Chicken Classic Sandwich", "healthiness": {"lactating": [-4, -2, -4], "male": [8, 1, -3, -2, -3, -2, 0, -1, -2], "female": [8, 1, -3, -4, -5, -4, -2, -4, -6], "pregnant": [-4, -2, -4]}}

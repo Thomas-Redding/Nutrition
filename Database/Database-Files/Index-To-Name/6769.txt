@@ -1,0 +1,1 @@
+{"index": 6769, "name": "WENDY'S, CLASSIC DOUBLE, with cheese", "healthiness": {"lactating": [23, 22, 20], "male": [44, 33, 26, 28, 28, 23, 21, 19, 18], "female": [44, 33, 26, 26, 26, 22, 22, 19, 16], "pregnant": [22, 22, 20]}}

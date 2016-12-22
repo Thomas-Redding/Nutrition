@@ -1,0 +1,1 @@
+{"index": 68, "name": "Milk substitutes, fluid, with lauric acid oil", "healthiness": {"lactating": [11, 11, 8], "male": [31, 23, 19, 22, 16, 10, 9, 8, 7], "female": [31, 23, 19, 20, 14, 9, 10, 8, 5], "pregnant": [10, 11, 8]}}

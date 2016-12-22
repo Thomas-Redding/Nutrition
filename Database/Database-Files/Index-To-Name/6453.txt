@@ -1,0 +1,1 @@
+{"index": 6453, "name": "Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)", "healthiness": {"lactating": [-6, -5, -6], "male": [-1, -8, -12, -9, -7, -5, -4, -4, -5], "female": [-1, -8, -12, -11, -9, -8, -6, -8, -9], "pregnant": [-7, -5, -7]}}

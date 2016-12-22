@@ -1,0 +1,1 @@
+{"index": 3451, "name": "Potatoes, microwaved, cooked in skin, flesh, with salt", "healthiness": {"lactating": [7, 8, 6], "male": [34, 29, 26, 24, 16, 10, 9, 8, 7], "female": [34, 29, 27, 22, 14, 9, 10, 7, 5], "pregnant": [8, 9, 7]}}

@@ -1,0 +1,1 @@
+{"index": 801, "name": "Salad Dressing, mayonnaise, light, SMART BALANCE, Omega Plus light", "healthiness": {"lactating": [-9, -8, -9], "male": [-9, -19, -19, -13, -9, -7, -7, -8, -9], "female": [-9, -19, -19, -15, -12, -10, -9, -11, -13], "pregnant": [-8, -7, -8]}}

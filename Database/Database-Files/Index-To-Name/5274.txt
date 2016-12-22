@@ -1,0 +1,1 @@
+{"index": 5274, "name": "Game meat, opossum, cooked, roasted", "healthiness": {"lactating": [3, 4, 3], "male": [12, 8, 4, 6, 4, 4, 6, 6, 4], "female": [12, 8, 4, 4, 2, 1, 4, 2, 1], "pregnant": [1, 3, 2]}}

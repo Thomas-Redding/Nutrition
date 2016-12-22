@@ -1,0 +1,1 @@
+{"index": 4967, "name": "Beans, kidney, california red, mature seeds, cooked, boiled, with salt", "healthiness": {"lactating": [28, 28, 26], "male": [35, 29, 29, 31, 30, 27, 26, 25, 24], "female": [35, 29, 29, 29, 29, 26, 27, 25, 24], "pregnant": [26, 27, 25]}}

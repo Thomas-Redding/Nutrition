@@ -1,0 +1,1 @@
+{"index": 8180, "name": "PEPPERIDGE FARM, Raisin Cinnamon Swirl Bread", "healthiness": {"lactating": [-12, -11, -12], "male": [-21, -25, -25, -20, -15, -11, -10, -10, -12], "female": [-21, -25, -25, -22, -17, -15, -13, -15, -16], "pregnant": [-13, -11, -13]}}

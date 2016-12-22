@@ -1,0 +1,1 @@
+{"index": 4853, "name": "Soy flour, defatted", "healthiness": {"lactating": [39, 41, 39], "male": [44, 39, 37, 38, 38, 38, 41, 40, 39], "female": [44, 39, 37, 36, 36, 36, 39, 37, 37], "pregnant": [35, 38, 37]}}

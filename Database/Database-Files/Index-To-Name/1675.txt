@@ -1,0 +1,1 @@
+{"index": 1675, "name": "Poultry salad sandwich spread", "healthiness": {"lactating": [17, 17, 14], "male": [36, 20, 17, 19, 21, 18, 14, 13, 12], "female": [36, 20, 17, 17, 18, 16, 16, 13, 9], "pregnant": [17, 17, 14]}}

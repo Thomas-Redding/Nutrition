@@ -1,0 +1,1 @@
+{"index": 1111, "name": "Ostrich, tenderloin, raw", "healthiness": {"lactating": [42, 43, 42], "male": [45, 40, 40, 45, 44, 45, 47, 46, 44], "female": [45, 40, 40, 43, 42, 42, 45, 43, 42], "pregnant": [39, 42, 41]}}

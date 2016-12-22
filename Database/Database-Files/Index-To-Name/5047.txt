@@ -1,0 +1,1 @@
+{"index": 5047, "name": "WORTHINGTON Prosage Roll, frozen, unprepared", "healthiness": {"lactating": [-6, -5, -6], "male": [-6, -12, -13, -9, -7, -5, -3, -4, -5], "female": [-6, -12, -13, -11, -9, -8, -6, -8, -9], "pregnant": [-7, -6, -7]}}

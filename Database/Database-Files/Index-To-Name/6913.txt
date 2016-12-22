@@ -1,0 +1,1 @@
+{"index": 6913, "name": "KFC, Crispy Chicken Strips", "healthiness": {"lactating": [23, 24, 22], "male": [39, 30, 24, 26, 25, 24, 23, 21, 20], "female": [39, 30, 24, 24, 23, 22, 24, 21, 18], "pregnant": [23, 24, 22]}}

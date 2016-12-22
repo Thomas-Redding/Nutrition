@@ -1,0 +1,1 @@
+{"index": 1609, "name": "CAMPBELL'S HEALTHY REQUEST, Homestyle Chicken Noodle Soup, condensed", "healthiness": {"lactating": [-10, -8, -10], "male": [-15, -21, -20, -16, -13, -10, -8, -8, -10], "female": [-15, -21, -20, -18, -16, -13, -10, -12, -14], "pregnant": [-11, -9, -10]}}

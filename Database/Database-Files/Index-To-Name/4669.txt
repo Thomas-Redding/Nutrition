@@ -1,0 +1,1 @@
+{"index": 4669, "name": "Fish, cod, Pacific, cooked, dry heat (may have been previously frozen)", "healthiness": {"lactating": [34, 35, 34], "male": [43, 34, 31, 33, 34, 36, 37, 36, 34], "female": [43, 34, 31, 31, 31, 33, 35, 33, 30], "pregnant": [34, 35, 34]}}

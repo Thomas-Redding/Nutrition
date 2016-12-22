@@ -1,0 +1,1 @@
+{"index": 787, "name": "USDA Commodity Food, oil, vegetable, low saturated fat", "healthiness": {"lactating": [-11, -10, -11], "male": [-23, -24, -24, -18, -13, -9, -10, -10, -11], "female": [-23, -24, -24, -20, -15, -13, -11, -13, -15], "pregnant": [-10, -10, -11]}}

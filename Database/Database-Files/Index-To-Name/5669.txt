@@ -1,0 +1,1 @@
+{"index": 5669, "name": "Cookies, butter, commercially prepared, enriched", "healthiness": {"lactating": [-4, -3, -5], "male": [21, 7, 3, 3, -2, -3, -3, -4, -5], "female": [21, 8, 4, 1, -4, -6, -4, -7, -9], "pregnant": [-4, -3, -5]}}

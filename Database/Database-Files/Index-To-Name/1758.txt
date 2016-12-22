@@ -1,0 +1,1 @@
+{"index": 1758, "name": "Frankfurter, meat and poultry, cooked, boiled", "healthiness": {"lactating": [8, 8, 5], "male": [39, 24, 20, 21, 15, 8, 6, 5, 4], "female": [39, 24, 20, 20, 13, 6, 7, 4, 1], "pregnant": [8, 8, 6]}}

@@ -1,0 +1,1 @@
+{"index": 6745, "name": "Fast foods, hamburger, large, single patty, with condiments", "healthiness": {"lactating": [-3, -2, -3], "male": [15, 3, -4, -2, -2, -1, 0, -1, -2], "female": [15, 3, -4, -4, -4, -4, -2, -4, -5], "pregnant": [-4, -2, -3]}}

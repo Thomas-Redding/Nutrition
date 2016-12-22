@@ -1,0 +1,1 @@
+{"index": 1560, "name": "Soup, chicken corn chowder, chunky, ready-to-serve, single brand", "healthiness": {"lactating": [-13, -12, -13], "male": [-28, -29, -27, -21, -16, -12, -12, -12, -13], "female": [-28, -29, -27, -23, -19, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

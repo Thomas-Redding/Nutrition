@@ -1,0 +1,1 @@
+{"index": 2422, "name": "Jackfruit, canned, syrup pack", "healthiness": {"lactating": [-10, -9, -10], "male": [-2, -16, -19, -15, -12, -9, -8, -9, -10], "female": [-2, -16, -19, -17, -15, -12, -10, -12, -14], "pregnant": [-11, -9, -10]}}

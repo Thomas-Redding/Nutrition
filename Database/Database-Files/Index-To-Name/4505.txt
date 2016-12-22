@@ -1,0 +1,1 @@
+{"index": 4505, "name": "Fish, drum, freshwater, raw", "healthiness": {"lactating": [35, 37, 35], "male": [48, 43, 42, 43, 39, 38, 40, 40, 38], "female": [48, 43, 42, 41, 37, 36, 39, 37, 35], "pregnant": [35, 38, 37]}}

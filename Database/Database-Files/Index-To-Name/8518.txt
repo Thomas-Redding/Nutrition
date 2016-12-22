@@ -1,0 +1,1 @@
+{"index": 8518, "name": "Restaurant, Latino, Arroz con grandules (rice and pigeonpeas)", "healthiness": {"lactating": [-1, 0, -2], "male": [25, 14, 10, 9, 3, 0, -1, -2, -3], "female": [26, 15, 11, 7, 1, -2, -1, -3, -6], "pregnant": [0, 0, -1]}}

@@ -1,0 +1,1 @@
+{"index": 4146, "name": "Beverages, ABBOTT, EAS soy protein powder", "healthiness": {"lactating": [-6, -5, -6], "male": [-2, -9, -14, -11, -8, -5, -3, -4, -5], "female": [-2, -9, -14, -12, -10, -8, -6, -8, -9], "pregnant": [-7, -5, -7]}}

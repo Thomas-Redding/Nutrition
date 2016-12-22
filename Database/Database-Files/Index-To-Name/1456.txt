@@ -1,0 +1,1 @@
+{"index": 1456, "name": "Soup, clam chowder, new england, canned, prepared with equal volume water", "healthiness": {"lactating": [9, 11, 9], "male": [21, 18, 15, 15, 12, 13, 14, 13, 12], "female": [21, 18, 15, 13, 10, 10, 11, 10, 9], "pregnant": [8, 10, 9]}}

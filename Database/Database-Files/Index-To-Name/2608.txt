@@ -1,0 +1,1 @@
+{"index": 2608, "name": "Pork, cured, ham, steak, boneless, extra lean, unheated", "healthiness": {"lactating": [36, 37, 36], "male": [48, 40, 38, 42, 41, 40, 42, 41, 39], "female": [48, 40, 38, 40, 38, 37, 40, 39, 37], "pregnant": [36, 39, 37]}}

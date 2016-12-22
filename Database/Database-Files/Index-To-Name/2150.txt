@@ -1,0 +1,1 @@
+{"index": 2150, "name": "Apricots, dried, sulfured, uncooked", "healthiness": {"lactating": [-3, -2, -3], "male": [21, 8, 5, 4, 0, -1, 0, -1, -2], "female": [21, 9, 5, 1, -2, -3, -2, -4, -5], "pregnant": [-2, -1, -3]}}

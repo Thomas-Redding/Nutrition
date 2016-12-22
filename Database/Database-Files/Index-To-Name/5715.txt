@@ -1,0 +1,1 @@
+{"index": 5715, "name": "Cookies, sugar wafers with creme filling, regular", "healthiness": {"lactating": [-8, -7, -9], "male": [2, -8, -11, -9, -9, -7, -7, -7, -9], "female": [3, -7, -10, -11, -11, -10, -9, -11, -13], "pregnant": [-9, -8, -9]}}

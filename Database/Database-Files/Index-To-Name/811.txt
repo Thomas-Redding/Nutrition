@@ -1,0 +1,1 @@
+{"index": 811, "name": "Oil, industrial, soy, low linolenic", "healthiness": {"lactating": [-11, -10, -11], "male": [-24, -24, -25, -18, -13, -9, -10, -10, -12], "female": [-24, -24, -25, -20, -15, -13, -12, -13, -16], "pregnant": [-11, -10, -11]}}

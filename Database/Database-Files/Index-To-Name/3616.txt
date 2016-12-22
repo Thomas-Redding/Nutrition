@@ -1,0 +1,1 @@
+{"index": 3616, "name": "Seeds, pumpkin and squash seed kernels, roasted, without salt", "healthiness": {"lactating": [24, 24, 23], "male": [35, 29, 26, 30, 29, 24, 24, 22, 22], "female": [35, 29, 26, 28, 27, 21, 24, 22, 20], "pregnant": [22, 24, 22]}}

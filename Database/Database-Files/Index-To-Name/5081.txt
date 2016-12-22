@@ -1,0 +1,1 @@
+{"index": 5081, "name": "MORNINGSTAR FARMS Sesame Chik'n Entree, frozen, unprepared", "healthiness": {"lactating": [-9, -7, -9], "male": [-4, -13, -16, -12, -11, -8, -6, -7, -8], "female": [-4, -13, -16, -14, -13, -11, -9, -10, -12], "pregnant": [-10, -8, -9]}}

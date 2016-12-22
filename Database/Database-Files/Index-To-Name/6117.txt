@@ -1,0 +1,1 @@
+{"index": 6117, "name": "Candies, confectioner's coating, butterscotch", "healthiness": {"lactating": [-14, -12, -14], "male": [-21, -24, -28, -22, -17, -12, -12, -12, -14], "female": [-21, -24, -28, -23, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

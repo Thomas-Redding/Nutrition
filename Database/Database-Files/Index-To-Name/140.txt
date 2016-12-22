@@ -1,0 +1,1 @@
+{"index": 140, "name": "Cheese, goat, soft type", "healthiness": {"lactating": [25, 25, 22], "male": [41, 30, 23, 26, 26, 26, 23, 22, 21], "female": [41, 30, 23, 24, 24, 25, 26, 22, 19], "pregnant": [25, 26, 23]}}

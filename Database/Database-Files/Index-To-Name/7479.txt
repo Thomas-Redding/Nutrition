@@ -1,0 +1,1 @@
+{"index": 7479, "name": "Beef, New Zealand, imported, brisket navel end, separable lean only, raw", "healthiness": {"lactating": [27, 27, 26], "male": [35, 25, 22, 26, 26, 28, 28, 27, 25], "female": [35, 25, 22, 24, 24, 25, 27, 25, 23], "pregnant": [26, 27, 26]}}

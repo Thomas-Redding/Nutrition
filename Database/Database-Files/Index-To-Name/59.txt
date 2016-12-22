@@ -1,0 +1,1 @@
+{"index": 59, "name": "Cheese, American, nonfat or fat free", "healthiness": {"lactating": [18, 19, 18], "male": [10, 9, 9, 16, 19, 20, 22, 21, 19], "female": [10, 9, 9, 14, 16, 17, 21, 19, 17], "pregnant": [16, 20, 19]}}

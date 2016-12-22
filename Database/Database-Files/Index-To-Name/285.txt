@@ -1,0 +1,1 @@
+{"index": 285, "name": "Spices, rosemary, dried", "healthiness": {"lactating": [11, 12, 11], "male": [10, 7, 10, 14, 14, 14, 15, 14, 12], "female": [10, 7, 10, 12, 12, 13, 15, 13, 11], "pregnant": [12, 14, 13]}}

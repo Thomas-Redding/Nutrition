@@ -1,0 +1,1 @@
+{"index": 6373, "name": "Snacks, tortilla chips, nacho-flavor, reduced fat", "healthiness": {"lactating": [-1, -1, -2], "male": [21, 12, 8, 8, 1, -1, -1, -2, -3], "female": [22, 12, 9, 6, -1, -4, -2, -4, -7], "pregnant": [-2, -1, -3]}}

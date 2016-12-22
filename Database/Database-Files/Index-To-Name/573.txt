@@ -1,0 +1,1 @@
+{"index": 573, "name": "Infant formula, NESTLE, GOOD START 2 ESSENTIALS, with iron, liquid concentrate, not reconstituted", "healthiness": {"lactating": [2, 4, 2], "male": [23, 14, 11, 8, 5, 5, 6, 5, 2], "female": [23, 14, 11, 6, 3, 2, 4, 2, -1], "pregnant": [2, 4, 2]}}

@@ -1,0 +1,1 @@
+{"index": 1880, "name": "Cereals ready-to-eat, POST, Shredded Wheat, lightly frosted, spoon-size", "healthiness": {"lactating": [4, 5, 4], "male": [11, 6, 4, 6, 6, 6, 8, 7, 5], "female": [11, 6, 4, 4, 3, 4, 6, 4, 3], "pregnant": [3, 5, 4]}}

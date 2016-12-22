@@ -1,0 +1,1 @@
+{"index": 1913, "name": "Cereals ready-to-eat, GENERAL MILLS, COUNT CHOCULA", "healthiness": {"lactating": [13, 14, 13], "male": [17, 12, 10, 14, 14, 17, 18, 17, 14], "female": [17, 12, 10, 12, 12, 14, 15, 14, 11], "pregnant": [12, 14, 13]}}

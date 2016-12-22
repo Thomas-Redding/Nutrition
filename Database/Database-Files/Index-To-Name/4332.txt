@@ -1,0 +1,1 @@
+{"index": 4332, "name": "Beverages, grape juice drink, canned", "healthiness": {"lactating": [-3, -2, -3], "male": [0, -9, -13, -9, -5, -2, -1, -2, -3], "female": [0, -9, -13, -10, -7, -5, -3, -5, -7], "pregnant": [-3, -2, -3]}}

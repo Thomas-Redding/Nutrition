@@ -1,0 +1,1 @@
+{"index": 3386, "name": "Collards, frozen, chopped, cooked, boiled, drained, with salt", "healthiness": {"lactating": [51, 52, 49], "male": [57, 54, 56, 59, 59, 52, 51, 50, 49], "female": [57, 54, 56, 57, 57, 51, 52, 50, 48], "pregnant": [49, 51, 48]}}

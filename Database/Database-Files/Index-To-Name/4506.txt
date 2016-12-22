@@ -1,0 +1,1 @@
+{"index": 4506, "name": "Fish, eel, mixed species, raw", "healthiness": {"lactating": [34, 35, 34], "male": [46, 33, 32, 33, 33, 35, 36, 35, 33], "female": [46, 33, 32, 32, 31, 32, 35, 33, 30], "pregnant": [33, 35, 34]}}

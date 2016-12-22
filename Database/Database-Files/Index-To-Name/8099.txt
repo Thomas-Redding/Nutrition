@@ -1,0 +1,1 @@
+{"index": 8099, "name": "Cake, snack cakes, not chocolate, with icing or filling, low-fat, with added fiber", "healthiness": {"lactating": [-8, -7, -8], "male": [-1, -11, -16, -13, -10, -7, -6, -7, -8], "female": [-1, -11, -16, -15, -12, -10, -8, -10, -12], "pregnant": [-9, -7, -8]}}

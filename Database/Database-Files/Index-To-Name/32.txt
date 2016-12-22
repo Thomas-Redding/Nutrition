@@ -1,0 +1,1 @@
+{"index": 32, "name": "Cheese, parmesan, hard", "healthiness": {"lactating": [27, 28, 27], "male": [41, 27, 24, 26, 25, 27, 29, 28, 26], "female": [41, 27, 24, 24, 22, 24, 28, 26, 23], "pregnant": [25, 29, 27]}}

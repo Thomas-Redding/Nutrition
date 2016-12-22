@@ -1,0 +1,1 @@
+{"index": 4248, "name": "Beverages, Carob-flavor beverage mix, powder, prepared with whole milk", "healthiness": {"lactating": [17, 17, 15], "male": [42, 29, 26, 28, 23, 18, 17, 15, 14], "female": [42, 29, 26, 26, 21, 16, 18, 15, 12], "pregnant": [17, 18, 16]}}

@@ -1,0 +1,1 @@
+{"index": 2401, "name": "Cherries, sour, canned, water pack, drained", "healthiness": {"lactating": [-4, -3, -4], "male": [3, -6, -8, -6, -4, -3, -2, -3, -4], "female": [3, -6, -8, -7, -6, -5, -4, -6, -7], "pregnant": [-5, -4, -5]}}

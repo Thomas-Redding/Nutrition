@@ -1,0 +1,1 @@
+{"index": 4544, "name": "Fish, pike, northern, cooked, dry heat", "healthiness": {"lactating": [35, 36, 35], "male": [47, 41, 39, 39, 36, 36, 39, 38, 36], "female": [47, 41, 39, 37, 34, 34, 37, 35, 33], "pregnant": [34, 37, 35]}}

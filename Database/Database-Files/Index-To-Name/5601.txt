@@ -1,0 +1,1 @@
+{"index": 5601, "name": "Bread, reduced-calorie, oat bran", "healthiness": {"lactating": [16, 16, 13], "male": [43, 36, 33, 33, 23, 16, 15, 14, 13], "female": [43, 36, 33, 31, 22, 16, 16, 14, 12], "pregnant": [15, 16, 14]}}

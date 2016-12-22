@@ -1,0 +1,1 @@
+{"index": 1493, "name": "Soup, cream of chicken, dry, mix, prepared with water", "healthiness": {"lactating": [4, 5, 4], "male": [22, 14, 11, 11, 8, 8, 8, 8, 6], "female": [22, 14, 11, 9, 6, 5, 7, 6, 4], "pregnant": [5, 7, 6]}}

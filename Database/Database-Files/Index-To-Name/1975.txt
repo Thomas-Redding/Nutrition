@@ -1,0 +1,1 @@
+{"index": 1975, "name": "Cereals, MALT-O-MEAL, Farina Hot Wheat Cereal, dry", "healthiness": {"lactating": [0, 1, 0], "male": [-6, -9, -11, -5, -1, 2, 3, 3, 1], "female": [-6, -9, -11, -7, -3, -1, 1, 0, -3], "pregnant": [0, 2, 0]}}

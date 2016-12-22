@@ -1,0 +1,1 @@
+{"index": 3249, "name": "Vegetable juice cocktail, canned", "healthiness": {"lactating": [25, 26, 24], "male": [51, 46, 45, 46, 37, 29, 28, 27, 25], "female": [52, 47, 46, 43, 36, 29, 30, 27, 25], "pregnant": [27, 28, 26]}}

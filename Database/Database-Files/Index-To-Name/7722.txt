@@ -1,0 +1,1 @@
+{"index": 7722, "name": "Snacks, plantain chips, salted", "healthiness": {"lactating": [-10, -8, -10], "male": [0, -11, -14, -11, -10, -7, -7, -8, -9], "female": [0, -11, -14, -13, -12, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

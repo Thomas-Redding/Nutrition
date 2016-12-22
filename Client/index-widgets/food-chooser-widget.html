@@ -1,0 +1,195 @@
+<div id="food-chooser-widget">
+	<div></div>
+</div>
+<style>
+#food-chooser-widget {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(0, 0, 75, 0.5);
+	display: none;
+	overflow: hidden;
+	z-index: 300;
+}
+
+#food-chooser-widget > div {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 90vw;
+	max-width: 30em;
+	height: 90vh;
+	background-color: white;
+	border: 0.3em;
+	border-radius: 0.3em;
+	overflow-y: hidden;
+}
+
+#food-chooser-widget > div > div {
+	display: inline-block;
+	width: 100%;
+	height: inherit;
+	overflow-y: scroll;
+	padding-right: 0.5em;
+}
+
+#food-chooser-widget table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#food-chooser-widget td {
+	padding: 1em 1em;
+	cursor: pointer;
+}
+
+#food-chooser-widget tr {
+	background-color: white;
+}
+
+</style>
+<script src="scripts/jquery.scrollintoview.js"></script>
+<script>
+function Food_Chooser_Widget(d) {
+	self = this;
+	self.div = d;
+	self.drop_down_highlight_index = -1;
+	self.is_scrolling = false;
+
+	self.lifestyle_age_to_index = function(lifestyle, age) {
+		if (lifestyle == "male" || lifestyle == "female") {
+			if (age <= 0.5) return 0;
+			else if (age <= 1) return 1;
+			else if (age <= 3) return 2;
+			else if (age <= 8) return 3;
+			else if (age <= 13) return 4;
+			else if (age <= 18) return 5;
+			else if (age <= 30) return 6;
+			else if (age <= 50) return 7;
+			else if (age <= 70) return 8;
+			else return 9;
+		}
+		else {
+			if (age <= 13) return -1;
+			else if (age <= 18) return 0;
+			else if (age <= 30) return 1;
+			else if (age <= 50) return 2;
+			else return -1;
+		}
+		return -1;
+	}
+
+	self.compute_healthiness = function(food_data) {
+		var rtn = 0;
+		var denominator = 0;
+		var units = day_nutrient_summary_widget.units;
+		for (key in units) {
+			var response = day_nutrient_summary_widget.get_data(key);
+			if (response[response.length-1] == "%") {
+				if (key in food_data["nutrients"]) {
+					response = parseInt(response.substr(0, response.length-1));
+					var cur_per = Math.min(response / 100, 1);
+					var cur_score = 2 * cur_per - cur_per * cur_per
+					var next_per = Math.min(cur_per + food_data["nutrients"][key] / day_nutrient_summary_widget.dris[key], 1);
+					var next_score = 2 * next_per - next_per * next_per;
+					denominator += 1 - cur_score;
+					rtn += next_score - cur_score;
+				}
+			}
+		}
+		rtn /= denominator;
+		rtn -= food_data["nutrients"]["Energy"] / day_nutrient_summary_widget.dris["calorie_goal"];
+		return Math.round(100 * rtn);
+	}
+
+	self.display = function (data) {
+		var html = "<img src=\"images/close.svg\" style=\"position: fixed; right: 0; top: 0; width: 2em; cursor: pointer;\" onclick=\"food_chooser_widget.hide(null)\"><div><table>";
+		if (data.length == 0) {
+			html += "<tbody><tr><td style=\"cursor: default;\">No Results Found.</td></tr>";
+		}
+		else {
+			html += "<thead><tr><td><b>Food</b></td><td><b>Health</b></td></tr></thead><tbody>";
+			var lifestyle = day_nutrient_summary_widget.dris.lifestyle;
+			var age = (day_nutrient_summary_widget.dris["min-age"] + day_nutrient_summary_widget.dris["max-age"]) / 2;
+			var age_index = self.lifestyle_age_to_index(lifestyle, age);
+			for(var i = 0; i < Math.min(data.length, 200); ++i)
+			html += "<tr onmouseover=\"food_chooser_widget.highlight_quick_result(" + i + ");\" onmouseout=\"food_chooser_widget.unhighlight_quick_result(" + i + ");\"><td onclick=\"api.get_food(" + data[i]["index"] + ", food_chooser_widget.hide)\">" + data[i]["info"]["short_name"] + "</td><td>" + self.compute_healthiness(data[i]["info"]) + "</td></tr>";
+			html += "</tbody></table></div>";
+		}
+		self.div.find("div").html(html);
+		self.div.css("display", "block");
+		window.onkeydown = function (event) {
+			if (event.keyCode == 27) {
+				self.hide();
+				return false;
+			}
+			else if (event.keyCode == 38 || event.keyCode == 40) {
+				// up or down
+				var len = self.div.find("tbody").find("tr").length;
+				$(self.div.find("tbody").find("tr")[self.drop_down_highlight_index]).css("background-color", "white");
+				if (event.keyCode == 38) {
+					--self.drop_down_highlight_index;
+					if (self.drop_down_highlight_index < -1) {
+						self.drop_down_highlight_index = len - 1;
+					}
+				}
+				else if (event.keyCode == 40) {
+					++self.drop_down_highlight_index;
+					if (self.drop_down_highlight_index >= len) {
+						self.drop_down_highlight_index = -1;
+					}
+				}
+				var new_row = self.div.find("tbody").find("tr")[self.drop_down_highlight_index];
+				$(new_row).css("background-color", "#EEE");
+				var inner_div = self.div.find(">div>div");
+				self.is_scrolling = true;
+				$(new_row).scrollintoview({
+					duration: 0,
+				});
+				return false;
+			}
+			else if (event.keyCode == 13) {
+				// return
+				if (self.drop_down_highlight_index > -1) {
+					api.get_food(data[self.drop_down_highlight_index]["index"], self.hide);
+				}
+				return false;
+			}
+		}
+	}
+
+	self.div.mousemove(function() {
+		self.is_scrolling = false;
+	})
+
+	self.highlight_quick_result = function(index) {
+		if (self.is_scrolling)
+			return;
+		$(self.div.find("tbody").find("tr")[self.drop_down_highlight_index]).css("background-color", "white");
+		self.drop_down_highlight_index = index;
+		$(self.div.find("tbody").find("tr")[self.drop_down_highlight_index]).css("background-color", "#EEE");
+	}
+
+	self.unhighlight_quick_result = function(index) {
+		if (self.is_scrolling)
+			return;
+		$(self.div.find("tbody").find("tr")[self.drop_down_highlight_index]).css("background-color", "white");
+		self.drop_down_highlight_index = -1;
+	}
+
+	self.hide = function(data) {
+		window.onkeyup = null;
+		self.div.css("display", "none");
+		if (data != null)
+			food_adder_widget.display(data);
+		else
+			food_search_widget.focus();
+	}
+}
+
+var food_chooser_widget = new Food_Chooser_Widget($("#food-chooser-widget"));
+
+</script>

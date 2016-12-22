@@ -1,0 +1,1 @@
+{"index": 5071, "name": "GARDENBURGER Sun-Dried Tomato Basil Burger, frozen, unprepared", "healthiness": {"lactating": [-10, -9, -10], "male": [-18, -24, -21, -15, -12, -9, -8, -9, -10], "female": [-18, -24, -21, -17, -14, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

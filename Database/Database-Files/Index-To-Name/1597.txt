@@ -1,0 +1,1 @@
+{"index": 1597, "name": "Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium", "healthiness": {"lactating": [8, 10, 8], "male": [16, 11, 13, 13, 12, 12, 12, 12, 10], "female": [16, 11, 13, 11, 10, 10, 11, 10, 8], "pregnant": [9, 11, 9]}}

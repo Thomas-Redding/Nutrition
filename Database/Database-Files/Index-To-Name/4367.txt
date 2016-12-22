@@ -1,0 +1,1 @@
+{"index": 4367, "name": "Beverages, tea, instant, unsweetened, prepared with water", "healthiness": {"lactating": [11, 13, 11], "male": [11, 8, 6, 11, 12, 13, 15, 15, 13], "female": [11, 8, 6, 9, 9, 10, 13, 11, 9], "pregnant": [10, 12, 11]}}

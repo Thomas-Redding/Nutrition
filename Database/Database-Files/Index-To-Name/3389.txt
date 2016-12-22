@@ -1,0 +1,1 @@
+{"index": 3389, "name": "Corn, sweet, yellow, canned, cream style, no salt added", "healthiness": {"lactating": [4, 5, 3], "male": [35, 25, 23, 21, 10, 5, 4, 3, 2], "female": [36, 26, 23, 18, 8, 3, 4, 2, 0], "pregnant": [4, 5, 3]}}

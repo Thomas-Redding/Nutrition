@@ -1,0 +1,1 @@
+{"index": 2572, "name": "Pork, fresh, variety meats and by-products, chitterlings, raw", "healthiness": {"lactating": [-8, -7, -8], "male": [-1, -12, -14, -10, -8, -6, -5, -6, -7], "female": [-1, -12, -14, -12, -11, -10, -8, -9, -11], "pregnant": [-8, -7, -8]}}

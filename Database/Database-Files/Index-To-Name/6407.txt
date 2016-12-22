@@ -1,0 +1,1 @@
+{"index": 6407, "name": "Snacks, pretzels, hard, plain, made with enriched flour, unsalted", "healthiness": {"lactating": [3, 4, 2], "male": [30, 20, 16, 15, 8, 4, 4, 3, 2], "female": [31, 20, 17, 13, 7, 3, 3, 1, -1], "pregnant": [3, 4, 2]}}

@@ -1,0 +1,1 @@
+{"index": 3459, "name": "Pumpkin, cooked, boiled, drained, with salt", "healthiness": {"lactating": [36, 36, 34], "male": [56, 55, 55, 56, 46, 38, 37, 36, 34], "female": [56, 55, 56, 54, 45, 37, 39, 36, 35], "pregnant": [35, 37, 34]}}

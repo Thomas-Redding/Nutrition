@@ -1,0 +1,1 @@
+{"index": 1715, "name": "Sausage, pork and beef, with cheddar cheese, smoked", "healthiness": {"lactating": [14, 14, 12], "male": [35, 21, 17, 20, 21, 15, 12, 10, 10], "female": [35, 21, 17, 18, 18, 13, 14, 11, 7], "pregnant": [14, 14, 12]}}

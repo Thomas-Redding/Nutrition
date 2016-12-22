@@ -1,0 +1,1 @@
+{"index": 4793, "name": "Carob flour", "healthiness": {"lactating": [11, 12, 10], "male": [36, 28, 29, 28, 18, 13, 13, 12, 10], "female": [36, 29, 30, 25, 16, 11, 12, 10, 8], "pregnant": [11, 12, 10]}}

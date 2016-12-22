@@ -1,0 +1,1 @@
+{"index": 5895, "name": "Crackers, whole-wheat, low salt", "healthiness": {"lactating": [3, 4, 2], "male": [32, 22, 17, 15, 7, 4, 4, 3, 2], "female": [33, 23, 18, 13, 6, 3, 4, 2, 0], "pregnant": [3, 4, 3]}}

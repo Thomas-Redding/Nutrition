@@ -1,0 +1,1 @@
+{"index": 3352, "name": "Beets, canned, no salt added, solids and liquids", "healthiness": {"lactating": [15, 15, 13], "male": [41, 34, 34, 32, 22, 16, 16, 15, 14], "female": [42, 35, 35, 30, 21, 14, 15, 13, 12], "pregnant": [14, 15, 13]}}

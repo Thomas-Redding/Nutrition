@@ -1,0 +1,1 @@
+{"index": 5872, "name": "Crackers, matzo, egg and onion", "healthiness": {"lactating": [4, 4, 2], "male": [30, 20, 16, 15, 9, 5, 4, 3, 2], "female": [30, 21, 16, 13, 7, 2, 3, 1, -1], "pregnant": [3, 4, 2]}}

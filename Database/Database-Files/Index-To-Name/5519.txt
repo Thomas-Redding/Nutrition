@@ -1,0 +1,1 @@
+{"index": 5519, "name": "Lamb, New Zealand, imported, tunnel-boned leg, chump off, shank off, separable lean and fat, raw", "healthiness": {"lactating": [34, 35, 34], "male": [43, 36, 35, 37, 36, 36, 38, 37, 36], "female": [43, 36, 35, 35, 33, 33, 36, 34, 33], "pregnant": [32, 35, 34]}}

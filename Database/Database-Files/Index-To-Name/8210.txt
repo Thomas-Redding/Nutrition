@@ -1,0 +1,1 @@
+{"index": 8210, "name": "PACE, Jalapenos Nacho Sliced Peppers", "healthiness": {"lactating": [-14, -13, -14], "male": [-23, -23, -30, -23, -18, -13, -13, -13, -14], "female": [-23, -23, -30, -25, -20, -17, -15, -17, -19], "pregnant": [-14, -13, -14]}}

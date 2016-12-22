@@ -1,0 +1,1 @@
+{"index": 7682, "name": "Beef, variety meats and by-products, tripe, cooked, simmered", "healthiness": {"lactating": [-3, -2, -3], "male": [4, -4, -9, -4, -3, -1, 0, 0, -2], "female": [4, -4, -9, -6, -5, -4, -2, -3, -5], "pregnant": [-3, -1, -3]}}

@@ -1,0 +1,1 @@
+{"index": 5992, "name": "Pie, Dutch Apple, Commercially Prepared", "healthiness": {"lactating": [-8, -7, -8], "male": [5, -5, -8, -7, -8, -6, -6, -7, -8], "female": [6, -4, -7, -9, -10, -9, -8, -10, -12], "pregnant": [-7, -7, -8]}}

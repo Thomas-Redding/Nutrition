@@ -1,0 +1,1 @@
+{"index": 5217, "name": "Veal, shoulder, whole (arm and blade), separable lean only, raw", "healthiness": {"lactating": [39, 40, 39], "male": [46, 39, 38, 42, 42, 42, 44, 44, 42], "female": [46, 39, 38, 40, 39, 39, 42, 40, 38], "pregnant": [38, 41, 40]}}

@@ -1,0 +1,1 @@
+{"index": 7095, "name": "KASHI, Chicken Pasta Pomodoro, Frozen Entree", "healthiness": {"lactating": [-7, -5, -7], "male": [-9, -14, -10, -8, -9, -6, -5, -5, -6], "female": [-9, -14, -10, -10, -11, -9, -7, -8, -10], "pregnant": [-8, -6, -7]}}

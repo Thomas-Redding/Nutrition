@@ -1,0 +1,1 @@
+{"index": 2986, "name": "Kanpyo, (dried gourd strips)", "healthiness": {"lactating": [3, 4, 3], "male": [8, 5, 5, 8, 5, 5, 7, 6, 5], "female": [8, 5, 5, 6, 4, 3, 5, 3, 3], "pregnant": [1, 4, 3]}}

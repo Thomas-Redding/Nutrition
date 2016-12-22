@@ -1,0 +1,1 @@
+{"index": 1559, "name": "Sauce, cheese sauce mix, dry", "healthiness": {"lactating": [-9, -8, -9], "male": [5, -10, -15, -12, -11, -8, -6, -7, -8], "female": [5, -10, -15, -14, -13, -11, -8, -10, -12], "pregnant": [-9, -7, -9]}}

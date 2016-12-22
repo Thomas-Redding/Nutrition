@@ -1,0 +1,1 @@
+{"index": 5297, "name": "Lamb, variety meats and by-products, liver, raw", "healthiness": {"lactating": [57, 58, 57], "male": [49, 46, 46, 51, 54, 57, 59, 58, 57], "female": [49, 46, 46, 49, 51, 54, 57, 55, 53], "pregnant": [54, 57, 56]}}

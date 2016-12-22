@@ -1,0 +1,1 @@
+{"index": 8488, "name": "Restaurant, family style, chili with meat and beans", "healthiness": {"lactating": [30, 29, 27], "male": [51, 41, 37, 37, 34, 31, 29, 28, 27], "female": [51, 41, 37, 35, 32, 31, 31, 28, 26], "pregnant": [30, 30, 28]}}

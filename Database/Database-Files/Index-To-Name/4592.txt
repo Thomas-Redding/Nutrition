@@ -1,0 +1,1 @@
+{"index": 4592, "name": "Fish, swordfish, cooked, dry heat", "healthiness": {"lactating": [38, 39, 38], "male": [45, 35, 33, 37, 38, 40, 42, 41, 39], "female": [45, 35, 33, 35, 35, 37, 40, 38, 36], "pregnant": [37, 40, 38]}}

@@ -1,0 +1,1 @@
+{"index": 3288, "name": "Squash, summer, all varieties, raw", "healthiness": {"lactating": [49, 49, 47], "male": [53, 50, 54, 57, 56, 48, 47, 45, 45], "female": [53, 50, 54, 55, 54, 48, 50, 47, 46], "pregnant": [47, 49, 46]}}

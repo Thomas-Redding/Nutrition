@@ -1,0 +1,1 @@
+{"index": 6085, "name": "Snacks, potato chips, made from dried potatoes, sour-cream and onion-flavor", "healthiness": {"lactating": [-5, -4, -6], "male": [17, 4, 2, 2, -3, -4, -4, -5, -6], "female": [18, 5, 3, -1, -6, -6, -5, -7, -9], "pregnant": [-5, -4, -5]}}

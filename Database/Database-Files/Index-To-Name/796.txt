@@ -1,0 +1,1 @@
+{"index": 796, "name": "Margarine, 80% fat, tub, CANOLA HARVEST Soft Spread (canola, palm and palm kernel oils)", "healthiness": {"lactating": [-12, -11, -12], "male": [-30, -30, -30, -23, -14, -10, -10, -10, -12], "female": [-30, -30, -30, -25, -16, -14, -12, -14, -16], "pregnant": [-12, -10, -12]}}

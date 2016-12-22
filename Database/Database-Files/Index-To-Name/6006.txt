@@ -1,0 +1,1 @@
+{"index": 6006, "name": "Pan Dulce, LA RICURA, Salpora de Arroz con Azucar, cookie-like, contains wheat flour and rice flour", "healthiness": {"lactating": [-10, -9, -10], "male": [-8, -17, -20, -16, -13, -9, -8, -8, -10], "female": [-8, -17, -20, -18, -15, -12, -10, -12, -14], "pregnant": [-11, -9, -10]}}

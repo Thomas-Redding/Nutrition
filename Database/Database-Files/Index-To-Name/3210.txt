@@ -1,0 +1,1 @@
+{"index": 3210, "name": "Sweet potato, canned, mashed", "healthiness": {"lactating": [15, 15, 14], "male": [46, 38, 35, 33, 23, 17, 17, 16, 14], "female": [46, 38, 36, 30, 21, 15, 16, 14, 12], "pregnant": [15, 16, 14]}}

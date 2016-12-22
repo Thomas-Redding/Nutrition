@@ -1,0 +1,1 @@
+{"index": 1997, "name": "Cereals ready-to-eat, KELLOGG'S, FROSTED MINI-WHEATS Bite Size Strawberry Delight", "healthiness": {"lactating": [2, 3, 2], "male": [4, 3, 2, 5, 3, 4, 6, 5, 4], "female": [4, 3, 2, 3, 1, 2, 5, 3, 1], "pregnant": [2, 4, 3]}}

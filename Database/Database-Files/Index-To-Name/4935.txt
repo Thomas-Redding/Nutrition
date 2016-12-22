@@ -1,0 +1,1 @@
+{"index": 4935, "name": "SILK Vanilla soy yogurt (family size)", "healthiness": {"lactating": [-8, -7, -8], "male": [-19, -22, -21, -16, -12, -7, -6, -7, -10], "female": [-19, -22, -21, -18, -14, -11, -9, -11, -14], "pregnant": [-9, -7, -8]}}

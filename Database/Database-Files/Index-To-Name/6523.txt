@@ -1,0 +1,1 @@
+{"index": 6523, "name": "Rice bran, crude", "healthiness": {"lactating": [39, 39, 37], "male": [48, 45, 45, 49, 47, 40, 37, 36, 36], "female": [48, 45, 45, 47, 45, 40, 40, 37, 34], "pregnant": [39, 39, 37]}}

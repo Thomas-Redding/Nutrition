@@ -1,0 +1,1 @@
+{"index": 2488, "name": "Pork, fresh, leg (ham), whole, separable lean only, raw", "healthiness": {"lactating": [35, 37, 35], "male": [45, 37, 36, 40, 38, 38, 40, 39, 37], "female": [45, 37, 36, 38, 36, 36, 38, 36, 34], "pregnant": [34, 37, 35]}}

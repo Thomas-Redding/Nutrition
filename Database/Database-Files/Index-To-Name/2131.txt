@@ -1,0 +1,1 @@
+{"index": 2131, "name": "Apples, dried, sulfured, stewed, with added sugar", "healthiness": {"lactating": [-10, -9, -11], "male": [-7, -18, -19, -14, -12, -9, -9, -9, -10], "female": [-7, -18, -18, -16, -14, -12, -11, -12, -14], "pregnant": [-10, -9, -11]}}

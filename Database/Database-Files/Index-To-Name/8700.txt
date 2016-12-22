@@ -1,0 +1,1 @@
+{"index": 8700, "name": "Potatoes, canned, drained solids, no salt added", "healthiness": {"lactating": [-2, -1, -2], "male": [9, 3, 1, 1, 0, 0, 2, 1, 0], "female": [9, 3, 1, -1, -2, -2, -1, -2, -3], "pregnant": [-3, -1, -3]}}

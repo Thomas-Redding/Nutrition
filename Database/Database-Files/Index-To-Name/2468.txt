@@ -1,0 +1,1 @@
+{"index": 2468, "name": "Guava nectar, with sucralose, canned", "healthiness": {"lactating": [-6, -5, -6], "male": [-4, -12, -16, -12, -8, -5, -4, -4, -6], "female": [-4, -12, -16, -14, -10, -8, -7, -8, -9], "pregnant": [-7, -5, -7]}}

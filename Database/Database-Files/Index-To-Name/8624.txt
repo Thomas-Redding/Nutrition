@@ -1,0 +1,1 @@
+{"index": 8624, "name": "Babyfood, cereal, brown rice, dry, instant", "healthiness": {"lactating": [-2, -1, -2], "male": [-2, -5, -8, -3, -2, 0, 1, 0, -2], "female": [-2, -5, -8, -5, -4, -3, -1, -3, -5], "pregnant": [-3, -1, -2]}}

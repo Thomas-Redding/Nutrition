@@ -1,0 +1,1 @@
+{"index": 1943, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S, RAISIN BRAN CRUNCH", "healthiness": {"lactating": [3, 5, 3], "male": [11, 7, 7, 8, 6, 6, 8, 7, 5], "female": [11, 7, 7, 6, 4, 3, 5, 3, 2], "pregnant": [2, 4, 3]}}

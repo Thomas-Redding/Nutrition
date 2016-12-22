@@ -1,0 +1,1 @@
+{"index": 2198, "name": "Dates, deglet noor", "healthiness": {"lactating": [-7, -6, -8], "male": [9, -3, -9, -8, -8, -6, -6, -6, -7], "female": [9, -3, -9, -10, -10, -9, -7, -9, -11], "pregnant": [-7, -6, -8]}}

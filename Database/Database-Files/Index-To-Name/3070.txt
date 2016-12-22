@@ -1,0 +1,1 @@
+{"index": 3070, "name": "Peppers, sweet, green, canned, solids and liquids", "healthiness": {"lactating": [34, 34, 32], "male": [44, 44, 47, 49, 40, 33, 32, 30, 30], "female": [44, 44, 47, 47, 39, 32, 34, 31, 29], "pregnant": [31, 33, 31]}}

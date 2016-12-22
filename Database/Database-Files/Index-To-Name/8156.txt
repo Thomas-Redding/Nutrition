@@ -1,0 +1,1 @@
+{"index": 8156, "name": "CRUNCHMASTER, Multi-Grain Crisps, Snack Crackers, Gluten-Free", "healthiness": {"lactating": [-4, -3, -4], "male": [7, -1, -5, -3, -4, -2, -1, -2, -3], "female": [7, -1, -5, -5, -6, -5, -3, -4, -6], "pregnant": [-4, -2, -3]}}

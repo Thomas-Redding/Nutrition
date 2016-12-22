@@ -1,0 +1,1 @@
+{"index": 154, "name": "Sour cream, reduced fat", "healthiness": {"lactating": [-9, -8, -9], "male": [-2, -10, -15, -12, -10, -8, -7, -7, -9], "female": [-2, -10, -15, -14, -13, -11, -8, -10, -13], "pregnant": [-9, -7, -8]}}

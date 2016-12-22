@@ -1,0 +1,1 @@
+{"index": 8106, "name": "Waffles, whole wheat, lowfat, frozen, ready-to-heat", "healthiness": {"lactating": [6, 7, 6], "male": [19, 16, 12, 13, 10, 9, 11, 10, 9], "female": [19, 16, 12, 11, 8, 6, 8, 7, 6], "pregnant": [5, 7, 6]}}

@@ -1,0 +1,1 @@
+{"index": 7703, "name": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Double Chocolate Nut Bar", "healthiness": {"lactating": [26, 27, 26], "male": [11, 11, 13, 19, 22, 25, 27, 26, 25], "female": [11, 11, 13, 17, 20, 22, 25, 23, 22], "pregnant": [23, 26, 24]}}

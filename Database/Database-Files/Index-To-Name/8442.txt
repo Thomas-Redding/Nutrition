@@ -1,0 +1,1 @@
+{"index": 8442, "name": "Wocas, dried seeds, Oregon, yellow pond lily (Klamath)", "healthiness": {"lactating": [0, 1, 0], "male": [4, -1, -2, 0, 0, 1, 2, 2, 0], "female": [4, -1, -2, -2, -2, 0, 2, 0, -2], "pregnant": [-1, 1, 0]}}

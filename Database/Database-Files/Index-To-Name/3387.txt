@@ -1,0 +1,1 @@
+{"index": 3387, "name": "Corn, sweet, yellow, cooked, boiled, drained, with salt", "healthiness": {"lactating": [11, 11, 9], "male": [39, 32, 29, 28, 19, 12, 10, 9, 8], "female": [39, 32, 29, 26, 17, 11, 11, 9, 6], "pregnant": [11, 11, 9]}}

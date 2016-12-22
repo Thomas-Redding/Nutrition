@@ -1,0 +1,1 @@
+{"index": 2992, "name": "Mushrooms, portabella, grilled", "healthiness": {"lactating": [48, 49, 47], "male": [43, 41, 44, 49, 51, 49, 49, 48, 45], "female": [43, 41, 44, 47, 50, 48, 49, 47, 44], "pregnant": [47, 48, 47]}}

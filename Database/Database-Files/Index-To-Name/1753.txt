@@ -1,0 +1,1 @@
+{"index": 1753, "name": "Turkey sausage, fresh, cooked", "healthiness": {"lactating": [28, 30, 28], "male": [45, 36, 29, 32, 30, 31, 31, 30, 29], "female": [45, 36, 29, 30, 28, 28, 30, 29, 27], "pregnant": [28, 30, 28]}}

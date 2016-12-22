@@ -1,0 +1,1 @@
+{"index": 819, "name": "Oil, flaxseed, contains added sliced flaxseed", "healthiness": {"lactating": [-14, -13, -14], "male": [-21, -27, -29, -22, -17, -13, -12, -13, -14], "female": [-21, -27, -29, -24, -19, -16, -15, -16, -18], "pregnant": [-14, -13, -14]}}

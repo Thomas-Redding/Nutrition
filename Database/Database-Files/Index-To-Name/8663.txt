@@ -1,0 +1,1 @@
+{"index": 8663, "name": "Frankfurter, meatless", "healthiness": {"lactating": [2, 3, 2], "male": [9, 0, -2, 1, 2, 4, 6, 5, 4], "female": [9, 0, -2, -1, -1, 1, 4, 2, 1], "pregnant": [2, 4, 3]}}

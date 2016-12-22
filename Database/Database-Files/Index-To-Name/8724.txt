@@ -1,0 +1,1 @@
+{"index": 8724, "name": "Turkey, light or dark meat, smoked, cooked, with skin, bone removed", "healthiness": {"lactating": [-3, -2, -3], "male": [6, 0, -4, 0, -2, -1, 1, 0, -2], "female": [6, 0, -4, -2, -4, -4, -1, -3, -5], "pregnant": [-4, -2, -3]}}

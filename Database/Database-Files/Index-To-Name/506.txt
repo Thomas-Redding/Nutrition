@@ -1,0 +1,1 @@
+{"index": 506, "name": "Babyfood, dinner, potatoes with cheese and ham, toddler", "healthiness": {"lactating": [17, 16, 14], "male": [50, 40, 32, 31, 24, 17, 15, 14, 12], "female": [50, 40, 32, 29, 22, 16, 17, 14, 11], "pregnant": [16, 17, 14]}}

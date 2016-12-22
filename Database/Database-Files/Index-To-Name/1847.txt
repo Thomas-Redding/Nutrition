@@ -1,0 +1,1 @@
+{"index": 1847, "name": "Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt", "healthiness": {"lactating": [17, 17, 15], "male": [35, 30, 28, 30, 23, 17, 16, 14, 14], "female": [35, 30, 28, 28, 21, 15, 17, 14, 12], "pregnant": [16, 17, 15]}}

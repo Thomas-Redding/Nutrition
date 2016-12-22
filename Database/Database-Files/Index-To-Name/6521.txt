@@ -1,0 +1,1 @@
+{"index": 6521, "name": "Rice, white, glutinous, unenriched, cooked", "healthiness": {"lactating": [0, 0, -1], "male": [24, 14, 11, 11, 4, 1, 0, -1, -2], "female": [24, 14, 12, 8, 2, -1, 0, -2, -5], "pregnant": [0, 1, -1]}}

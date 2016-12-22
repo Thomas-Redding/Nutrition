@@ -1,0 +1,1 @@
+{"index": 260, "name": "Spices, cloves, ground", "healthiness": {"lactating": [21, 22, 20], "male": [42, 37, 38, 37, 27, 22, 22, 21, 20], "female": [43, 37, 39, 34, 25, 20, 22, 19, 17], "pregnant": [19, 21, 19]}}

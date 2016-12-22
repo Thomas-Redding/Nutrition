@@ -1,0 +1,1 @@
+{"index": 6201, "name": "Gelatin desserts, dry mix, prepared with water", "healthiness": {"lactating": [-9, -8, -10], "male": [-2, -10, -12, -9, -10, -8, -8, -9, -10], "female": [-1, -9, -11, -12, -12, -12, -10, -12, -14], "pregnant": [-9, -8, -10]}}

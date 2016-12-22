@@ -1,0 +1,1 @@
+{"index": 703, "name": "Shortening industrial, lard and vegetable oil", "healthiness": {"lactating": [-14, -13, -14], "male": [-30, -30, -30, -23, -18, -13, -12, -13, -14], "female": [-30, -30, -30, -25, -20, -17, -15, -17, -19], "pregnant": [-14, -13, -14]}}

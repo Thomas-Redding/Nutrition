@@ -1,0 +1,1 @@
+{"index": 6220, "name": "Puddings, tapioca, dry mix, prepared with whole milk", "healthiness": {"lactating": [7, 7, 5], "male": [35, 23, 18, 20, 12, 7, 6, 5, 3], "female": [35, 23, 18, 18, 10, 5, 7, 4, 0], "pregnant": [7, 8, 6]}}

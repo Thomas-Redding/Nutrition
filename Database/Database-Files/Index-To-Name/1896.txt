@@ -1,0 +1,1 @@
+{"index": 1896, "name": "Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry", "healthiness": {"lactating": [4, 5, 4], "male": [14, 10, 6, 7, 7, 6, 8, 7, 6], "female": [14, 10, 6, 5, 5, 4, 6, 4, 4], "pregnant": [2, 4, 3]}}

@@ -1,0 +1,1 @@
+{"index": 5780, "name": "Muffins, blueberry, prepared from recipe, made with low fat (2%) milk", "healthiness": {"lactating": [2, 3, 1], "male": [33, 20, 15, 13, 7, 3, 2, 1, 0], "female": [33, 20, 15, 11, 5, 0, 2, -1, -3], "pregnant": [2, 3, 1]}}

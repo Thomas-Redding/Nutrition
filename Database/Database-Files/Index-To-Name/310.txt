@@ -1,0 +1,1 @@
+{"index": 310, "name": "PACE, Dry Taco Seasoning Mix", "healthiness": {"lactating": [-5, -3, -5], "male": [-23, -23, -30, -23, -7, -3, -3, -3, -4], "female": [-23, -23, -30, -25, -20, -7, -6, -7, -8], "pregnant": [-6, -5, -6]}}

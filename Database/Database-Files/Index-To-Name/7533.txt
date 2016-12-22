@@ -1,0 +1,1 @@
+{"index": 7533, "name": "Beef, New Zealand, imported, cube roll, separable lean and fat, raw", "healthiness": {"lactating": [23, 24, 22], "male": [34, 24, 20, 24, 25, 25, 23, 22, 21], "female": [34, 24, 20, 22, 22, 22, 24, 21, 19], "pregnant": [22, 24, 22]}}

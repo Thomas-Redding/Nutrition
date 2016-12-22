@@ -1,0 +1,1 @@
+{"index": 6298, "name": "Pie fillings, apple, canned", "healthiness": {"lactating": [-12, -11, -12], "male": [-11, -21, -24, -18, -14, -11, -10, -11, -12], "female": [-11, -21, -24, -20, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

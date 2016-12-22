@@ -1,0 +1,1 @@
+{"index": 777, "name": "Oil, industrial, palm kernel (hydrogenated) , used for whipped toppings, non-dairy", "healthiness": {"lactating": [-14, -12, -14], "male": [-24, -25, -28, -22, -17, -12, -12, -12, -14], "female": [-24, -25, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

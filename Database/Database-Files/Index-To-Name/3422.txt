@@ -1,0 +1,1 @@
+{"index": 3422, "name": "Onions, frozen, chopped, cooked, boiled, drained, with salt", "healthiness": {"lactating": [8, 9, 7], "male": [38, 30, 26, 24, 15, 9, 9, 8, 7], "female": [39, 31, 27, 21, 14, 8, 9, 7, 5], "pregnant": [8, 9, 7]}}

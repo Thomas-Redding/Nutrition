@@ -1,0 +1,1 @@
+{"index": 7101, "name": "KASHI, STEAM MEAL, Roasted Garlic Chicken Farfalle, Frozen Entree", "healthiness": {"lactating": [-12, -10, -12], "male": [-17, -25, -24, -19, -15, -11, -10, -10, -11], "female": [-17, -25, -24, -21, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

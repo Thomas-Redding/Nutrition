@@ -1,0 +1,1 @@
+{"index": 979, "name": "Quail, meat and skin, raw", "healthiness": {"lactating": [33, 34, 33], "male": [45, 38, 39, 39, 37, 36, 38, 37, 35], "female": [45, 38, 39, 37, 35, 33, 36, 34, 33], "pregnant": [32, 34, 33]}}

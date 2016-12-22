@@ -1,0 +1,1 @@
+{"index": 8367, "name": "Cornmeal, yellow (Navajo)", "healthiness": {"lactating": [4, 5, 3], "male": [30, 22, 18, 17, 9, 5, 4, 3, 2], "female": [30, 22, 19, 15, 8, 3, 4, 2, -1], "pregnant": [4, 5, 3]}}

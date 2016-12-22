@@ -1,0 +1,1 @@
+{"index": 1408, "name": "Soup, tomato bisque, canned, prepared with equal volume milk", "healthiness": {"lactating": [10, 10, 7], "male": [42, 31, 25, 25, 16, 10, 9, 7, 6], "female": [42, 31, 25, 23, 14, 9, 10, 7, 4], "pregnant": [9, 10, 8]}}

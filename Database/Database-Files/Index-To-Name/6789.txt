@@ -1,0 +1,1 @@
+{"index": 6789, "name": "TACO BELL, Bean Burrito", "healthiness": {"lactating": [12, 12, 9], "male": [44, 33, 24, 24, 18, 11, 10, 9, 8], "female": [44, 33, 24, 22, 16, 10, 11, 8, 6], "pregnant": [11, 11, 9]}}

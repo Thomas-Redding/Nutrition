@@ -1,0 +1,1 @@
+{"index": 5070, "name": "GARDENBURGER Savory Portabella Veggie Burger, frozen, unprepared", "healthiness": {"lactating": [-8, -7, -8], "male": [-8, -17, -18, -14, -11, -8, -7, -7, -8], "female": [-8, -17, -18, -16, -13, -11, -8, -10, -11], "pregnant": [-9, -7, -9]}}

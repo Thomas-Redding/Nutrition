@@ -1,0 +1,1 @@
+{"index": 1317, "name": "Split pea soup, canned, reduced sodium, prepared with water or ready-to serve", "healthiness": {"lactating": [-1, 1, -1], "male": [10, 2, -1, 0, 0, 1, 3, 2, 1], "female": [10, 2, -1, -2, -2, -1, 1, -1, -2], "pregnant": [-1, 1, 0]}}

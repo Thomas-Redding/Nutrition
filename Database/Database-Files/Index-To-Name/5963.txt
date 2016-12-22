@@ -1,0 +1,1 @@
+{"index": 5963, "name": "NABISCO, NABISCO GRAHAMS Crackers", "healthiness": {"lactating": [-10, -9, -10], "male": [-7, -17, -19, -15, -12, -9, -8, -8, -10], "female": [-7, -17, -19, -17, -15, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

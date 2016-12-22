@@ -1,0 +1,1 @@
+{"index": 1123, "name": "Ground turkey, 85% lean, 15% fat, raw", "healthiness": {"lactating": [31, 32, 30], "male": [46, 36, 33, 36, 35, 34, 34, 33, 31], "female": [46, 36, 33, 34, 32, 32, 34, 32, 29], "pregnant": [31, 33, 31]}}

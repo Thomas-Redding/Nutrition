@@ -1,0 +1,1 @@
+{"index": 5279, "name": "Game meat, rabbit, wild, cooked, stewed", "healthiness": {"lactating": [33, 34, 33], "male": [39, 37, 33, 36, 34, 34, 37, 36, 34], "female": [39, 37, 33, 34, 32, 31, 33, 32, 31], "pregnant": [30, 33, 31]}}

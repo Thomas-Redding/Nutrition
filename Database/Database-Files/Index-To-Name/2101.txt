@@ -1,0 +1,1 @@
+{"index": 2101, "name": "Cereals, QUAKER, Instant Oatmeal, weight control, cinnamon", "healthiness": {"lactating": [0, 1, 0], "male": [0, -3, -2, 0, 0, 0, 3, 2, 1], "female": [0, -3, -2, -1, -2, -2, 0, -1, -2], "pregnant": [-3, -1, -2]}}

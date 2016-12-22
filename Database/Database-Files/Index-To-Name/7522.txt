@@ -1,0 +1,1 @@
+{"index": 7522, "name": "Beef, New Zealand, imported, variety meats and by-products, tripe cooked, boiled", "healthiness": {"lactating": [39, 40, 39], "male": [45, 41, 40, 41, 39, 40, 42, 41, 39], "female": [45, 41, 40, 39, 36, 36, 39, 38, 37], "pregnant": [36, 39, 37]}}

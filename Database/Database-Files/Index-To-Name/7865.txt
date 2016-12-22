@@ -1,0 +1,1 @@
+{"index": 7865, "name": "KEEBLER, CHIPS DELUXE, Original Chocolate Chip Cookies", "healthiness": {"lactating": [-12, -11, -12], "male": [-16, -24, -24, -19, -15, -11, -10, -11, -12], "female": [-16, -24, -24, -21, -17, -14, -13, -14, -16], "pregnant": [-13, -11, -12]}}

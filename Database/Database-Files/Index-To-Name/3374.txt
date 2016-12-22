@@ -1,0 +1,1 @@
+{"index": 3374, "name": "Carrots, cooked, boiled, drained, with salt", "healthiness": {"lactating": [29, 29, 27], "male": [54, 49, 49, 48, 38, 31, 30, 29, 27], "female": [54, 49, 49, 46, 37, 31, 32, 29, 26], "pregnant": [29, 30, 28]}}

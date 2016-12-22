@@ -1,0 +1,1 @@
+{"index": 1402, "name": "CAMPBELL'S Red and White, DOUBLE NOODLE in Chicken Broth Soup, condensed", "healthiness": {"lactating": [-13, -12, -13], "male": [-26, -29, -28, -22, -16, -12, -11, -12, -13], "female": [-26, -29, -28, -24, -19, -16, -14, -16, -17], "pregnant": [-14, -12, -14]}}

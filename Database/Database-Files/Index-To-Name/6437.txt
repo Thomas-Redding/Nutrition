@@ -1,0 +1,1 @@
+{"index": 6437, "name": "Ice creams, BREYERS, No Sugar Added, Vanilla Chocolate Strawberry", "healthiness": {"lactating": [-13, -12, -13], "male": [-22, -26, -27, -21, -16, -12, -11, -12, -13], "female": [-22, -26, -27, -23, -19, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

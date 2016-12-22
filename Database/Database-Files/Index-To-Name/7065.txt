@@ -1,0 +1,1 @@
+{"index": 7065, "name": "SWANSON, Chicken A La King", "healthiness": {"lactating": [-14, -13, -14], "male": [-30, -30, -29, -23, -17, -13, -12, -13, -14], "female": [-30, -30, -29, -25, -20, -16, -15, -16, -18], "pregnant": [-14, -13, -14]}}

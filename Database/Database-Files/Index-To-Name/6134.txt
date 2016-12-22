@@ -1,0 +1,1 @@
+{"index": 6134, "name": "Candies, fudge, peanut butter, prepared-from-recipe", "healthiness": {"lactating": [-12, -11, -12], "male": [-11, -22, -24, -19, -15, -11, -10, -11, -12], "female": [-11, -22, -24, -20, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

@@ -1,0 +1,1 @@
+{"index": 7070, "name": "Lasagna, Vegetable, frozen, baked", "healthiness": {"lactating": [20, 20, 18], "male": [50, 39, 34, 34, 27, 21, 19, 17, 16], "female": [50, 39, 34, 32, 25, 20, 21, 18, 15], "pregnant": [20, 21, 19]}}

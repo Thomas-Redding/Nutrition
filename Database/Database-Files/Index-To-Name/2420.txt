@@ -1,0 +1,1 @@
+{"index": 2420, "name": "Pears, raw, green anjou", "healthiness": {"lactating": [-5, -4, -6], "male": [9, -4, -3, -3, -5, -4, -4, -5, -5], "female": [10, -4, -2, -5, -7, -6, -5, -7, -8], "pregnant": [-5, -4, -5]}}

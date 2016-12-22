@@ -1,0 +1,1 @@
+{"index": 8731, "name": "Beverages, cranberry-apple juice drink, low calorie, with vitamin C added", "healthiness": {"lactating": [-5, -4, -5], "male": [5, -5, -11, -8, -6, -4, -3, -4, -5], "female": [5, -5, -11, -10, -9, -7, -5, -7, -9], "pregnant": [-5, -4, -5]}}

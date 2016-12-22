@@ -1,0 +1,1 @@
+{"index": 6386, "name": "Candies, semisweet chocolate, made with butter", "healthiness": {"lactating": [-5, -4, -6], "male": [8, 0, -1, -1, -4, -4, -4, -4, -6], "female": [9, 1, 0, -3, -6, -7, -5, -7, -9], "pregnant": [-5, -4, -6]}}

@@ -1,0 +1,1 @@
+{"index": 3255, "name": "Vinespinach, (basella), raw", "healthiness": {"lactating": [54, 54, 52], "male": [49, 48, 48, 54, 55, 53, 52, 51, 50], "female": [49, 48, 48, 52, 53, 51, 54, 51, 48], "pregnant": [51, 53, 51]}}

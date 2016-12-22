@@ -1,0 +1,1 @@
+{"index": 1740, "name": "Pate, truffle flavor", "healthiness": {"lactating": [22, 21, 19], "male": [44, 33, 31, 33, 30, 22, 20, 19, 18], "female": [44, 33, 31, 31, 28, 21, 21, 18, 16], "pregnant": [21, 21, 19]}}

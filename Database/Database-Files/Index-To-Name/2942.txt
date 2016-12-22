@@ -1,0 +1,1 @@
+{"index": 2942, "name": "Corn, yellow, whole kernel, frozen, microwaved", "healthiness": {"lactating": [5, 5, 3], "male": [33, 24, 19, 20, 11, 6, 4, 3, 2], "female": [33, 24, 19, 18, 9, 4, 5, 2, 0], "pregnant": [5, 6, 4]}}

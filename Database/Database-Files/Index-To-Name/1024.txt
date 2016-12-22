@@ -1,0 +1,1 @@
+{"index": 1024, "name": "Chicken, canned, meat only, with broth", "healthiness": {"lactating": [27, 28, 27], "male": [45, 35, 29, 30, 29, 30, 31, 30, 29], "female": [45, 35, 29, 28, 27, 27, 29, 27, 25], "pregnant": [26, 28, 27]}}

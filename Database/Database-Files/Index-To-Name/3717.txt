@@ -1,0 +1,1 @@
+{"index": 3717, "name": "Seeds, sesame seed kernels, toasted, with salt added (decorticated)", "healthiness": {"lactating": [17, 17, 14], "male": [36, 30, 28, 30, 24, 16, 15, 14, 13], "female": [36, 30, 28, 28, 22, 16, 17, 14, 12], "pregnant": [15, 17, 14]}}

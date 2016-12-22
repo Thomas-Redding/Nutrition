@@ -1,0 +1,1 @@
+{"index": 789, "name": "Margarine-like spread, SMART BALANCE Light Buttery Spread", "healthiness": {"lactating": [-6, -5, -6], "male": [-19, -19, -19, -13, -8, -4, -4, -5, -6], "female": [-19, -19, -19, -15, -10, -7, -6, -8, -10], "pregnant": [-5, -4, -5]}}

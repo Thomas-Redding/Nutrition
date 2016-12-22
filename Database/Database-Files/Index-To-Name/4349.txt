@@ -1,0 +1,1 @@
+{"index": 4349, "name": "Beverages, Malted drink mix, natural, powder, prepared with whole milk", "healthiness": {"lactating": [18, 18, 16], "male": [49, 36, 30, 30, 24, 19, 17, 16, 15], "female": [49, 36, 30, 28, 22, 17, 19, 16, 13], "pregnant": [17, 19, 17]}}

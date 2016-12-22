@@ -1,0 +1,1 @@
+{"index": 1346, "name": "PREGO Pasta, Organic Tomato and Basil Italian Sauce, ready-to-serve", "healthiness": {"lactating": [-10, -9, -10], "male": [-22, -26, -21, -17, -13, -10, -9, -9, -10], "female": [-22, -26, -21, -19, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

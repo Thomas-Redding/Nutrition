@@ -1,0 +1,1 @@
+{"index": 6488, "name": "Corn flour, yellow, degermed, unenriched", "healthiness": {"lactating": [-12, -11, -12], "male": [-7, -21, -23, -18, -14, -10, -10, -10, -11], "female": [-7, -21, -23, -20, -16, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

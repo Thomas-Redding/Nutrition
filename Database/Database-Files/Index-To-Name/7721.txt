@@ -1,0 +1,1 @@
+{"index": 7721, "name": "Popcorn, microwave, regular (butter) flavor, made with palm oil", "healthiness": {"lactating": [-2, -1, -3], "male": [25, 14, 8, 7, 0, -1, -2, -3, -4], "female": [26, 15, 8, 5, -2, -4, -2, -5, -7], "pregnant": [-2, -1, -3]}}

@@ -1,0 +1,1 @@
+{"index": 3277, "name": "Drumstick pods, raw", "healthiness": {"lactating": [15, 16, 15], "male": [16, 13, 14, 18, 17, 17, 19, 18, 17], "female": [16, 13, 14, 16, 15, 16, 18, 17, 15], "pregnant": [15, 17, 16]}}

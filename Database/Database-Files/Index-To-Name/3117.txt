@@ -1,0 +1,1 @@
+{"index": 3117, "name": "Potatoes, french fried, shoestring, salt added in processing, frozen, as purchased", "healthiness": {"lactating": [-3, -2, -3], "male": [26, 15, 9, 7, 0, -1, -1, -2, -3], "female": [27, 16, 10, 4, -2, -4, -2, -4, -6], "pregnant": [-3, -2, -3]}}

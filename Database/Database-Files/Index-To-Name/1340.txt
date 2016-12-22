@@ -1,0 +1,1 @@
+{"index": 1340, "name": "PREGO Pasta, Italian Sausage and Garlic Italian Sauce, ready-to-serve", "healthiness": {"lactating": [-12, -10, -12], "male": [-25, -28, -25, -20, -15, -11, -10, -11, -12], "female": [-25, -28, -25, -22, -17, -14, -13, -14, -15], "pregnant": [-12, -11, -12]}}

@@ -1,0 +1,1 @@
+{"index": 5552, "name": "Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8\" fat, cooked, braised", "healthiness": {"lactating": [29, 31, 29], "male": [42, 33, 31, 34, 32, 32, 34, 33, 31], "female": [42, 33, 31, 32, 30, 30, 32, 30, 29], "pregnant": [29, 31, 29]}}

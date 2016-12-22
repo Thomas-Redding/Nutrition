@@ -1,0 +1,1 @@
+{"index": 2158, "name": "Bananas, raw", "healthiness": {"lactating": [0, 1, 0], "male": [24, 15, 12, 10, 5, 3, 3, 2, 0], "female": [25, 16, 13, 8, 3, 2, 3, 1, -2], "pregnant": [1, 2, 1]}}

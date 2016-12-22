@@ -1,0 +1,1 @@
+{"index": 8440, "name": "Sea lion, Steller, meat with fat (Alaska Native)", "healthiness": {"lactating": [1, 2, 1], "male": [0, -6, -8, -3, -1, 2, 3, 3, 1], "female": [0, -6, -8, -5, -3, -2, 0, -1, -2], "pregnant": [-1, 1, -1]}}

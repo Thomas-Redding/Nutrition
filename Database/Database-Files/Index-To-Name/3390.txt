@@ -1,0 +1,1 @@
+{"index": 3390, "name": "Corn, sweet, yellow, canned, vacuum pack, no salt added", "healthiness": {"lactating": [9, 9, 7], "male": [39, 30, 27, 27, 17, 10, 8, 7, 6], "female": [40, 30, 27, 25, 15, 9, 10, 7, 5], "pregnant": [9, 10, 8]}}

@@ -1,0 +1,1 @@
+{"index": 3687, "name": "Nuts, pistachio nuts, dry roasted, without salt added", "healthiness": {"lactating": [13, 12, 10], "male": [35, 28, 23, 25, 19, 13, 11, 10, 9], "female": [35, 28, 23, 23, 18, 12, 13, 10, 7], "pregnant": [12, 13, 11]}}

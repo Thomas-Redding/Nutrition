@@ -1,0 +1,1 @@
+{"index": 8414, "name": "Corned beef and potatoes in tortilla (Apache)", "healthiness": {"lactating": [-8, -6, -8], "male": [9, -3, -12, -10, -8, -6, -5, -6, -7], "female": [9, -3, -12, -12, -10, -9, -7, -9, -11], "pregnant": [-8, -7, -8]}}

@@ -1,0 +1,1 @@
+{"index": 87, "name": "Milk, canned, condensed, sweetened", "healthiness": {"lactating": [6, 6, 4], "male": [35, 22, 17, 19, 11, 6, 5, 3, 2], "female": [35, 22, 17, 17, 9, 4, 5, 2, -1], "pregnant": [5, 6, 4]}}

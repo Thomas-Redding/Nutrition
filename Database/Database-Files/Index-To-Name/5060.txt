@@ -1,0 +1,1 @@
+{"index": 5060, "name": "MORNINGSTAR FARMS Buffalo Wings, frozen, unprepared", "healthiness": {"lactating": [-5, -3, -5], "male": [-7, -12, -13, -9, -7, -4, -2, -3, -4], "female": [-7, -12, -13, -11, -9, -7, -5, -7, -8], "pregnant": [-6, -4, -6]}}

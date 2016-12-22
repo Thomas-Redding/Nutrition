@@ -1,0 +1,1 @@
+{"index": 1734, "name": "Bologna, pork and turkey, lite", "healthiness": {"lactating": [11, 11, 9], "male": [35, 22, 16, 19, 18, 12, 9, 8, 7], "female": [35, 22, 16, 17, 16, 10, 10, 8, 4], "pregnant": [11, 11, 9]}}

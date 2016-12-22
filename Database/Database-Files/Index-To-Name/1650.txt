@@ -1,0 +1,1 @@
+{"index": 1650, "name": "Knackwurst, knockwurst, pork, beef", "healthiness": {"lactating": [10, 10, 8], "male": [37, 21, 16, 19, 17, 11, 9, 7, 6], "female": [37, 21, 16, 18, 15, 9, 9, 7, 3], "pregnant": [10, 11, 8]}}

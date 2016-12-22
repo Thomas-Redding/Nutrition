@@ -1,0 +1,1 @@
+{"index": 8317, "name": "Fish, lingcod, meat, raw (Alaska Native)", "healthiness": {"lactating": [-11, -10, -11], "male": [-30, -30, -30, -23, -18, -13, -13, -13, -14], "female": [-30, -30, -30, -25, -20, -17, -15, -17, -19], "pregnant": [-11, -9, -11]}}

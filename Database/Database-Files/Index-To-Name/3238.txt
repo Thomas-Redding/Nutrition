@@ -1,0 +1,1 @@
+{"index": 3238, "name": "Turnips, raw", "healthiness": {"lactating": [18, 18, 16], "male": [46, 41, 40, 36, 25, 20, 20, 19, 17], "female": [47, 42, 41, 34, 24, 19, 21, 18, 16], "pregnant": [18, 19, 17]}}

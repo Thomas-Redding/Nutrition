@@ -1,0 +1,1 @@
+{"index": 1960, "name": "Cereals, QUAKER, Instant Grits Product with American Cheese Flavor, dry", "healthiness": {"lactating": [-5, -3, -5], "male": [-3, -9, -11, -7, -6, -3, -2, -3, -4], "female": [-3, -9, -11, -9, -9, -6, -4, -6, -8], "pregnant": [-5, -4, -5]}}

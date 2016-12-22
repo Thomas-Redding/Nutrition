@@ -1,0 +1,1 @@
+{"index": 5267, "name": "Game meat, goat, cooked, roasted", "healthiness": {"lactating": [36, 37, 36], "male": [38, 33, 30, 35, 37, 38, 41, 40, 39], "female": [38, 33, 30, 33, 35, 34, 37, 35, 35], "pregnant": [34, 37, 35]}}

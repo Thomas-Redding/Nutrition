@@ -1,0 +1,1 @@
+{"index": 1700, "name": "HORMEL Pillow Pak Sliced Turkey Pepperoni", "healthiness": {"lactating": [-10, -9, -10], "male": [-14, -18, -19, -14, -11, -8, -7, -8, -9], "female": [-14, -18, -19, -16, -14, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

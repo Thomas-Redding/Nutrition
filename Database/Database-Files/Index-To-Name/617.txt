@@ -1,0 +1,1 @@
+{"index": 617, "name": "Infant formula, MEAD JOHNSON, ENFAMIL, Premature, 20 calories ready-to-feed", "healthiness": {"lactating": [14, 15, 14], "male": [35, 26, 24, 24, 22, 19, 20, 20, 18], "female": [35, 26, 24, 22, 19, 17, 18, 17, 16], "pregnant": [15, 17, 15]}}

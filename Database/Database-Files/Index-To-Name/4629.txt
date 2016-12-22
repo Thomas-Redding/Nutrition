@@ -1,0 +1,1 @@
+{"index": 4629, "name": "Crustaceans, shrimp, mixed species, cooked, moist heat (may have been previously frozen)", "healthiness": {"lactating": [37, 39, 37], "male": [52, 44, 41, 43, 39, 39, 42, 41, 39], "female": [52, 44, 41, 41, 37, 37, 40, 38, 36], "pregnant": [37, 40, 39]}}

@@ -1,0 +1,1 @@
+{"index": 4393, "name": "Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate", "healthiness": {"lactating": [2, 4, 2], "male": [11, 2, -1, 2, 2, 4, 6, 5, 3], "female": [11, 2, -1, 0, -1, 1, 3, 2, -1], "pregnant": [2, 4, 3]}}

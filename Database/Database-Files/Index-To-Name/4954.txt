@@ -1,0 +1,1 @@
+{"index": 4954, "name": "Vitasoy USA Azumaya, Firm Tofu", "healthiness": {"lactating": [-10, -8, -10], "male": [-23, -25, -23, -18, -13, -9, -8, -8, -10], "female": [-23, -25, -23, -20, -16, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

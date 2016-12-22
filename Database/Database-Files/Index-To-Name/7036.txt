@@ -1,0 +1,1 @@
+{"index": 7036, "name": "Beef, corned beef hash, with potato, canned", "healthiness": {"lactating": [8, 8, 6], "male": [39, 26, 20, 21, 15, 9, 7, 6, 5], "female": [39, 26, 20, 19, 13, 7, 8, 5, 2], "pregnant": [8, 8, 6]}}

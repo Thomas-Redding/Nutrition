@@ -1,0 +1,1 @@
+{"index": 8430, "name": "Chokecherries, raw, pitted (Northern Plains Indians)", "healthiness": {"lactating": [-2, -1, -2], "male": [8, -1, -1, 0, -1, 1, 1, 0, -1], "female": [8, -1, -1, -2, -3, -2, -1, -2, -4], "pregnant": [-1, 0, -1]}}

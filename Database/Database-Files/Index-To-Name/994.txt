@@ -1,0 +1,1 @@
+{"index": 994, "name": "Turkey, gizzard, all classes, cooked, simmered", "healthiness": {"lactating": [38, 40, 38], "male": [45, 39, 39, 41, 41, 40, 42, 41, 40], "female": [45, 39, 39, 39, 39, 38, 40, 38, 38], "pregnant": [36, 39, 37]}}

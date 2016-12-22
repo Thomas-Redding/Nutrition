@@ -1,0 +1,1 @@
+{"index": 4558, "name": "Fish, salmon, chinook, smoked", "healthiness": {"lactating": [39, 40, 39], "male": [50, 40, 38, 42, 41, 41, 43, 43, 41], "female": [50, 40, 38, 40, 38, 39, 41, 39, 37], "pregnant": [38, 40, 39]}}

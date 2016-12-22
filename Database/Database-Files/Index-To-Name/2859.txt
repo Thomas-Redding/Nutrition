@@ -1,0 +1,1 @@
+{"index": 2859, "name": "Beans, snap, green, frozen, cooked, boiled, drained without salt", "healthiness": {"lactating": [35, 35, 33], "male": [49, 46, 49, 50, 46, 36, 34, 33, 32], "female": [49, 46, 49, 49, 44, 36, 36, 33, 31], "pregnant": [34, 35, 32]}}

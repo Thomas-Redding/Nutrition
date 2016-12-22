@@ -1,0 +1,1 @@
+{"index": 1878, "name": "Cereals, whole wheat hot natural cereal, cooked with water, with salt", "healthiness": {"lactating": [3, 4, 3], "male": [13, 8, 3, 5, 3, 4, 6, 5, 4], "female": [13, 8, 3, 3, 1, 2, 4, 2, 1], "pregnant": [2, 4, 3]}}

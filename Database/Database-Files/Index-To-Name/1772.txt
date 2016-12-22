@@ -1,0 +1,1 @@
+{"index": 1772, "name": "Pork sausage, reduced sodium, cooked", "healthiness": {"lactating": [11, 11, 8], "male": [30, 18, 14, 17, 17, 11, 8, 7, 6], "female": [30, 18, 14, 15, 15, 9, 10, 7, 3], "pregnant": [10, 11, 8]}}

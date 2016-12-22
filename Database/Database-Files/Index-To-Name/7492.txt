@@ -1,0 +1,1 @@
+{"index": 7492, "name": "Beef, New Zealand, imported, variety meats and by-products, heart, cooked, boiled", "healthiness": {"lactating": [39, 40, 39], "male": [48, 41, 39, 42, 40, 41, 43, 42, 41], "female": [48, 41, 39, 40, 37, 38, 40, 38, 37], "pregnant": [37, 40, 38]}}

@@ -1,0 +1,1 @@
+{"index": 6795, "name": "TACO BELL, Taco Salad", "healthiness": {"lactating": [14, 14, 11], "male": [47, 35, 27, 26, 21, 14, 12, 11, 10], "female": [47, 35, 27, 24, 19, 13, 13, 10, 8], "pregnant": [13, 14, 11]}}

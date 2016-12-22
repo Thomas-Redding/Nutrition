@@ -1,0 +1,1 @@
+{"index": 7038, "name": "Chili, no beans, canned entree", "healthiness": {"lactating": [21, 21, 19], "male": [45, 37, 30, 30, 27, 22, 21, 19, 18], "female": [45, 37, 30, 28, 25, 21, 21, 19, 16], "pregnant": [20, 21, 19]}}

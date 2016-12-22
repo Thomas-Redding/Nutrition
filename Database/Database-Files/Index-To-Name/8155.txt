@@ -1,0 +1,1 @@
+{"index": 8155, "name": "ANDREA'S, Gluten Free Soft Dinner Roll", "healthiness": {"lactating": [-9, -8, -9], "male": [-3, -13, -16, -13, -11, -8, -7, -7, -9], "female": [-3, -13, -16, -15, -13, -11, -9, -11, -12], "pregnant": [-9, -8, -9]}}

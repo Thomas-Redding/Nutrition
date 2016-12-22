@@ -1,0 +1,1 @@
+{"index": 7037, "name": "Lasagna, cheese, frozen, prepared", "healthiness": {"lactating": [22, 22, 19], "male": [55, 44, 38, 37, 32, 23, 21, 19, 18], "female": [55, 44, 38, 35, 31, 23, 23, 20, 17], "pregnant": [23, 23, 20]}}

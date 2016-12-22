@@ -1,0 +1,1 @@
+{"index": 7389, "name": "Beef, Australian, imported, grass-fed, round, top round cap-off steak/roast, boneless, separable lean only, raw", "healthiness": {"lactating": [18, 19, 18], "male": [4, 2, 3, 9, 14, 18, 20, 19, 18], "female": [4, 2, 3, 7, 12, 14, 16, 14, 13], "pregnant": [16, 17, 16]}}

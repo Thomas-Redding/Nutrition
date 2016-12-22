@@ -1,0 +1,1 @@
+{"index": 8715, "name": "Turkey, wing, smoked, cooked, with skin, bone removed", "healthiness": {"lactating": [-5, -3, -5], "male": [4, -2, -6, -3, -4, -3, -1, -2, -4], "female": [4, -2, -6, -5, -6, -6, -4, -5, -7], "pregnant": [-5, -3, -5]}}

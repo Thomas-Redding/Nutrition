@@ -1,0 +1,1 @@
+{"index": 4642, "name": "Mollusks, mussel, blue, cooked, moist heat", "healthiness": {"lactating": [41, 42, 41], "male": [49, 45, 45, 47, 43, 43, 45, 44, 43], "female": [49, 45, 45, 45, 40, 40, 43, 41, 40], "pregnant": [39, 42, 40]}}

@@ -1,0 +1,1 @@
+{"index": 5784, "name": "Muffins, corn, prepared from recipe, made with low fat (2%) milk", "healthiness": {"lactating": [2, 2, 0], "male": [34, 19, 14, 13, 6, 2, 2, 1, 0], "female": [34, 19, 14, 11, 4, 0, 1, -1, -4], "pregnant": [1, 2, 0]}}

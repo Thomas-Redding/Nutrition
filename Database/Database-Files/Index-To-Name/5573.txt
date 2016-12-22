@@ -1,0 +1,1 @@
+{"index": 5573, "name": "Biscuits, plain or buttermilk, refrigerated dough, higher fat", "healthiness": {"lactating": [0, 1, -1], "male": [27, 18, 11, 10, 2, 0, 1, 0, -1], "female": [28, 18, 12, 8, 0, -2, 0, -2, -4], "pregnant": [-1, 1, -1]}}

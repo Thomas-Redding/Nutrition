@@ -1,0 +1,1 @@
+{"index": 1354, "name": "CAMPBELL'S CHUNKY Microwavable Bowls, Chicken and Dumplings Soup, ready-to-serve", "healthiness": {"lactating": [-14, -12, -14], "male": [-29, -30, -29, -22, -17, -13, -12, -12, -14], "female": [-29, -30, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

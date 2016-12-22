@@ -1,0 +1,1 @@
+{"index": 6417, "name": "Frozen novelties, juice type, POPSICLE SCRIBBLERS", "healthiness": {"lactating": [-13, -12, -13], "male": [-23, -28, -27, -21, -16, -12, -12, -12, -13], "female": [-23, -28, -27, -23, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

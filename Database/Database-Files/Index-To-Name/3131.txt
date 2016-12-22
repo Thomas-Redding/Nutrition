@@ -1,0 +1,1 @@
+{"index": 3131, "name": "USDA Commodity, Potato wedges, frozen", "healthiness": {"lactating": [-7, -6, -7], "male": [-5, -13, -12, -8, -7, -6, -5, -5, -7], "female": [-5, -13, -12, -10, -10, -8, -7, -8, -10], "pregnant": [-8, -6, -7]}}

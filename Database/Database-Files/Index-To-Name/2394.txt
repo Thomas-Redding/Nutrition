@@ -1,0 +1,1 @@
+{"index": 2394, "name": "Feijoa, raw", "healthiness": {"lactating": [2, 3, 1], "male": [21, 10, 7, 6, 3, 3, 3, 2, 1], "female": [22, 11, 8, 4, 1, 1, 2, 0, -2], "pregnant": [2, 3, 2]}}

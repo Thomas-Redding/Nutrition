@@ -1,0 +1,1 @@
+{"index": 6069, "name": "Snacks, granola bars, soft, coated, milk chocolate coating, peanut butter", "healthiness": {"lactating": [1, 2, 0], "male": [34, 21, 14, 13, 5, 2, 1, 0, -1], "female": [35, 22, 15, 10, 3, 0, 1, -1, -4], "pregnant": [1, 2, 0]}}

@@ -1,0 +1,1 @@
+{"index": 1711, "name": "Salami, pork, beef, less sodium", "healthiness": {"lactating": [9, 9, 7], "male": [39, 26, 22, 24, 16, 10, 8, 7, 6], "female": [39, 26, 22, 22, 14, 8, 9, 6, 3], "pregnant": [9, 10, 7]}}

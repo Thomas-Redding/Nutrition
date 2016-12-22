@@ -1,0 +1,1 @@
+{"index": 2431, "name": "USDA Commodity, mixed fruit (peaches, pears, grapes), canned, light syrup, drained", "healthiness": {"lactating": [-8, -6, -8], "male": [2, -12, -11, -9, -8, -6, -5, -6, -7], "female": [2, -12, -11, -11, -10, -9, -7, -9, -10], "pregnant": [-7, -6, -7]}}

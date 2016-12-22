@@ -1,0 +1,1 @@
+{"index": 3662, "name": "Nuts, coconut milk, raw (liquid expressed from grated meat and water)", "healthiness": {"lactating": [-3, -2, -4], "male": [14, 5, 4, 2, -2, -2, -2, -3, -4], "female": [15, 6, 6, 0, -4, -4, -3, -5, -7], "pregnant": [-3, -2, -4]}}

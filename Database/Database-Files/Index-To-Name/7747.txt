@@ -1,0 +1,1 @@
+{"index": 7747, "name": "Snacks, brown rice chips", "healthiness": {"lactating": [9, 10, 8], "male": [42, 35, 30, 26, 15, 10, 9, 8, 7], "female": [42, 35, 30, 24, 13, 8, 9, 7, 5], "pregnant": [9, 10, 8]}}

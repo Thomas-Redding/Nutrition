@@ -1,0 +1,1 @@
+{"index": 2060, "name": "Cereals ready-to-eat, KASHI GOLEAN CRISP Cinnamon Crumble", "healthiness": {"lactating": [-9, -7, -9], "male": [-15, -21, -19, -15, -12, -9, -7, -8, -9], "female": [-15, -21, -19, -17, -14, -12, -10, -11, -12], "pregnant": [-10, -8, -10]}}

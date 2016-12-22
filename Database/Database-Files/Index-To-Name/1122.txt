@@ -1,0 +1,1 @@
+{"index": 1122, "name": "Ground turkey, 93% lean, 7% fat, patties, broiled", "healthiness": {"lactating": [32, 33, 32], "male": [46, 36, 33, 37, 35, 35, 36, 36, 34], "female": [46, 36, 33, 35, 33, 32, 35, 33, 31], "pregnant": [32, 34, 33]}}

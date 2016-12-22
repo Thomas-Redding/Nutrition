@@ -1,0 +1,1 @@
+{"index": 4132, "name": "Alcoholic beverage, pina colada, prepared-from-recipe", "healthiness": {"lactating": [-11, -10, -11], "male": [-12, -20, -21, -16, -13, -10, -9, -10, -11], "female": [-12, -20, -21, -18, -15, -12, -11, -13, -15], "pregnant": [-11, -10, -11]}}

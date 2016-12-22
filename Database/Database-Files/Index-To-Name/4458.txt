@@ -1,0 +1,1 @@
+{"index": 4458, "name": "Beverages, Energy drink, FULL THROTTLE", "healthiness": {"lactating": [-7, -6, -7], "male": [-12, -16, -17, -11, -6, -4, -4, -4, -6], "female": [-12, -16, -17, -12, -9, -7, -6, -7, -10], "pregnant": [-7, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 95, "name": "Milk, human, mature, fluid", "healthiness": {"lactating": [-1, 0, -2], "male": [31, 18, 15, 13, 4, 1, 0, -1, -2], "female": [31, 19, 16, 11, 2, -1, 0, -2, -5], "pregnant": [0, 1, -1]}}

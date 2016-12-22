@@ -1,0 +1,1 @@
+{"index": 6204, "name": "Gelatins, dry powder, unsweetened", "healthiness": {"lactating": [19, 20, 18], "male": [19, 9, 8, 13, 18, 20, 20, 19, 18], "female": [19, 9, 8, 12, 15, 17, 19, 16, 14], "pregnant": [19, 20, 18]}}

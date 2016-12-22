@@ -1,0 +1,1 @@
+{"index": 5009, "name": "Soy protein isolate, potassium type", "healthiness": {"lactating": [31, 33, 31], "male": [32, 26, 24, 28, 28, 31, 34, 33, 32], "female": [32, 26, 24, 26, 26, 29, 32, 30, 29], "pregnant": [28, 31, 30]}}

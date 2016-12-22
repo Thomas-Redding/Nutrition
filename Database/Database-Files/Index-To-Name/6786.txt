@@ -1,0 +1,1 @@
+{"index": 6786, "name": "TACO BELL, Soft Taco with beef, cheese and lettuce", "healthiness": {"lactating": [16, 16, 13], "male": [44, 32, 26, 26, 23, 16, 14, 12, 11], "female": [44, 32, 26, 24, 21, 15, 15, 12, 9], "pregnant": [16, 16, 13]}}

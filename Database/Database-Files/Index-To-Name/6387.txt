@@ -1,0 +1,1 @@
+{"index": 6387, "name": "Gelatin desserts, dry mix, with added ascorbic acid, sodium-citrate and salt", "healthiness": {"lactating": [-8, -7, -8], "male": [1, -8, -9, -6, -7, -6, -6, -7, -8], "female": [2, -7, -8, -8, -9, -9, -8, -10, -12], "pregnant": [-7, -6, -8]}}

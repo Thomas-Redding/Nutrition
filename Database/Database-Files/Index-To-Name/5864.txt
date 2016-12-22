@@ -1,0 +1,1 @@
+{"index": 5864, "name": "Bread, protein, (includes gluten), toasted", "healthiness": {"lactating": [17, 17, 15], "male": [41, 34, 27, 27, 23, 17, 15, 14, 13], "female": [41, 34, 27, 25, 21, 16, 17, 14, 11], "pregnant": [16, 17, 14]}}

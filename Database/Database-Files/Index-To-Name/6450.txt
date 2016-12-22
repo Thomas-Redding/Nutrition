@@ -1,0 +1,1 @@
+{"index": 6450, "name": "Chocolate, dark, 45- 59% cacao solids", "healthiness": {"lactating": [-7, -5, -7], "male": [-1, -8, -12, -9, -7, -5, -4, -4, -6], "female": [-1, -8, -12, -11, -9, -8, -6, -8, -9], "pregnant": [-7, -6, -7]}}

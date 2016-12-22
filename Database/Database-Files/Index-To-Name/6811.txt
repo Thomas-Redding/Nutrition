@@ -1,0 +1,1 @@
+{"index": 6811, "name": "PAPA JOHN'S 14\" Cheese Pizza, Thin Crust", "healthiness": {"lactating": [14, 14, 11], "male": [41, 29, 22, 24, 20, 14, 12, 10, 9], "female": [41, 29, 22, 22, 18, 12, 13, 10, 7], "pregnant": [14, 14, 12]}}

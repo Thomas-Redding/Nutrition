@@ -1,0 +1,1 @@
+{"index": 5289, "name": "Lamb, variety meats and by-products, heart, raw", "healthiness": {"lactating": [46, 47, 46], "male": [45, 41, 42, 46, 47, 49, 51, 50, 48], "female": [45, 41, 42, 44, 44, 46, 48, 46, 45], "pregnant": [44, 47, 45]}}

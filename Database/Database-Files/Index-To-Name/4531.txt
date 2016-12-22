@@ -1,0 +1,1 @@
+{"index": 4531, "name": "Fish, mackerel, Pacific and jack, mixed species, raw", "healthiness": {"lactating": [38, 39, 38], "male": [47, 37, 35, 38, 38, 40, 41, 41, 39], "female": [47, 37, 35, 36, 36, 37, 39, 37, 36], "pregnant": [37, 39, 38]}}

@@ -1,0 +1,1 @@
+{"index": 3705, "name": "Seeds, sisymbrium sp. seeds, whole, dried", "healthiness": {"lactating": [24, 24, 22], "male": [31, 28, 28, 33, 31, 26, 22, 21, 19], "female": [31, 28, 28, 31, 30, 25, 25, 23, 19], "pregnant": [24, 25, 22]}}

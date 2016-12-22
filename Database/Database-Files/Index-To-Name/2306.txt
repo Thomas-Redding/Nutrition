@@ -1,0 +1,1 @@
+{"index": 2306, "name": "Papaya nectar, canned", "healthiness": {"lactating": [-11, -9, -11], "male": [-5, -16, -17, -14, -12, -9, -8, -9, -10], "female": [-5, -16, -17, -16, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

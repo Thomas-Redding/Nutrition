@@ -1,0 +1,1 @@
+{"index": 761, "name": "Oil, industrial, canola with antifoaming agent, principal uses salads, woks and light frying", "healthiness": {"lactating": [-11, -10, -11], "male": [-23, -23, -23, -17, -13, -10, -10, -10, -12], "female": [-23, -23, -23, -19, -15, -13, -12, -14, -16], "pregnant": [-11, -10, -11]}}

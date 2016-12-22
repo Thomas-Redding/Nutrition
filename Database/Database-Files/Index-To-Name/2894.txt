@@ -1,0 +1,1 @@
+{"index": 2894, "name": "Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt", "healthiness": {"lactating": [60, 61, 59], "male": [56, 55, 58, 63, 60, 60, 60, 59, 59], "female": [56, 55, 58, 61, 59, 58, 62, 60, 58], "pregnant": [58, 61, 60]}}

@@ -1,0 +1,1 @@
+{"index": 141, "name": "Egg, yolk, raw, frozen, salted, pasteurized", "healthiness": {"lactating": [29, 29, 26], "male": [48, 40, 38, 39, 37, 30, 29, 27, 25], "female": [48, 40, 38, 37, 35, 29, 30, 27, 23], "pregnant": [29, 30, 27]}}

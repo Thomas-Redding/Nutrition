@@ -1,0 +1,1 @@
+{"index": 5322, "name": "Lamb, ground, raw", "healthiness": {"lactating": [23, 22, 20], "male": [43, 30, 24, 25, 26, 23, 20, 18, 18], "female": [43, 30, 24, 23, 24, 22, 22, 19, 16], "pregnant": [22, 23, 20]}}

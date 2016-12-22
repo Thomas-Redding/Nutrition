@@ -1,0 +1,1 @@
+{"index": 2233, "name": "Grapefruit juice, white, frozen concentrate, unsweetened, undiluted", "healthiness": {"lactating": [-5, -4, -5], "male": [6, -5, -10, -7, -6, -3, -3, -3, -5], "female": [6, -5, -10, -9, -8, -7, -5, -7, -8], "pregnant": [-6, -4, -5]}}

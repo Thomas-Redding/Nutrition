@@ -1,0 +1,1 @@
+{"index": 896, "name": "Chicken, broilers or fryers, drumstick, meat only, cooked, stewed", "healthiness": {"lactating": [27, 29, 27], "male": [48, 38, 30, 32, 29, 30, 31, 31, 29], "female": [48, 38, 30, 30, 27, 27, 29, 28, 26], "pregnant": [27, 29, 28]}}

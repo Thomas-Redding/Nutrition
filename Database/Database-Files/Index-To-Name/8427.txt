@@ -1,0 +1,1 @@
+{"index": 8427, "name": "Prairie Turnips, boiled (Northern Plains Indians)", "healthiness": {"lactating": [-5, -4, -5], "male": [-2, -10, -10, -7, -6, -4, -3, -4, -5], "female": [-2, -10, -10, -9, -8, -6, -4, -6, -8], "pregnant": [-6, -4, -6]}}

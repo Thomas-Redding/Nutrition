@@ -1,0 +1,1 @@
+{"index": 5305, "name": "Veal, variety meats and by-products, lungs, raw", "healthiness": {"lactating": [43, 44, 43], "male": [44, 39, 38, 43, 44, 46, 47, 47, 45], "female": [44, 39, 38, 41, 42, 44, 46, 44, 42], "pregnant": [42, 44, 43]}}

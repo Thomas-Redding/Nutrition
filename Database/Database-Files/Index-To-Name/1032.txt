@@ -1,0 +1,1 @@
+{"index": 1032, "name": "Turkey sticks, breaded, battered, fried", "healthiness": {"lactating": [16, 16, 13], "male": [35, 22, 17, 20, 20, 16, 14, 12, 11], "female": [35, 22, 17, 18, 18, 14, 15, 12, 9], "pregnant": [15, 16, 13]}}

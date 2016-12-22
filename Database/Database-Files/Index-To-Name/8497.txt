@@ -1,0 +1,1 @@
+{"index": 8497, "name": "Restaurant, Italian, spaghetti with pomodoro sauce (no meat)", "healthiness": {"lactating": [8, 8, 6], "male": [42, 32, 25, 24, 16, 9, 8, 7, 6], "female": [42, 32, 25, 21, 14, 8, 8, 6, 3], "pregnant": [8, 9, 7]}}

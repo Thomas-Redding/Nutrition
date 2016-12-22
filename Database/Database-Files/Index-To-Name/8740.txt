@@ -1,0 +1,1 @@
+{"index": 8740, "name": "Beans, baked, canned, no salt added", "healthiness": {"lactating": [-3, -2, -3], "male": [7, 0, -2, -1, -3, -2, -1, -1, -2], "female": [7, 0, -2, -3, -5, -4, -1, -3, -5], "pregnant": [-4, -1, -3]}}

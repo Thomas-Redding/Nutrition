@@ -1,0 +1,1 @@
+{"index": 4668, "name": "Fish, butterfish, cooked, dry heat", "healthiness": {"lactating": [32, 33, 32], "male": [42, 32, 30, 33, 31, 33, 35, 34, 33], "female": [42, 32, 30, 31, 29, 31, 33, 32, 30], "pregnant": [31, 33, 32]}}

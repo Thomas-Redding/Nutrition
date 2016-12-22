@@ -1,0 +1,1 @@
+{"index": 4, "name": "Cheese, brick", "healthiness": {"lactating": [23, 23, 20], "male": [40, 26, 23, 24, 23, 22, 21, 19, 18], "female": [40, 26, 23, 22, 21, 21, 22, 20, 16], "pregnant": [22, 24, 21]}}

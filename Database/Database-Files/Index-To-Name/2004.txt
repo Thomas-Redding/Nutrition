@@ -1,0 +1,1 @@
+{"index": 2004, "name": "Cereals ready-to-eat, POST SELECTS Maple Pecan Crunch", "healthiness": {"lactating": [1, 2, 1], "male": [16, 9, 6, 7, 4, 4, 5, 5, 3], "female": [16, 9, 6, 5, 2, 2, 4, 2, 0], "pregnant": [1, 3, 2]}}

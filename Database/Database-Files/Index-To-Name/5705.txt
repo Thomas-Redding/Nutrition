@@ -1,0 +1,1 @@
+{"index": 5705, "name": "Cookies, brownies, dry mix, sugar free", "healthiness": {"lactating": [-10, -9, -10], "male": [-6, -15, -15, -12, -11, -9, -8, -9, -10], "female": [-5, -14, -15, -14, -13, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

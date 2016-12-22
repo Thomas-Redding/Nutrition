@@ -1,0 +1,1 @@
+{"index": 5068, "name": "GARDENBURGER Original, frozen, unprepared", "healthiness": {"lactating": [-9, -8, -9], "male": [-10, -18, -19, -15, -12, -9, -7, -8, -9], "female": [-10, -18, -19, -17, -14, -12, -9, -11, -12], "pregnant": [-10, -8, -10]}}

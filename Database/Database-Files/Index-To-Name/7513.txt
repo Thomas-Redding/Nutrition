@@ -1,0 +1,1 @@
+{"index": 7513, "name": "Beef, New Zealand, imported, subcutaneous fat, cooked", "healthiness": {"lactating": [-9, -8, -10], "male": [-5, -11, -12, -10, -10, -8, -8, -9, -10], "female": [-4, -10, -11, -12, -12, -12, -10, -12, -15], "pregnant": [-9, -8, -10]}}

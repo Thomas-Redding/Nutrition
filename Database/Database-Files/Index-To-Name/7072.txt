@@ -1,0 +1,1 @@
+{"index": 7072, "name": "Rice bowl with chicken, frozen entree, prepared (includes fried, teriyaki, and sweet and sour varieties)", "healthiness": {"lactating": [16, 16, 13], "male": [42, 33, 27, 26, 23, 17, 14, 12, 11], "female": [42, 33, 27, 24, 21, 15, 16, 13, 10], "pregnant": [16, 16, 14]}}

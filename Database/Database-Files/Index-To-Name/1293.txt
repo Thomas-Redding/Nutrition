@@ -1,0 +1,1 @@
+{"index": 1293, "name": "Sauce, plum, ready-to-serve", "healthiness": {"lactating": [-11, -10, -11], "male": [-7, -19, -21, -17, -13, -10, -9, -9, -11], "female": [-7, -19, -21, -19, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

@@ -1,0 +1,1 @@
+{"index": 481, "name": "Babyfood, dessert, fruit dessert, without ascorbic acid, junior", "healthiness": {"lactating": [-10, -9, -10], "male": [-4, -14, -16, -14, -11, -9, -8, -9, -10], "female": [-4, -14, -16, -16, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

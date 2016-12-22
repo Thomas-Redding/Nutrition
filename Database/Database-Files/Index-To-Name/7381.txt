@@ -1,0 +1,1 @@
+{"index": 7381, "name": "Beef, Australian, imported, Wagyu, seam fat, Aust. marble score 9, raw", "healthiness": {"lactating": [-14, -13, -14], "male": [-26, -30, -30, -23, -17, -13, -12, -13, -14], "female": [-26, -30, -30, -25, -20, -17, -15, -17, -18], "pregnant": [-14, -13, -14]}}

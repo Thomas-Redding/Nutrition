@@ -1,0 +1,1 @@
+{"index": 18, "name": "Cheese, feta", "healthiness": {"lactating": [27, 27, 24], "male": [46, 35, 31, 32, 31, 27, 25, 24, 22], "female": [46, 35, 31, 30, 28, 26, 28, 25, 21], "pregnant": [26, 28, 25]}}

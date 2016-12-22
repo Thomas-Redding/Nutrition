@@ -1,0 +1,1 @@
+{"index": 6329, "name": "Syrups, sorghum", "healthiness": {"lactating": [-6, -4, -6], "male": [-3, -8, -10, -6, -5, -4, -2, -3, -5], "female": [-3, -8, -10, -8, -7, -6, -5, -6, -8], "pregnant": [-6, -5, -6]}}

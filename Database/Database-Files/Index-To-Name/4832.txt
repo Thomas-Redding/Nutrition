@@ -1,0 +1,1 @@
+{"index": 4832, "name": "Peanuts, virginia, raw", "healthiness": {"lactating": [13, 13, 11], "male": [37, 29, 27, 27, 20, 14, 12, 11, 10], "female": [37, 29, 27, 25, 18, 13, 14, 11, 8], "pregnant": [13, 14, 12]}}

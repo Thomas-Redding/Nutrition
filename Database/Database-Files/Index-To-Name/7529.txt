@@ -1,0 +1,1 @@
+{"index": 7529, "name": "Beef, New Zealand, imported, brisket point end, separable lean and fat, raw", "healthiness": {"lactating": [28, 29, 28], "male": [37, 28, 26, 29, 28, 30, 31, 30, 29], "female": [37, 28, 26, 27, 26, 27, 29, 27, 26], "pregnant": [27, 29, 28]}}

@@ -1,0 +1,1 @@
+{"index": 1509, "name": "CAMPBELL'S Homestyle New England Clam Chowder", "healthiness": {"lactating": [-9, -7, -9], "male": [-2, -13, -15, -13, -10, -8, -6, -7, -8], "female": [-2, -13, -15, -15, -13, -11, -9, -11, -12], "pregnant": [-9, -8, -9]}}

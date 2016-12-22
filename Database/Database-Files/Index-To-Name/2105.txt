@@ -1,0 +1,1 @@
+{"index": 2105, "name": "Cereals ready-to-eat, KELLOGG'S KRAVE Smores", "healthiness": {"lactating": [6, 7, 6], "male": [4, -1, 1, 6, 9, 10, 10, 10, 7], "female": [4, -1, 1, 4, 7, 7, 8, 7, 5], "pregnant": [5, 6, 5]}}

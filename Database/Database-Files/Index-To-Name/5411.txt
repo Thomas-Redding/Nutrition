@@ -1,0 +1,1 @@
+{"index": 5411, "name": "Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw", "healthiness": {"lactating": [24, 25, 23], "male": [41, 28, 26, 29, 27, 26, 26, 24, 23], "female": [41, 28, 26, 27, 24, 24, 25, 23, 21], "pregnant": [24, 25, 23]}}

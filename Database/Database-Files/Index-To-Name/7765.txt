@@ -1,0 +1,1 @@
+{"index": 7765, "name": "CAMPBELL'S Red and White, Italian Style Wedding Soup, condensed", "healthiness": {"lactating": [-11, -10, -11], "male": [-24, -27, -26, -20, -15, -11, -10, -10, -12], "female": [-24, -27, -26, -22, -17, -14, -13, -14, -15], "pregnant": [-12, -11, -12]}}

@@ -1,0 +1,1 @@
+{"index": 1961, "name": "Cereals, QUAKER, Instant Grits, Ham 'n' Cheese flavor, dry", "healthiness": {"lactating": [-4, -3, -4], "male": [-1, -7, -10, -7, -6, -3, -2, -3, -4], "female": [-1, -7, -10, -9, -8, -6, -4, -5, -8], "pregnant": [-5, -3, -4]}}

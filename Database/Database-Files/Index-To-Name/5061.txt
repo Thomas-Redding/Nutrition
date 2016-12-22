@@ -1,0 +1,1 @@
+{"index": 5061, "name": "MORNINGSTAR FARMS Chik'n Nuggets, frozen, unprepared", "healthiness": {"lactating": [-4, -3, -4], "male": [-6, -11, -13, -9, -7, -4, -2, -3, -4], "female": [-6, -11, -13, -11, -9, -7, -5, -6, -8], "pregnant": [-6, -4, -5]}}

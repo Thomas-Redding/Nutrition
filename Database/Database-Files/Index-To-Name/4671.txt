@@ -1,0 +1,1 @@
+{"index": 4671, "name": "Fish, mahimahi, cooked, dry heat", "healthiness": {"lactating": [37, 38, 37], "male": [44, 36, 36, 38, 38, 39, 41, 41, 38], "female": [44, 36, 36, 36, 35, 36, 38, 37, 35], "pregnant": [35, 38, 37]}}

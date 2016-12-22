@@ -1,0 +1,1 @@
+{"index": 1932, "name": "Cereals ready-to-eat, MALT-O-MEAL, TOOTIE FRUITIES", "healthiness": {"lactating": [8, 10, 8], "male": [10, 5, 7, 10, 12, 12, 13, 13, 9], "female": [10, 5, 7, 8, 10, 11, 13, 11, 8], "pregnant": [9, 10, 9]}}

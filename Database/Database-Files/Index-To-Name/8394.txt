@@ -1,0 +1,1 @@
+{"index": 8394, "name": "Fish, salmon, red, (sockeye), canned, smoked (Alaska Native)", "healthiness": {"lactating": [34, 36, 34], "male": [44, 35, 32, 34, 33, 36, 38, 37, 36], "female": [44, 35, 32, 32, 31, 32, 35, 34, 32], "pregnant": [33, 36, 35]}}

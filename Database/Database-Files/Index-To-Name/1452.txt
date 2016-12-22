@@ -1,0 +1,1 @@
+{"index": 1452, "name": "Soup, chicken with rice, canned, prepared with equal volume water", "healthiness": {"lactating": [-1, 0, -1], "male": [11, 2, 0, 1, 2, 2, 3, 3, 1], "female": [11, 2, 0, -1, -1, -1, 1, -1, -2], "pregnant": [-1, 1, 0]}}

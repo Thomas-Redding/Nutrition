@@ -1,0 +1,1 @@
+{"index": 2833, "name": "Bamboo shoots, raw", "healthiness": {"lactating": [45, 45, 43], "male": [49, 43, 47, 50, 50, 45, 45, 44, 43], "female": [49, 43, 47, 48, 48, 44, 46, 43, 42], "pregnant": [44, 46, 44]}}

@@ -1,0 +1,1 @@
+{"index": 7024, "name": "Turkey Pot Pie, frozen entree", "healthiness": {"lactating": [-13, -12, -13], "male": [-26, -29, -29, -22, -17, -12, -12, -12, -13], "female": [-26, -29, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -13, -14]}}

@@ -1,0 +1,1 @@
+{"index": 1653, "name": "Liver sausage, liverwurst, pork", "healthiness": {"lactating": [27, 27, 24], "male": [46, 37, 33, 36, 35, 28, 26, 25, 24], "female": [46, 37, 33, 34, 33, 26, 27, 24, 22], "pregnant": [26, 26, 24]}}

@@ -1,0 +1,1 @@
+{"index": 6613, "name": "Rice, white, long-grain, regular, unenriched, cooked without salt", "healthiness": {"lactating": [1, 1, 0], "male": [29, 18, 14, 13, 6, 2, 1, 0, -1], "female": [30, 18, 15, 11, 4, 0, 1, -1, -4], "pregnant": [1, 2, 0]}}

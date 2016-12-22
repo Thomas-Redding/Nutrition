@@ -1,0 +1,1 @@
+{"index": 7849, "name": "KASHI, TLC, Oatmeal Raisin Flax Cookies", "healthiness": {"lactating": [-11, -10, -11], "male": [-17, -23, -23, -18, -14, -11, -10, -10, -11], "female": [-17, -23, -23, -20, -17, -14, -11, -13, -15], "pregnant": [-12, -10, -11]}}

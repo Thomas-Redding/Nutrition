@@ -1,0 +1,1 @@
+{"index": 3635, "name": "Nuts, almonds, blanched", "healthiness": {"lactating": [11, 11, 9], "male": [35, 26, 23, 25, 17, 11, 10, 9, 8], "female": [35, 26, 23, 23, 15, 10, 11, 9, 6], "pregnant": [11, 12, 10]}}

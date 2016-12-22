@@ -1,0 +1,1 @@
+{"index": 6001, "name": "Bread, salvadoran sweet cheese (quesadilla salvadorena)", "healthiness": {"lactating": [0, 1, -1], "male": [29, 17, 12, 11, 4, 1, 0, -1, -2], "female": [30, 18, 12, 8, 2, -2, -1, -3, -6], "pregnant": [0, 1, -1]}}

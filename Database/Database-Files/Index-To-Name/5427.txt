@@ -1,0 +1,1 @@
+{"index": 5427, "name": "Game meat , bison, ground, raw", "healthiness": {"lactating": [28, 29, 27], "male": [42, 32, 29, 32, 30, 30, 29, 28, 27], "female": [42, 32, 29, 30, 28, 28, 30, 27, 25], "pregnant": [28, 29, 27]}}

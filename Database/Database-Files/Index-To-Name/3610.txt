@@ -1,0 +1,1 @@
+{"index": 3610, "name": "Seeds, cottonseed flour, partially defatted (glandless)", "healthiness": {"lactating": [40, 41, 39], "male": [39, 37, 36, 40, 41, 43, 42, 40, 39], "female": [39, 37, 36, 38, 39, 41, 42, 39, 38], "pregnant": [39, 41, 39]}}

@@ -1,0 +1,1 @@
+{"index": 4149, "name": "Beverages, OCEAN SPRAY, Cran-Energy, Cranberry Energy Juice Drink", "healthiness": {"lactating": [10, 11, 10], "male": [8, 5, -1, 4, 8, 12, 12, 12, 10], "female": [8, 5, -1, 2, 6, 8, 10, 8, 6], "pregnant": [10, 12, 10]}}

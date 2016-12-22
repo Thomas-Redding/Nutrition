@@ -1,0 +1,1 @@
+{"index": 8346, "name": "Walrus, meat, dried (Alaska Native)", "healthiness": {"lactating": [-3, -2, -3], "male": [-30, -30, -30, -8, -5, -2, -1, -1, -2], "female": [-30, -30, -30, -10, -7, -5, -2, -4, -6], "pregnant": [-4, -2, -3]}}

@@ -1,0 +1,1 @@
+{"index": 2666, "name": "Pork, fresh, ground, raw", "healthiness": {"lactating": [22, 22, 20], "male": [38, 27, 23, 25, 24, 23, 20, 18, 17], "female": [38, 27, 23, 23, 22, 21, 22, 19, 16], "pregnant": [21, 22, 20]}}

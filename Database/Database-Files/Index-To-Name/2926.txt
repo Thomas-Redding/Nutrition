@@ -1,0 +1,1 @@
+{"index": 2926, "name": "Collards, raw", "healthiness": {"lactating": [54, 54, 52], "male": [58, 53, 57, 60, 60, 55, 54, 52, 52], "female": [58, 53, 57, 58, 58, 53, 55, 52, 50], "pregnant": [53, 54, 51]}}

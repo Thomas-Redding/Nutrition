@@ -1,0 +1,1 @@
+{"index": 6384, "name": "Snacks, potato chips, made from dried potatoes, fat-free, made with olestra", "healthiness": {"lactating": [1, 2, 1], "male": [9, 1, -2, 0, 0, 2, 4, 3, 2], "female": [9, 1, -2, -2, -2, 0, 2, 0, -2], "pregnant": [0, 2, 1]}}

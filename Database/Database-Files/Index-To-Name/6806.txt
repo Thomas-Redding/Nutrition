@@ -1,0 +1,1 @@
+{"index": 6806, "name": "DOMINO'S 14\" Pepperoni Pizza, Ultimate Deep Dish Crust", "healthiness": {"lactating": [12, 12, 10], "male": [42, 30, 21, 23, 18, 12, 10, 9, 8], "female": [42, 30, 21, 21, 16, 11, 11, 8, 6], "pregnant": [11, 12, 9]}}

@@ -1,0 +1,1 @@
+{"index": 1133, "name": "Chicken, dark meat, drumstick, meat only, with added solution, raw", "healthiness": {"lactating": [35, 37, 35], "male": [46, 37, 36, 40, 39, 39, 41, 40, 38], "female": [46, 37, 36, 38, 37, 37, 39, 38, 35], "pregnant": [35, 37, 36]}}

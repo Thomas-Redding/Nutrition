@@ -1,0 +1,1 @@
+{"index": 6420, "name": "Cocoa, dry powder, hi-fat or breakfast, plain", "healthiness": {"lactating": [5, 6, 5], "male": [3, -3, -2, 1, 2, 3, 6, 5, 4], "female": [3, -3, -2, -1, 0, 1, 4, 2, 2], "pregnant": [1, 3, 2]}}

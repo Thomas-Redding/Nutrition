@@ -1,0 +1,1 @@
+{"index": 2197, "name": "Custard-apple, (bullock's-heart), raw", "healthiness": {"lactating": [-6, -5, -6], "male": [-1, -9, -10, -6, -5, -4, -3, -4, -6], "female": [-1, -9, -10, -8, -7, -6, -5, -7, -9], "pregnant": [-6, -5, -6]}}

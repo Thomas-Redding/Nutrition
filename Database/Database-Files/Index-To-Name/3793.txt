@@ -1,0 +1,1 @@
+{"index": 3793, "name": "Beef, variety meats and by-products, pancreas, cooked, braised", "healthiness": {"lactating": [34, 35, 33], "male": [44, 35, 34, 38, 36, 37, 37, 35, 34], "female": [44, 35, 34, 36, 34, 34, 37, 35, 32], "pregnant": [34, 36, 34]}}

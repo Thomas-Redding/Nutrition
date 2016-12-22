@@ -1,0 +1,1 @@
+{"index": 84, "name": "Milk, dry, nonfat, instant, with added vitamin A and vitamin D", "healthiness": {"lactating": [41, 42, 41], "male": [50, 42, 41, 44, 42, 43, 45, 44, 42], "female": [50, 42, 41, 42, 40, 40, 44, 43, 40], "pregnant": [41, 44, 43]}}

@@ -1,0 +1,1 @@
+{"index": 3233, "name": "Tomato products, canned, sauce, with onions", "healthiness": {"lactating": [23, 24, 22], "male": [42, 38, 41, 41, 32, 25, 26, 24, 24], "female": [42, 38, 41, 38, 30, 24, 26, 23, 23], "pregnant": [24, 25, 23]}}

@@ -1,0 +1,1 @@
+{"index": 6561, "name": "Macaroni, vegetable, enriched, cooked", "healthiness": {"lactating": [11, 11, 9], "male": [34, 22, 20, 22, 17, 12, 10, 9, 8], "female": [34, 22, 20, 20, 15, 10, 11, 8, 6], "pregnant": [11, 12, 10]}}

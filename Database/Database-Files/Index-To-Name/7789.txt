@@ -1,0 +1,1 @@
+{"index": 7789, "name": "Sauce, sweet and sour, ready-to-serve", "healthiness": {"lactating": [-10, -9, -10], "male": [-9, -18, -18, -13, -11, -8, -7, -8, -9], "female": [-9, -18, -18, -15, -13, -10, -9, -11, -13], "pregnant": [-9, -8, -9]}}

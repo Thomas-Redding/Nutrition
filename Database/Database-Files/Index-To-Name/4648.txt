@@ -1,0 +1,1 @@
+{"index": 4648, "name": "Mollusks, oyster, Pacific, raw", "healthiness": {"lactating": [48, 49, 48], "male": [50, 47, 49, 52, 50, 50, 51, 50, 49], "female": [50, 47, 49, 50, 48, 48, 51, 49, 46], "pregnant": [47, 50, 48]}}

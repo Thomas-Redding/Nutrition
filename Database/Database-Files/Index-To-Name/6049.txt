@@ -1,0 +1,1 @@
+{"index": 6049, "name": "Candies, TOBLERONE, milk chocolate with honey and almond nougat", "healthiness": {"lactating": [-10, -9, -10], "male": [1, -12, -18, -14, -12, -8, -8, -8, -10], "female": [1, -12, -18, -16, -14, -12, -10, -12, -13], "pregnant": [-10, -8, -10]}}

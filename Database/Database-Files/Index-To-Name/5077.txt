@@ -1,0 +1,1 @@
+{"index": 5077, "name": "MORNINGSTAR FARMS California Turk'y Burger, frozen, unprepared", "healthiness": {"lactating": [-7, -6, -7], "male": [-14, -19, -18, -14, -11, -8, -6, -6, -7], "female": [-14, -19, -18, -16, -13, -11, -8, -10, -10], "pregnant": [-9, -7, -8]}}

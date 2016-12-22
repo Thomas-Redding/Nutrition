@@ -1,0 +1,1 @@
+{"index": 2033, "name": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, Caramel Delight", "healthiness": {"lactating": [9, 10, 9], "male": [19, 16, 15, 16, 13, 12, 13, 12, 10], "female": [19, 16, 15, 14, 11, 11, 13, 12, 9], "pregnant": [10, 12, 10]}}

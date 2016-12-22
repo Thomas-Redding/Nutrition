@@ -1,0 +1,1 @@
+{"index": 2916, "name": "Chard, swiss, raw", "healthiness": {"lactating": [65, 65, 64], "male": [59, 58, 62, 66, 64, 65, 65, 64, 63], "female": [59, 58, 62, 65, 63, 63, 67, 65, 61], "pregnant": [64, 67, 65]}}

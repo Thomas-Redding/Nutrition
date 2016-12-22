@@ -1,0 +1,1 @@
+{"index": 646, "name": "Salad dressing, mayonnaise, regular", "healthiness": {"lactating": [-10, -9, -10], "male": [-14, -20, -21, -15, -11, -8, -9, -9, -11], "female": [-14, -20, -20, -17, -14, -11, -10, -12, -14], "pregnant": [-9, -8, -10]}}

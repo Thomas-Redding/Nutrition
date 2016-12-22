@@ -1,0 +1,1 @@
+{"index": 6994, "name": "Fast foods, crispy chicken in tortilla, with lettuce, cheese, and ranch sauce", "healthiness": {"lactating": [-6, -5, -6], "male": [11, -1, -7, -6, -6, -4, -3, -4, -5], "female": [11, -1, -7, -8, -8, -7, -5, -7, -9], "pregnant": [-6, -4, -6]}}

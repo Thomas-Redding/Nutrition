@@ -1,0 +1,1 @@
+{"index": 5677, "name": "Cookies, chocolate chip, refrigerated dough, baked", "healthiness": {"lactating": [-7, -6, -7], "male": [7, -3, -5, -5, -7, -6, -6, -7, -8], "female": [8, -2, -4, -7, -9, -9, -7, -9, -11], "pregnant": [-7, -6, -8]}}

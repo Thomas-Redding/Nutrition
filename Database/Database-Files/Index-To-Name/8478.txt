@@ -1,0 +1,1 @@
+{"index": 8478, "name": "DENNY'S, chicken strips", "healthiness": {"lactating": [20, 20, 18], "male": [36, 26, 22, 24, 23, 21, 19, 17, 16], "female": [36, 26, 22, 22, 21, 19, 20, 17, 14], "pregnant": [20, 21, 18]}}

@@ -1,0 +1,1 @@
+{"index": 5503, "name": "Lamb, New Zealand, imported, loin chop, separable lean and fat, cooked, fast fried", "healthiness": {"lactating": [21, 21, 19], "male": [36, 22, 19, 21, 22, 22, 19, 17, 16], "female": [36, 22, 19, 20, 20, 19, 21, 18, 14], "pregnant": [20, 21, 19]}}

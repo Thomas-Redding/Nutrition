@@ -1,0 +1,1 @@
+{"index": 2898, "name": "Cardoon, raw", "healthiness": {"lactating": [21, 23, 21], "male": [15, 14, 18, 22, 21, 22, 24, 23, 23], "female": [15, 14, 18, 20, 19, 20, 22, 21, 20], "pregnant": [20, 22, 21]}}

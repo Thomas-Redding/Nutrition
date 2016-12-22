@@ -1,0 +1,1 @@
+{"index": 4839, "name": "Pigeon peas (red gram), mature seeds, cooked, boiled, without salt", "healthiness": {"lactating": [20, 20, 18], "male": [36, 27, 27, 29, 26, 20, 18, 17, 16], "female": [36, 27, 27, 27, 24, 19, 20, 18, 15], "pregnant": [19, 20, 18]}}

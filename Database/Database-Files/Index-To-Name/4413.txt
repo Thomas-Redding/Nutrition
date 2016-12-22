@@ -1,0 +1,1 @@
+{"index": 4413, "name": "Whiskey sour mix, bottled, with added potassium and sodium", "healthiness": {"lactating": [-13, -12, -13], "male": [-23, -28, -26, -21, -16, -12, -11, -12, -13], "female": [-23, -28, -26, -23, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -13]}}

@@ -1,0 +1,1 @@
+{"index": 1987, "name": "Cereals ready-to-eat, USDA Commodity Corn and Rice (includes all commodity brands)", "healthiness": {"lactating": [15, 16, 14], "male": [31, 28, 26, 28, 21, 17, 16, 16, 15], "female": [32, 28, 27, 26, 19, 16, 18, 15, 13], "pregnant": [17, 18, 16]}}

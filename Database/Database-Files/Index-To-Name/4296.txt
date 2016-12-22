@@ -1,0 +1,1 @@
+{"index": 4296, "name": "Beverages, coffee substitute, cereal grain beverage, powder", "healthiness": {"lactating": [5, 6, 5], "male": [8, 3, 3, 6, 6, 6, 8, 8, 6], "female": [8, 3, 3, 4, 4, 4, 7, 5, 5], "pregnant": [3, 6, 5]}}

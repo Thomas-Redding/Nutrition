@@ -1,0 +1,1 @@
+{"index": 8747, "name": "Frozen novelties, ice cream type, chocolate or caramel covered, with nuts", "healthiness": {"lactating": [-10, -8, -10], "male": [2, -11, -17, -14, -12, -8, -7, -8, -9], "female": [2, -11, -17, -16, -14, -12, -10, -11, -14], "pregnant": [-10, -8, -10]}}

@@ -1,0 +1,1 @@
+{"index": 100, "name": "Whey, acid, fluid", "healthiness": {"lactating": [26, 25, 23], "male": [43, 35, 35, 40, 33, 27, 25, 24, 23], "female": [43, 35, 35, 38, 31, 25, 27, 24, 21], "pregnant": [25, 26, 24]}}

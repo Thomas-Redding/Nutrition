@@ -1,0 +1,1 @@
+{"index": 7163, "name": "Beef, chuck eye Country-Style ribs, boneless, separable lean only, trimmed to 0\" fat, select, raw", "healthiness": {"lactating": [36, 37, 36], "male": [49, 41, 35, 38, 38, 38, 40, 40, 38], "female": [49, 41, 35, 36, 35, 35, 37, 36, 34], "pregnant": [35, 37, 36]}}

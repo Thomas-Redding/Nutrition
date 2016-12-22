@@ -1,0 +1,1 @@
+{"index": 3088, "name": "Potatoes, roasted, salt added in processing, frozen, unprepared", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -29, -27, -21, -16, -12, -11, -12, -13], "female": [-25, -29, -27, -23, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

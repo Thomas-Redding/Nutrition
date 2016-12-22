@@ -1,0 +1,1 @@
+{"index": 1971, "name": "Cereals ready-to-eat, MALT-O-MEAL, GOLDEN PUFFS", "healthiness": {"lactating": [20, 21, 19], "male": [42, 36, 35, 35, 27, 23, 23, 22, 20], "female": [43, 37, 36, 33, 25, 21, 22, 20, 18], "pregnant": [20, 21, 20]}}

@@ -1,0 +1,1 @@
+{"index": 2896, "name": "Cabbage, chinese (pe-tsai), raw", "healthiness": {"lactating": [49, 49, 46], "male": [55, 52, 58, 59, 56, 48, 47, 46, 46], "female": [55, 52, 58, 57, 54, 49, 50, 47, 46], "pregnant": [47, 49, 46]}}

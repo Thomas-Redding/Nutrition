@@ -1,0 +1,1 @@
+{"index": 799, "name": "Margarine-like spread, BENECOL Light Spread", "healthiness": {"lactating": [-5, -4, -5], "male": [-19, -19, -19, -12, -7, -3, -4, -4, -5], "female": [-19, -19, -19, -14, -10, -7, -6, -7, -9], "pregnant": [-5, -4, -5]}}

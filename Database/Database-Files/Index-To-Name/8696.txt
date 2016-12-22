@@ -1,0 +1,1 @@
+{"index": 8696, "name": "Eggs, scrambled, frozen mixture", "healthiness": {"lactating": [-4, -3, -4], "male": [3, -6, -12, -7, -4, -2, -1, -2, -4], "female": [3, -6, -12, -9, -7, -5, -3, -5, -8], "pregnant": [-4, -2, -3]}}

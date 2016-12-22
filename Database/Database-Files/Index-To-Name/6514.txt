@@ -1,0 +1,1 @@
+{"index": 6514, "name": "Rice, white, long-grain, precooked or instant, enriched, dry", "healthiness": {"lactating": [4, 4, 2], "male": [27, 18, 16, 16, 9, 4, 4, 3, 2], "female": [27, 18, 16, 13, 7, 2, 3, 0, -1], "pregnant": [3, 3, 1]}}

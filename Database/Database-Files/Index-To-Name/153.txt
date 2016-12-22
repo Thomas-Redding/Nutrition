@@ -1,0 +1,1 @@
+{"index": 153, "name": "Milk, fluid, 1% fat, without added vitamin A and vitamin D", "healthiness": {"lactating": [35, 36, 34], "male": [44, 36, 34, 36, 34, 36, 36, 35, 33], "female": [44, 36, 34, 34, 31, 32, 37, 35, 31], "pregnant": [33, 37, 36]}}

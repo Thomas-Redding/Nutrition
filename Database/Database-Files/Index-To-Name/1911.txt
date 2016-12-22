@@ -1,0 +1,1 @@
+{"index": 1911, "name": "Cereals ready-to-eat, GENERAL MILLS, FROSTED CHEERIOS", "healthiness": {"lactating": [15, 16, 15], "male": [21, 18, 16, 18, 17, 19, 20, 19, 16], "female": [21, 18, 16, 16, 15, 16, 18, 16, 14], "pregnant": [14, 16, 15]}}

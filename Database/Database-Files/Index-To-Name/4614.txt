@@ -1,0 +1,1 @@
+{"index": 4614, "name": "Crustaceans, crab, alaska king, raw", "healthiness": {"lactating": [41, 43, 41], "male": [47, 39, 38, 42, 41, 42, 44, 43, 42], "female": [47, 39, 38, 40, 38, 39, 42, 40, 38], "pregnant": [39, 42, 41]}}

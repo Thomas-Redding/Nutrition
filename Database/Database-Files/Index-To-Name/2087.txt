@@ -1,0 +1,1 @@
+{"index": 2087, "name": "Cereals, oats, instant, fortified, maple and brown sugar, dry", "healthiness": {"lactating": [5, 7, 5], "male": [17, 12, 8, 10, 10, 9, 11, 10, 8], "female": [17, 12, 8, 8, 8, 7, 9, 7, 7], "pregnant": [5, 7, 6]}}

@@ -1,0 +1,1 @@
+{"index": 6540, "name": "Wheat bran, crude", "healthiness": {"lactating": [50, 50, 48], "male": [48, 47, 46, 53, 55, 52, 50, 48, 47], "female": [48, 47, 46, 51, 53, 50, 50, 47, 45], "pregnant": [49, 49, 47]}}

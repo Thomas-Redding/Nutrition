@@ -1,0 +1,1 @@
+{"index": 230, "name": "Yogurt, Greek, nonfat, strawberry, CHOBANI", "healthiness": {"lactating": [-1, 0, -1], "male": [12, 0, -3, 0, 0, 1, 3, 2, 1], "female": [12, 0, -3, -2, -2, -2, 1, -1, -3], "pregnant": [-1, 1, 0]}}

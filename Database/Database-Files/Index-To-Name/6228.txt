@@ -1,0 +1,1 @@
+{"index": 6228, "name": "Puddings, rice, dry mix, prepared with 2% milk", "healthiness": {"lactating": [9, 9, 6], "male": [40, 26, 21, 23, 14, 9, 8, 6, 4], "female": [40, 26, 21, 21, 12, 7, 8, 5, 2], "pregnant": [8, 9, 7]}}

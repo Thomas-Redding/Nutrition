@@ -1,0 +1,1 @@
+{"index": 4079, "name": "Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8\" fat, prime, cooked, roasted", "healthiness": {"lactating": [24, 24, 22], "male": [42, 29, 23, 25, 26, 25, 23, 21, 20], "female": [42, 29, 23, 23, 23, 23, 24, 21, 18], "pregnant": [23, 24, 22]}}

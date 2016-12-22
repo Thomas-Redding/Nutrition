@@ -1,0 +1,1 @@
+{"index": 3261, "name": "Winged beans, immature seeds, raw", "healthiness": {"lactating": [6, 8, 6], "male": [14, 11, 10, 11, 8, 8, 10, 9, 7], "female": [14, 11, 10, 9, 7, 6, 8, 6, 5], "pregnant": [4, 7, 5]}}

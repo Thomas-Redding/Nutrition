@@ -1,0 +1,1 @@
+{"index": 3282, "name": "Parsley, freeze-dried", "healthiness": {"lactating": [31, 33, 31], "male": [29, 28, 31, 37, 35, 34, 36, 35, 34], "female": [29, 28, 31, 35, 33, 33, 36, 34, 32], "pregnant": [32, 34, 33]}}

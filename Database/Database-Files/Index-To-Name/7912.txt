@@ -1,0 +1,1 @@
+{"index": 7912, "name": "KEEBLER, Holiday Jingles Cookies", "healthiness": {"lactating": [-13, -11, -13], "male": [-20, -26, -26, -20, -15, -11, -11, -11, -12], "female": [-20, -26, -26, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

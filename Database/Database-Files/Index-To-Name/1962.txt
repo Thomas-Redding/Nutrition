@@ -1,0 +1,1 @@
+{"index": 1962, "name": "Cereals, QUAKER, Quick Oats with Iron, Dry", "healthiness": {"lactating": [-4, -2, -4], "male": [-9, -12, -13, -8, -6, -4, -2, -3, -4], "female": [-9, -12, -13, -10, -8, -6, -3, -5, -7], "pregnant": [-5, -2, -4]}}

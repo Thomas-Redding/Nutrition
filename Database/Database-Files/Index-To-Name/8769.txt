@@ -1,0 +1,1 @@
+{"index": 8769, "name": "Mayonnaise dressing, no cholesterol", "healthiness": {"lactating": [-13, -11, -13], "male": [-20, -22, -25, -19, -15, -11, -11, -11, -12], "female": [-20, -22, -25, -21, -17, -15, -13, -15, -17], "pregnant": [-12, -11, -12]}}

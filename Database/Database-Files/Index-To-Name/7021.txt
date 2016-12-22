@@ -1,0 +1,1 @@
+{"index": 7021, "name": "Spaghetti with meat sauce, frozen entree", "healthiness": {"lactating": [23, 23, 21], "male": [44, 35, 31, 32, 30, 25, 23, 22, 21], "female": [44, 35, 31, 31, 28, 23, 23, 21, 19], "pregnant": [23, 24, 22]}}

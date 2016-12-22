@@ -1,0 +1,1 @@
+{"index": 8417, "name": "Salmon, red (sockeye), filets with skin, smoked (Alaska Native)", "healthiness": {"lactating": [5, 7, 5], "male": [13, 4, 3, 6, 5, 7, 9, 9, 7], "female": [13, 4, 3, 4, 3, 4, 7, 5, 3], "pregnant": [5, 7, 6]}}

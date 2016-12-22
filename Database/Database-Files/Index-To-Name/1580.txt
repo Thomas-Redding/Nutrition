@@ -1,0 +1,1 @@
+{"index": 1580, "name": "Gravy, brown instant, dry", "healthiness": {"lactating": [-6, -5, -6], "male": [7, -6, -10, -9, -7, -5, -3, -4, -5], "female": [7, -6, -10, -11, -9, -8, -7, -8, -9], "pregnant": [-8, -6, -7]}}

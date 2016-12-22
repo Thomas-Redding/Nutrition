@@ -1,0 +1,1 @@
+{"index": 3043, "name": "Onion rings, breaded, par fried, frozen, prepared, heated in oven", "healthiness": {"lactating": [-1, -1, -2], "male": [23, 10, 7, 7, 2, 0, -1, -2, -3], "female": [24, 11, 8, 5, 0, -3, -2, -4, -6], "pregnant": [-1, -1, -2]}}

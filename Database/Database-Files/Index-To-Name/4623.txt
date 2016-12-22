@@ -1,0 +1,1 @@
+{"index": 4623, "name": "Crustaceans, crayfish, mixed species, wild, raw", "healthiness": {"lactating": [43, 44, 43], "male": [49, 45, 44, 47, 45, 45, 46, 46, 44], "female": [49, 45, 44, 45, 43, 42, 45, 43, 42], "pregnant": [42, 44, 43]}}

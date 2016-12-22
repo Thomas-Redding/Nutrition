@@ -1,0 +1,1 @@
+{"index": 2879, "name": "Brussels sprouts, cooked, boiled, drained, without salt", "healthiness": {"lactating": [42, 42, 39], "male": [57, 55, 57, 58, 51, 43, 42, 40, 40], "female": [57, 55, 57, 56, 49, 43, 45, 42, 40], "pregnant": [41, 42, 40]}}

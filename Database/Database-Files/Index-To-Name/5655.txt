@@ -1,0 +1,1 @@
+{"index": 5655, "name": "Cake, sponge, commercially prepared", "healthiness": {"lactating": [0, 1, -1], "male": [29, 15, 11, 11, 4, 1, 1, 0, -2], "female": [30, 16, 12, 9, 2, -2, -1, -3, -5], "pregnant": [0, 1, -1]}}

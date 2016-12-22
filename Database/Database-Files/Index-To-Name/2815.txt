@@ -1,0 +1,1 @@
+{"index": 2815, "name": "Amaranth leaves, raw", "healthiness": {"lactating": [62, 63, 61], "male": [52, 52, 51, 57, 59, 62, 62, 61, 60], "female": [52, 52, 51, 55, 57, 59, 62, 59, 57], "pregnant": [60, 63, 61]}}

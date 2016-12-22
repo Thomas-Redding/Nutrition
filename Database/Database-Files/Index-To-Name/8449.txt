@@ -1,0 +1,1 @@
+{"index": 8449, "name": "Tortilla, blue corn, Sakwavikaviki (Hopi)", "healthiness": {"lactating": [-5, -4, -5], "male": [6, -4, -9, -7, -7, -5, -3, -3, -5], "female": [6, -4, -9, -9, -9, -8, -5, -7, -8], "pregnant": [-7, -4, -6]}}

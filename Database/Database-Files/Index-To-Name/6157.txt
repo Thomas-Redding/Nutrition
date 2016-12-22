@@ -1,0 +1,1 @@
+{"index": 6157, "name": "Chocolate-flavored hazelnut spread", "healthiness": {"lactating": [-9, -8, -9], "male": [0, -11, -16, -13, -10, -7, -6, -7, -8], "female": [0, -11, -16, -14, -12, -11, -9, -11, -12], "pregnant": [-9, -8, -9]}}

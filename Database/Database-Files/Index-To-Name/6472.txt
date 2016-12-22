@@ -1,0 +1,1 @@
+{"index": 6472, "name": "Amaranth grain, uncooked", "healthiness": {"lactating": [19, 19, 17], "male": [39, 33, 34, 35, 26, 18, 18, 16, 15], "female": [39, 33, 34, 33, 24, 16, 18, 15, 13], "pregnant": [16, 18, 15]}}

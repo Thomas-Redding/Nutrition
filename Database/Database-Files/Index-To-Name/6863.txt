@@ -1,0 +1,1 @@
+{"index": 6863, "name": "McDONALD'S, McCHICKEN Sandwich", "healthiness": {"lactating": [-9, -8, -9], "male": [-3, -13, -18, -14, -11, -8, -7, -7, -9], "female": [-3, -13, -18, -16, -13, -11, -9, -11, -13], "pregnant": [-10, -8, -9]}}

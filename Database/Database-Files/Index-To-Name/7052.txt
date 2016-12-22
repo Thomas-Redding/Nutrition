@@ -1,0 +1,1 @@
+{"index": 7052, "name": "SPAGHETTIOS, SpaghettiOs plus Calcium", "healthiness": {"lactating": [-5, -4, -5], "male": [-11, -15, -14, -10, -8, -4, -3, -4, -7], "female": [-11, -15, -14, -12, -10, -8, -6, -7, -10], "pregnant": [-6, -5, -6]}}

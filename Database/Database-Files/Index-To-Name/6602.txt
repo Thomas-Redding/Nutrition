@@ -1,0 +1,1 @@
+{"index": 6602, "name": "Cornmeal, white, self-rising, bolted, with wheat flour added, enriched", "healthiness": {"lactating": [6, 6, 5], "male": [29, 24, 20, 19, 9, 5, 6, 5, 4], "female": [29, 24, 20, 17, 7, 3, 5, 3, 1], "pregnant": [3, 6, 4]}}

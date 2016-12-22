@@ -1,0 +1,1 @@
+{"index": 6553, "name": "Pasta, gluten-free, corn, cooked", "healthiness": {"lactating": [1, 1, 0], "male": [26, 15, 13, 12, 4, 1, 0, -1, -1], "female": [27, 15, 14, 10, 2, -1, 1, -2, -4], "pregnant": [0, 2, 0]}}

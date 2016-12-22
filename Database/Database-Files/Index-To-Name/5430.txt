@@ -1,0 +1,1 @@
+{"index": 5430, "name": "Game meat, bison, chuck, shoulder clod, separable lean only, cooked, braised", "healthiness": {"lactating": [39, 40, 39], "male": [45, 38, 38, 41, 40, 41, 43, 43, 41], "female": [45, 38, 38, 39, 38, 38, 40, 38, 37], "pregnant": [37, 39, 38]}}

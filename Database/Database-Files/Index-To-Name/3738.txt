@@ -1,0 +1,1 @@
+{"index": 3738, "name": "Nuts, almond butter, plain, with salt added", "healthiness": {"lactating": [10, 10, 8], "male": [34, 26, 23, 25, 16, 11, 10, 9, 8], "female": [34, 26, 23, 23, 14, 10, 11, 8, 6], "pregnant": [10, 11, 9]}}

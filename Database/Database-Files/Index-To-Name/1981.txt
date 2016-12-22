@@ -1,0 +1,1 @@
+{"index": 1981, "name": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS", "healthiness": {"lactating": [6, 7, 6], "male": [11, 9, 7, 11, 9, 9, 10, 9, 8], "female": [11, 9, 7, 9, 7, 7, 10, 8, 6], "pregnant": [6, 8, 7]}}

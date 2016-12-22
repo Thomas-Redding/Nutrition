@@ -1,0 +1,1 @@
+{"index": 8632, "name": "Margarine-like, butter-margarine blend, 80% fat, stick, without salt", "healthiness": {"lactating": [-11, -10, -11], "male": [-19, -21, -21, -16, -13, -9, -9, -10, -11], "female": [-19, -21, -21, -18, -15, -13, -11, -13, -15], "pregnant": [-10, -9, -11]}}

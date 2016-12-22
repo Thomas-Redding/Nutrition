@@ -1,0 +1,1 @@
+{"index": 4148, "name": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof", "healthiness": {"lactating": [-14, -13, -14], "male": [-25, -29, -29, -23, -17, -13, -12, -13, -14], "female": [-25, -29, -29, -25, -20, -16, -15, -16, -18], "pregnant": [-14, -13, -14]}}

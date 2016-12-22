@@ -1,0 +1,1 @@
+{"index": 1348, "name": "P REGO Pasta, Roasted Garlic and Herb Italian Sauce, ready-to-serve", "healthiness": {"lactating": [-12, -10, -12], "male": [-24, -28, -24, -19, -15, -11, -10, -10, -11], "female": [-24, -28, -24, -21, -17, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

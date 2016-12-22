@@ -1,0 +1,1 @@
+{"index": 4340, "name": "Lemonade, frozen concentrate, white, prepared with water", "healthiness": {"lactating": [-11, -10, -11], "male": [-10, -21, -21, -15, -12, -9, -9, -9, -11], "female": [-10, -21, -21, -17, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

@@ -1,0 +1,1 @@
+{"index": 1228, "name": "CAMPBELL'S, HEALTHY REQUEST, chicken with rice, condensed", "healthiness": {"lactating": [-4, -3, -4], "male": [11, 4, 0, 0, -3, -2, -1, -1, -3], "female": [11, 4, 0, -2, -4, -3, -2, -3, -5], "pregnant": [-3, -1, -3]}}

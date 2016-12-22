@@ -1,0 +1,1 @@
+{"index": 63, "name": "Dessert topping, powdered", "healthiness": {"lactating": [-8, -7, -9], "male": [0, -4, -9, -7, -9, -7, -8, -9, -10], "female": [1, -3, -8, -9, -11, -10, -9, -11, -14], "pregnant": [-8, -7, -9]}}

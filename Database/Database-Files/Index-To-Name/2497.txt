@@ -1,0 +1,1 @@
+{"index": 2497, "name": "Pork, fresh, leg (ham), shank half, separable lean only, cooked, roasted", "healthiness": {"lactating": [32, 33, 32], "male": [45, 36, 34, 37, 35, 35, 37, 36, 34], "female": [45, 36, 34, 35, 33, 33, 35, 34, 32], "pregnant": [32, 34, 33]}}

@@ -1,0 +1,1 @@
+{"index": 6996, "name": "Fast foods, breakfast burrito, with egg, cheese, and sausage", "healthiness": {"lactating": [14, 14, 12], "male": [46, 32, 25, 27, 22, 15, 13, 11, 10], "female": [46, 32, 25, 25, 20, 14, 14, 11, 8], "pregnant": [14, 15, 12]}}

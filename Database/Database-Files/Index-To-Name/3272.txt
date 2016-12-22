@@ -1,0 +1,1 @@
+{"index": 3272, "name": "Borage, cooked, boiled, drained, without salt", "healthiness": {"lactating": [25, 26, 25], "male": [18, 17, 17, 22, 24, 26, 28, 28, 26], "female": [18, 17, 17, 20, 21, 23, 26, 25, 22], "pregnant": [23, 26, 25]}}

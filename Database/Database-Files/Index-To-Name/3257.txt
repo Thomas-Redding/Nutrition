@@ -1,0 +1,1 @@
+{"index": 3257, "name": "Waterchestnuts, chinese, canned, solids and liquids", "healthiness": {"lactating": [-1, 0, -1], "male": [11, 0, 1, 1, 2, 2, 3, 3, 1], "female": [11, 0, 1, -1, 0, 0, 1, -1, -1], "pregnant": [-1, 0, -1]}}

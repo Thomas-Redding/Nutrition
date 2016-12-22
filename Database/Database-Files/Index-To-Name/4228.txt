@@ -1,0 +1,1 @@
+{"index": 4228, "name": "Beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners", "healthiness": {"lactating": [-13, -12, -13], "male": [-21, -27, -28, -21, -17, -12, -11, -12, -13], "female": [-21, -27, -28, -23, -19, -16, -14, -15, -17], "pregnant": [-14, -12, -13]}}

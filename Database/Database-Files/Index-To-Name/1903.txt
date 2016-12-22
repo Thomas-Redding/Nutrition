@@ -1,0 +1,1 @@
+{"index": 1903, "name": "Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP, Hearty Raisin", "healthiness": {"lactating": [-4, -3, -4], "male": [3, -3, -7, -5, -5, -2, -1, -2, -3], "female": [3, -3, -7, -7, -7, -6, -4, -6, -7], "pregnant": [-6, -5, -6]}}

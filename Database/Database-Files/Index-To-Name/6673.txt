@@ -1,0 +1,1 @@
+{"index": 6673, "name": "Fast foods, sundae, caramel", "healthiness": {"lactating": [4, 4, 2], "male": [34, 20, 16, 18, 9, 4, 3, 2, 1], "female": [34, 20, 16, 15, 7, 2, 4, 1, -2], "pregnant": [4, 5, 3]}}

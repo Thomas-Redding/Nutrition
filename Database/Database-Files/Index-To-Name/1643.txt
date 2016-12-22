@@ -1,0 +1,1 @@
+{"index": 1643, "name": "Ham, sliced, regular (approximately 11% fat)", "healthiness": {"lactating": [28, 29, 27], "male": [44, 37, 34, 34, 31, 30, 29, 28, 26], "female": [44, 37, 34, 32, 30, 29, 30, 28, 25], "pregnant": [28, 30, 28]}}

@@ -1,0 +1,1 @@
+{"index": 540, "name": "Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, with iron, powder, not reconstituted", "healthiness": {"lactating": [2, 4, 2], "male": [25, 15, 11, 8, 6, 5, 6, 6, 2], "female": [25, 15, 11, 7, 3, 2, 4, 2, 0], "pregnant": [2, 4, 3]}}

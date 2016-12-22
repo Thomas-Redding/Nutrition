@@ -1,0 +1,1 @@
+{"index": 593, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE, (LACTOSE FREE), liquid concentrate, with ARA and DHA", "healthiness": {"lactating": [2, 3, 2], "male": [27, 13, 10, 8, 5, 5, 6, 5, 2], "female": [27, 13, 10, 6, 3, 2, 4, 2, -1], "pregnant": [2, 3, 2]}}

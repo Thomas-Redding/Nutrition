@@ -1,0 +1,1 @@
+{"index": 6358, "name": "Snacks, pork skins, barbecue-flavor", "healthiness": {"lactating": [13, 14, 11], "male": [27, 12, 9, 14, 14, 14, 12, 11, 10], "female": [27, 12, 9, 12, 12, 12, 13, 10, 7], "pregnant": [13, 14, 12]}}

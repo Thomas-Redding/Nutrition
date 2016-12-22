@@ -1,0 +1,1 @@
+{"index": 7174, "name": "Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised", "healthiness": {"lactating": [36, 37, 36], "male": [48, 40, 35, 37, 36, 38, 40, 39, 37], "female": [48, 40, 35, 35, 34, 34, 36, 35, 34], "pregnant": [34, 36, 35]}}

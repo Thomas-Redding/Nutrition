@@ -1,0 +1,1 @@
+{"index": 1084, "name": "Ruffed Grouse, breast meat, skinless, raw", "healthiness": {"lactating": [5, 6, 5], "male": [7, -1, -2, 2, 3, 5, 7, 7, 5], "female": [7, -1, -2, 0, 0, 2, 5, 3, 2], "pregnant": [3, 6, 5]}}

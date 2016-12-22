@@ -1,0 +1,1 @@
+{"index": 969, "name": "Goose, domesticated, meat and skin, cooked, roasted", "healthiness": {"lactating": [25, 26, 24], "male": [48, 38, 28, 28, 26, 27, 26, 24, 23], "female": [48, 38, 28, 26, 24, 24, 26, 23, 21], "pregnant": [24, 26, 24]}}

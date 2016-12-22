@@ -1,0 +1,1 @@
+{"index": 6279, "name": "Frozen novelties, ice type, lime", "healthiness": {"lactating": [-14, -13, -14], "male": [-21, -29, -28, -22, -17, -13, -12, -12, -14], "female": [-21, -29, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -13, -14]}}

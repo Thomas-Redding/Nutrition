@@ -1,0 +1,1 @@
+{"index": 966, "name": "Duck, wild, meat and skin, raw", "healthiness": {"lactating": [27, 28, 26], "male": [42, 32, 32, 32, 30, 29, 29, 28, 26], "female": [42, 32, 32, 30, 28, 27, 28, 26, 24], "pregnant": [26, 27, 26]}}

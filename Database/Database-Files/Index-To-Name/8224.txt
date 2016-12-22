@@ -1,0 +1,1 @@
+{"index": 8224, "name": "Potatoes, yellow fleshed, hash brown, shredded, salt added in processing, frozen, unprepared", "healthiness": {"lactating": [-12, -11, -12], "male": [-23, -27, -24, -18, -14, -10, -10, -10, -12], "female": [-23, -27, -24, -20, -16, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

@@ -1,0 +1,1 @@
+{"index": 8333, "name": "Fish, salmon, tipnuk, fermented (Alaska Native)", "healthiness": {"lactating": [-12, -11, -12], "male": [-20, -23, -25, -19, -15, -11, -10, -11, -12], "female": [-20, -23, -25, -21, -17, -14, -13, -14, -16], "pregnant": [-13, -11, -12]}}

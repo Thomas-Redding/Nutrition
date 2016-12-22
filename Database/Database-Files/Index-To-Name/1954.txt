@@ -1,0 +1,1 @@
+{"index": 1954, "name": "Cereals, QUAKER, Instant Oatmeal, Cinnamon-Spice, dry", "healthiness": {"lactating": [3, 5, 3], "male": [15, 11, 9, 9, 6, 6, 8, 7, 5], "female": [15, 11, 9, 7, 4, 3, 5, 4, 3], "pregnant": [2, 4, 3]}}

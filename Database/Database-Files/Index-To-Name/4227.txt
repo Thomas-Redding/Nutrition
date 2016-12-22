@@ -1,0 +1,1 @@
+{"index": 4227, "name": "Beverages, carbonated, cola, regular", "healthiness": {"lactating": [-13, -12, -13], "male": [-20, -27, -28, -21, -17, -12, -12, -12, -13], "female": [-20, -27, -28, -23, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -13]}}

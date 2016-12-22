@@ -1,0 +1,1 @@
+{"index": 2249, "name": "Java-plum, (jambolan), raw", "healthiness": {"lactating": [-9, -8, -9], "male": [-7, -16, -18, -14, -10, -7, -7, -7, -9], "female": [-7, -16, -18, -16, -13, -10, -8, -10, -12], "pregnant": [-9, -7, -9]}}

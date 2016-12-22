@@ -1,0 +1,1 @@
+{"index": 3269, "name": "Beets, harvard, canned, solids and liquids", "healthiness": {"lactating": [-3, -2, -3], "male": [14, 6, 7, 5, 0, -1, -1, -2, -3], "female": [15, 7, 8, 2, -2, -3, -2, -3, -5], "pregnant": [-2, -1, -2]}}

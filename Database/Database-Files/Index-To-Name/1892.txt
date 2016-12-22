@@ -1,0 +1,1 @@
+{"index": 1892, "name": "Cereals ready-to-eat, QUAKER, QUAKER 100% Natural Granola with Oats, Wheat, Honey, and Raisins", "healthiness": {"lactating": [-4, -2, -4], "male": [12, 2, -4, -4, -4, -2, -1, -2, -3], "female": [12, 2, -4, -6, -6, -5, -2, -4, -5], "pregnant": [-4, -2, -3]}}

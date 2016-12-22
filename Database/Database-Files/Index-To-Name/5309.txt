@@ -1,0 +1,1 @@
+{"index": 5309, "name": "Lamb, variety meats and by-products, pancreas, cooked, braised", "healthiness": {"lactating": [30, 30, 29], "male": [41, 29, 29, 32, 30, 30, 30, 29, 28], "female": [41, 29, 29, 30, 28, 28, 30, 28, 25], "pregnant": [29, 30, 28]}}

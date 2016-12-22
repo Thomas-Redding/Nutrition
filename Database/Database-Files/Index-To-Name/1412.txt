@@ -1,0 +1,1 @@
+{"index": 1412, "name": "CAMPBELL'S Red and White, Manhattan Clam Chowder, condensed", "healthiness": {"lactating": [-11, -10, -11], "male": [-24, -27, -24, -19, -14, -10, -9, -10, -11], "female": [-24, -27, -24, -21, -16, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

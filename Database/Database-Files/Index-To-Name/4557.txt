@@ -1,0 +1,1 @@
+{"index": 4557, "name": "Fish, salmon, Atlantic, wild, raw", "healthiness": {"lactating": [39, 40, 39], "male": [44, 35, 35, 39, 40, 42, 43, 43, 41], "female": [44, 35, 35, 37, 38, 39, 41, 39, 38], "pregnant": [39, 41, 40]}}

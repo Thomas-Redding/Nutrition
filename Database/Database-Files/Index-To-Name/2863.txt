@@ -1,0 +1,1 @@
+{"index": 2863, "name": "Beets, cooked, boiled, drained", "healthiness": {"lactating": [14, 15, 13], "male": [42, 35, 35, 33, 23, 15, 15, 14, 13], "female": [43, 36, 36, 31, 21, 14, 15, 13, 11], "pregnant": [14, 15, 13]}}

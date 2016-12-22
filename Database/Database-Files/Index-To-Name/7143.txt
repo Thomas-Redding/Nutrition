@@ -1,0 +1,1 @@
+{"index": 7143, "name": "Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0\" fat, all grades, raw", "healthiness": {"lactating": [37, 38, 37], "male": [45, 38, 36, 39, 39, 39, 41, 40, 38], "female": [45, 38, 36, 37, 37, 37, 39, 37, 36], "pregnant": [35, 37, 36]}}

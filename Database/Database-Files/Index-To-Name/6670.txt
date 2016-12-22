@@ -1,0 +1,1 @@
+{"index": 6670, "name": "Fast foods, french toast sticks", "healthiness": {"lactating": [-9, -8, -9], "male": [0, -12, -17, -14, -11, -8, -7, -8, -9], "female": [0, -12, -17, -16, -13, -11, -10, -11, -13], "pregnant": [-10, -8, -10]}}

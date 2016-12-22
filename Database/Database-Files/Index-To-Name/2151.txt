@@ -1,0 +1,1 @@
+{"index": 2151, "name": "Apricots, dried, sulfured, stewed, without added sugar", "healthiness": {"lactating": [-2, -1, -3], "male": [21, 9, 5, 4, 0, -1, 0, -1, -2], "female": [22, 9, 5, 2, -2, -3, -2, -3, -5], "pregnant": [-2, -1, -2]}}

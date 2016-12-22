@@ -1,0 +1,1 @@
+{"index": 1881, "name": "Cereals ready-to-eat, POST SELECTS Blueberry Morning", "healthiness": {"lactating": [-1, 1, -1], "male": [13, 4, 2, 4, 2, 2, 3, 3, 1], "female": [13, 4, 2, 2, 0, 0, 2, 0, -2], "pregnant": [0, 1, 0]}}

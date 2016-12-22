@@ -1,0 +1,1 @@
+{"index": 8701, "name": "Vegetables, mixed (corn, lima beans, peas, green beans, carrots) canned, no salt added", "healthiness": {"lactating": [10, 12, 10], "male": [16, 11, 13, 16, 13, 12, 14, 13, 12], "female": [16, 11, 13, 14, 11, 10, 13, 11, 10], "pregnant": [9, 12, 10]}}

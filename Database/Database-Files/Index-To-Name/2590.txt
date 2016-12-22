@@ -1,0 +1,1 @@
+{"index": 2590, "name": "Pork, fresh, variety meats and by-products, spleen, raw", "healthiness": {"lactating": [45, 46, 45], "male": [48, 43, 41, 46, 47, 48, 50, 49, 48], "female": [48, 43, 41, 44, 45, 46, 49, 47, 45], "pregnant": [45, 48, 47]}}

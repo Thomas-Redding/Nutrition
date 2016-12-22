@@ -1,0 +1,1 @@
+{"index": 3834, "name": "Beef, chuck, arm pot roast, separable lean only, trimmed to 0\" fat, choice, cooked, braised", "healthiness": {"lactating": [33, 34, 33], "male": [47, 37, 31, 34, 34, 35, 37, 36, 35], "female": [47, 37, 31, 32, 31, 32, 34, 32, 31], "pregnant": [32, 34, 33]}}

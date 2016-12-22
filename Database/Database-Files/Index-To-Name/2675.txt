@@ -1,0 +1,1 @@
+{"index": 2675, "name": "Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean only, raw", "healthiness": {"lactating": [33, 34, 33], "male": [44, 35, 34, 37, 35, 35, 37, 36, 34], "female": [44, 35, 34, 35, 33, 33, 35, 34, 32], "pregnant": [32, 34, 33]}}

@@ -1,0 +1,1 @@
+{"index": 2387, "name": "Strawberries, frozen, sweetened, whole", "healthiness": {"lactating": [-3, -2, -3], "male": [11, 0, -4, -3, -3, -1, -1, -2, -3], "female": [12, 1, -4, -5, -5, -4, -2, -4, -6], "pregnant": [-3, -1, -3]}}

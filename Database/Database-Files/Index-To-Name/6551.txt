@@ -1,0 +1,1 @@
+{"index": 6551, "name": "Rice flour, brown", "healthiness": {"lactating": [7, 7, 5], "male": [31, 26, 24, 22, 11, 7, 7, 6, 5], "female": [32, 27, 24, 19, 9, 5, 7, 5, 2], "pregnant": [6, 7, 5]}}

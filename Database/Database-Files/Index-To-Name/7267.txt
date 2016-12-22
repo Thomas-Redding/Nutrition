@@ -1,0 +1,1 @@
+{"index": 7267, "name": "Beef, rib eye steak, boneless, lip off, separable lean only, trimmed to 0\" fat, choice, raw", "healthiness": {"lactating": [35, 36, 35], "male": [46, 38, 33, 36, 37, 38, 40, 39, 37], "female": [46, 38, 33, 34, 35, 35, 37, 35, 34], "pregnant": [34, 36, 35]}}

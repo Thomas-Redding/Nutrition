@@ -1,0 +1,1 @@
+{"index": 1585, "name": "Sauce, chili, peppers, hot, immature green, canned", "healthiness": {"lactating": [16, 18, 16], "male": [17, 12, 15, 18, 18, 17, 18, 18, 17], "female": [17, 12, 15, 16, 16, 15, 17, 16, 15], "pregnant": [15, 17, 16]}}

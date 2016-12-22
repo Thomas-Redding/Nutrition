@@ -1,0 +1,1 @@
+{"index": 64, "name": "Dessert topping, powdered, 1.5 ounce prepared with 1/2 cup milk", "healthiness": {"lactating": [1, 1, -1], "male": [29, 17, 10, 11, 5, 1, 0, -1, -2], "female": [29, 17, 11, 8, 2, -1, 0, -2, -6], "pregnant": [1, 2, 0]}}

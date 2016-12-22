@@ -1,0 +1,1 @@
+{"index": 267, "name": "Spices, fennel seed", "healthiness": {"lactating": [33, 34, 31], "male": [38, 37, 41, 44, 38, 33, 31, 30, 29], "female": [38, 37, 41, 42, 36, 32, 34, 31, 27], "pregnant": [31, 33, 31]}}

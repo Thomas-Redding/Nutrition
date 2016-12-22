@@ -1,0 +1,1 @@
+{"index": 2007, "name": "Cereals, KASHI GO LEAN Hot Cereal, Creamy TRULY VANILLA, dry", "healthiness": {"lactating": [-10, -9, -10], "male": [-16, -24, -22, -17, -13, -10, -8, -9, -10], "female": [-16, -24, -22, -19, -15, -13, -11, -12, -13], "pregnant": [-11, -9, -10]}}

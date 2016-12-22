@@ -1,0 +1,1 @@
+{"index": 187, "name": "Yogurt, vanilla, low fat, 11 grams protein per 8 ounce, fortified with vitamin D", "healthiness": {"lactating": [29, 29, 26], "male": [46, 35, 34, 34, 31, 29, 27, 26, 23], "female": [46, 35, 34, 32, 29, 27, 29, 26, 21], "pregnant": [28, 29, 27]}}

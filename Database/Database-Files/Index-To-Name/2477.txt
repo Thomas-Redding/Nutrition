@@ -1,0 +1,1 @@
+{"index": 2477, "name": "Fruit juice smoothie, NAKED JUICE, strawberry banana", "healthiness": {"lactating": [-5, -3, -5], "male": [10, 1, -4, -2, -2, -2, -1, -2, -3], "female": [10, 1, -4, -4, -4, -3, -2, -4, -6], "pregnant": [-4, -2, -3]}}

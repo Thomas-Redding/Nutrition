@@ -1,0 +1,1 @@
+{"index": 313, "name": "Seasoning mix, dry, chili, original", "healthiness": {"lactating": [-11, -10, -11], "male": [-26, -28, -25, -20, -14, -11, -10, -10, -11], "female": [-26, -28, -25, -21, -17, -14, -13, -14, -15], "pregnant": [-12, -11, -12]}}

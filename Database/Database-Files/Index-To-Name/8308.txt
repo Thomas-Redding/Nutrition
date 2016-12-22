@@ -1,0 +1,1 @@
+{"index": 8308, "name": "Cranberries, wild, bush, raw (Alaska Native)", "healthiness": {"lactating": [-4, -3, -4], "male": [-13, -18, -15, -10, -5, -2, -1, -2, -3], "female": [-13, -18, -15, -12, -8, -6, -4, -6, -7], "pregnant": [-4, -3, -4]}}

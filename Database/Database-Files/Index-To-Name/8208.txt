@@ -1,0 +1,1 @@
+{"index": 8208, "name": "CAMPBELL'S, V8 Vegetable Juice, Low Sodium V8", "healthiness": {"lactating": [-6, -5, -6], "male": [-17, -20, -18, -13, -8, -5, -4, -4, -5], "female": [-17, -20, -18, -15, -10, -7, -6, -7, -8], "pregnant": [-5, -4, -5]}}

@@ -1,0 +1,1 @@
+{"index": 2358, "name": "Pomegranates, raw", "healthiness": {"lactating": [-2, -1, -2], "male": [12, 0, -1, 1, 1, 1, 1, 0, -1], "female": [12, 0, -1, -1, -1, -1, 0, -1, -3], "pregnant": [-1, 0, -1]}}

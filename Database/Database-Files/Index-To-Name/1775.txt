@@ -1,0 +1,1 @@
+{"index": 1775, "name": "Cereals ready-to-eat, POST, ALPHA-BITS", "healthiness": {"lactating": [13, 14, 13], "male": [20, 18, 17, 18, 17, 17, 18, 17, 13], "female": [20, 18, 17, 16, 15, 16, 18, 16, 12], "pregnant": [14, 16, 14]}}

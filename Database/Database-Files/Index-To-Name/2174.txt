@@ -1,0 +1,1 @@
+{"index": 2174, "name": "Carissa, (natal-plum), raw", "healthiness": {"lactating": [-3, -2, -3], "male": [-8, -12, -12, -8, -4, -1, 0, -1, -2], "female": [-8, -12, -12, -10, -7, -5, -4, -5, -6], "pregnant": [-4, -3, -4]}}

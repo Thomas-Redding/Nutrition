@@ -1,0 +1,1 @@
+{"index": 6029, "name": "KASHI, TLC, Fire Roasted Vegetable Crackers", "healthiness": {"lactating": [-7, -6, -7], "male": [-5, -12, -13, -10, -10, -7, -5, -6, -7], "female": [-5, -12, -13, -12, -12, -10, -7, -9, -11], "pregnant": [-9, -6, -8]}}

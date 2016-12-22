@@ -1,0 +1,1 @@
+{"index": 1684, "name": "Smoked link sausage, pork and beef, nonfat dry milk added", "healthiness": {"lactating": [12, 12, 10], "male": [37, 21, 18, 21, 20, 13, 10, 9, 8], "female": [37, 21, 18, 19, 18, 11, 11, 8, 5], "pregnant": [12, 12, 10]}}

@@ -1,0 +1,1 @@
+{"index": 7707, "name": "Formulated bar, MARS SNACKFOOD US, COCOAVIA, Chocolate Almond Snack Bar", "healthiness": {"lactating": [-4, -2, -4], "male": [-12, -16, -13, -7, -4, -1, 0, -1, -3], "female": [-12, -16, -13, -9, -6, -4, -3, -4, -6], "pregnant": [-4, -2, -3]}}

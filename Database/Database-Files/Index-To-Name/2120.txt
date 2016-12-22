@@ -1,0 +1,1 @@
+{"index": 2120, "name": "Acerola juice, raw", "healthiness": {"lactating": [6, 7, 6], "male": [16, 8, 8, 9, 9, 8, 9, 9, 8], "female": [16, 8, 8, 7, 6, 6, 7, 6, 5], "pregnant": [5, 7, 6]}}

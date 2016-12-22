@@ -1,0 +1,1 @@
+{"index": 6462, "name": "Candies, M&M MARS 3 MUSKETEERS Truffle Crisp", "healthiness": {"lactating": [-10, -9, -10], "male": [2, -11, -18, -15, -12, -9, -8, -8, -10], "female": [2, -11, -18, -16, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

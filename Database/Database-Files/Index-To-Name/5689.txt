@@ -1,0 +1,1 @@
+{"index": 5689, "name": "Cookies, molasses", "healthiness": {"lactating": [-2, -2, -3], "male": [22, 12, 6, 4, -1, -1, -1, -2, -3], "female": [23, 13, 6, 2, -2, -4, -3, -5, -6], "pregnant": [-3, -2, -4]}}

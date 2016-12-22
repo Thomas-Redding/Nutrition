@@ -1,0 +1,1 @@
+{"index": 2978, "name": "Jew's ear, (pepeao), raw", "healthiness": {"lactating": [15, 16, 15], "male": [13, 8, 8, 12, 16, 16, 18, 17, 15], "female": [13, 8, 8, 10, 14, 14, 16, 14, 13], "pregnant": [12, 15, 14]}}

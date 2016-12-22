@@ -1,0 +1,1 @@
+{"index": 6262, "name": "Candies, HERSHEY, KIT KAT BIG KAT Bar", "healthiness": {"lactating": [-13, -12, -13], "male": [-21, -27, -27, -21, -16, -12, -11, -12, -13], "female": [-21, -27, -27, -23, -19, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

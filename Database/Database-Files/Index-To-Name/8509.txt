@@ -1,0 +1,1 @@
+{"index": 8509, "name": "OLIVE GARDEN, chicken parmigiana without pasta", "healthiness": {"lactating": [24, 25, 23], "male": [44, 33, 26, 29, 27, 26, 24, 22, 21], "female": [44, 33, 26, 27, 24, 24, 25, 23, 19], "pregnant": [24, 26, 23]}}

@@ -1,0 +1,1 @@
+{"index": 2241, "name": "Grapes, canned, thompson seedless, water pack, solids and liquids", "healthiness": {"lactating": [1, 2, 0], "male": [16, 7, 7, 6, 3, 3, 2, 2, 0], "female": [16, 7, 8, 4, 1, -1, 0, -2, -2], "pregnant": [0, 0, -1]}}

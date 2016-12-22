@@ -1,0 +1,12 @@
+Each file in Food-Data is a JSON string corresponding to a particular food. It has the following fields:
+- food_id - an integer ranging from 0 to roughly 10,000
+- short_name - a colloquial name for the food item
+- long_name - a longer, all-caps name for the food item
+- nutrients - a dictionary of nutrients (strings, keys) and their concentrations (floats, values); the units are all milligrams and kilocalories as appropriate
+- weights - a dictionary of weight-descriptions (strings, keys) and weights (floats, values); the weights are all in grams
+
+
+
+- components - an array of index-weight pairs:
+
+components: [{index: 321, weight: 41}, {index: 322, weight: 42}]

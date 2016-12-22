@@ -1,0 +1,1 @@
+{"index": 2902, "name": "Carrots, canned, regular pack, solids and liquids", "healthiness": {"lactating": [29, 30, 28], "male": [50, 47, 51, 48, 36, 30, 30, 29, 28], "female": [51, 48, 51, 46, 35, 29, 30, 28, 27], "pregnant": [27, 29, 27]}}

@@ -1,0 +1,1 @@
+{"index": 7183, "name": "Beef, chuck for stew, separable lean and fat, all grades, raw", "healthiness": {"lactating": [39, 40, 39], "male": [49, 41, 36, 39, 40, 41, 44, 43, 41], "female": [49, 41, 36, 37, 37, 38, 41, 39, 38], "pregnant": [37, 40, 38]}}

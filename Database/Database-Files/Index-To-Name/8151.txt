@@ -1,0 +1,1 @@
+{"index": 8151, "name": "Cookies, oatmeal, reduced fat", "healthiness": {"lactating": [-8, -7, -8], "male": [0, -11, -13, -11, -9, -6, -6, -6, -7], "female": [0, -11, -13, -13, -11, -9, -7, -9, -10], "pregnant": [-8, -6, -8]}}

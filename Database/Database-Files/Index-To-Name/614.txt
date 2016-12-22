@@ -1,0 +1,1 @@
+{"index": 614, "name": "Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, GENTLEASE, Toddler, ready-to-feed", "healthiness": {"lactating": [6, 7, 6], "male": [31, 19, 17, 13, 9, 8, 10, 9, 6], "female": [31, 19, 17, 11, 7, 5, 7, 6, 3], "pregnant": [5, 7, 6]}}

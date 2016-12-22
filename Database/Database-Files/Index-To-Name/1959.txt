@@ -1,0 +1,1 @@
+{"index": 1959, "name": "Cereals, QUAKER, Instant Grits, Redeye Gravy & Country Ham flavor, dry", "healthiness": {"lactating": [-4, -3, -4], "male": [-5, -11, -12, -7, -6, -3, -2, -3, -4], "female": [-5, -11, -12, -9, -8, -6, -4, -5, -8], "pregnant": [-5, -3, -4]}}

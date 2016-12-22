@@ -1,0 +1,1 @@
+{"index": 610, "name": "Infant formula, NESTLE, GOOD START SOY, with DHA and ARA, liquid concentrate", "healthiness": {"lactating": [3, 4, 3], "male": [26, 16, 12, 9, 6, 5, 7, 6, 3], "female": [26, 16, 12, 7, 4, 3, 4, 3, 0], "pregnant": [3, 4, 3]}}

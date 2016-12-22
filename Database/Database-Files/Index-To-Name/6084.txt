@@ -1,0 +1,1 @@
+{"index": 6084, "name": "Snacks, potato chips, made from dried potatoes, reduced fat", "healthiness": {"lactating": [-6, -5, -6], "male": [19, 6, 0, 0, -4, -4, -4, -5, -6], "female": [20, 7, 1, -3, -6, -7, -6, -8, -10], "pregnant": [-6, -4, -6]}}

@@ -1,0 +1,1 @@
+{"index": 3617, "name": "Seeds, safflower seed kernels, dried", "healthiness": {"lactating": [14, 14, 12], "male": [35, 30, 28, 29, 22, 15, 14, 13, 12], "female": [35, 30, 28, 27, 20, 14, 15, 12, 10], "pregnant": [13, 15, 13]}}

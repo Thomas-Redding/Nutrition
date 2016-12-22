@@ -1,0 +1,1 @@
+{"index": 6804, "name": "DOMINO'S 14\" Cheese Pizza, Crunchy Thin Crust", "healthiness": {"lactating": [14, 14, 11], "male": [40, 28, 21, 22, 19, 14, 11, 10, 9], "female": [40, 28, 21, 20, 17, 12, 13, 10, 7], "pregnant": [13, 14, 12]}}

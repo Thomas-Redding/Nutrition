@@ -1,0 +1,1 @@
+{"index": 1841, "name": "Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), cooked with water, without salt", "healthiness": {"lactating": [19, 19, 17], "male": [42, 38, 35, 36, 25, 20, 18, 17, 16], "female": [42, 38, 35, 34, 24, 19, 20, 17, 14], "pregnant": [19, 20, 18]}}

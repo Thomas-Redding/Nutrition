@@ -1,0 +1,1 @@
+{"index": 2153, "name": "Apricots, frozen, sweetened", "healthiness": {"lactating": [-5, -4, -5], "male": [13, -1, -1, 0, -3, -3, -3, -3, -5], "female": [13, -1, 0, -2, -5, -6, -4, -6, -8], "pregnant": [-5, -4, -5]}}

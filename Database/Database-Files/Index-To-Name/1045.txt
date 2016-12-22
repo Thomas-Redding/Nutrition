@@ -1,0 +1,1 @@
+{"index": 1045, "name": "Chicken, wing, frozen, glazed, barbecue flavored, heated (microwave)", "healthiness": {"lactating": [27, 27, 26], "male": [37, 30, 26, 28, 28, 28, 28, 26, 26], "female": [37, 30, 26, 26, 25, 26, 27, 25, 23], "pregnant": [26, 27, 26]}}

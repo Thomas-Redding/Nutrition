@@ -1,0 +1,1 @@
+{"index": 5529, "name": "Veal, external fat only, cooked", "healthiness": {"lactating": [5, 5, 3], "male": [33, 17, 13, 17, 10, 5, 4, 3, 1], "female": [33, 17, 13, 14, 8, 3, 4, 1, -2], "pregnant": [5, 5, 3]}}

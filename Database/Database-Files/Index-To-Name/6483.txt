@@ -1,0 +1,1 @@
+{"index": 6483, "name": "Bulgur, cooked", "healthiness": {"lactating": [14, 14, 11], "male": [37, 30, 26, 26, 19, 14, 12, 11, 10], "female": [37, 30, 26, 24, 17, 12, 13, 11, 9], "pregnant": [13, 14, 11]}}

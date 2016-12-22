@@ -1,0 +1,1 @@
+{"index": 3537, "name": "Mountain yam, hawaii, cooked, steamed, with salt", "healthiness": {"lactating": [1, 2, 0], "male": [25, 17, 15, 14, 6, 3, 3, 2, 1], "female": [26, 18, 16, 12, 4, 1, 2, 0, -2], "pregnant": [2, 3, 1]}}

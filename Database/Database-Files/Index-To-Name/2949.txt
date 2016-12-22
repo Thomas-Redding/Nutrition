@@ -1,0 +1,1 @@
+{"index": 2949, "name": "Cowpeas, young pods with seeds, raw", "healthiness": {"lactating": [24, 25, 24], "male": [26, 23, 27, 29, 28, 27, 30, 29, 27], "female": [26, 23, 27, 27, 27, 26, 29, 27, 26], "pregnant": [24, 27, 25]}}

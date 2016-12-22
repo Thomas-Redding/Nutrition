@@ -1,0 +1,1 @@
+{"index": 3715, "name": "Seeds, flaxseed", "healthiness": {"lactating": [18, 18, 15], "male": [41, 34, 30, 31, 25, 18, 16, 15, 14], "female": [41, 34, 30, 29, 23, 17, 19, 16, 13], "pregnant": [17, 18, 16]}}

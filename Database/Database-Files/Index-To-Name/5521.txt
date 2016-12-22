@@ -1,0 +1,1 @@
+{"index": 5521, "name": "Veal, ground, cooked, pan-fried", "healthiness": {"lactating": [33, 34, 33], "male": [48, 39, 34, 37, 35, 35, 37, 36, 34], "female": [48, 39, 34, 35, 33, 33, 35, 33, 31], "pregnant": [32, 34, 33]}}

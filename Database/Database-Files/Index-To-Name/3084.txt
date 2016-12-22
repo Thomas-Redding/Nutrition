@@ -1,0 +1,1 @@
+{"index": 3084, "name": "Potatoes, white, flesh and skin, baked", "healthiness": {"lactating": [5, 6, 4], "male": [37, 31, 27, 24, 13, 7, 7, 6, 4], "female": [38, 32, 28, 22, 11, 6, 7, 5, 2], "pregnant": [6, 7, 5]}}

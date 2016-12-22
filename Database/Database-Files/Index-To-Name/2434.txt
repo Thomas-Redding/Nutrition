@@ -1,0 +1,1 @@
+{"index": 2434, "name": "Guanabana nectar, canned", "healthiness": {"lactating": [-10, -9, -10], "male": [-10, -20, -21, -16, -11, -8, -8, -8, -10], "female": [-10, -20, -21, -18, -13, -11, -10, -12, -13], "pregnant": [-10, -9, -10]}}

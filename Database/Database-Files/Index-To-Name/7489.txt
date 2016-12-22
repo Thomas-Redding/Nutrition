@@ -1,0 +1,1 @@
+{"index": 7489, "name": "Beef, New Zealand, imported, flank, separable lean only, raw", "healthiness": {"lactating": [30, 32, 30], "male": [37, 28, 26, 29, 30, 32, 33, 33, 31], "female": [37, 28, 26, 28, 28, 29, 31, 30, 28], "pregnant": [29, 31, 30]}}

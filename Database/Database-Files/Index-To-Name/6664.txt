@@ -1,0 +1,1 @@
+{"index": 6664, "name": "Fast foods, croissant, with egg, cheese, and sausage", "healthiness": {"lactating": [11, 11, 9], "male": [44, 30, 22, 24, 18, 12, 10, 9, 7], "female": [44, 30, 22, 22, 16, 11, 11, 8, 5], "pregnant": [11, 12, 9]}}

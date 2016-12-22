@@ -1,0 +1,1 @@
+{"index": 6567, "name": "Noodles, japanese, soba, dry", "healthiness": {"lactating": [11, 11, 9], "male": [32, 25, 20, 22, 16, 11, 9, 8, 7], "female": [32, 25, 20, 20, 14, 10, 10, 8, 5], "pregnant": [11, 11, 9]}}

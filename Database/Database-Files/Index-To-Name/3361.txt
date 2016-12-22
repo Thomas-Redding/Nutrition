@@ -1,0 +1,1 @@
+{"index": 3361, "name": "Broccoli, frozen, spears, cooked, boiled, drained, with salt", "healthiness": {"lactating": [54, 54, 52], "male": [59, 57, 62, 63, 61, 56, 57, 55, 54], "female": [59, 57, 62, 61, 59, 55, 58, 55, 53], "pregnant": [53, 56, 53]}}

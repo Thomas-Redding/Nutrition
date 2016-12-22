@@ -1,0 +1,1 @@
+{"index": 307, "name": "Spearmint, dried", "healthiness": {"lactating": [46, 46, 44], "male": [44, 43, 45, 49, 50, 47, 45, 44, 44], "female": [44, 43, 45, 47, 47, 45, 47, 45, 41], "pregnant": [47, 48, 46]}}

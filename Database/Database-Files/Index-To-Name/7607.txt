@@ -1,0 +1,1 @@
+{"index": 7607, "name": "Beef, ground, 90% lean meat / 10% fat, patty, cooked, pan-broiled", "healthiness": {"lactating": [32, 33, 31], "male": [44, 34, 30, 34, 33, 33, 34, 33, 32], "female": [44, 34, 30, 32, 31, 31, 33, 31, 29], "pregnant": [30, 32, 31]}}

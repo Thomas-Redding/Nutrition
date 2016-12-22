@@ -1,0 +1,1 @@
+{"index": 5388, "name": "Lamb, Australian, imported, fresh, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8\" fat, cooked, roasted", "healthiness": {"lactating": [28, 30, 28], "male": [41, 31, 28, 31, 29, 30, 31, 30, 29], "female": [41, 31, 28, 29, 27, 28, 30, 28, 26], "pregnant": [28, 30, 28]}}

@@ -1,0 +1,1 @@
+{"index": 3655, "name": "Nuts, coconut meat, raw", "healthiness": {"lactating": [-3, -2, -4], "male": [12, 2, 3, 2, -2, -2, -2, -3, -4], "female": [13, 3, 4, 0, -4, -4, -3, -5, -7], "pregnant": [-3, -2, -3]}}

@@ -1,0 +1,1 @@
+{"index": 1814, "name": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Rice", "healthiness": {"lactating": [-10, -9, -10], "male": [-6, -16, -19, -15, -12, -9, -8, -8, -10], "female": [-6, -16, -19, -17, -14, -12, -10, -12, -14], "pregnant": [-11, -9, -10]}}

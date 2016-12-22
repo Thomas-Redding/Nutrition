@@ -1,0 +1,1 @@
+{"index": 8580, "name": "Vegetable oil-butter spread, reduced calorie", "healthiness": {"lactating": [-10, -9, -10], "male": [-18, -19, -19, -13, -10, -7, -8, -8, -9], "female": [-18, -19, -19, -15, -12, -10, -9, -11, -13], "pregnant": [-8, -7, -9]}}

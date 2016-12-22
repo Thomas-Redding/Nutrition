@@ -1,0 +1,1 @@
+{"index": 1237, "name": "Soup, cream of mushroom, canned, condensed", "healthiness": {"lactating": [-3, -2, -3], "male": [16, 2, 0, 0, -2, -1, -2, -3, -5], "female": [17, 3, 1, -2, -4, -4, -3, -5, -8], "pregnant": [-2, -2, -3]}}

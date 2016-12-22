@@ -1,0 +1,1 @@
+{"index": 3044, "name": "Parsley, fresh", "healthiness": {"lactating": [58, 59, 57], "male": [55, 55, 59, 65, 63, 60, 59, 58, 57], "female": [55, 55, 59, 63, 62, 61, 62, 60, 56], "pregnant": [59, 61, 59]}}

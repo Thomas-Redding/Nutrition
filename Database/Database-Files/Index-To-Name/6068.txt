@@ -1,0 +1,1 @@
+{"index": 6068, "name": "Candies, honey-combed, with peanut butter", "healthiness": {"lactating": [-4, -3, -5], "male": [20, 7, 3, 3, -2, -3, -3, -4, -5], "female": [20, 8, 3, 0, -4, -6, -4, -6, -9], "pregnant": [-4, -3, -5]}}

@@ -1,0 +1,1 @@
+{"index": 2093, "name": "Cereals, QUAKER, Weight Control Instant Oatmeal, maple and brown sugar", "healthiness": {"lactating": [0, 2, 0], "male": [0, -3, -2, 1, 1, 1, 3, 3, 1], "female": [0, -3, -2, -1, -1, -2, 1, -1, -1], "pregnant": [-3, 0, -2]}}

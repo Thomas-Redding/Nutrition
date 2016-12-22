@@ -1,0 +1,1 @@
+{"index": 1882, "name": "Cereals ready-to-eat, GENERAL MILLS, REESE'S PUFFS", "healthiness": {"lactating": [14, 16, 14], "male": [25, 17, 15, 17, 18, 19, 20, 19, 16], "female": [25, 17, 15, 16, 16, 17, 18, 16, 14], "pregnant": [14, 16, 14]}}

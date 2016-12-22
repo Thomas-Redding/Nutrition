@@ -1,0 +1,1 @@
+{"index": 2117, "name": "Cereals ready-to-eat, KELLOGG'S, SPECIAL K protein, cinnamon brown sugar crunch", "healthiness": {"lactating": [12, 13, 12], "male": [8, 4, 3, 7, 10, 13, 14, 14, 11], "female": [8, 4, 3, 6, 8, 11, 13, 11, 8], "pregnant": [11, 13, 12]}}

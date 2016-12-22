@@ -1,0 +1,1 @@
+{"index": 5920, "name": "Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Brown sugar cinnamon", "healthiness": {"lactating": [-11, -9, -11], "male": [-10, -18, -20, -16, -13, -9, -8, -9, -10], "female": [-10, -18, -20, -18, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

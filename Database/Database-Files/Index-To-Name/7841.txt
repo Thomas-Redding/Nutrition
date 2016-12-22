@@ -1,0 +1,1 @@
+{"index": 7841, "name": "GIRL SCOUTS, Tagalongs Cookies", "healthiness": {"lactating": [-13, -11, -13], "male": [-20, -26, -26, -20, -16, -12, -11, -11, -13], "female": [-20, -26, -26, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

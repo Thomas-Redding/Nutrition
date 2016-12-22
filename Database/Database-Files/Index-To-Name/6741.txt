@@ -1,0 +1,1 @@
+{"index": 6741, "name": "SUBWAY, steak & cheese sub on white bread with American cheese, lettuce and tomato", "healthiness": {"lactating": [-2, 0, -2], "male": [16, 9, 3, 3, 0, 0, 2, 1, 0], "female": [16, 9, 3, 1, -2, -2, 0, -2, -3], "pregnant": [-3, 0, -2]}}

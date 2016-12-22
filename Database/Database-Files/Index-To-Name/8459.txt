@@ -1,0 +1,1 @@
+{"index": 8459, "name": "T.G.I. FRIDAY'S, fried mozzarella", "healthiness": {"lactating": [15, 15, 13], "male": [38, 26, 22, 23, 21, 15, 14, 12, 11], "female": [38, 26, 22, 21, 19, 14, 15, 12, 9], "pregnant": [15, 16, 14]}}

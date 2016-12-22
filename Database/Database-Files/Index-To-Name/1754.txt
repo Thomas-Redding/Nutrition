@@ -1,0 +1,1 @@
+{"index": 1754, "name": "Bologna, chicken, pork, beef", "healthiness": {"lactating": [-8, -6, -8], "male": [6, -6, -10, -8, -8, -6, -5, -5, -7], "female": [6, -6, -10, -10, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 5242, "name": "Game meat, antelope, raw", "healthiness": {"lactating": [26, 27, 26], "male": [26, 21, 22, 25, 25, 26, 29, 28, 27], "female": [26, 21, 22, 23, 22, 22, 25, 23, 23], "pregnant": [23, 26, 24]}}

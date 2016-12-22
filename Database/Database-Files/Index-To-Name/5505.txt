@@ -1,0 +1,1 @@
+{"index": 5505, "name": "Lamb, New Zealand, imported, loin saddle, separable lean and fat, raw", "healthiness": {"lactating": [19, 20, 17], "male": [34, 21, 18, 20, 21, 20, 17, 15, 14], "female": [34, 21, 18, 18, 19, 18, 19, 16, 12], "pregnant": [19, 20, 17]}}

@@ -1,0 +1,1 @@
+{"index": 6665, "name": "Fast foods, egg, scrambled", "healthiness": {"lactating": [28, 29, 27], "male": [47, 37, 34, 34, 32, 30, 29, 27, 26], "female": [47, 37, 34, 32, 30, 28, 29, 27, 24], "pregnant": [28, 29, 27]}}

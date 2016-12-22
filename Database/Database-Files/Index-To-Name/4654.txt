@@ -1,0 +1,1 @@
+{"index": 4654, "name": "Mollusks, whelk, unspecified, raw", "healthiness": {"lactating": [40, 41, 40], "male": [45, 42, 39, 42, 41, 42, 43, 42, 40], "female": [45, 42, 39, 40, 39, 39, 41, 39, 38], "pregnant": [37, 40, 39]}}

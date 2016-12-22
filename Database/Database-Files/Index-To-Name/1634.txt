@@ -1,0 +1,1 @@
+{"index": 1634, "name": "Chorizo, pork and beef", "healthiness": {"lactating": [17, 17, 15], "male": [38, 25, 20, 22, 21, 18, 16, 14, 13], "female": [38, 25, 20, 20, 19, 16, 17, 14, 11], "pregnant": [17, 18, 15]}}

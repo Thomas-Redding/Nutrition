@@ -1,0 +1,1 @@
+{"index": 1160, "name": "Turkey, whole, meat only, with added solution, roasted", "healthiness": {"lactating": [38, 39, 38], "male": [45, 37, 36, 39, 38, 40, 42, 41, 39], "female": [45, 37, 36, 37, 36, 37, 40, 39, 36], "pregnant": [37, 39, 38]}}

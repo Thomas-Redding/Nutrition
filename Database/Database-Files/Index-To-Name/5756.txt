@@ -1,0 +1,1 @@
+{"index": 5756, "name": "Doughnuts, cake-type, chocolate, sugared or glazed", "healthiness": {"lactating": [-5, -4, -6], "male": [17, 5, -1, -1, -5, -4, -4, -5, -6], "female": [18, 6, 0, -3, -7, -7, -6, -8, -10], "pregnant": [-6, -4, -6]}}

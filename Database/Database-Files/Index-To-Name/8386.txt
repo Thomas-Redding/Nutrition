@@ -1,0 +1,1 @@
+{"index": 8386, "name": "Oil, spotted seal (Alaska Native)", "healthiness": {"lactating": [-13, -11, -13], "male": [-24, -26, -25, -18, -15, -11, -10, -11, -12], "female": [-24, -26, -25, -20, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

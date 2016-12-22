@@ -1,0 +1,1 @@
+{"index": 7102, "name": "KASHI, STEAM MEAL, Sesame Chicken, Frozen Entree", "healthiness": {"lactating": [-9, -8, -9], "male": [-8, -16, -18, -14, -11, -8, -7, -8, -9], "female": [-8, -16, -18, -16, -14, -12, -9, -11, -12], "pregnant": [-10, -8, -10]}}

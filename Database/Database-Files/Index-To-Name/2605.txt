@@ -1,0 +1,1 @@
+{"index": 2605, "name": "Pork, cured, ham, center slice, country-style, separable lean only, raw", "healthiness": {"lactating": [30, 31, 30], "male": [43, 34, 32, 35, 32, 32, 34, 33, 31], "female": [43, 34, 32, 33, 30, 29, 32, 30, 28], "pregnant": [29, 31, 30]}}

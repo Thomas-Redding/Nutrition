@@ -1,0 +1,1 @@
+{"index": 4840, "name": "Refried beans, canned, traditional style (includes USDA commodity)", "healthiness": {"lactating": [24, 24, 22], "male": [44, 37, 35, 35, 30, 25, 23, 22, 21], "female": [44, 37, 35, 33, 29, 24, 25, 22, 20], "pregnant": [24, 25, 22]}}

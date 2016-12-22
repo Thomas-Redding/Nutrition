@@ -1,0 +1,1 @@
+{"index": 8329, "name": "Oopah (tunicate), whole animal (Alaska Native)", "healthiness": {"lactating": [-5, -4, -5], "male": [-30, -12, -15, -10, -9, -5, -3, -4, -5], "female": [-30, -12, -15, -12, -11, -8, -5, -7, -9], "pregnant": [-7, -4, -5]}}

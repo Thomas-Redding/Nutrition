@@ -1,0 +1,1 @@
+{"index": 2829, "name": "Balsam-pear (bitter gourd), leafy tips, raw", "healthiness": {"lactating": [25, 26, 25], "male": [18, 17, 17, 22, 23, 26, 28, 28, 26], "female": [18, 17, 17, 20, 21, 23, 27, 25, 23], "pregnant": [24, 27, 25]}}

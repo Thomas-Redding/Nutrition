@@ -1,0 +1,1 @@
+{"index": 280, "name": "Spices, pepper, red or cayenne", "healthiness": {"lactating": [21, 22, 21], "male": [23, 20, 22, 25, 24, 23, 23, 23, 22], "female": [23, 20, 22, 23, 23, 22, 24, 22, 22], "pregnant": [21, 22, 21]}}

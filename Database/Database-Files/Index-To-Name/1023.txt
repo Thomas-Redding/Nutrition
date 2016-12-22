@@ -1,0 +1,1 @@
+{"index": 1023, "name": "Turkey, young hen, skin only, cooked, roasted", "healthiness": {"lactating": [7, 7, 4], "male": [26, 12, 10, 15, 12, 7, 5, 4, 3], "female": [26, 12, 10, 13, 9, 4, 5, 2, -1], "pregnant": [6, 6, 4]}}

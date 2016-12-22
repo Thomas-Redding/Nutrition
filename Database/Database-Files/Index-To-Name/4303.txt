@@ -1,0 +1,1 @@
+{"index": 4303, "name": "Cranberry juice cocktail, bottled, low calorie, with calcium, saccharin and corn sweetener", "healthiness": {"lactating": [-8, -7, -8], "male": [-2, -14, -20, -15, -11, -7, -6, -7, -8], "female": [-2, -14, -20, -17, -13, -10, -9, -10, -12], "pregnant": [-8, -7, -8]}}

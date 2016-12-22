@@ -1,0 +1,1 @@
+{"index": 5757, "name": "Doughnuts, french crullers, glazed", "healthiness": {"lactating": [-8, -7, -8], "male": [7, -5, -10, -8, -8, -7, -7, -7, -8], "female": [8, -4, -9, -10, -11, -10, -9, -10, -12], "pregnant": [-8, -7, -9]}}

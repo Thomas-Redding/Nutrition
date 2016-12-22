@@ -1,0 +1,1 @@
+{"index": 4715, "name": "Fish, salmon, coho, farmed, raw", "healthiness": {"lactating": [32, 33, 32], "male": [40, 31, 30, 33, 33, 34, 36, 36, 33], "female": [40, 31, 30, 31, 30, 32, 34, 33, 30], "pregnant": [31, 34, 32]}}

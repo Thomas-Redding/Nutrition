@@ -1,0 +1,1 @@
+{"index": 2068, "name": "Cereals ready-to-eat, KELLOGG'S FROSTED FLAKES, CHOCO ZUCARITAS", "healthiness": {"lactating": [4, 5, 4], "male": [-1, -5, -3, 2, 5, 8, 8, 8, 5], "female": [-1, -5, -3, 0, 3, 4, 6, 4, 2], "pregnant": [3, 4, 3]}}

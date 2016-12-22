@@ -1,0 +1,1 @@
+{"index": 2636, "name": "Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), separable lean and fat, raw", "healthiness": {"lactating": [26, 27, 25], "male": [41, 31, 28, 30, 28, 28, 28, 27, 25], "female": [41, 31, 28, 28, 26, 26, 28, 25, 23], "pregnant": [26, 27, 26]}}

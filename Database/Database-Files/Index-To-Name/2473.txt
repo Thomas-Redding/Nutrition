@@ -1,0 +1,1 @@
+{"index": 2473, "name": "Cranberry sauce, whole, canned, OCEAN SPRAY", "healthiness": {"lactating": [-13, -12, -13], "male": [-21, -28, -28, -22, -17, -12, -12, -12, -13], "female": [-21, -28, -28, -23, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -13]}}

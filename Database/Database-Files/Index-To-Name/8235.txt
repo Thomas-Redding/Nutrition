@@ -1,0 +1,1 @@
+{"index": 8235, "name": "Rice and vermicelli mix, rice pilaf flavor, unprepared", "healthiness": {"lactating": [2, 2, 0], "male": [30, 21, 16, 15, 6, 3, 3, 2, 0], "female": [31, 22, 17, 13, 4, 1, 2, 0, -3], "pregnant": [1, 2, 1]}}

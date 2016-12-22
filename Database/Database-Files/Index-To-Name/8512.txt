@@ -1,0 +1,1 @@
+{"index": 8512, "name": "Restaurant, Mexican, soft taco with ground beef, cheese and lettuce", "healthiness": {"lactating": [21, 21, 19], "male": [45, 35, 29, 29, 28, 22, 20, 18, 18], "female": [45, 35, 29, 28, 26, 21, 21, 19, 16], "pregnant": [21, 22, 19]}}

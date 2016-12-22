@@ -1,0 +1,1 @@
+{"index": 8079, "name": "MURRAY, SUGAR FREE, Chocolate Chip Cookies", "healthiness": {"lactating": [-11, -10, -11], "male": [-15, -24, -24, -19, -14, -11, -10, -10, -11], "female": [-15, -24, -24, -20, -17, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

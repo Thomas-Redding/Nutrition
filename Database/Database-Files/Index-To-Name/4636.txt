@@ -1,0 +1,1 @@
+{"index": 4636, "name": "Mollusks, clam, mixed species, cooked, breaded and fried", "healthiness": {"lactating": [31, 31, 29], "male": [45, 38, 35, 36, 35, 33, 30, 28, 28], "female": [45, 38, 35, 35, 33, 31, 32, 30, 26], "pregnant": [31, 32, 30]}}

@@ -1,0 +1,1 @@
+{"index": 7108, "name": "KASHI, Tuscan Veggie Bake, Frozen Entree", "healthiness": {"lactating": [-8, -7, -8], "male": [-16, -21, -18, -13, -10, -7, -6, -6, -7], "female": [-16, -21, -18, -15, -12, -9, -8, -9, -10], "pregnant": [-8, -6, -8]}}

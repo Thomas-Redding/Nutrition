@@ -1,0 +1,1 @@
+{"index": 5649, "name": "Cake, pound, commercially prepared, butter (includes fresh and frozen)", "healthiness": {"lactating": [-4, -3, -5], "male": [20, 6, 1, 2, -3, -3, -3, -4, -5], "female": [21, 7, 2, 0, -5, -6, -5, -7, -9], "pregnant": [-4, -3, -5]}}

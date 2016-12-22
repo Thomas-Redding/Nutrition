@@ -1,0 +1,1 @@
+{"index": 3155, "name": "Seaweed, agar, raw", "healthiness": {"lactating": [11, 12, 11], "male": [15, 12, 11, 14, 14, 15, 15, 15, 13], "female": [15, 12, 11, 12, 12, 12, 14, 13, 10], "pregnant": [11, 13, 12]}}

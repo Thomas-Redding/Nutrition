@@ -1,0 +1,1 @@
+{"index": 7131, "name": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, choice, raw", "healthiness": {"lactating": [33, 34, 32], "male": [46, 36, 32, 34, 34, 35, 35, 34, 33], "female": [46, 36, 32, 33, 32, 32, 34, 32, 30], "pregnant": [32, 34, 32]}}

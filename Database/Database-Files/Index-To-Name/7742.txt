@@ -1,0 +1,1 @@
+{"index": 7742, "name": "Snacks, granola bar, QUAKER, chewy, 90 Calorie Bar", "healthiness": {"lactating": [-7, -6, -7], "male": [7, -5, -12, -10, -9, -6, -5, -5, -7], "female": [7, -5, -12, -12, -11, -9, -7, -8, -10], "pregnant": [-7, -6, -7]}}

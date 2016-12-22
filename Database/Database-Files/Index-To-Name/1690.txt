@@ -1,0 +1,1 @@
+{"index": 1690, "name": "Luncheon sausage, pork and beef", "healthiness": {"lactating": [21, 21, 18], "male": [37, 25, 21, 23, 24, 22, 19, 17, 16], "female": [37, 25, 21, 21, 22, 20, 21, 17, 14], "pregnant": [21, 21, 18]}}

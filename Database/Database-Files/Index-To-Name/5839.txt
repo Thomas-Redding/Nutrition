@@ -1,0 +1,1 @@
+{"index": 5839, "name": "Rolls, hamburger or hotdog, reduced-calorie", "healthiness": {"lactating": [12, 12, 10], "male": [41, 31, 25, 26, 19, 13, 11, 10, 9], "female": [41, 31, 25, 24, 18, 11, 12, 9, 7], "pregnant": [11, 12, 10]}}

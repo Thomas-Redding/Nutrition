@@ -1,0 +1,1 @@
+{"index": 8688, "name": "Frozen novelties, ice cream type, sundae, prepackaged", "healthiness": {"lactating": [-8, -7, -8], "male": [9, -7, -12, -9, -9, -6, -5, -6, -7], "female": [9, -7, -12, -11, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -7]}}

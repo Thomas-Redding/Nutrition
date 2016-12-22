@@ -1,0 +1,1 @@
+{"index": 6116, "name": "Candies, HERSHEY'S GOLDEN ALMOND SOLITAIRES", "healthiness": {"lactating": [-13, -12, -13], "male": [-24, -28, -28, -22, -16, -12, -11, -12, -13], "female": [-24, -28, -28, -24, -19, -16, -14, -16, -17], "pregnant": [-13, -12, -13]}}

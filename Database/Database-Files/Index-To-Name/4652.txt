@@ -1,0 +1,1 @@
+{"index": 4652, "name": "Mollusks, squid, mixed species, raw", "healthiness": {"lactating": [42, 43, 42], "male": [51, 42, 42, 44, 42, 43, 45, 44, 43], "female": [51, 42, 42, 43, 39, 40, 43, 42, 40], "pregnant": [40, 43, 42]}}

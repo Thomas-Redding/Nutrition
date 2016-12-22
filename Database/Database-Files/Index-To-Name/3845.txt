@@ -1,0 +1,1 @@
+{"index": 3845, "name": "Beef, rib, large end (ribs 6-9), separable lean only, trimmed to 0\" fat, choice, cooked, roasted", "healthiness": {"lactating": [29, 31, 29], "male": [40, 30, 26, 29, 30, 31, 32, 31, 30], "female": [40, 30, 26, 27, 27, 28, 30, 29, 27], "pregnant": [28, 30, 29]}}

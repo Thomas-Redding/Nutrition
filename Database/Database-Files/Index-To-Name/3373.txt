@@ -1,0 +1,1 @@
+{"index": 3373, "name": "Cardoon, cooked, boiled, drained, with salt", "healthiness": {"lactating": [13, 14, 13], "male": [16, 15, 18, 20, 15, 15, 16, 16, 15], "female": [16, 15, 18, 18, 13, 13, 15, 13, 12], "pregnant": [11, 14, 13]}}

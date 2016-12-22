@@ -1,0 +1,1 @@
+{"index": 308, "name": "Vinegar, red wine", "healthiness": {"lactating": [-8, -6, -8], "male": [-9, -14, -15, -13, -10, -7, -5, -6, -7], "female": [-9, -14, -15, -14, -12, -11, -9, -11, -11], "pregnant": [-10, -8, -9]}}

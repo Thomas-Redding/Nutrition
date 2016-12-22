@@ -1,0 +1,1 @@
+{"index": 6756, "name": "McDONALD'S, Hamburger", "healthiness": {"lactating": [-5, -4, -5], "male": [7, -4, -7, -5, -5, -4, -2, -3, -4], "female": [7, -4, -7, -7, -7, -7, -5, -6, -8], "pregnant": [-6, -4, -5]}}

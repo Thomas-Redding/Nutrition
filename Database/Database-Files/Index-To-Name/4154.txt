@@ -1,0 +1,1 @@
+{"index": 4154, "name": "Beverages, FUZE, orange mango, fortified with vitamins A, C, E, B6", "healthiness": {"lactating": [-2, -1, -2], "male": [6, -3, -5, -1, -1, 1, 2, 2, -1], "female": [6, -3, -5, -3, -3, -2, 0, -2, -4], "pregnant": [-1, 0, -1]}}

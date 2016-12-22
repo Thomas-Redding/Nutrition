@@ -1,0 +1,1 @@
+{"index": 414, "name": "Babyfood, fruit, applesauce and pineapple, junior", "healthiness": {"lactating": [-5, -3, -5], "male": [1, -8, -9, -6, -5, -3, -2, -2, -4], "female": [1, -8, -9, -8, -7, -6, -4, -5, -7], "pregnant": [-4, -3, -4]}}

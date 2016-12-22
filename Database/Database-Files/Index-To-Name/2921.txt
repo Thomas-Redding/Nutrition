@@ -1,0 +1,1 @@
+{"index": 2921, "name": "Chicory greens, raw", "healthiness": {"lactating": [59, 60, 57], "male": [56, 56, 59, 64, 63, 60, 60, 58, 57], "female": [56, 56, 60, 62, 61, 58, 59, 57, 55], "pregnant": [56, 58, 56]}}

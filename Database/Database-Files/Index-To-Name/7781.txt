@@ -1,0 +1,1 @@
+{"index": 7781, "name": "Soup, clam chowder, new england, canned, ready-to-serve", "healthiness": {"lactating": [-9, -8, -9], "male": [-3, -14, -17, -14, -11, -8, -7, -7, -9], "female": [-3, -14, -17, -16, -14, -12, -9, -11, -12], "pregnant": [-10, -8, -9]}}

@@ -1,0 +1,1 @@
+{"index": 1633, "name": "Chicken spread", "healthiness": {"lactating": [22, 24, 22], "male": [38, 25, 21, 22, 22, 24, 25, 24, 22], "female": [38, 25, 21, 20, 20, 21, 23, 22, 19], "pregnant": [22, 24, 23]}}

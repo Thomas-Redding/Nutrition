@@ -1,0 +1,1 @@
+{"index": 8384, "name": "Salmonberries, raw (Alaska Native)", "healthiness": {"lactating": [7, 8, 7], "male": [21, 13, 13, 13, 11, 10, 10, 10, 9], "female": [21, 13, 13, 11, 9, 9, 10, 9, 7], "pregnant": [8, 10, 9]}}

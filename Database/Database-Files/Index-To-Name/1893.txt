@@ -1,0 +1,1 @@
+{"index": 1893, "name": "Cereals ready-to-eat, QUAKER, Low Fat 100% Natural Granola with Raisins", "healthiness": {"lactating": [-5, -4, -5], "male": [10, 1, -6, -5, -6, -4, -2, -3, -4], "female": [10, 1, -6, -7, -7, -6, -4, -6, -7], "pregnant": [-5, -3, -5]}}

@@ -1,0 +1,1 @@
+{"index": 8720, "name": "Cheese, pasteurized process, swiss, low fat", "healthiness": {"lactating": [2, 3, 2], "male": [7, 0, -2, 3, 4, 4, 5, 5, 3], "female": [7, 0, -2, 1, 1, 2, 4, 2, 0], "pregnant": [2, 4, 3]}}

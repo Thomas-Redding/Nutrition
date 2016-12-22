@@ -1,0 +1,1 @@
+{"index": 4731, "name": "Fish, tilapia, cooked, dry heat", "healthiness": {"lactating": [36, 37, 36], "male": [49, 40, 34, 36, 36, 37, 39, 39, 37], "female": [49, 40, 34, 34, 33, 34, 37, 35, 33], "pregnant": [35, 37, 36]}}

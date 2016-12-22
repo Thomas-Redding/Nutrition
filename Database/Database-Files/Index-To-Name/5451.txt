@@ -1,0 +1,1 @@
+{"index": 5451, "name": "Lamb, New Zealand, imported, Intermuscular fat, cooked", "healthiness": {"lactating": [-5, -4, -6], "male": [16, 4, 2, 2, -4, -4, -5, -6, -7], "female": [17, 5, 3, -1, -6, -7, -6, -8, -10], "pregnant": [-5, -4, -6]}}

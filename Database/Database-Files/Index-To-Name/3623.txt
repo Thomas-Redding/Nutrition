@@ -1,0 +1,1 @@
+{"index": 3623, "name": "Seeds, sesame flour, low-fat", "healthiness": {"lactating": [39, 40, 39], "male": [38, 35, 33, 38, 39, 39, 41, 40, 39], "female": [38, 35, 33, 36, 37, 38, 40, 38, 37], "pregnant": [36, 39, 37]}}

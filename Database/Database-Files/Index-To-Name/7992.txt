@@ -1,0 +1,1 @@
+{"index": 7992, "name": "KELLOGG'S, SPECIAL K, Cracker Chips, Southwest Ranch", "healthiness": {"lactating": [-10, -9, -10], "male": [-9, -18, -20, -15, -13, -9, -8, -9, -10], "female": [-9, -18, -20, -17, -15, -12, -10, -12, -14], "pregnant": [-11, -9, -10]}}

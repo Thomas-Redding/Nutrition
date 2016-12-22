@@ -1,0 +1,1 @@
+{"index": 2462, "name": "Fruit juice smoothie, ODWALLA, ORIGINAL SUPERFOOD", "healthiness": {"lactating": [-2, -1, -2], "male": [15, 4, -2, 0, -1, 0, 1, 1, -1], "female": [15, 4, -2, -2, -3, -2, 0, -2, -3], "pregnant": [-1, 0, -1]}}

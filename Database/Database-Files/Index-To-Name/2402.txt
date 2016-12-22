@@ -1,0 +1,1 @@
+{"index": 2402, "name": "Cherries, sweet, canned, pitted, heavy syrup, drained", "healthiness": {"lactating": [-8, -7, -8], "male": [3, -12, -13, -10, -8, -6, -5, -6, -7], "female": [3, -12, -13, -12, -10, -9, -7, -9, -10], "pregnant": [-7, -6, -7]}}

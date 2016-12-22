@@ -1,0 +1,1 @@
+{"index": 6180, "name": "Candies, REESE'S Peanut Butter Cups", "healthiness": {"lactating": [-11, -9, -11], "male": [-3, -15, -20, -16, -13, -9, -9, -9, -10], "female": [-3, -15, -20, -18, -15, -13, -11, -12, -14], "pregnant": [-11, -9, -11]}}

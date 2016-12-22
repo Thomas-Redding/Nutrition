@@ -1,0 +1,1 @@
+{"index": 5843, "name": "Sweet rolls, cinnamon, commercially prepared with raisins", "healthiness": {"lactating": [-2, -2, -3], "male": [28, 14, 8, 7, 1, -1, -2, -2, -4], "female": [29, 15, 9, 5, -1, -4, -2, -5, -7], "pregnant": [-2, -1, -3]}}

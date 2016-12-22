@@ -1,0 +1,1 @@
+{"index": 5319, "name": "Lamb, variety meats and by-products, tongue, cooked, braised", "healthiness": {"lactating": [26, 26, 24], "male": [41, 30, 27, 29, 28, 27, 25, 23, 23], "female": [41, 30, 27, 27, 26, 25, 26, 23, 21], "pregnant": [25, 26, 24]}}

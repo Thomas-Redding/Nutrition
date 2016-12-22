@@ -1,0 +1,1 @@
+{"index": 2457, "name": "Fruit juice smoothie, NAKED JUICE, MIGHTY MANGO", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -28, -26, -21, -16, -12, -12, -12, -13], "female": [-25, -28, -26, -23, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

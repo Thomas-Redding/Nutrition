@@ -1,0 +1,1 @@
+{"index": 3308, "name": "Potatoes, o'brien, home-prepared", "healthiness": {"lactating": [11, 11, 9], "male": [41, 33, 28, 29, 20, 13, 11, 10, 9], "female": [41, 33, 28, 26, 18, 12, 12, 10, 7], "pregnant": [11, 12, 10]}}

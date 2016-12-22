@@ -1,0 +1,1 @@
+{"index": 51, "name": "Cream, fluid, heavy whipping", "healthiness": {"lactating": [-6, -5, -6], "male": [12, 2, -2, -1, -4, -4, -4, -5, -7], "female": [12, 3, -1, -3, -7, -7, -5, -7, -10], "pregnant": [-5, -4, -5]}}

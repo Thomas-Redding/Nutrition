@@ -1,0 +1,1 @@
+{"index": 6312, "name": "Candies, MARS SNACKFOOD US, COCOAVIA Crispy Chocolate Bar", "healthiness": {"lactating": [-5, -4, -5], "male": [-9, -13, -10, -5, -4, -2, -1, -2, -4], "female": [-9, -13, -10, -7, -6, -6, -4, -6, -8], "pregnant": [-5, -3, -5]}}

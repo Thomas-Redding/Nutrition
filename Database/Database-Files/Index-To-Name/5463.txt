@@ -1,0 +1,1 @@
+{"index": 5463, "name": "Lamb, New Zealand, imported, flap, boneless, separable lean only, raw", "healthiness": {"lactating": [27, 28, 27], "male": [38, 26, 23, 27, 26, 28, 30, 29, 28], "female": [38, 26, 23, 25, 24, 26, 28, 26, 25], "pregnant": [26, 28, 27]}}

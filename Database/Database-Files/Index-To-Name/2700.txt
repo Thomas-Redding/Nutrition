@@ -1,0 +1,1 @@
+{"index": 2700, "name": "Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil", "healthiness": {"lactating": [34, 35, 34], "male": [47, 37, 35, 38, 35, 36, 38, 37, 35], "female": [47, 37, 35, 36, 33, 33, 36, 35, 32], "pregnant": [33, 35, 34]}}

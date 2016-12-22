@@ -1,0 +1,49 @@
+<table id="account-table">
+<tbody>
+<tr id="settings-account-row">
+	<td colspan="2"><b>Account Info</b></td>
+</tr>
+<tr id="email-row">
+	<td>Email:</td>
+	<td id="settings-email"><a href="mailto:tfredding@gmail.com">tfredding@gmail.com</a></td>
+</tr>
+<tr id="change-password-row">
+	<td colspan="2">
+		<input type="button" value="Change Password" onclick="change_password_widget.open();">
+	</td>
+</tr>
+<tr id="reset-password-row">
+	<td colspan="2">
+		<input type="button" value="Reset Password via Email" onclick="reset_password_via_email_clicked();">
+	</td>
+</tr>
+<tr id="email-row">
+	<td colspan="2">
+		<input type="button" value="Change Email" onclick="change_email_widget.open();">
+	</td>
+</tr>
+</tbody>
+</table>
+<style>
+#account-table {
+	margin-top: 5em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#change-password-row > td {
+	padding-top: 1em;
+}
+
+#change-password-row, #reset-password-row, #email-row > td {
+	text-align: center;
+}
+
+</style>
+<script>
+var email = "mtredding@yahoo.com";
+
+function reset_password_via_email_clicked() {
+	confirm("Are you sure you want to reset your password via your email? If you click yes, you will not be able to access your account until after you reset your password via the link we email you.");
+}
+</script>

@@ -1,0 +1,1 @@
+{"index": 8117, "name": "Bread, cinnamon", "healthiness": {"lactating": [-9, -8, -9], "male": [-3, -12, -16, -13, -10, -8, -7, -7, -8], "female": [-3, -12, -16, -15, -13, -11, -9, -11, -12], "pregnant": [-9, -8, -9]}}

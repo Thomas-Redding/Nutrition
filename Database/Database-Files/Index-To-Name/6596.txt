@@ -1,0 +1,1 @@
+{"index": 6596, "name": "Corn flour, whole-grain, white", "healthiness": {"lactating": [1, 2, 0], "male": [29, 20, 15, 13, 5, 2, 2, 1, 0], "female": [30, 21, 16, 11, 3, 0, 1, -1, -3], "pregnant": [0, 2, 0]}}

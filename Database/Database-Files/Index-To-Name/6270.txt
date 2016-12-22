@@ -1,0 +1,1 @@
+{"index": 6270, "name": "Ice creams, chocolate, light, no sugar added", "healthiness": {"lactating": [-8, -7, -8], "male": [9, -6, -13, -10, -9, -7, -6, -6, -8], "female": [9, -6, -13, -12, -12, -10, -8, -9, -11], "pregnant": [-8, -6, -8]}}

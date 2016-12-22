@@ -1,0 +1,1 @@
+{"index": 8313, "name": "Fish, herring eggs, Pacific, dry (Alaska Native)", "healthiness": {"lactating": [-9, -8, -9], "male": [-20, -21, -22, -16, -13, -9, -7, -8, -9], "female": [-20, -21, -22, -18, -16, -13, -10, -11, -13], "pregnant": [-11, -8, -9]}}

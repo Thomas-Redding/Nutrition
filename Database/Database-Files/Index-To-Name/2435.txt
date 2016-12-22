@@ -1,0 +1,1 @@
+{"index": 2435, "name": "Guava nectar, canned, with added ascorbic acid", "healthiness": {"lactating": [-8, -7, -8], "male": [-7, -15, -19, -14, -10, -6, -6, -6, -7], "female": [-7, -15, -19, -16, -12, -10, -8, -10, -11], "pregnant": [-8, -7, -8]}}

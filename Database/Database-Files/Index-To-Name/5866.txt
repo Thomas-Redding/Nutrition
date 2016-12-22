@@ -1,0 +1,1 @@
+{"index": 5866, "name": "Bread, wheat germ, toasted", "healthiness": {"lactating": [12, 12, 9], "male": [41, 31, 25, 26, 19, 12, 11, 10, 9], "female": [42, 31, 26, 24, 17, 11, 12, 9, 7], "pregnant": [11, 12, 9]}}

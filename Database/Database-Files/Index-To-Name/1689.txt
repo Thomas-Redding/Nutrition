@@ -1,0 +1,1 @@
+{"index": 1689, "name": "Sausage, Italian, pork, cooked", "healthiness": {"lactating": [16, 16, 13], "male": [36, 27, 20, 22, 22, 16, 13, 12, 11], "female": [36, 27, 20, 21, 19, 15, 15, 12, 9], "pregnant": [16, 16, 13]}}

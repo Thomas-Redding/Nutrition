@@ -1,0 +1,1 @@
+{"index": 8218, "name": "Potatoes, hash brown, refrigerated, prepared, pan-fried in canola oil", "healthiness": {"lactating": [-7, -6, -7], "male": [5, -5, -9, -8, -8, -5, -5, -5, -7], "female": [5, -5, -9, -10, -10, -8, -6, -8, -10], "pregnant": [-7, -6, -7]}}

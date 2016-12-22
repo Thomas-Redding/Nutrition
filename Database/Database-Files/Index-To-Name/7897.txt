@@ -1,0 +1,1 @@
+{"index": 7897, "name": "KEEBLER, FUDGE SHOPPE, Fudge Stripes, Original", "healthiness": {"lactating": [-13, -12, -13], "male": [-23, -27, -27, -21, -16, -12, -11, -12, -13], "female": [-23, -27, -27, -23, -19, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

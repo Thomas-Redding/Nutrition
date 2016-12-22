@@ -1,0 +1,1 @@
+{"index": 6966, "name": "Fast foods, taco with beef, cheese and lettuce, soft", "healthiness": {"lactating": [-4, -3, -4], "male": [14, 3, -4, -3, -4, -2, -1, -2, -3], "female": [14, 3, -4, -5, -6, -5, -3, -5, -6], "pregnant": [-4, -2, -4]}}

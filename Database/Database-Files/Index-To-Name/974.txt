@@ -1,0 +1,1 @@
+{"index": 974, "name": "Guinea hen, meat only, raw", "healthiness": {"lactating": [33, 34, 33], "male": [44, 36, 35, 37, 35, 36, 38, 38, 35], "female": [44, 36, 35, 35, 33, 33, 36, 34, 32], "pregnant": [33, 35, 34]}}

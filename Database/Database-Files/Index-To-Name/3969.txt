@@ -1,0 +1,1 @@
+{"index": 3969, "name": "Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised", "healthiness": {"lactating": [25, 26, 24], "male": [40, 27, 21, 25, 27, 27, 25, 24, 23], "female": [40, 27, 21, 23, 25, 24, 26, 24, 21], "pregnant": [24, 26, 24]}}

@@ -1,0 +1,1 @@
+{"index": 5258, "name": "Game meat, buffalo, water, raw", "healthiness": {"lactating": [38, 40, 38], "male": [38, 36, 37, 41, 39, 40, 42, 42, 40], "female": [38, 36, 37, 39, 37, 37, 40, 38, 37], "pregnant": [36, 39, 38]}}

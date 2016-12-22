@@ -1,0 +1,1 @@
+{"index": 6000, "name": "Tostada shells, corn", "healthiness": {"lactating": [-10, -9, -10], "male": [-4, -16, -19, -15, -13, -9, -8, -9, -10], "female": [-4, -16, -19, -17, -15, -12, -10, -12, -14], "pregnant": [-11, -9, -10]}}

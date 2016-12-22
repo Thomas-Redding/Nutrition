@@ -1,0 +1,1 @@
+{"index": 7074, "name": "Macaroni and cheese, dry mix, prepared with 2% milk and 80% stick margarine from dry mix", "healthiness": {"lactating": [5, 5, 3], "male": [39, 24, 17, 17, 10, 6, 4, 3, 2], "female": [39, 25, 17, 15, 8, 4, 5, 2, 0], "pregnant": [5, 6, 3]}}

@@ -1,0 +1,1 @@
+{"index": 3563, "name": "Tomatillos, raw", "healthiness": {"lactating": [14, 15, 14], "male": [20, 15, 17, 18, 17, 16, 17, 17, 15], "female": [20, 15, 17, 17, 15, 14, 17, 15, 15], "pregnant": [13, 16, 14]}}

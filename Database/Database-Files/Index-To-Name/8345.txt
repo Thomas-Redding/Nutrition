@@ -1,0 +1,1 @@
+{"index": 8345, "name": "Tea, tundra, herb and laborador combination (Alaska Native)", "healthiness": {"lactating": [13, 14, 13], "male": [0, 0, 0, 7, 11, 15, 16, 15, 14], "female": [0, 0, 0, 5, 8, 11, 13, 12, 9], "pregnant": [13, 15, 14]}}

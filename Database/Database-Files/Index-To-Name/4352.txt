@@ -1,0 +1,1 @@
+{"index": 4352, "name": "Beverages, malted drink mix, chocolate, powder", "healthiness": {"lactating": [-9, -8, -9], "male": [2, -11, -16, -13, -11, -8, -7, -8, -9], "female": [2, -11, -16, -15, -13, -11, -9, -11, -13], "pregnant": [-10, -8, -9]}}

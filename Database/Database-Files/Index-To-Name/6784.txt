@@ -1,0 +1,1 @@
+{"index": 6784, "name": "BURGER KING, Original Chicken Sandwich", "healthiness": {"lactating": [12, 12, 10], "male": [35, 24, 20, 21, 19, 13, 10, 9, 8], "female": [35, 24, 20, 20, 17, 11, 12, 9, 6], "pregnant": [12, 12, 10]}}

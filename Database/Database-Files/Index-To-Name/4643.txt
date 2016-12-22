@@ -1,0 +1,1 @@
+{"index": 4643, "name": "Mollusks, octopus, common, raw", "healthiness": {"lactating": [45, 46, 45], "male": [53, 48, 48, 50, 46, 47, 49, 49, 46], "female": [53, 48, 48, 48, 44, 45, 49, 47, 44], "pregnant": [43, 46, 45]}}

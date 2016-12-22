@@ -1,0 +1,1 @@
+{"index": 6037, "name": "AUSTIN, Peanut Butter on Toasty Crackers, sandwich-type, reduced fat", "healthiness": {"lactating": [-12, -11, -12], "male": [-17, -24, -25, -19, -15, -11, -10, -10, -12], "female": [-17, -24, -25, -21, -17, -14, -13, -14, -16], "pregnant": [-13, -11, -12]}}

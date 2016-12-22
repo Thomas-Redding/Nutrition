@@ -1,0 +1,1 @@
+{"index": 5053, "name": "MORNINGSTAR FARMS Breakfast Bacon Strips, frozen, unprepared", "healthiness": {"lactating": [-4, -3, -4], "male": [-6, -10, -11, -7, -6, -3, -1, -2, -3], "female": [-6, -10, -11, -9, -8, -6, -4, -6, -7], "pregnant": [-5, -3, -5]}}

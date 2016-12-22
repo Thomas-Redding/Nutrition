@@ -1,0 +1,1 @@
+{"index": 6341, "name": "Candies, MARS SNACKFOOD US, SKITTLES Original Bite Size Candies", "healthiness": {"lactating": [-12, -11, -12], "male": [-20, -24, -25, -19, -13, -10, -10, -11, -12], "female": [-20, -24, -25, -21, -16, -13, -12, -14, -16], "pregnant": [-12, -11, -12]}}

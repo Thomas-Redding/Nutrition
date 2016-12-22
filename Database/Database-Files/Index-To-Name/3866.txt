@@ -1,0 +1,1 @@
+{"index": 3866, "name": "Beef, round, eye of round roast, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, roasted", "healthiness": {"lactating": [36, 37, 36], "male": [43, 36, 31, 36, 37, 39, 41, 40, 38], "female": [43, 36, 31, 34, 35, 36, 39, 37, 36], "pregnant": [35, 37, 36]}}

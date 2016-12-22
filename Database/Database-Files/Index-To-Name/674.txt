@@ -1,0 +1,1 @@
+{"index": 674, "name": "Salad dressing, french, cottonseed, oil, home recipe", "healthiness": {"lactating": [-14, -13, -14], "male": [-28, -30, -30, -23, -17, -13, -12, -13, -14], "female": [-28, -30, -30, -25, -20, -17, -15, -17, -19], "pregnant": [-14, -13, -14]}}

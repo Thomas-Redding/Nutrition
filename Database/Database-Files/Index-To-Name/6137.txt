@@ -1,0 +1,1 @@
+{"index": 6137, "name": "Candies, NESTLE, GOOBERS Chocolate Covered Peanuts", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -29, -28, -22, -17, -12, -11, -12, -13], "female": [-25, -29, -28, -24, -19, -16, -14, -15, -17], "pregnant": [-13, -12, -13]}}

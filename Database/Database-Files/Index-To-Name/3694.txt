@@ -1,0 +1,1 @@
+{"index": 3694, "name": "Seeds, pumpkin and squash seeds, whole, roasted, without salt", "healthiness": {"lactating": [17, 17, 14], "male": [23, 16, 17, 22, 22, 16, 14, 12, 12], "female": [23, 16, 17, 20, 20, 15, 17, 14, 11], "pregnant": [16, 17, 14]}}

@@ -1,0 +1,1 @@
+{"index": 161, "name": "Yogurt, chocolate, nonfat milk", "healthiness": {"lactating": [-2, -1, -2], "male": [8, 1, 0, 2, -1, -1, 1, 1, -1], "female": [8, 1, 0, 0, -4, -3, 0, -2, -4], "pregnant": [-3, 0, -1]}}

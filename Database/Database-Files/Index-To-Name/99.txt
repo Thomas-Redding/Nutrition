@@ -1,0 +1,1 @@
+{"index": 99, "name": "Milk shakes, thick vanilla", "healthiness": {"lactating": [16, 16, 13], "male": [42, 29, 24, 27, 22, 16, 14, 13, 10], "female": [42, 29, 24, 25, 20, 14, 15, 13, 8], "pregnant": [15, 16, 14]}}

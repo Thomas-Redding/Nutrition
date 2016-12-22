@@ -1,0 +1,1 @@
+{"index": 4471, "name": "Beverages, rice milk, unsweetened", "healthiness": {"lactating": [9, 10, 9], "male": [27, 18, 13, 14, 11, 11, 13, 13, 10], "female": [27, 18, 13, 12, 9, 10, 13, 11, 7], "pregnant": [10, 12, 11]}}

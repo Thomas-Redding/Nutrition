@@ -1,0 +1,1 @@
+{"index": 8776, "name": "Jellies, reduced sugar, home preserved", "healthiness": {"lactating": [-13, -12, -13], "male": [-19, -26, -27, -21, -16, -12, -11, -12, -13], "female": [-19, -26, -27, -23, -19, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

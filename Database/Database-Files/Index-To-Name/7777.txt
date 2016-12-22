@@ -1,0 +1,1 @@
+{"index": 7777, "name": "CAMPBELL'S Red and White, Lentil Soup, condensed", "healthiness": {"lactating": [-10, -9, -10], "male": [-25, -27, -24, -19, -13, -10, -8, -9, -10], "female": [-25, -27, -24, -21, -16, -13, -12, -14, -14], "pregnant": [-12, -11, -12]}}

@@ -1,0 +1,1 @@
+{"index": 5526, "name": "Veal, foreshank, osso buco, separable lean only, cooked, braised", "healthiness": {"lactating": [35, 37, 35], "male": [49, 42, 36, 38, 37, 37, 39, 39, 37], "female": [49, 42, 36, 36, 35, 35, 37, 35, 33], "pregnant": [34, 37, 35]}}

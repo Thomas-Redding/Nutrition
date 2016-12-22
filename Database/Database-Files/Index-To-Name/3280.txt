@@ -1,0 +1,1 @@
+{"index": 3280, "name": "Kale, scotch, cooked, boiled, drained, without salt", "healthiness": {"lactating": [47, 47, 45], "male": [48, 46, 48, 51, 50, 48, 47, 45, 44], "female": [48, 46, 48, 49, 48, 47, 48, 46, 43], "pregnant": [46, 47, 45]}}

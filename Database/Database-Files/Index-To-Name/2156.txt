@@ -1,0 +1,1 @@
+{"index": 2156, "name": "Avocados, raw, California", "healthiness": {"lactating": [2, 3, 2], "male": [34, 22, 24, 18, 8, 5, 4, 3, 2], "female": [35, 23, 25, 15, 6, 3, 4, 2, 0], "pregnant": [3, 4, 2]}}

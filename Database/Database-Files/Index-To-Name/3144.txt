@@ -1,0 +1,1 @@
+{"index": 3144, "name": "Purslane, raw", "healthiness": {"lactating": [20, 22, 20], "male": [15, 14, 14, 18, 18, 21, 24, 23, 21], "female": [15, 14, 14, 16, 16, 18, 22, 20, 17], "pregnant": [18, 22, 21]}}

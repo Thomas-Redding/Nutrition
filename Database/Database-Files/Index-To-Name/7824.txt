@@ -1,0 +1,1 @@
+{"index": 7824, "name": "KELLOGG'S, EGGO Protein, Waffles, Homestyle", "healthiness": {"lactating": [0, 1, 0], "male": [6, 2, 1, 4, 2, 2, 4, 4, 2], "female": [6, 2, 1, 2, 0, -1, 1, 0, -1], "pregnant": [-1, 1, 0]}}

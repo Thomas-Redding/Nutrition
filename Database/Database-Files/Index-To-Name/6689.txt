@@ -1,0 +1,1 @@
+{"index": 6689, "name": "Fast foods, cheeseburger; double, regular patty, with condiments and vegetables", "healthiness": {"lactating": [18, 17, 15], "male": [39, 27, 23, 24, 24, 18, 15, 14, 13], "female": [39, 27, 23, 22, 22, 16, 17, 14, 11], "pregnant": [17, 17, 15]}}

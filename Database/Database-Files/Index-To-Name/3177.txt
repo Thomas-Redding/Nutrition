@@ -1,0 +1,1 @@
+{"index": 3177, "name": "Squash, summer, scallop, raw", "healthiness": {"lactating": [45, 45, 42], "male": [52, 50, 54, 55, 52, 44, 42, 41, 40], "female": [52, 50, 54, 53, 50, 43, 45, 42, 41], "pregnant": [43, 44, 42]}}

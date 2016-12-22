@@ -1,0 +1,1 @@
+{"index": 4253, "name": "Beverages, coffee, ready to drink, milk based, sweetened", "healthiness": {"lactating": [-4, -3, -4], "male": [4, -5, -9, -6, -5, -2, -1, -2, -3], "female": [4, -5, -9, -8, -7, -5, -3, -4, -7], "pregnant": [-5, -2, -4]}}

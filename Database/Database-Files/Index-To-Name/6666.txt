@@ -1,0 +1,1 @@
+{"index": 6666, "name": "Fast foods, english muffin, with cheese and sausage", "healthiness": {"lactating": [10, 10, 8], "male": [44, 31, 22, 24, 17, 11, 9, 8, 7], "female": [44, 31, 22, 22, 15, 9, 10, 7, 4], "pregnant": [10, 10, 8]}}

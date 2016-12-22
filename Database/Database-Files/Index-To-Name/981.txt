@@ -1,0 +1,1 @@
+{"index": 981, "name": "Quail, breast, meat only, raw", "healthiness": {"lactating": [39, 41, 39], "male": [46, 40, 43, 45, 43, 43, 45, 45, 43], "female": [46, 40, 43, 43, 41, 40, 43, 41, 40], "pregnant": [38, 41, 40]}}

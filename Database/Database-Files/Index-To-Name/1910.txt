@@ -1,0 +1,1 @@
+{"index": 1910, "name": "Cereals ready-to-eat, GENERAL MILLS, APPLE CINNAMON CHEERIOS", "healthiness": {"lactating": [12, 14, 12], "male": [22, 17, 15, 16, 16, 16, 17, 17, 14], "female": [22, 17, 15, 14, 14, 14, 16, 14, 12], "pregnant": [11, 13, 12]}}

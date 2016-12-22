@@ -1,0 +1,1 @@
+{"index": 507, "name": "Babyfood, cereal, barley, prepared with whole milk", "healthiness": {"lactating": [30, 30, 28], "male": [56, 48, 44, 43, 37, 31, 29, 28, 25], "female": [56, 48, 44, 41, 35, 29, 30, 28, 23], "pregnant": [28, 29, 27]}}

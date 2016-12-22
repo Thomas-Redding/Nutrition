@@ -1,0 +1,1 @@
+{"index": 3795, "name": "Beef, variety meats and by-products, spleen, cooked, braised", "healthiness": {"lactating": [44, 46, 44], "male": [48, 41, 39, 44, 44, 46, 48, 47, 46], "female": [48, 41, 39, 42, 42, 43, 47, 45, 43], "pregnant": [44, 46, 45]}}

@@ -1,0 +1,1 @@
+{"index": 790, "name": "Margarine-like spread, SMART BEAT Super Light without saturated fat", "healthiness": {"lactating": [-13, -11, -13], "male": [-23, -24, -25, -20, -15, -11, -11, -12, -13], "female": [-23, -24, -25, -22, -17, -15, -13, -15, -17], "pregnant": [-12, -11, -13]}}

@@ -1,0 +1,1 @@
+{"index": 6748, "name": "SUBWAY, roast beef sub on white bread with lettuce and tomato", "healthiness": {"lactating": [28, 28, 26], "male": [46, 40, 35, 35, 32, 29, 27, 26, 25], "female": [46, 40, 35, 33, 30, 28, 28, 26, 23], "pregnant": [27, 28, 25]}}

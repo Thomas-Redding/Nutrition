@@ -1,0 +1,1 @@
+{"index": 3888, "name": "Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled", "healthiness": {"lactating": [33, 34, 33], "male": [44, 35, 31, 36, 35, 35, 37, 36, 34], "female": [44, 35, 31, 34, 33, 32, 35, 33, 32], "pregnant": [31, 33, 32]}}

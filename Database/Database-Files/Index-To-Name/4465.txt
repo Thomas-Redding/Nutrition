@@ -1,0 +1,1 @@
+{"index": 4465, "name": "Beverages, Vegetable and fruit juice drink, reduced calorie, with low-calorie sweetener, added vitamin C", "healthiness": {"lactating": [9, 10, 9], "male": [15, 10, 3, 6, 8, 11, 12, 11, 10], "female": [15, 10, 3, 4, 5, 8, 10, 8, 6], "pregnant": [8, 10, 9]}}

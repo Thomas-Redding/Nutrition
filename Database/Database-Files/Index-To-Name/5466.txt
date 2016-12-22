@@ -1,0 +1,1 @@
+{"index": 5466, "name": "Lamb, New Zealand, imported, liver, raw", "healthiness": {"lactating": [51, 53, 51], "male": [50, 47, 46, 50, 51, 52, 54, 54, 52], "female": [50, 47, 46, 48, 49, 49, 52, 50, 49], "pregnant": [48, 51, 50]}}

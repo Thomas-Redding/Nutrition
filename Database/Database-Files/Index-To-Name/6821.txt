@@ -1,0 +1,1 @@
+{"index": 6821, "name": "PIZZA HUT 14\" Pepperoni Pizza, Hand-Tossed Crust", "healthiness": {"lactating": [-5, -4, -5], "male": [15, 3, -6, -5, -5, -4, -2, -3, -4], "female": [15, 3, -6, -7, -8, -7, -5, -6, -8], "pregnant": [-6, -4, -5]}}

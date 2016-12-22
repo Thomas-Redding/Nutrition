@@ -1,0 +1,1 @@
+{"index": 8032, "name": "MURRAY, SUGAR FREE, Shortbread Bites", "healthiness": {"lactating": [-10, -8, -10], "male": [-13, -21, -21, -16, -12, -9, -8, -9, -10], "female": [-13, -21, -21, -18, -14, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

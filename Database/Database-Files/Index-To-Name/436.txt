@@ -1,0 +1,1 @@
+{"index": 436, "name": "Babyfood, juice, orange and apple and banana", "healthiness": {"lactating": [-6, -5, -6], "male": [0, -9, -12, -9, -7, -4, -3, -4, -5], "female": [0, -9, -12, -11, -9, -7, -6, -7, -9], "pregnant": [-6, -5, -6]}}

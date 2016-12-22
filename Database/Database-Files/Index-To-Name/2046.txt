@@ -1,0 +1,1 @@
+{"index": 2046, "name": "Cereals ready-to-eat, QUAKER, Cap'n Crunch's OOPS! All Berries Cereal", "healthiness": {"lactating": [5, 7, 5], "male": [-3, -7, -8, -2, 2, 7, 7, 7, 6], "female": [-3, -7, -8, -4, 0, 3, 5, 3, 1], "pregnant": [4, 5, 4]}}

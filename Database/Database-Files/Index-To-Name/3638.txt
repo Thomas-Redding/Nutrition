@@ -1,0 +1,1 @@
+{"index": 3638, "name": "Nuts, almond paste", "healthiness": {"lactating": [-6, -5, -6], "male": [3, -6, -10, -7, -7, -5, -4, -4, -5], "female": [3, -6, -10, -9, -9, -8, -6, -7, -9], "pregnant": [-6, -4, -6]}}

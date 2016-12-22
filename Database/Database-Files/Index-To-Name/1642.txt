@@ -1,0 +1,1 @@
+{"index": 1642, "name": "Ham, sliced, packaged (96% fat free, water added)", "healthiness": {"lactating": [39, 41, 39], "male": [47, 39, 39, 43, 42, 42, 44, 44, 41], "female": [47, 39, 39, 41, 39, 40, 43, 41, 38], "pregnant": [38, 41, 40]}}

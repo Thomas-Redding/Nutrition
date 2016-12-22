@@ -1,0 +1,1 @@
+{"index": 4994, "name": "Mungo beans, mature seeds, cooked, boiled, with salt", "healthiness": {"lactating": [29, 29, 26], "male": [43, 37, 36, 35, 32, 28, 26, 25, 24], "female": [43, 37, 36, 33, 30, 27, 29, 26, 24], "pregnant": [27, 28, 26]}}

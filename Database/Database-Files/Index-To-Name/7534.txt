@@ -1,0 +1,1 @@
+{"index": 7534, "name": "Beef, New Zealand, imported, eye round, separable lean and fat, cooked, slow roasted", "healthiness": {"lactating": [29, 30, 29], "male": [37, 28, 27, 31, 30, 31, 32, 32, 30], "female": [37, 28, 27, 29, 27, 28, 30, 29, 27], "pregnant": [27, 30, 28]}}

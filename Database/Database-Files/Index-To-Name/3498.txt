@@ -1,0 +1,1 @@
+{"index": 3498, "name": "Tomato juice, canned, without salt added", "healthiness": {"lactating": [27, 27, 25], "male": [50, 46, 47, 45, 39, 29, 29, 27, 26], "female": [51, 46, 47, 43, 37, 29, 30, 27, 25], "pregnant": [27, 28, 26]}}

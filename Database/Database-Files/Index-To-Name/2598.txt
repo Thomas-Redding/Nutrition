@@ -1,0 +1,1 @@
+{"index": 2598, "name": "Canadian bacon, unprepared", "healthiness": {"lactating": [34, 35, 34], "male": [44, 35, 33, 35, 33, 35, 37, 36, 35], "female": [44, 35, 33, 33, 31, 32, 35, 33, 31], "pregnant": [32, 35, 34]}}

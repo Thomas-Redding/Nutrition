@@ -1,0 +1,1 @@
+{"index": 645, "name": "Salad dressing, thousand island dressing, reduced fat", "healthiness": {"lactating": [-10, -9, -10], "male": [-12, -20, -21, -16, -12, -9, -9, -9, -10], "female": [-12, -20, -21, -18, -14, -12, -11, -12, -14], "pregnant": [-10, -9, -10]}}

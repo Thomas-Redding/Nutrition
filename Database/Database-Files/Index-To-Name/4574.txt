@@ -1,0 +1,1 @@
+{"index": 4574, "name": "Fish, seatrout, mixed species, raw", "healthiness": {"lactating": [35, 36, 35], "male": [42, 34, 34, 36, 35, 36, 39, 38, 36], "female": [42, 34, 34, 34, 33, 34, 37, 35, 33], "pregnant": [34, 36, 35]}}

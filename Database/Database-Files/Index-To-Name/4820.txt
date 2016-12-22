@@ -1,0 +1,1 @@
+{"index": 4820, "name": "Mungo beans, mature seeds, raw", "healthiness": {"lactating": [30, 30, 27], "male": [36, 31, 32, 33, 33, 30, 28, 27, 26], "female": [36, 31, 32, 31, 32, 29, 30, 27, 26], "pregnant": [28, 30, 27]}}

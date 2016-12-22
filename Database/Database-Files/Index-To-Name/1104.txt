@@ -1,0 +1,1 @@
+{"index": 1104, "name": "Ostrich, inside strip, cooked", "healthiness": {"lactating": [41, 42, 41], "male": [45, 39, 39, 42, 43, 43, 45, 44, 42], "female": [45, 39, 39, 40, 40, 40, 42, 40, 40], "pregnant": [38, 40, 39]}}

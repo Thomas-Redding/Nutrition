@@ -1,0 +1,1 @@
+{"index": 8402, "name": "Buffalo, free range, top round steak, raw (Shoshone Bannock)", "healthiness": {"lactating": [42, 44, 42], "male": [44, 39, 40, 42, 43, 44, 47, 46, 45], "female": [44, 39, 40, 40, 41, 41, 43, 42, 42], "pregnant": [40, 43, 41]}}

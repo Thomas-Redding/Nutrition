@@ -1,0 +1,1 @@
+{"index": 4616, "name": "Crustaceans, crab, alaska king, imitation, made from surimi", "healthiness": {"lactating": [29, 29, 28], "male": [40, 29, 25, 29, 30, 29, 28, 27, 26], "female": [40, 29, 25, 27, 27, 27, 29, 26, 24], "pregnant": [27, 29, 28]}}

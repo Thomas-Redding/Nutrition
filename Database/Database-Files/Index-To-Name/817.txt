@@ -1,0 +1,1 @@
+{"index": 817, "name": "Salad dressing, caesar, fat-free", "healthiness": {"lactating": [-12, -11, -12], "male": [-9, -22, -24, -19, -15, -11, -10, -11, -12], "female": [-9, -22, -24, -21, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

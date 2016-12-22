@@ -1,0 +1,1 @@
+{"index": 8393, "name": "Fish, whitefish, dried (Alaska Native)", "healthiness": {"lactating": [38, 39, 38], "male": [50, 43, 38, 39, 37, 38, 41, 40, 38], "female": [50, 43, 38, 38, 35, 35, 39, 37, 35], "pregnant": [35, 39, 37]}}

@@ -1,0 +1,1 @@
+{"index": 6172, "name": "Candies, MOUNDS Candy Bar", "healthiness": {"lactating": [-10, -9, -10], "male": [-6, -15, -19, -15, -12, -9, -8, -9, -10], "female": [-6, -15, -19, -17, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

@@ -1,0 +1,1 @@
+{"index": 4607, "name": "Fish, turbot, european, raw", "healthiness": {"lactating": [33, 34, 33], "male": [41, 33, 32, 35, 33, 34, 36, 35, 33], "female": [41, 33, 32, 33, 30, 31, 34, 32, 30], "pregnant": [31, 34, 33]}}

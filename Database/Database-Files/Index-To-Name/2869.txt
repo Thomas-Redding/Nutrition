@@ -1,0 +1,1 @@
+{"index": 2869, "name": "Broadbeans, immature seeds, cooked, boiled, drained, without salt", "healthiness": {"lactating": [30, 31, 28], "male": [41, 36, 38, 37, 33, 30, 29, 28, 27], "female": [41, 36, 38, 35, 32, 30, 31, 28, 27], "pregnant": [29, 30, 28]}}

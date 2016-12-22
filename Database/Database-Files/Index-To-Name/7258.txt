@@ -1,0 +1,1 @@
+{"index": 7258, "name": "Beef, plate steak, boneless, outside skirt, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled", "healthiness": {"lactating": [33, 35, 33], "male": [47, 39, 34, 36, 37, 36, 37, 36, 35], "female": [47, 39, 34, 34, 35, 34, 36, 34, 33], "pregnant": [32, 34, 33]}}

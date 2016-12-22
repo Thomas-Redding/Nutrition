@@ -1,0 +1,1 @@
+{"index": 8194, "name": "PEPPERIDGE FARM, White Hoagie Roll", "healthiness": {"lactating": [-11, -9, -11], "male": [-21, -24, -23, -18, -13, -10, -9, -9, -10], "female": [-21, -24, -23, -20, -16, -13, -12, -13, -14], "pregnant": [-12, -10, -12]}}

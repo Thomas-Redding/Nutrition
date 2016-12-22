@@ -1,0 +1,1 @@
+{"index": 5980, "name": "USDA Commodity, Bakery, Flour Mix", "healthiness": {"lactating": [-5, -4, -5], "male": [3, -4, -10, -7, -7, -4, -2, -3, -4], "female": [3, -4, -10, -9, -9, -7, -4, -6, -7], "pregnant": [-6, -4, -5]}}

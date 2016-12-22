@@ -1,0 +1,1 @@
+{"index": 1923, "name": "Cereals ready-to-eat, Post, Waffle Crisp", "healthiness": {"lactating": [9, 10, 9], "male": [14, 9, 7, 11, 13, 12, 14, 13, 10], "female": [14, 9, 7, 9, 10, 10, 12, 11, 9], "pregnant": [8, 10, 9]}}

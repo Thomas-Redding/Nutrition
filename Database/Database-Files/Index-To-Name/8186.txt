@@ -1,0 +1,1 @@
+{"index": 8186, "name": "PEPPERIDGE FARM, Jewish Rye Bread (Seedless)", "healthiness": {"lactating": [-8, -7, -8], "male": [-17, -19, -20, -14, -10, -7, -6, -7, -8], "female": [-17, -19, -20, -16, -13, -11, -10, -11, -12], "pregnant": [-10, -9, -10]}}

@@ -1,0 +1,1 @@
+{"index": 6527, "name": "Rye flour, medium", "healthiness": {"lactating": [6, 7, 5], "male": [35, 25, 21, 19, 12, 7, 7, 6, 5], "female": [36, 26, 21, 17, 10, 6, 7, 4, 2], "pregnant": [7, 8, 6]}}

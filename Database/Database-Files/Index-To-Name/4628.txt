@@ -1,0 +1,1 @@
+{"index": 4628, "name": "Crustaceans, shrimp, mixed species, cooked, breaded and fried", "healthiness": {"lactating": [28, 29, 27], "male": [45, 33, 27, 29, 29, 30, 30, 29, 28], "female": [45, 33, 27, 27, 27, 28, 29, 27, 25], "pregnant": [28, 30, 28]}}

@@ -1,0 +1,1 @@
+{"index": 4321, "name": "Beverages, fruit punch drink, without added nutrients, canned", "healthiness": {"lactating": [-12, -11, -12], "male": [-12, -21, -23, -18, -14, -10, -10, -10, -12], "female": [-12, -21, -23, -20, -16, -14, -12, -14, -16], "pregnant": [-12, -10, -12]}}

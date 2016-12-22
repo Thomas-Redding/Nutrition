@@ -1,0 +1,1 @@
+{"index": 5910, "name": "Popovers, dry mix, unenriched", "healthiness": {"lactating": [0, 0, -2], "male": [20, 10, 6, 8, 4, 1, -1, -2, -3], "female": [20, 10, 6, 6, 2, -2, -1, -3, -6], "pregnant": [0, 1, -1]}}

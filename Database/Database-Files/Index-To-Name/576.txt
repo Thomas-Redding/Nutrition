@@ -1,0 +1,1 @@
+{"index": 576, "name": "Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, liquid concentrate, not reconstituted", "healthiness": {"lactating": [3, 4, 3], "male": [25, 15, 12, 9, 6, 5, 7, 6, 3], "female": [25, 15, 12, 7, 4, 2, 4, 2, 0], "pregnant": [2, 4, 3]}}

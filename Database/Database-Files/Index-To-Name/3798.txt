@@ -1,0 +1,1 @@
+{"index": 3798, "name": "Beef, variety meats and by-products, thymus, cooked, braised", "healthiness": {"lactating": [19, 19, 16], "male": [39, 26, 25, 27, 25, 20, 17, 15, 15], "female": [39, 26, 25, 25, 23, 18, 19, 16, 13], "pregnant": [19, 19, 17]}}

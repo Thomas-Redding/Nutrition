@@ -1,0 +1,1 @@
+{"index": 2551, "name": "Pork, fresh, shoulder, whole, separable lean only, cooked, roasted", "healthiness": {"lactating": [29, 30, 29], "male": [43, 34, 30, 33, 31, 32, 33, 32, 30], "female": [43, 34, 30, 31, 28, 29, 31, 30, 27], "pregnant": [29, 31, 29]}}

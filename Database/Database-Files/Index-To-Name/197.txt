@@ -1,0 +1,1 @@
+{"index": 197, "name": "Milk, buttermilk, fluid, whole", "healthiness": {"lactating": [29, 28, 26], "male": [50, 39, 35, 35, 34, 29, 27, 26, 23], "female": [50, 39, 35, 33, 31, 28, 30, 27, 21], "pregnant": [28, 30, 27]}}

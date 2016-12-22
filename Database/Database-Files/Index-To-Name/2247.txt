@@ -1,0 +1,1 @@
+{"index": 2247, "name": "Guava sauce, cooked", "healthiness": {"lactating": [6, 7, 5], "male": [24, 15, 14, 13, 9, 8, 8, 7, 7], "female": [24, 15, 14, 11, 7, 6, 8, 6, 4], "pregnant": [7, 8, 6]}}

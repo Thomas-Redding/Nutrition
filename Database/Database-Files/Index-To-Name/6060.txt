@@ -1,0 +1,1 @@
+{"index": 6060, "name": "Snacks, granola bars, hard, plain", "healthiness": {"lactating": [3, 3, 1], "male": [31, 22, 17, 14, 7, 3, 3, 2, 1], "female": [32, 23, 18, 12, 5, 2, 3, 0, -2], "pregnant": [3, 4, 2]}}

@@ -1,0 +1,1 @@
+{"index": 5665, "name": "Cheesecake prepared from mix, no-bake type", "healthiness": {"lactating": [1, 1, -1], "male": [31, 18, 13, 12, 4, 1, 1, 0, -1], "female": [32, 18, 14, 10, 2, -1, 1, -2, -5], "pregnant": [1, 2, 0]}}

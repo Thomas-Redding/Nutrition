@@ -1,0 +1,1 @@
+{"index": 3000, "name": "Lettuce, cos or romaine, raw", "healthiness": {"lactating": [50, 50, 48], "male": [55, 54, 58, 61, 59, 53, 51, 50, 48], "female": [55, 54, 58, 59, 56, 52, 54, 51, 47], "pregnant": [49, 51, 49]}}

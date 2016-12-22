@@ -1,0 +1,1 @@
+{"index": 8174, "name": "UDI'S, Gluten Free, Whole Grain Dinner Rolls", "healthiness": {"lactating": [-4, -2, -4], "male": [5, -2, -4, -3, -4, -2, -1, -2, -3], "female": [5, -2, -4, -5, -5, -4, -2, -4, -5], "pregnant": [-4, -2, -3]}}

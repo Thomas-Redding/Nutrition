@@ -1,0 +1,1 @@
+{"index": 4477, "name": "Beverages, Fruit flavored drink, reduced sugar, greater than 3% fruit juice, high vitamin C, added calcium", "healthiness": {"lactating": [-6, -5, -6], "male": [-18, -19, -20, -14, -10, -6, -5, -5, -8], "female": [-18, -19, -20, -16, -12, -9, -7, -9, -12], "pregnant": [-7, -5, -6]}}

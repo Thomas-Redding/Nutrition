@@ -1,0 +1,1 @@
+{"index": 2865, "name": "Beets, canned, drained solids", "healthiness": {"lactating": [15, 15, 14], "male": [43, 36, 35, 34, 23, 17, 16, 15, 14], "female": [44, 37, 35, 32, 21, 16, 17, 15, 12], "pregnant": [14, 15, 14]}}

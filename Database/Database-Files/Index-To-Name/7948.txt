@@ -1,0 +1,1 @@
+{"index": 7948, "name": "KEEBLER, TOWN HOUSE, FLIPSIDES, Pretzel Crackers, Reduced Fat", "healthiness": {"lactating": [-10, -9, -10], "male": [-13, -20, -22, -17, -13, -10, -8, -9, -10], "female": [-13, -20, -22, -18, -15, -13, -11, -13, -14], "pregnant": [-12, -10, -11]}}

@@ -1,0 +1,1 @@
+{"index": 2272, "name": "Mango, dried, sweetened", "healthiness": {"lactating": [-5, -4, -5], "male": [5, -4, -8, -5, -4, -2, -2, -2, -4], "female": [5, -4, -8, -7, -6, -5, -4, -5, -7], "pregnant": [-4, -3, -4]}}

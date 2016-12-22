@@ -1,0 +1,1 @@
+{"index": 4270, "name": "Beverages, coffee, brewed, prepared with tap water, decaffeinated", "healthiness": {"lactating": ["-", "-", "-"], "male": ["-", "-", "-", "-", "-", "-", "-", "-", "-"], "female": ["-", "-", "-", "-", "-", "-", "-", "-", "-"], "pregnant": ["-", "-", "-"]}}

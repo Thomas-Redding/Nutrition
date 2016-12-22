@@ -1,0 +1,1 @@
+{"index": 2005, "name": "Cereals ready-to-eat, KASHI GO LEAN CRUNCH!, Honey Almond Flax", "healthiness": {"lactating": [-2, -1, -2], "male": [3, -4, -6, -3, -3, -1, 0, 0, -1], "female": [3, -4, -6, -5, -5, -4, -2, -3, -5], "pregnant": [-3, -1, -2]}}

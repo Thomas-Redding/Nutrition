@@ -1,0 +1,1 @@
+{"index": 5507, "name": "Lamb, New Zealand, imported, loin, boneless, separable lean and fat, raw", "healthiness": {"lactating": [33, 34, 33], "male": [42, 35, 33, 35, 33, 34, 37, 36, 35], "female": [42, 35, 33, 34, 31, 32, 34, 33, 31], "pregnant": [31, 34, 33]}}

@@ -1,0 +1,1 @@
+{"index": 7592, "name": "Beef, shoulder steak, boneless, separable lean and fat, trimmed to 0\" fat, select, cooked, grilled", "healthiness": {"lactating": [37, 38, 37], "male": [47, 39, 34, 37, 38, 39, 41, 41, 39], "female": [47, 39, 34, 35, 36, 36, 38, 37, 35], "pregnant": [35, 38, 36]}}

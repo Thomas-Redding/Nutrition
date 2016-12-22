@@ -1,0 +1,1 @@
+{"index": 7906, "name": "KEEBLER, GRIPZ, CHIPS DELUXE, Chocolate Chip Cookies, bite-size", "healthiness": {"lactating": [-12, -10, -12], "male": [-15, -23, -24, -19, -14, -11, -10, -10, -11], "female": [-15, -23, -24, -21, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

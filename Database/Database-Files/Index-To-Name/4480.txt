@@ -1,0 +1,1 @@
+{"index": 4480, "name": "Beverages, fruit juice drink, greater than 3% juice, high vitamin C", "healthiness": {"lactating": [-7, -6, -7], "male": [-4, -14, -17, -12, -9, -6, -5, -5, -7], "female": [-4, -14, -17, -14, -11, -9, -7, -9, -11], "pregnant": [-7, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 3325, "name": "Asparagus, canned, no salt added, solids and liquids", "healthiness": {"lactating": [62, 62, 60], "male": [59, 59, 61, 65, 65, 62, 62, 60, 60], "female": [59, 59, 61, 63, 63, 60, 63, 61, 59], "pregnant": [60, 63, 60]}}

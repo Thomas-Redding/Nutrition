@@ -1,0 +1,1 @@
+{"index": 5312, "name": "Lamb, variety meats and by-products, spleen, raw", "healthiness": {"lactating": [44, 45, 44], "male": [45, 41, 39, 43, 45, 46, 48, 47, 46], "female": [45, 41, 39, 42, 43, 45, 47, 46, 43], "pregnant": [44, 47, 45]}}

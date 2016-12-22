@@ -1,0 +1,1 @@
+{"index": 4354, "name": "Beverages, orange drink, canned, with added vitamin C", "healthiness": {"lactating": [-10, -9, -10], "male": [-16, -24, -25, -18, -13, -9, -8, -9, -10], "female": [-16, -24, -25, -20, -16, -12, -11, -12, -14], "pregnant": [-10, -9, -10]}}

@@ -1,0 +1,1 @@
+{"index": 4545, "name": "Fish, pike, walleye, raw", "healthiness": {"lactating": [40, 41, 40], "male": [48, 45, 44, 45, 42, 41, 44, 44, 42], "female": [48, 45, 44, 43, 40, 39, 42, 40, 39], "pregnant": [38, 41, 40]}}

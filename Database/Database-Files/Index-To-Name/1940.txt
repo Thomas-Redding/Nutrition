@@ -1,0 +1,1 @@
+{"index": 1940, "name": "Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Wheat Germ, Regular", "healthiness": {"lactating": [13, 14, 13], "male": [12, 10, 12, 15, 15, 14, 17, 16, 15], "female": [12, 10, 12, 13, 13, 12, 14, 12, 12], "pregnant": [11, 14, 12]}}

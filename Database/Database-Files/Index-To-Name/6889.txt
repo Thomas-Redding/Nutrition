@@ -1,0 +1,1 @@
+{"index": 6889, "name": "Fast foods, hamburger; single, regular patty; double decker bun with condiments and special sauce", "healthiness": {"lactating": [14, 14, 11], "male": [45, 32, 27, 28, 22, 15, 12, 11, 10], "female": [45, 32, 27, 26, 20, 13, 14, 11, 8], "pregnant": [14, 14, 12]}}

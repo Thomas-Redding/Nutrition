@@ -1,0 +1,1 @@
+{"index": 6013, "name": "Crackers, cheese, reduced fat", "healthiness": {"lactating": [2, 2, 0], "male": [30, 20, 14, 13, 6, 3, 2, 1, 0], "female": [31, 21, 15, 11, 4, 0, 1, -1, -3], "pregnant": [1, 2, 0]}}

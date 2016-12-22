@@ -1,0 +1,1 @@
+{"index": 3418, "name": "New zealand spinach, cooked, boiled, drained, with salt", "healthiness": {"lactating": [38, 40, 38], "male": [26, 26, 29, 35, 37, 39, 41, 40, 39], "female": [26, 26, 29, 33, 34, 36, 40, 38, 36], "pregnant": [36, 39, 37]}}

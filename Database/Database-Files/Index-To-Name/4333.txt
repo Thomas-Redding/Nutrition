@@ -1,0 +1,1 @@
+{"index": 4333, "name": "Beverages, Cranberry juice cocktail", "healthiness": {"lactating": [-9, -8, -9], "male": [-16, -21, -23, -17, -12, -8, -7, -8, -9], "female": [-16, -21, -23, -19, -14, -11, -10, -11, -13], "pregnant": [-9, -8, -9]}}

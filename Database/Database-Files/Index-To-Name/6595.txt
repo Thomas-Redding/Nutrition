@@ -1,0 +1,1 @@
+{"index": 6595, "name": "Corn flour, whole-grain, blue (harina de maiz morado)", "healthiness": {"lactating": [-7, -6, -7], "male": [2, -7, -11, -8, -8, -6, -5, -5, -7], "female": [2, -7, -11, -10, -10, -9, -6, -8, -10], "pregnant": [-8, -6, -7]}}

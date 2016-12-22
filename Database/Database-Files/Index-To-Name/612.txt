@@ -1,0 +1,1 @@
+{"index": 612, "name": "Toddler formula, MEAD JOHNSON, ENFAGROW PREMIUM (formerly ENFAMIL, LIPIL, NEXT STEP), ready-to-feed", "healthiness": {"lactating": [6, 7, 6], "male": [25, 18, 16, 13, 9, 8, 10, 9, 6], "female": [25, 18, 16, 12, 7, 5, 7, 6, 3], "pregnant": [5, 7, 6]}}

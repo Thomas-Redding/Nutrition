@@ -1,0 +1,1 @@
+{"index": 6261, "name": "Candies, HERSHEY, REESESTICKS crispy wafers, peanut butter, milk chocolate", "healthiness": {"lactating": [-11, -10, -11], "male": [-3, -15, -20, -16, -13, -10, -9, -9, -11], "female": [-3, -15, -20, -18, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

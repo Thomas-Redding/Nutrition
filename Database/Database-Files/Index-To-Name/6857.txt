@@ -1,0 +1,1 @@
+{"index": 6857, "name": "McDONALD'S, DOUBLE QUARTER POUNDER with Cheese", "healthiness": {"lactating": [-5, -4, -5], "male": [3, -7, -10, -7, -6, -4, -2, -3, -4], "female": [3, -7, -10, -9, -8, -7, -5, -6, -8], "pregnant": [-6, -4, -5]}}

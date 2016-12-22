@@ -1,0 +1,1 @@
+{"index": 4343, "name": "Beverages, lemonade-flavor drink, powder, prepared with water", "healthiness": {"lactating": [-11, -9, -11], "male": [-12, -20, -20, -14, -12, -9, -9, -9, -10], "female": [-12, -20, -20, -16, -14, -12, -10, -12, -14], "pregnant": [-11, -9, -10]}}

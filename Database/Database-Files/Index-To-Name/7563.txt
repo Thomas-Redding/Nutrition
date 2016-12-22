@@ -1,0 +1,1 @@
+{"index": 7563, "name": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, all grades, raw", "healthiness": {"lactating": [37, 38, 37], "male": [46, 38, 34, 37, 39, 40, 42, 41, 39], "female": [46, 38, 34, 35, 36, 37, 39, 38, 36], "pregnant": [36, 38, 37]}}

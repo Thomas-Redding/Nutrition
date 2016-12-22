@@ -1,0 +1,1 @@
+{"index": 2915, "name": "Celtuce, raw", "healthiness": {"lactating": [45, 45, 42], "male": [51, 50, 54, 59, 52, 45, 45, 44, 43], "female": [51, 50, 54, 57, 50, 44, 46, 43, 41], "pregnant": [42, 44, 42]}}

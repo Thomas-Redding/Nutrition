@@ -1,0 +1,1 @@
+{"index": 8476, "name": "CRACKER BARREL, coleslaw", "healthiness": {"lactating": [-5, -4, -5], "male": [6, -5, -6, -3, -4, -3, -2, -3, -4], "female": [7, -5, -5, -5, -6, -5, -4, -6, -8], "pregnant": [-4, -3, -4]}}

@@ -1,0 +1,1 @@
+{"index": 8373, "name": "Tortilla, includes plain and from mutton sandwich (Navajo)", "healthiness": {"lactating": [5, 5, 3], "male": [30, 20, 16, 16, 10, 5, 5, 4, 3], "female": [30, 20, 16, 14, 8, 3, 4, 1, 0], "pregnant": [4, 5, 3]}}

@@ -1,0 +1,1 @@
+{"index": 2188, "name": "Cherries, sweet, frozen, sweetened", "healthiness": {"lactating": [-10, -9, -10], "male": [-2, -14, -18, -14, -12, -8, -8, -8, -9], "female": [-2, -14, -18, -16, -14, -11, -10, -11, -13], "pregnant": [-10, -8, -10]}}

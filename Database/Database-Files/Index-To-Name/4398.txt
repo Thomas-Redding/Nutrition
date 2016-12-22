@@ -1,0 +1,1 @@
+{"index": 4398, "name": "Cranberry juice cocktail, frozen concentrate, prepared with water", "healthiness": {"lactating": [-11, -9, -11], "male": [-10, -20, -21, -16, -11, -8, -8, -8, -10], "female": [-10, -20, -21, -18, -14, -11, -10, -11, -13], "pregnant": [-10, -8, -10]}}

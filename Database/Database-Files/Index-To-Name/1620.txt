@@ -1,0 +1,1 @@
+{"index": 1620, "name": "Beerwurst, beer salami, pork and beef", "healthiness": {"lactating": [-6, -4, -6], "male": [11, -1, -8, -6, -6, -4, -3, -3, -5], "female": [11, -1, -8, -8, -8, -7, -5, -7, -9], "pregnant": [-6, -4, -6]}}

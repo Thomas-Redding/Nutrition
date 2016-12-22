@@ -1,0 +1,1 @@
+{"index": 4763, "name": "Beans, great northern, mature seeds, cooked, boiled, without salt", "healthiness": {"lactating": [28, 28, 26], "male": [38, 32, 33, 33, 31, 28, 27, 25, 25], "female": [38, 32, 33, 32, 30, 27, 28, 26, 24], "pregnant": [26, 28, 26]}}

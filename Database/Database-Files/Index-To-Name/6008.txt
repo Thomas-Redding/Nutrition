@@ -1,0 +1,1 @@
+{"index": 6008, "name": "Crackers, snack, GOYA CRACKERS", "healthiness": {"lactating": [-10, -9, -10], "male": [-12, -20, -22, -17, -13, -9, -8, -9, -10], "female": [-12, -20, -22, -19, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

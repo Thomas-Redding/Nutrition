@@ -1,0 +1,1 @@
+{"index": 8590, "name": "Candies, MARS SNACKFOOD US, TWIX chocolate fudge cookie bars", "healthiness": {"lactating": [-11, -9, -11], "male": [-4, -14, -19, -16, -13, -9, -8, -9, -10], "female": [-4, -14, -19, -17, -15, -13, -11, -12, -14], "pregnant": [-11, -9, -10]}}

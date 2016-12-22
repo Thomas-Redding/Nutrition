@@ -1,0 +1,1 @@
+{"index": 7851, "name": "KEEBLER, ANIMALS, Frosted Cookies", "healthiness": {"lactating": [-14, -13, -14], "male": [-27, -28, -29, -22, -17, -12, -12, -12, -14], "female": [-27, -28, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -13, -14]}}

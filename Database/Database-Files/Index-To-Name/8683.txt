@@ -1,0 +1,1 @@
+{"index": 8683, "name": "Cereals ready-to-eat, FAMILIA", "healthiness": {"lactating": [-4, -3, -4], "male": [9, 0, -7, -4, -4, -3, -2, -2, -3], "female": [9, 0, -7, -6, -6, -6, -3, -5, -6], "pregnant": [-5, -3, -4]}}

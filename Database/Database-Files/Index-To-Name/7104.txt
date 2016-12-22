@@ -1,0 +1,1 @@
+{"index": 7104, "name": "KASHI Spicy Black Bean Enchilada, frozen, unprepared", "healthiness": {"lactating": [-9, -8, -9], "male": [-15, -20, -18, -14, -12, -8, -7, -8, -9], "female": [-15, -20, -18, -16, -14, -12, -9, -11, -12], "pregnant": [-10, -8, -9]}}

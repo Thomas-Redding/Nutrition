@@ -1,0 +1,1 @@
+{"index": 1463, "name": "CAMPBELL'S CHUNKY Soups, Savory Chicken with White & Wild Rice Soup", "healthiness": {"lactating": [-13, -12, -13], "male": [-29, -29, -29, -22, -17, -12, -12, -12, -13], "female": [-29, -29, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -13]}}

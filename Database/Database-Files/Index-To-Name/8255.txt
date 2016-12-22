@@ -1,0 +1,1 @@
+{"index": 8255, "name": "KASHI Three Cheese Ravioli with Mediterranean Tomato Sauce, frozen, unprepared", "healthiness": {"lactating": [-12, -11, -12], "male": [-20, -26, -26, -20, -15, -11, -10, -11, -12], "female": [-20, -26, -26, -22, -18, -15, -13, -15, -16], "pregnant": [-13, -11, -12]}}

@@ -1,0 +1,1 @@
+{"index": 5045, "name": "WORTHINGTON FriPats, frozen, unprepared", "healthiness": {"lactating": [-1, 0, -1], "male": [-2, -6, -7, -4, -2, 1, 2, 2, 0], "female": [-2, -6, -7, -6, -4, -2, 0, -2, -3], "pregnant": [-3, -1, -2]}}

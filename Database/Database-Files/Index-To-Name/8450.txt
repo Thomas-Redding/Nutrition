@@ -1,0 +1,1 @@
+{"index": 8450, "name": "Bread, blue corn, somiviki (Hopi)", "healthiness": {"lactating": [-8, -6, -8], "male": [-1, -8, -13, -10, -9, -6, -5, -6, -7], "female": [-1, -8, -13, -12, -11, -9, -7, -9, -10], "pregnant": [-8, -7, -8]}}

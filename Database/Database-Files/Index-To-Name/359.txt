@@ -1,0 +1,1 @@
+{"index": 359, "name": "Babyfood, dinner, chicken soup, strained", "healthiness": {"lactating": [0, 1, 0], "male": [17, 4, 2, 2, 1, 2, 3, 2, 0], "female": [17, 4, 2, 0, -1, 0, 1, 0, -2], "pregnant": [1, 2, 1]}}

@@ -1,0 +1,1 @@
+{"index": 4871, "name": "Winged beans, mature seeds, cooked, boiled, without salt", "healthiness": {"lactating": [28, 28, 26], "male": [38, 32, 28, 30, 29, 27, 26, 25, 24], "female": [38, 32, 28, 28, 27, 24, 25, 23, 21], "pregnant": [24, 26, 24]}}

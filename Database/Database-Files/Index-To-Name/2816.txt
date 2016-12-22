@@ -1,0 +1,1 @@
+{"index": 2816, "name": "Amaranth leaves, cooked, boiled, drained, without salt", "healthiness": {"lactating": [58, 59, 57], "male": [49, 48, 48, 54, 57, 59, 58, 57, 56], "female": [49, 48, 48, 52, 54, 56, 58, 56, 53], "pregnant": [58, 59, 57]}}

@@ -1,0 +1,1 @@
+{"index": 7001, "name": "McDONALD'S, RANCH SNACK WRAP, Grilled", "healthiness": {"lactating": [20, 20, 17], "male": [39, 28, 23, 26, 25, 20, 18, 17, 16], "female": [39, 28, 23, 24, 22, 19, 19, 17, 14], "pregnant": [19, 20, 17]}}

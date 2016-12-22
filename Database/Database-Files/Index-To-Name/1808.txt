@@ -1,0 +1,1 @@
+{"index": 1808, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S PRODUCT 19", "healthiness": {"lactating": [26, 27, 26], "male": [24, 19, 18, 23, 26, 28, 29, 29, 26], "female": [24, 19, 18, 21, 24, 26, 28, 26, 23], "pregnant": [28, 29, 28]}}

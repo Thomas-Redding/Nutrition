@@ -1,0 +1,1 @@
+{"index": 6235, "name": "Puddings, tapioca, ready-to-eat", "healthiness": {"lactating": [-11, -9, -11], "male": [-1, -14, -20, -16, -13, -9, -8, -9, -10], "female": [-1, -14, -20, -18, -15, -13, -11, -12, -15], "pregnant": [-11, -9, -10]}}

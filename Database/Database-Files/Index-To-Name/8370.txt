@@ -1,0 +1,1 @@
+{"index": 8370, "name": "Bread, kneel down (Navajo)", "healthiness": {"lactating": [-7, -6, -7], "male": [3, -3, -9, -8, -8, -6, -4, -5, -6], "female": [3, -3, -9, -10, -10, -9, -6, -8, -10], "pregnant": [-8, -6, -7]}}

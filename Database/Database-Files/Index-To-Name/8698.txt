@@ -1,0 +1,1 @@
+{"index": 8698, "name": "Pork, oriental style, dehydrated", "healthiness": {"lactating": [-2, -2, -4], "male": [18, 8, 6, 7, 1, -2, -3, -4, -5], "female": [19, 9, 7, 5, -1, -4, -3, -6, -8], "pregnant": [-2, -2, -4]}}

@@ -1,0 +1,1 @@
+{"index": 2428, "name": "Rowal, raw", "healthiness": {"lactating": [-1, 0, -1], "male": [-4, -10, -8, -5, -2, 0, 1, 1, 0], "female": [-4, -10, -8, -7, -4, -2, 0, -2, -2], "pregnant": [-2, 0, -1]}}

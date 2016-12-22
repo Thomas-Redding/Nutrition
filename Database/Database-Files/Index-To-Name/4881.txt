@@ -1,0 +1,1 @@
+{"index": 4881, "name": "Peanut butter, smooth, vitamin and mineral fortified", "healthiness": {"lactating": [7, 8, 7], "male": [6, 3, 3, 8, 11, 10, 11, 11, 9], "female": [6, 3, 3, 6, 8, 7, 10, 8, 7], "pregnant": [6, 8, 6]}}

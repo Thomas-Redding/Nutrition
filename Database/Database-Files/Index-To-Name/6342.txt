@@ -1,0 +1,1 @@
+{"index": 6342, "name": "Frostings, vanilla, creamy, dry mix, prepared with margarine", "healthiness": {"lactating": [-14, -12, -14], "male": [-27, -28, -27, -21, -17, -12, -12, -12, -14], "female": [-27, -27, -27, -23, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -14]}}

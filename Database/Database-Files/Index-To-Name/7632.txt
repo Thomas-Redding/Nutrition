@@ -1,0 +1,1 @@
+{"index": 7632, "name": "Beef, short loin, top loin, steak, separable lean only, trimmed to 1/8\" fat, select, cooked, grilled", "healthiness": {"lactating": [36, 37, 36], "male": [46, 36, 31, 35, 37, 39, 40, 40, 38], "female": [46, 36, 31, 33, 35, 36, 38, 37, 35], "pregnant": [35, 37, 36]}}

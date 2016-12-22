@@ -1,0 +1,1 @@
+{"index": 3484, "name": "Squash, winter, spaghetti, cooked, boiled, drained, or baked, with salt", "healthiness": {"lactating": [13, 13, 11], "male": [41, 35, 35, 33, 24, 16, 15, 14, 12], "female": [42, 36, 36, 31, 22, 16, 16, 14, 12], "pregnant": [13, 14, 12]}}

@@ -1,0 +1,1 @@
+{"index": 8581, "name": "Salad dressing, blue or roquefort cheese dressing, light", "healthiness": {"lactating": [-5, -4, -5], "male": [4, -8, -11, -8, -7, -4, -3, -3, -5], "female": [4, -8, -11, -10, -9, -7, -5, -7, -9], "pregnant": [-5, -4, -5]}}

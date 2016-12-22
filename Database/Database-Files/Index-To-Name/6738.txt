@@ -1,0 +1,1 @@
+{"index": 6738, "name": "Fast foods, submarine sandwich, ham on white bread with lettuce and tomato", "healthiness": {"lactating": [-1, 1, -1], "male": [18, 12, 3, 3, 1, 1, 3, 2, 1], "female": [18, 12, 3, 1, -1, -1, 1, -1, -2], "pregnant": [-2, 1, -1]}}

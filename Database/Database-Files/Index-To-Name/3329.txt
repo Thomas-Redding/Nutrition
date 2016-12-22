@@ -1,0 +1,1 @@
+{"index": 3329, "name": "Bamboo shoots, cooked, boiled, drained, with salt", "healthiness": {"lactating": [47, 48, 47], "male": [43, 41, 44, 46, 46, 46, 48, 46, 46], "female": [43, 41, 44, 44, 44, 44, 47, 45, 43], "pregnant": [45, 47, 45]}}

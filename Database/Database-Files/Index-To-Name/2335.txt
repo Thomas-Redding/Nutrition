@@ -1,0 +1,1 @@
+{"index": 2335, "name": "Pear nectar, canned, without added ascorbic acid", "healthiness": {"lactating": [-11, -9, -11], "male": [-6, -17, -19, -15, -12, -9, -8, -9, -10], "female": [-6, -17, -19, -17, -14, -12, -11, -12, -14], "pregnant": [-11, -9, -11]}}

@@ -1,0 +1,1 @@
+{"index": 8272, "name": "Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Infant, Liquid concentrate, not reconstituted", "healthiness": {"lactating": [0, 1, 0], "male": [22, 11, 8, 6, 4, 3, 4, 3, 1], "female": [22, 11, 8, 4, 1, 0, 2, 0, -2], "pregnant": [0, 2, 0]}}

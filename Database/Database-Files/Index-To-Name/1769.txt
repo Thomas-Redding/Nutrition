@@ -1,0 +1,1 @@
+{"index": 1769, "name": "Bacon, turkey, low sodium", "healthiness": {"lactating": [23, 23, 20], "male": [47, 34, 30, 31, 28, 25, 20, 19, 18], "female": [47, 34, 30, 29, 25, 23, 24, 20, 16], "pregnant": [23, 24, 21]}}

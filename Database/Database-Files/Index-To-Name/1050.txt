@@ -1,0 +1,1 @@
+{"index": 1050, "name": "Duck, young duckling, domesticated, White Pekin, leg, meat only, bone in, cooked without skin, braised", "healthiness": {"lactating": [21, 22, 21], "male": [11, 9, 10, 16, 20, 23, 24, 23, 22], "female": [11, 9, 10, 14, 18, 19, 21, 19, 18], "pregnant": [20, 21, 20]}}

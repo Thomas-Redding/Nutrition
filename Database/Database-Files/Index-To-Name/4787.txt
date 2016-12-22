@@ -1,0 +1,1 @@
+{"index": 4787, "name": "Beans, white, mature seeds, raw", "healthiness": {"lactating": [30, 30, 28], "male": [40, 37, 32, 34, 33, 30, 29, 27, 27], "female": [40, 37, 32, 32, 32, 29, 30, 27, 26], "pregnant": [28, 29, 27]}}

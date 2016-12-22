@@ -1,0 +1,1 @@
+{"index": 1362, "name": "CAMPBELL'S CHUNKY Microwavable Bowls, Old Fashioned Vegetable Beef Soup, ready-to-serve", "healthiness": {"lactating": [-11, -10, -11], "male": [-24, -27, -26, -20, -15, -11, -10, -10, -11], "female": [-24, -27, -26, -22, -17, -14, -13, -14, -15], "pregnant": [-12, -11, -12]}}

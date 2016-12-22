@@ -1,0 +1,1 @@
+{"index": 8705, "name": "Salad dressing, mayonnaise and mayonnaise-type, low calorie", "healthiness": {"lactating": [-11, -10, -11], "male": [-13, -20, -21, -17, -13, -10, -10, -10, -11], "female": [-13, -20, -21, -19, -16, -13, -12, -13, -15], "pregnant": [-11, -10, -11]}}

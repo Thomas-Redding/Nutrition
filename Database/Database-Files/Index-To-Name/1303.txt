@@ -1,0 +1,1 @@
+{"index": 1303, "name": "Soup, stock, beef, home-prepared", "healthiness": {"lactating": [10, 12, 10], "male": [11, 8, 5, 9, 10, 11, 14, 14, 12], "female": [11, 8, 5, 7, 8, 8, 11, 10, 8], "pregnant": [7, 11, 9]}}

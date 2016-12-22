@@ -1,0 +1,1 @@
+{"index": 3576, "name": "Cauliflower, green, cooked, with salt", "healthiness": {"lactating": [46, 47, 45], "male": [46, 44, 48, 51, 50, 46, 46, 45, 45], "female": [46, 44, 48, 49, 48, 45, 48, 45, 43], "pregnant": [45, 47, 45]}}

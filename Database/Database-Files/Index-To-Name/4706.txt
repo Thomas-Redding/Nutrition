@@ -1,0 +1,1 @@
+{"index": 4706, "name": "Mollusks, cuttlefish, mixed species, cooked, moist heat", "healthiness": {"lactating": [47, 48, 47], "male": [53, 50, 50, 51, 49, 49, 50, 50, 48], "female": [53, 50, 50, 50, 47, 47, 50, 48, 46], "pregnant": [47, 49, 48]}}

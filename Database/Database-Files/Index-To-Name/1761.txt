@@ -1,0 +1,1 @@
+{"index": 1761, "name": "Pork sausage, link/patty, reduced fat, cooked, pan-fried", "healthiness": {"lactating": [26, 26, 24], "male": [43, 32, 28, 31, 30, 28, 25, 23, 22], "female": [43, 32, 28, 29, 27, 26, 27, 24, 20], "pregnant": [26, 27, 24]}}

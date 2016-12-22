@@ -1,0 +1,1 @@
+{"index": 8380, "name": "Fish, salmon, coho (silver), raw (Alaska Native)", "healthiness": {"lactating": [34, 35, 34], "male": [40, 34, 32, 35, 34, 36, 38, 37, 36], "female": [40, 34, 32, 33, 32, 33, 36, 34, 32], "pregnant": [34, 36, 35]}}

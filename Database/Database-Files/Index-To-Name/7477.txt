@@ -1,0 +1,1 @@
+{"index": 7477, "name": "Beef, New Zealand, imported, bolar blade, separable lean only, raw", "healthiness": {"lactating": [32, 34, 32], "male": [41, 33, 32, 35, 34, 34, 36, 36, 34], "female": [41, 33, 32, 33, 31, 31, 34, 32, 31], "pregnant": [30, 33, 32]}}

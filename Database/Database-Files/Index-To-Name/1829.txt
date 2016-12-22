@@ -1,0 +1,1 @@
+{"index": 1829, "name": "Cereals ready-to-eat, GENERAL MILLS, WHEATIES", "healthiness": {"lactating": [21, 22, 21], "male": [21, 19, 18, 21, 20, 22, 23, 23, 20], "female": [21, 19, 18, 19, 18, 20, 22, 20, 17], "pregnant": [21, 23, 22]}}

@@ -1,0 +1,1 @@
+{"index": 686, "name": "Oil, corn, industrial and retail, all purpose salad or cooking", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -26, -27, -21, -16, -12, -11, -12, -13], "female": [-25, -26, -27, -22, -18, -15, -14, -15, -18], "pregnant": [-13, -12, -13]}}

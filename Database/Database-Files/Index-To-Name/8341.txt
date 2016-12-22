@@ -1,0 +1,1 @@
+{"index": 8341, "name": "Seal, ringed, liver (Alaska Native)", "healthiness": {"lactating": [-7, -5, -7], "male": [-22, -22, -22, -15, -10, -6, -5, -5, -7], "female": [-22, -22, -22, -17, -12, -9, -7, -9, -11], "pregnant": [-7, -5, -7]}}

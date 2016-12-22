@@ -1,0 +1,1 @@
+{"index": 2579, "name": "Pork, fresh, variety meats and by-products, jowl, raw", "healthiness": {"lactating": [-9, -8, -9], "male": [2, -9, -11, -9, -10, -8, -8, -9, -10], "female": [3, -8, -10, -11, -12, -11, -10, -11, -14], "pregnant": [-9, -8, -9]}}

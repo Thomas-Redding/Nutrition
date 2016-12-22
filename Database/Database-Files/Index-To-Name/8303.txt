@@ -1,0 +1,1 @@
+{"index": 8303, "name": "Stew/soup, caribou (Alaska Native)", "healthiness": {"lactating": [-9, -7, -9], "male": [1, -9, -12, -10, -9, -7, -6, -6, -8], "female": [1, -9, -12, -12, -11, -9, -8, -10, -11], "pregnant": [-9, -7, -8]}}

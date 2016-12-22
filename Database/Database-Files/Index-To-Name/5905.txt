@@ -1,0 +1,1 @@
+{"index": 5905, "name": "English muffins, plain, unenriched, without calcium propionate (includes sourdough)", "healthiness": {"lactating": [4, 5, 2], "male": [29, 16, 12, 14, 9, 5, 3, 2, 1], "female": [29, 16, 12, 12, 7, 3, 4, 1, -2], "pregnant": [4, 5, 3]}}

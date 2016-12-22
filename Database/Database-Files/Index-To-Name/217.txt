@@ -1,0 +1,1 @@
+{"index": 217, "name": "Cheese spread, American or Cheddar cheese base, reduced fat", "healthiness": {"lactating": [3, 4, 3], "male": [15, 4, 4, 6, 5, 5, 7, 6, 4], "female": [15, 4, 4, 4, 3, 3, 5, 4, 1], "pregnant": [3, 5, 4]}}

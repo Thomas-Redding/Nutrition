@@ -1,0 +1,1 @@
+{"index": 2352, "name": "Plums, raw", "healthiness": {"lactating": [0, 1, -1], "male": [25, 12, 10, 9, 4, 3, 2, 1, 0], "female": [26, 13, 11, 6, 2, 1, 2, 0, -2], "pregnant": [2, 2, 1]}}

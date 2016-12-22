@@ -1,0 +1,1 @@
+{"index": 1669, "name": "Mother's loaf, pork", "healthiness": {"lactating": [17, 17, 14], "male": [37, 24, 20, 23, 23, 18, 15, 14, 12], "female": [37, 24, 20, 22, 21, 16, 17, 14, 10], "pregnant": [17, 17, 15]}}

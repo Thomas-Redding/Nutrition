@@ -1,0 +1,1 @@
+{"index": 306, "name": "Spearmint, fresh", "healthiness": {"lactating": [51, 52, 50], "male": [48, 48, 51, 55, 57, 54, 53, 52, 50], "female": [48, 48, 51, 54, 54, 53, 54, 52, 49], "pregnant": [52, 53, 51]}}

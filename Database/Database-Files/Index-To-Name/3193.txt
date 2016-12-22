@@ -1,0 +1,1 @@
+{"index": 3193, "name": "Squash, winter, hubbard, cooked, boiled, mashed, without salt", "healthiness": {"lactating": [27, 27, 24], "male": [49, 42, 41, 44, 36, 29, 26, 25, 24], "female": [49, 42, 41, 42, 34, 29, 29, 26, 23], "pregnant": [28, 28, 26]}}

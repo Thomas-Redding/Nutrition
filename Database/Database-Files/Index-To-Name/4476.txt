@@ -1,0 +1,1 @@
+{"index": 4476, "name": "Beverages, Fruit flavored drink containing less than 3% fruit juice, with high vitamin C", "healthiness": {"lactating": [-10, -9, -10], "male": [-22, -24, -24, -18, -13, -9, -8, -9, -10], "female": [-22, -24, -24, -20, -15, -12, -11, -12, -14], "pregnant": [-10, -9, -10]}}

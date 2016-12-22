@@ -1,0 +1,1 @@
+{"index": 3139, "name": "Pumpkin leaves, cooked, boiled, drained, without salt", "healthiness": {"lactating": [62, 63, 62], "male": [54, 52, 58, 60, 62, 64, 65, 64, 63], "female": [54, 52, 58, 58, 60, 61, 64, 62, 60], "pregnant": [62, 65, 63]}}

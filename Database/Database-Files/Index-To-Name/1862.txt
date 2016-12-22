@@ -1,0 +1,1 @@
+{"index": 1862, "name": "Cereals ready-to-eat, POST, Shredded Wheat, original big biscuit", "healthiness": {"lactating": [10, 11, 8], "male": [34, 27, 25, 25, 16, 10, 10, 8, 8], "female": [34, 27, 26, 22, 14, 9, 10, 8, 6], "pregnant": [9, 11, 9]}}

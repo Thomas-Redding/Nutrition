@@ -1,0 +1,1 @@
+{"index": 6289, "name": "Candies, fudge, chocolate marshmallow, with nuts, prepared-by-recipe", "healthiness": {"lactating": [-11, -10, -11], "male": [-5, -17, -21, -17, -13, -10, -9, -10, -11], "female": [-5, -17, -21, -19, -16, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

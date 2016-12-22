@@ -1,0 +1,1 @@
+{"index": 650, "name": "Salad dressing, mayonnaise, imitation, soybean without cholesterol", "healthiness": {"lactating": [-13, -11, -13], "male": [-23, -24, -25, -19, -15, -11, -11, -11, -13], "female": [-23, -24, -25, -21, -17, -15, -13, -15, -17], "pregnant": [-12, -11, -12]}}

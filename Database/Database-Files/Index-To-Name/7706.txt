@@ -1,0 +1,1 @@
+{"index": 7706, "name": "Snacks, M&M MARS, KUDOS Whole Grain Bar, M&M's milk chocolate", "healthiness": {"lactating": [-11, -10, -11], "male": [-23, -26, -26, -19, -15, -11, -10, -10, -12], "female": [-23, -26, -26, -21, -18, -14, -12, -14, -16], "pregnant": [-12, -10, -11]}}

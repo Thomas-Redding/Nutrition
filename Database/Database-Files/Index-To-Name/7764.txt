@@ -1,0 +1,1 @@
+{"index": 7764, "name": "CAMPBELL'S Red and White, Chicken Barley with Mushrooms Soup, condensed", "healthiness": {"lactating": [-13, -12, -13], "male": [-30, -30, -28, -22, -16, -12, -12, -12, -13], "female": [-30, -30, -28, -23, -19, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

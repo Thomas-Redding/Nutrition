@@ -1,0 +1,1 @@
+{"index": 3166, "name": "Spinach, raw", "healthiness": {"lactating": [68, 70, 68], "male": [57, 56, 59, 65, 66, 68, 70, 69, 69], "female": [57, 56, 59, 63, 64, 66, 70, 68, 66], "pregnant": [67, 70, 69]}}

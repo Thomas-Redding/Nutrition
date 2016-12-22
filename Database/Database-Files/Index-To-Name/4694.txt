@@ -1,0 +1,1 @@
+{"index": 4694, "name": "Fish, sucker, white, cooked, dry heat", "healthiness": {"lactating": [38, 39, 38], "male": [48, 43, 42, 43, 41, 40, 43, 42, 40], "female": [48, 43, 42, 41, 38, 37, 41, 39, 38], "pregnant": [37, 40, 39]}}

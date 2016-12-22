@@ -1,0 +1,1 @@
+{"index": 3230, "name": "Tomato powder", "healthiness": {"lactating": [27, 27, 26], "male": [51, 46, 48, 48, 38, 30, 29, 28, 27], "female": [51, 47, 48, 46, 36, 30, 31, 28, 27], "pregnant": [28, 30, 28]}}

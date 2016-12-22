@@ -1,0 +1,1 @@
+{"index": 8113, "name": "Cookies, sugar wafer, chocolate-covered", "healthiness": {"lactating": [-11, -10, -11], "male": [-8, -17, -22, -17, -14, -10, -9, -10, -11], "female": [-8, -17, -22, -19, -16, -14, -12, -13, -15], "pregnant": [-12, -10, -11]}}

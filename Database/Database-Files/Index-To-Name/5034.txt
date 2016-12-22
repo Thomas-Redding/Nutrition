@@ -1,0 +1,1 @@
+{"index": 5034, "name": "WORTHINGTON Prime Stakes, canned, unprepared", "healthiness": {"lactating": [-1, 0, -1], "male": [-5, -9, -9, -4, -1, 1, 2, 2, 0], "female": [-5, -9, -9, -6, -4, -2, 0, -2, -3], "pregnant": [-3, -1, -2]}}

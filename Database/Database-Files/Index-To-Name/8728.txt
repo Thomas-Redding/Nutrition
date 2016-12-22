@@ -1,0 +1,1 @@
+{"index": 8728, "name": "Cheese, cottage, lowfat, 1% milkfat, with vegetables", "healthiness": {"lactating": [-2, -1, -2], "male": [10, 2, -1, 0, -2, 0, 1, 1, -1], "female": [10, 2, -1, -2, -4, -3, 0, -2, -4], "pregnant": [-3, 0, -1]}}

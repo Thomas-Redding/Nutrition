@@ -1,0 +1,1 @@
+{"index": 1789, "name": "Cereals ready-to-eat, RALSTON CRISP RICE", "healthiness": {"lactating": [21, 22, 20], "male": [42, 37, 35, 35, 30, 26, 24, 24, 20], "female": [42, 38, 35, 33, 28, 25, 25, 23, 19], "pregnant": [24, 25, 23]}}

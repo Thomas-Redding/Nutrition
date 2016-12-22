@@ -1,0 +1,1 @@
+{"index": 8765, "name": "Babyfood, fruit supreme dessert", "healthiness": {"lactating": [-7, -6, -7], "male": [1, -8, -11, -8, -6, -5, -5, -5, -7], "female": [1, -8, -11, -10, -8, -7, -6, -8, -10], "pregnant": [-6, -5, -6]}}

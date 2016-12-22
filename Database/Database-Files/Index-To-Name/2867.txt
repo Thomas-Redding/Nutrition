@@ -1,0 +1,1 @@
+{"index": 2867, "name": "Beet greens, cooked, boiled, drained, without salt", "healthiness": {"lactating": [60, 61, 58], "male": [58, 57, 60, 66, 64, 61, 59, 58, 57], "female": [58, 57, 60, 64, 62, 59, 62, 59, 55], "pregnant": [58, 60, 58]}}

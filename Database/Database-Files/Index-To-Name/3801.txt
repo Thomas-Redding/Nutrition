@@ -1,0 +1,1 @@
+{"index": 3801, "name": "Beef, variety meats and by-products, tripe, raw", "healthiness": {"lactating": [0, 1, 0], "male": [14, 3, -3, 0, 0, 2, 3, 2, 1], "female": [14, 3, -3, -2, -2, -1, 1, -1, -2], "pregnant": [-1, 1, 0]}}

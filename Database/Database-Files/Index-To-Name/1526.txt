@@ -1,0 +1,1 @@
+{"index": 1526, "name": "CAMPBELL'S Soup on the Go, New England Clam Chowder", "healthiness": {"lactating": [-13, -12, -13], "male": [-26, -29, -28, -22, -16, -12, -11, -12, -13], "female": [-26, -29, -28, -23, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

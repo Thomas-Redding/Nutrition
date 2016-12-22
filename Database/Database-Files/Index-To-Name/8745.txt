@@ -1,0 +1,1 @@
+{"index": 8745, "name": "Cereals ready-to-eat, OAT BRAN FLAKES, HEALTH VALLEY", "healthiness": {"lactating": [7, 9, 7], "male": [20, 15, 11, 14, 11, 11, 13, 12, 10], "female": [20, 15, 11, 12, 9, 9, 11, 9, 8], "pregnant": [8, 10, 9]}}

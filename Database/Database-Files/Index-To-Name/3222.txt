@@ -1,0 +1,1 @@
+{"index": 3222, "name": "Tomatoes, red, ripe, raw, year round average", "healthiness": {"lactating": [31, 31, 29], "male": [51, 47, 50, 49, 42, 33, 33, 32, 30], "female": [52, 48, 50, 47, 40, 33, 35, 33, 31], "pregnant": [32, 33, 31]}}

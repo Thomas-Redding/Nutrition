@@ -1,0 +1,1 @@
+{"index": 1033, "name": "Poultry, mechanically deboned, from backs and necks with skin, raw", "healthiness": {"lactating": [11, 10, 8], "male": [37, 22, 18, 20, 18, 11, 9, 7, 6], "female": [37, 22, 18, 18, 15, 9, 10, 7, 4], "pregnant": [10, 10, 8]}}

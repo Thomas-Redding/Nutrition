@@ -1,0 +1,1 @@
+{"index": 602, "name": "Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added DHA fortified", "healthiness": {"lactating": [-5, -4, -5], "male": [13, 1, -5, -5, -6, -4, -2, -3, -5], "female": [13, 1, -5, -7, -8, -7, -4, -6, -8], "pregnant": [-6, -3, -5]}}

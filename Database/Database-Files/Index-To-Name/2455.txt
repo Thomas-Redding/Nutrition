@@ -1,0 +1,1 @@
+{"index": 2455, "name": "Apples, raw, fuji, with skin", "healthiness": {"lactating": [-10, -9, -10], "male": [-3, -15, -20, -15, -12, -9, -8, -9, -10], "female": [-3, -15, -20, -17, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

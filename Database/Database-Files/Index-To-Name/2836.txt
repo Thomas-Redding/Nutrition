@@ -1,0 +1,1 @@
+{"index": 2836, "name": "Beans, kidney, mature seeds, sprouted, raw", "healthiness": {"lactating": [46, 47, 46], "male": [45, 43, 42, 47, 48, 47, 49, 48, 46], "female": [45, 43, 42, 45, 46, 45, 47, 45, 44], "pregnant": [44, 46, 45]}}

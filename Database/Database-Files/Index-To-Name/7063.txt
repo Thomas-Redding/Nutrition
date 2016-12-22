@@ -1,0 +1,1 @@
+{"index": 7063, "name": "SUPPER BAKES MEAL KITS, Southwestern-Style Chicken w/rice (chicken not included)", "healthiness": {"lactating": [-14, -13, -14], "male": [-30, -30, -29, -22, -17, -13, -12, -13, -14], "female": [-30, -30, -29, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -13, -14]}}

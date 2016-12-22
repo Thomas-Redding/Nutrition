@@ -1,0 +1,1 @@
+{"index": 7626, "name": "Beef, tenderloin, steak, separable lean only, trimmed to 1/8\" fat, select, raw", "healthiness": {"lactating": [35, 36, 35], "male": [47, 38, 32, 36, 38, 38, 40, 39, 37], "female": [47, 38, 32, 34, 35, 36, 38, 37, 35], "pregnant": [34, 36, 35]}}

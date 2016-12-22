@@ -1,0 +1,1 @@
+{"index": 7702, "name": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON MULTIGRAIN CRUNCH BAR", "healthiness": {"lactating": [23, 24, 23], "male": [14, 14, 14, 20, 21, 23, 26, 25, 23], "female": [14, 14, 14, 18, 19, 20, 23, 21, 20], "pregnant": [20, 23, 22]}}

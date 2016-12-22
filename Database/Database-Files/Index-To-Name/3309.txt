@@ -1,0 +1,1 @@
+{"index": 3309, "name": "Potato pancakes", "healthiness": {"lactating": [5, 6, 4], "male": [44, 30, 24, 23, 13, 7, 6, 5, 3], "female": [44, 31, 25, 21, 11, 5, 6, 3, 1], "pregnant": [6, 6, 4]}}

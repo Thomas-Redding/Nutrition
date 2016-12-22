@@ -1,0 +1,1 @@
+{"index": 1147, "name": "Chicken, dark meat, thigh, meat and skin, with added solution, cooked, roasted", "healthiness": {"lactating": [27, 28, 26], "male": [43, 33, 28, 30, 29, 29, 29, 28, 27], "female": [43, 33, 28, 28, 26, 27, 29, 26, 24], "pregnant": [26, 28, 27]}}

@@ -1,0 +1,1 @@
+{"index": 2559, "name": "Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, cooked, braised", "healthiness": {"lactating": [28, 30, 28], "male": [44, 34, 30, 32, 31, 31, 31, 30, 29], "female": [44, 34, 30, 30, 28, 29, 31, 29, 26], "pregnant": [28, 30, 29]}}

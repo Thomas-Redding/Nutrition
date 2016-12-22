@@ -1,0 +1,1 @@
+{"index": 818, "name": "Dressing, honey mustard, fat-free", "healthiness": {"lactating": [-11, -10, -11], "male": [-4, -18, -20, -16, -13, -9, -9, -9, -10], "female": [-4, -18, -20, -18, -15, -13, -11, -13, -14], "pregnant": [-11, -9, -11]}}

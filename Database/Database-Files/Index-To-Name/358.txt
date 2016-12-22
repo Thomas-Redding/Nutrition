@@ -1,0 +1,1 @@
+{"index": 358, "name": "Babyfood, dinner, chicken noodle, junior", "healthiness": {"lactating": [-2, -1, -2], "male": [18, 10, 2, 1, -1, 0, 1, 1, -1], "female": [18, 10, 2, -1, -3, -3, 0, -2, -3], "pregnant": [-2, 0, -1]}}

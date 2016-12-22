@@ -1,0 +1,1 @@
+{"index": 6727, "name": "School Lunch, pizza, BIG DADDY'S LS 16\" 51% Whole Grain Rolled Edge Cheese Pizza, frozen", "healthiness": {"lactating": [-4, -3, -4], "male": [2, -6, -10, -7, -6, -3, -1, -2, -3], "female": [2, -6, -10, -9, -9, -7, -4, -6, -7], "pregnant": [-6, -3, -5]}}

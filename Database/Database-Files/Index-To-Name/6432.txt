@@ -1,0 +1,1 @@
+{"index": 6432, "name": "Ice creams, BREYERS, All Natural Light Mint Chocolate Chip", "healthiness": {"lactating": [-13, -12, -13], "male": [-22, -26, -27, -21, -16, -12, -11, -12, -13], "female": [-22, -26, -27, -23, -19, -16, -14, -15, -17], "pregnant": [-13, -12, -13]}}

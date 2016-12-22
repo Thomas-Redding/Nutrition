@@ -1,0 +1,1 @@
+{"index": 1658, "name": "Mortadella, beef, pork", "healthiness": {"lactating": [15, 15, 12], "male": [38, 23, 18, 21, 21, 16, 13, 11, 10], "female": [38, 23, 18, 19, 19, 14, 14, 11, 8], "pregnant": [15, 15, 12]}}

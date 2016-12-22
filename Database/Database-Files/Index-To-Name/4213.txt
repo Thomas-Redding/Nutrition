@@ -1,0 +1,1 @@
+{"index": 4213, "name": "Carbonated beverage, cream soda", "healthiness": {"lactating": [-14, -12, -14], "male": [-20, -27, -28, -22, -17, -12, -12, -12, -14], "female": [-20, -27, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

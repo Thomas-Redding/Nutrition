@@ -1,0 +1,1 @@
+{"index": 7847, "name": "KASHI, TLC, Happy Trail Mix Cookies", "healthiness": {"lactating": [-11, -10, -11], "male": [-17, -24, -23, -18, -15, -11, -10, -10, -11], "female": [-17, -24, -23, -20, -17, -14, -12, -13, -15], "pregnant": [-12, -10, -11]}}

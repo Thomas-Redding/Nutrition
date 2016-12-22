@@ -1,0 +1,1 @@
+{"index": 1449, "name": "Soup, chicken gumbo, canned, prepared with equal volume water", "healthiness": {"lactating": [21, 20, 18], "male": [50, 40, 39, 39, 32, 23, 20, 19, 18], "female": [50, 40, 39, 37, 31, 22, 22, 19, 17], "pregnant": [21, 21, 19]}}

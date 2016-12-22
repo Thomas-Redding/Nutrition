@@ -1,0 +1,1 @@
+{"index": 3550, "name": "Pickles, cucumber, sweet (includes bread and butter pickles)", "healthiness": {"lactating": [-4, -3, -4], "male": [10, -3, -5, -4, -5, -3, -2, -3, -4], "female": [11, -3, -5, -6, -7, -6, -4, -6, -8], "pregnant": [-4, -3, -4]}}

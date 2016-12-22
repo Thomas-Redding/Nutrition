@@ -1,0 +1,1 @@
+{"index": 5408, "name": "Lamb, Australian, imported, fresh, loin, separable lean and fat, trimmed to 1/8\" fat, cooked, broiled", "healthiness": {"lactating": [30, 31, 30], "male": [43, 33, 30, 33, 32, 32, 34, 33, 31], "female": [43, 33, 30, 31, 29, 30, 32, 30, 29], "pregnant": [29, 31, 30]}}

@@ -1,0 +1,1 @@
+{"index": 2078, "name": "Cereals ready-to-eat, GENERAL MILLS, Dulce De Leche CHEERIOS", "healthiness": {"lactating": [12, 13, 12], "male": [9, 6, 5, 10, 13, 15, 16, 16, 13], "female": [9, 6, 5, 8, 11, 13, 15, 13, 10], "pregnant": [12, 15, 13]}}

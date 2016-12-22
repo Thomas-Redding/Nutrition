@@ -1,0 +1,1 @@
+{"index": 8312, "name": "Fish, herring eggs on giant kelp, Pacific (Alaska Native)", "healthiness": {"lactating": [-3, -2, -3], "male": [-30, -30, -30, -8, -5, -2, -1, -2, -3], "female": [-30, -30, -30, -10, -8, -5, -3, -5, -7], "pregnant": [-6, -4, -5]}}

@@ -1,0 +1,1 @@
+{"index": 6247, "name": "Flan, caramel custard, dry mix, prepared with whole milk", "healthiness": {"lactating": [9, 9, 6], "male": [38, 25, 20, 22, 14, 9, 7, 6, 4], "female": [38, 25, 20, 20, 12, 7, 8, 5, 1], "pregnant": [8, 9, 7]}}

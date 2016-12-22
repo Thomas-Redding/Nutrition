@@ -1,0 +1,1 @@
+{"index": 4738, "name": "Crustaceans, shrimp, raw (not previously frozen)", "healthiness": {"lactating": [-2, -1, -2], "male": [-30, -11, -12, -7, -6, -3, 0, -1, -2], "female": [-30, -11, -12, -9, -8, -6, -2, -4, -6], "pregnant": [-5, -1, -3]}}

@@ -1,0 +1,1 @@
+{"index": 4410, "name": "Beverages, Propel Zero, fruit-flavored, non-carbonated", "healthiness": {"lactating": [9, 10, 9], "male": [-3, -6, -6, 0, 6, 10, 11, 10, 9], "female": [-3, -6, -6, -2, 3, 6, 8, 6, 5], "pregnant": [8, 10, 8]}}

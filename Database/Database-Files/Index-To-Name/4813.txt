@@ -1,0 +1,1 @@
+{"index": 4813, "name": "Lupins, mature seeds, raw", "healthiness": {"lactating": [29, 29, 27], "male": [37, 31, 31, 33, 31, 30, 28, 27, 26], "female": [37, 31, 31, 31, 29, 28, 30, 28, 26], "pregnant": [28, 30, 28]}}

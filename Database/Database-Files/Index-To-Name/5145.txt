@@ -1,0 +1,1 @@
+{"index": 5145, "name": "Lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4\" fat, choice, raw", "healthiness": {"lactating": [36, 37, 36], "male": [45, 38, 35, 38, 37, 38, 40, 40, 38], "female": [45, 38, 35, 36, 35, 36, 38, 37, 35], "pregnant": [35, 37, 36]}}

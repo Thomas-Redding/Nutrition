@@ -1,0 +1,1 @@
+{"index": 2684, "name": "HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored", "healthiness": {"lactating": [-12, -11, -12], "male": [-18, -23, -22, -18, -14, -11, -10, -11, -12], "female": [-18, -23, -22, -20, -17, -14, -12, -14, -16], "pregnant": [-12, -11, -12]}}

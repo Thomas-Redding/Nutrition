@@ -1,0 +1,1 @@
+{"index": 4893, "name": "USDA Commodity, Peanut Butter, smooth", "healthiness": {"lactating": [8, 8, 6], "male": [36, 29, 25, 23, 14, 9, 8, 6, 5], "female": [37, 30, 25, 21, 12, 7, 8, 6, 3], "pregnant": [8, 9, 7]}}

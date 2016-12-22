@@ -1,0 +1,1 @@
+{"index": 5333, "name": "Lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted", "healthiness": {"lactating": [27, 28, 26], "male": [40, 27, 24, 28, 27, 29, 28, 27, 26], "female": [40, 27, 24, 26, 25, 26, 28, 26, 24], "pregnant": [27, 28, 26]}}

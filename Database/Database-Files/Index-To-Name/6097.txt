@@ -1,0 +1,1 @@
+{"index": 6097, "name": "Snacks, trail mix, tropical", "healthiness": {"lactating": [-3, -2, -3], "male": [21, 12, 9, 6, 0, -1, -1, -2, -3], "female": [22, 13, 10, 4, -2, -4, -3, -5, -7], "pregnant": [-3, -2, -3]}}

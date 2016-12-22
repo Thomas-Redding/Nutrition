@@ -1,0 +1,1 @@
+{"index": 1719, "name": "Bacon and beef sticks", "healthiness": {"lactating": [11, 11, 9], "male": [36, 22, 17, 20, 19, 12, 9, 8, 7], "female": [36, 22, 17, 18, 16, 10, 11, 8, 4], "pregnant": [11, 11, 9]}}

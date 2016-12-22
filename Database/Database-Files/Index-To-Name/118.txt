@@ -1,0 +1,1 @@
+{"index": 118, "name": "Egg, whole, cooked, omelet", "healthiness": {"lactating": [32, 32, 30], "male": [51, 40, 35, 37, 36, 34, 33, 31, 29], "female": [51, 40, 35, 35, 33, 32, 34, 31, 27], "pregnant": [32, 34, 31]}}

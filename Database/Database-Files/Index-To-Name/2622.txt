@@ -1,0 +1,1 @@
+{"index": 2622, "name": "Pork, fresh, variety meats and by-products, feet, cooked, simmered", "healthiness": {"lactating": [-10, -8, -10], "male": [-2, -15, -18, -13, -11, -8, -7, -8, -9], "female": [-2, -15, -18, -15, -13, -11, -10, -11, -13], "pregnant": [-10, -8, -10]}}

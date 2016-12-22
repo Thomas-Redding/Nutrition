@@ -1,0 +1,1 @@
+{"index": 6657, "name": "Fast foods, biscuit, with egg, cheese, and bacon", "healthiness": {"lactating": [14, 14, 11], "male": [45, 32, 25, 26, 21, 14, 12, 11, 10], "female": [45, 32, 25, 24, 19, 13, 14, 11, 7], "pregnant": [14, 14, 12]}}

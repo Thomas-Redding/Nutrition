@@ -1,0 +1,1 @@
+{"index": 450, "name": "Babyfood, cereal, oatmeal, with applesauce and bananas, strained", "healthiness": {"lactating": [13, 14, 12], "male": [38, 33, 29, 27, 19, 16, 16, 15, 13], "female": [39, 34, 30, 25, 17, 14, 15, 13, 10], "pregnant": [14, 15, 14]}}

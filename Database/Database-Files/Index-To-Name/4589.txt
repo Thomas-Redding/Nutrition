@@ -1,0 +1,1 @@
+{"index": 4589, "name": "Fish, sunfish, pumpkin seed, raw", "healthiness": {"lactating": [40, 41, 40], "male": [48, 45, 42, 44, 42, 42, 45, 44, 43], "female": [48, 45, 42, 42, 40, 39, 43, 41, 40], "pregnant": [39, 42, 41]}}

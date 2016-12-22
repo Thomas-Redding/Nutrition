@@ -1,0 +1,1 @@
+{"index": 130, "name": "Egg substitute, powder", "healthiness": {"lactating": [2, 4, 2], "male": [16, 3, 0, 2, 3, 5, 7, 6, 5], "female": [16, 3, 0, 0, 0, 2, 4, 3, 1], "pregnant": [2, 5, 3]}}

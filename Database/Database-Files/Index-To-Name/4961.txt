@@ -1,0 +1,1 @@
+{"index": 4961, "name": "Beans, black turtle, mature seeds, cooked, boiled, with salt", "healthiness": {"lactating": [25, 25, 23], "male": [39, 32, 29, 30, 29, 25, 23, 22, 21], "female": [39, 32, 29, 28, 27, 23, 25, 22, 20], "pregnant": [23, 25, 22]}}

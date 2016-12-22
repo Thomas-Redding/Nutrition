@@ -1,0 +1,1 @@
+{"index": 6073, "name": "Snacks, oriental mix, rice-based", "healthiness": {"lactating": [7, 7, 5], "male": [33, 22, 17, 18, 12, 7, 5, 4, 3], "female": [33, 22, 18, 16, 10, 6, 6, 4, 1], "pregnant": [7, 7, 5]}}

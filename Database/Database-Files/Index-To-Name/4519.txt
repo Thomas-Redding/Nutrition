@@ -1,0 +1,1 @@
+{"index": 4519, "name": "Fish, halibut, Greenland, raw", "healthiness": {"lactating": [29, 30, 28], "male": [39, 28, 25, 29, 30, 31, 30, 28, 27], "female": [39, 28, 25, 27, 28, 28, 30, 28, 25], "pregnant": [29, 30, 28]}}

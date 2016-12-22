@@ -1,0 +1,1 @@
+{"index": 1837, "name": "Cereals, CREAM OF RICE, cooked with water, without salt", "healthiness": {"lactating": [3, 3, 2], "male": [28, 20, 16, 15, 6, 4, 4, 3, 2], "female": [28, 21, 17, 13, 5, 2, 3, 1, -2], "pregnant": [3, 4, 2]}}

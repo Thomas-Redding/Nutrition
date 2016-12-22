@@ -1,0 +1,1 @@
+{"index": 705, "name": "Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)", "healthiness": {"lactating": [-14, -12, -14], "male": [-26, -26, -28, -22, -17, -12, -12, -12, -14], "female": [-26, -26, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-13, -12, -14]}}

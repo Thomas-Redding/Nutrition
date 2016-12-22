@@ -1,0 +1,1 @@
+{"index": 503, "name": "Babyfood, beverage, GERBER GRADUATE FRUIT SPLASHERS", "healthiness": {"lactating": [-1, 0, -1], "male": [7, 2, -5, -2, -2, 0, 1, 1, -1], "female": [7, 2, -5, -4, -4, -2, 0, -1, -4], "pregnant": [-1, 1, -1]}}

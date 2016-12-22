@@ -1,0 +1,1 @@
+{"index": 3259, "name": "Waxgourd, (chinese preserving melon), raw", "healthiness": {"lactating": [22, 23, 21], "male": [22, 22, 25, 28, 24, 23, 25, 24, 22], "female": [23, 22, 26, 26, 23, 20, 22, 21, 20], "pregnant": [18, 21, 20]}}

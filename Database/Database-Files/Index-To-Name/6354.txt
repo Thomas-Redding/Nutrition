@@ -1,0 +1,1 @@
+{"index": 6354, "name": "Snacks, granola bars, soft, uncoated, chocolate chip", "healthiness": {"lactating": [-3, -2, -4], "male": [21, 11, 6, 4, -1, -2, -2, -3, -4], "female": [22, 12, 7, 2, -3, -4, -3, -5, -7], "pregnant": [-3, -2, -3]}}

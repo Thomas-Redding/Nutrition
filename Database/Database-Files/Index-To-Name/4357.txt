@@ -1,0 +1,1 @@
+{"index": 4357, "name": "Beverages, pineapple and orange juice drink, canned", "healthiness": {"lactating": [-4, -3, -4], "male": [0, -8, -12, -8, -5, -2, -1, -2, -3], "female": [0, -8, -12, -10, -7, -5, -3, -5, -7], "pregnant": [-4, -2, -3]}}

@@ -1,0 +1,1 @@
+{"index": 5933, "name": "KELLOGG'S, EGGO, Waffles, Homestyle, Low Fat", "healthiness": {"lactating": [3, 4, 3], "male": [4, 1, 1, 5, 4, 4, 7, 7, 5], "female": [4, 1, 1, 3, 2, 2, 4, 2, 2], "pregnant": [1, 3, 2]}}

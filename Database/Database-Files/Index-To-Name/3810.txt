@@ -1,0 +1,1 @@
+{"index": 3810, "name": "Beef, cured, dried", "healthiness": {"lactating": [35, 37, 35], "male": [46, 38, 32, 36, 36, 37, 39, 39, 37], "female": [46, 38, 32, 34, 34, 35, 37, 35, 34], "pregnant": [34, 36, 35]}}

@@ -1,0 +1,1 @@
+{"index": 6563, "name": "Noodles, egg, enriched, cooked", "healthiness": {"lactating": [10, 10, 8], "male": [39, 28, 22, 24, 16, 11, 10, 9, 8], "female": [39, 28, 23, 21, 14, 9, 10, 7, 5], "pregnant": [10, 10, 8]}}

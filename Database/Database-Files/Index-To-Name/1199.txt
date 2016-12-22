@@ -1,0 +1,1 @@
+{"index": 1199, "name": "Turkey, back, from whole bird, meat and skin, with added solution, roasted", "healthiness": {"lactating": [30, 31, 29], "male": [43, 32, 30, 33, 33, 33, 32, 30, 29], "female": [43, 32, 30, 31, 31, 30, 32, 30, 27], "pregnant": [30, 32, 30]}}

@@ -1,0 +1,1 @@
+{"index": 3768, "name": "Beef, shank crosscuts, separable lean only, trimmed to 1/4\" fat, choice, raw", "healthiness": {"lactating": [37, 39, 37], "male": [42, 34, 34, 37, 39, 40, 42, 41, 39], "female": [42, 34, 34, 36, 37, 37, 39, 37, 36], "pregnant": [35, 38, 37]}}

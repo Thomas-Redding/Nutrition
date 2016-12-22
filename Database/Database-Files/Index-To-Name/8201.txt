@@ -1,0 +1,1 @@
+{"index": 8201, "name": "CAMPBELL'S, Tomato juice, low sodium", "healthiness": {"lactating": [-8, -7, -8], "male": [-21, -24, -22, -16, -11, -7, -6, -7, -8], "female": [-21, -24, -22, -18, -13, -10, -9, -10, -12], "pregnant": [-8, -7, -8]}}

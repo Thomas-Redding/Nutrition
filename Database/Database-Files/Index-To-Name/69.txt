@@ -1,0 +1,1 @@
+{"index": 69, "name": "Milk, whole, 3.25% milkfat, with added vitamin D", "healthiness": {"lactating": [28, 28, 26], "male": [50, 39, 35, 35, 34, 29, 27, 26, 23], "female": [50, 39, 35, 33, 31, 28, 30, 27, 21], "pregnant": [28, 30, 27]}}

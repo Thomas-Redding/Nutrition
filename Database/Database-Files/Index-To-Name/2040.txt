@@ -1,0 +1,1 @@
+{"index": 2040, "name": "Cereals ready-to-eat, KELLOGG'S SPECIAL K Multigrain Oats and Honey", "healthiness": {"lactating": [11, 13, 11], "male": [5, 2, 2, 7, 10, 13, 14, 13, 11], "female": [5, 2, 2, 5, 8, 10, 12, 11, 8], "pregnant": [11, 13, 12]}}

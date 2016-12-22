@@ -1,0 +1,1 @@
+{"index": 8686, "name": "Yogurt, fruit variety, nonfat", "healthiness": {"lactating": [21, 21, 18], "male": [41, 30, 25, 26, 24, 20, 19, 17, 16], "female": [41, 30, 25, 25, 21, 19, 20, 18, 14], "pregnant": [20, 21, 19]}}

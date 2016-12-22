@@ -1,0 +1,1 @@
+{"index": 5228, "name": "Veal, shoulder, blade, separable lean and fat, cooked, roasted", "healthiness": {"lactating": [32, 33, 32], "male": [46, 36, 33, 35, 34, 34, 36, 35, 34], "female": [46, 36, 33, 33, 31, 32, 34, 33, 31], "pregnant": [31, 34, 32]}}

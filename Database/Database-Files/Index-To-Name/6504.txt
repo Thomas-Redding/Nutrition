@@ -1,0 +1,1 @@
+{"index": 6504, "name": "Rice, brown, long-grain, raw", "healthiness": {"lactating": [7, 7, 5], "male": [35, 29, 25, 23, 13, 8, 7, 6, 5], "female": [35, 29, 25, 20, 10, 6, 7, 5, 2], "pregnant": [7, 8, 6]}}

@@ -1,0 +1,1 @@
+{"index": 8714, "name": "Tomato and vegetable juice, low sodium", "healthiness": {"lactating": [15, 17, 15], "male": [19, 15, 15, 17, 17, 17, 18, 17, 16], "female": [19, 15, 15, 15, 14, 14, 16, 14, 14], "pregnant": [14, 16, 15]}}

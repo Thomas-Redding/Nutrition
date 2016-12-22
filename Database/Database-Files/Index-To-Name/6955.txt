@@ -1,0 +1,1 @@
+{"index": 6955, "name": "DIGIORNO Pizza, cheese topping, rising crust, frozen, baked", "healthiness": {"lactating": [-5, -4, -5], "male": [16, 2, -7, -5, -6, -4, -2, -3, -4], "female": [16, 2, -7, -7, -8, -7, -4, -6, -8], "pregnant": [-6, -3, -5]}}

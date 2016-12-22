@@ -1,0 +1,1 @@
+{"index": 6399, "name": "Snacks, corn-based, extruded, chips, barbecue-flavor, made with enriched masa flour", "healthiness": {"lactating": [-3, -2, -4], "male": [23, 11, 6, 5, -1, -2, -2, -3, -4], "female": [24, 12, 7, 2, -3, -5, -3, -5, -7], "pregnant": [-4, -2, -4]}}

@@ -1,0 +1,1 @@
+{"index": 4952, "name": "Vitasoy USA Organic Nasoya Sprouted, Tofu Plus Super Firm", "healthiness": {"lactating": [-4, -3, -4], "male": [-15, -17, -16, -12, -7, -4, -3, -3, -6], "female": [-15, -17, -16, -14, -10, -8, -6, -8, -10], "pregnant": [-6, -4, -6]}}

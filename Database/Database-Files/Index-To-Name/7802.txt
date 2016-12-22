@@ -1,0 +1,1 @@
+{"index": 7802, "name": "Sauce, enchilada, red, mild, ready to serve", "healthiness": {"lactating": [0, 1, 0], "male": [16, 9, 8, 7, 4, 3, 4, 3, 2], "female": [16, 9, 8, 5, 2, 1, 2, 0, 0], "pregnant": [0, 1, 0]}}

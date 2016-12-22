@@ -1,0 +1,1 @@
+{"index": 6112, "name": "Candies, confectioner's coating, yogurt", "healthiness": {"lactating": [-11, -10, -11], "male": [-7, -16, -22, -17, -14, -10, -9, -10, -11], "female": [-7, -16, -22, -19, -16, -14, -12, -13, -16], "pregnant": [-12, -10, -11]}}

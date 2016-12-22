@@ -1,0 +1,1 @@
+{"index": 6212, "name": "Puddings, chocolate, dry mix, regular", "healthiness": {"lactating": [-10, -8, -10], "male": [-7, -16, -18, -13, -11, -8, -7, -8, -9], "female": [-7, -16, -18, -15, -13, -11, -9, -11, -13], "pregnant": [-10, -8, -9]}}

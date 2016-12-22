@@ -1,0 +1,1 @@
+{"index": 3467, "name": "Soybeans, green, cooked, boiled, drained, with salt", "healthiness": {"lactating": [27, 27, 25], "male": [41, 33, 31, 32, 30, 27, 26, 25, 24], "female": [41, 33, 31, 30, 28, 25, 27, 24, 23], "pregnant": [25, 27, 24]}}

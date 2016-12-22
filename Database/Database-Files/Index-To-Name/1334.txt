@@ -1,0 +1,1 @@
+{"index": 1334, "name": "PREGO Pasta, Chunky Garden Mushroom and Green Pepper Italian Sauce, ready-to-serve", "healthiness": {"lactating": [-11, -10, -11], "male": [-24, -27, -23, -19, -14, -10, -10, -10, -11], "female": [-24, -27, -23, -21, -16, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

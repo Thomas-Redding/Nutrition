@@ -1,0 +1,1 @@
+{"index": 7739, "name": "Snacks, NUTRI-GRAIN FRUIT AND NUT BAR", "healthiness": {"lactating": [0, 1, 0], "male": [17, 11, 9, 6, 2, 2, 4, 3, 1], "female": [17, 11, 9, 4, 1, 0, 2, 0, -1], "pregnant": [0, 2, 0]}}

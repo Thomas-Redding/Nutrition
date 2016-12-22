@@ -1,0 +1,1 @@
+{"index": 220, "name": "Ice cream bar, stick or nugget, with crunch coating", "healthiness": {"lactating": [-11, -10, -11], "male": [-12, -18, -21, -17, -13, -10, -9, -10, -11], "female": [-12, -18, -21, -19, -16, -13, -12, -13, -15], "pregnant": [-11, -10, -11]}}

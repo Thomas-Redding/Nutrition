@@ -1,0 +1,1 @@
+{"index": 1644, "name": "Ham, minced", "healthiness": {"lactating": [20, 20, 17], "male": [37, 26, 22, 24, 23, 21, 18, 16, 15], "female": [37, 26, 22, 22, 21, 19, 20, 17, 13], "pregnant": [20, 20, 18]}}

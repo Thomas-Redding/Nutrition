@@ -1,0 +1,1 @@
+{"index": 4411, "name": "Beverages, ARIZONA, tea, ready-to-drink, lemon", "healthiness": {"lactating": [-12, -11, -12], "male": [-24, -25, -25, -19, -15, -11, -10, -11, -12], "female": [-24, -25, -25, -21, -17, -13, -12, -14, -16], "pregnant": [-12, -10, -12]}}

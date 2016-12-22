@@ -1,0 +1,1 @@
+{"index": 1418, "name": "CAMPBELL'S, Vegetable Beef Soup, condensed", "healthiness": {"lactating": [-10, -9, -10], "male": [-15, -22, -19, -16, -13, -9, -8, -9, -10], "female": [-15, -22, -19, -18, -15, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

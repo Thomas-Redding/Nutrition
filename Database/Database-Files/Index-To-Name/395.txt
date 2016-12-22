@@ -1,0 +1,1 @@
+{"index": 395, "name": "Babyfood, fruit, apricot with tapioca, junior", "healthiness": {"lactating": [-7, -6, -7], "male": [1, -10, -13, -9, -7, -4, -4, -4, -5], "female": [1, -10, -13, -11, -9, -7, -5, -7, -9], "pregnant": [-6, -4, -5]}}

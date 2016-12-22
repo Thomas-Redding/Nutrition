@@ -1,0 +1,1 @@
+{"index": 8587, "name": "Turkey and pork sausage, fresh, bulk, patty or link, cooked", "healthiness": {"lactating": [-4, -3, -4], "male": [10, 3, -4, -3, -4, -2, -1, -2, -4], "female": [10, 3, -4, -5, -6, -5, -3, -5, -8], "pregnant": [-5, -3, -4]}}

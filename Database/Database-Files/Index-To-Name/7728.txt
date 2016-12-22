@@ -1,0 +1,1 @@
+{"index": 7728, "name": "Snacks, granola bar, KASHI GOLEAN, crunchy, mixed flavors", "healthiness": {"lactating": [3, 4, 3], "male": [17, 10, 9, 9, 6, 6, 8, 7, 5], "female": [17, 10, 9, 7, 4, 4, 6, 4, 3], "pregnant": [3, 5, 4]}}

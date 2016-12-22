@@ -1,0 +1,1 @@
+{"index": 6054, "name": "Snacks, corn-based, extruded, onion-flavor", "healthiness": {"lactating": [-4, -3, -5], "male": [22, 9, 3, 4, -2, -3, -3, -4, -5], "female": [23, 9, 4, 1, -4, -6, -5, -7, -9], "pregnant": [-4, -3, -5]}}

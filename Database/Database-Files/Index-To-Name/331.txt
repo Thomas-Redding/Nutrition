@@ -1,0 +1,1 @@
+{"index": 331, "name": "Babyfood, meat, meat sticks, junior", "healthiness": {"lactating": [21, 21, 18], "male": [39, 27, 22, 23, 23, 21, 19, 18, 17], "female": [39, 27, 22, 21, 21, 19, 20, 17, 14], "pregnant": [20, 21, 18]}}

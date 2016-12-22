@@ -1,0 +1,1 @@
+{"index": 6309, "name": "Puddings, coconut cream, dry mix, regular, prepared with whole milk", "healthiness": {"lactating": [7, 7, 5], "male": [37, 26, 20, 22, 13, 7, 6, 5, 4], "female": [37, 26, 20, 20, 11, 6, 7, 4, 1], "pregnant": [7, 8, 5]}}

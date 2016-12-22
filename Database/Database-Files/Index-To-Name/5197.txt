@@ -1,0 +1,1 @@
+{"index": 5197, "name": "Veal, leg (top round), separable lean only, raw", "healthiness": {"lactating": [38, 40, 38], "male": [45, 39, 38, 42, 41, 41, 43, 43, 41], "female": [45, 39, 38, 40, 38, 39, 42, 40, 38], "pregnant": [37, 40, 39]}}

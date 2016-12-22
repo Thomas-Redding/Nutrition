@@ -1,0 +1,1 @@
+{"index": 8627, "name": "Milk, fluid, nonfat, calcium fortified (fat free or skim)", "healthiness": {"lactating": [11, 13, 11], "male": [15, 10, 9, 11, 11, 13, 15, 14, 13], "female": [15, 10, 9, 9, 9, 10, 13, 12, 9], "pregnant": [11, 14, 12]}}

@@ -1,0 +1,1 @@
+{"index": 365, "name": "Babyfood, dinner, vegetables and noodles and turkey, strained", "healthiness": {"lactating": [-4, -3, -4], "male": [15, 2, -1, -2, -3, -2, -1, -2, -3], "female": [15, 2, -1, -4, -6, -5, -3, -4, -6], "pregnant": [-4, -2, -3]}}

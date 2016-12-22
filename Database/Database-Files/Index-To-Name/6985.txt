@@ -1,0 +1,1 @@
+{"index": 6985, "name": "WEND'YS, Crispy Chicken Sandwich", "healthiness": {"lactating": [-11, -10, -11], "male": [-13, -21, -24, -18, -15, -11, -9, -10, -11], "female": [-13, -21, -24, -20, -17, -14, -12, -14, -15], "pregnant": [-12, -10, -12]}}

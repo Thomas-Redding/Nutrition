@@ -1,0 +1,1 @@
+{"index": 276, "name": "Spices, oregano, dried", "healthiness": {"lactating": [39, 39, 37], "male": [49, 47, 50, 52, 47, 41, 38, 37, 35], "female": [49, 47, 50, 50, 44, 40, 41, 38, 34], "pregnant": [39, 40, 37]}}

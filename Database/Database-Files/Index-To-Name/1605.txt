@@ -1,0 +1,1 @@
+{"index": 1605, "name": "Gravy, HEINZ Home Style, savory beef", "healthiness": {"lactating": [0, 1, -1], "male": [32, 17, 14, 11, 4, 1, 0, -1, -2], "female": [33, 18, 15, 9, 2, -1, 0, -2, -5], "pregnant": [0, 1, -1]}}

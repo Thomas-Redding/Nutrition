@@ -1,0 +1,1 @@
+{"index": 8515, "name": "Restaurant, Latino, arroz con leche (rice pudding)", "healthiness": {"lactating": [4, 4, 2], "male": [32, 18, 13, 14, 9, 4, 3, 2, 1], "female": [32, 18, 13, 12, 7, 2, 3, 1, -2], "pregnant": [4, 5, 2]}}

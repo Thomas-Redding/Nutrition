@@ -1,0 +1,1 @@
+{"index": 4311, "name": "Alcoholic beverages, wine, rose", "healthiness": {"lactating": [-11, -10, -11], "male": [-8, -19, -22, -17, -14, -10, -9, -10, -11], "female": [-8, -19, -22, -19, -16, -13, -12, -13, -15], "pregnant": [-12, -10, -11]}}

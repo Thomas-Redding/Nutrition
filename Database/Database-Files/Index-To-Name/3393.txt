@@ -1,0 +1,1 @@
+{"index": 3393, "name": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, with salt", "healthiness": {"lactating": [18, 18, 16], "male": [42, 36, 38, 36, 26, 19, 17, 16, 15], "female": [42, 36, 38, 34, 24, 18, 20, 17, 15], "pregnant": [18, 19, 17]}}

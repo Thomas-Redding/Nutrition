@@ -1,0 +1,1 @@
+{"index": 1985, "name": "Cereals ready-to-eat, RALSTON Corn Flakes", "healthiness": {"lactating": [20, 20, 19], "male": [29, 25, 24, 28, 25, 23, 22, 21, 19], "female": [30, 25, 25, 26, 23, 21, 22, 19, 16], "pregnant": [21, 21, 20]}}

@@ -1,0 +1,1 @@
+{"index": 4902, "name": "PACE, Salsa Refried Beans", "healthiness": {"lactating": [-10, -8, -10], "male": [-23, -26, -23, -18, -13, -9, -8, -9, -10], "female": [-23, -26, -23, -20, -15, -13, -11, -13, -13], "pregnant": [-11, -10, -11]}}

@@ -1,0 +1,1 @@
+{"index": 8100, "name": "Cookies, brownies, commercially prepared, reduced fat, with added fiber", "healthiness": {"lactating": [-9, -8, -9], "male": [-5, -15, -18, -14, -11, -8, -7, -8, -9], "female": [-5, -15, -18, -16, -13, -11, -9, -11, -13], "pregnant": [-10, -8, -10]}}

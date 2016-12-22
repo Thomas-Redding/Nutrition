@@ -1,0 +1,1 @@
+{"index": 6306, "name": "Puddings, coconut cream, dry mix, instant", "healthiness": {"lactating": [-10, -8, -10], "male": [-12, -19, -21, -15, -13, -9, -7, -8, -9], "female": [-12, -19, -21, -17, -15, -13, -10, -11, -13], "pregnant": [-11, -8, -9]}}

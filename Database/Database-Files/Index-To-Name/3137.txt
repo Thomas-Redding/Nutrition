@@ -1,0 +1,1 @@
+{"index": 3137, "name": "Pumpkin flowers, cooked, boiled, drained, without salt", "healthiness": {"lactating": [18, 20, 18], "male": [15, 13, 16, 19, 18, 19, 22, 21, 20], "female": [15, 13, 16, 17, 16, 18, 21, 19, 17], "pregnant": [16, 19, 18]}}

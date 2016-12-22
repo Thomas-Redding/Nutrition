@@ -1,0 +1,1 @@
+{"index": 3458, "name": "Potatoes, scalloped, home-prepared with margarine", "healthiness": {"lactating": [15, 14, 12], "male": [45, 36, 33, 34, 25, 16, 14, 13, 12], "female": [45, 36, 33, 32, 23, 16, 16, 13, 10], "pregnant": [15, 16, 13]}}

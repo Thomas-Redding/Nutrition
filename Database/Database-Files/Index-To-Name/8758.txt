@@ -1,0 +1,1 @@
+{"index": 8758, "name": "Milk, imitation, non-soy", "healthiness": {"lactating": [-2, -1, -2], "male": [-3, -10, -10, -6, -5, -2, 0, 0, -3], "female": [-3, -10, -10, -8, -8, -5, -2, -3, -7], "pregnant": [-3, 0, -1]}}

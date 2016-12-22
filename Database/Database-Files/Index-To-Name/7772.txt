@@ -1,0 +1,1 @@
+{"index": 7772, "name": "CAMPBELL'S Soup on the Go, HEALTHY REQUEST Classic Tomato Soup", "healthiness": {"lactating": [-10, -9, -10], "male": [-22, -25, -24, -18, -12, -8, -7, -8, -9], "female": [-22, -25, -24, -20, -15, -12, -10, -12, -13], "pregnant": [-9, -8, -9]}}

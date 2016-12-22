@@ -1,0 +1,1 @@
+{"index": 4985, "name": "Cowpeas, catjang, mature seeds, cooked, boiled, with salt", "healthiness": {"lactating": [28, 28, 26], "male": [35, 31, 30, 33, 33, 28, 27, 26, 25], "female": [35, 31, 30, 31, 31, 27, 28, 25, 24], "pregnant": [26, 27, 25]}}

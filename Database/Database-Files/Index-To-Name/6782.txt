@@ -1,0 +1,1 @@
+{"index": 6782, "name": "BURGER KING, Chicken Strips", "healthiness": {"lactating": [22, 21, 19], "male": [41, 31, 24, 26, 24, 22, 20, 18, 17], "female": [41, 31, 24, 24, 22, 21, 21, 18, 15], "pregnant": [21, 22, 19]}}

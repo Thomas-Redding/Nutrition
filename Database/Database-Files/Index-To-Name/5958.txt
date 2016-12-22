@@ -1,0 +1,1 @@
+{"index": 5958, "name": "CONTINENTAL MILLS, KRUSTEAZ Almond Poppyseed Muffin Mix, Artificially Flavored, dry", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -29, -28, -22, -17, -12, -11, -12, -13], "female": [-25, -29, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

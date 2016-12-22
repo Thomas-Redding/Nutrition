@@ -1,0 +1,1 @@
+{"index": 5746, "name": "Croissants, cheese", "healthiness": {"lactating": [2, 2, 0], "male": [35, 21, 15, 13, 7, 3, 2, 1, 0], "female": [36, 22, 16, 11, 5, 0, 1, -1, -3], "pregnant": [2, 2, 1]}}

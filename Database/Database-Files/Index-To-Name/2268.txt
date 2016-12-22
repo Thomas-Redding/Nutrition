@@ -1,0 +1,1 @@
+{"index": 2268, "name": "Loquats, raw", "healthiness": {"lactating": [-1, 0, -1], "male": [17, 10, 9, 8, 2, 1, 2, 1, 0], "female": [18, 11, 10, 6, 1, 0, 1, -1, -3], "pregnant": [0, 1, 0]}}

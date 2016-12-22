@@ -1,0 +1,1 @@
+{"index": 3339, "name": "Beans, snap, yellow, raw", "healthiness": {"lactating": [41, 41, 39], "male": [51, 49, 50, 53, 50, 42, 40, 38, 37], "female": [51, 49, 50, 51, 47, 41, 42, 39, 37], "pregnant": [39, 40, 38]}}

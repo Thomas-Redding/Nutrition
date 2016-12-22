@@ -1,0 +1,1 @@
+{"index": 6322, "name": "Syrups, chocolate, HERSHEY'S Genuine Chocolate Flavored Lite Syrup", "healthiness": {"lactating": [-10, -9, -10], "male": [-9, -14, -18, -13, -11, -8, -7, -8, -9], "female": [-9, -14, -18, -15, -13, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

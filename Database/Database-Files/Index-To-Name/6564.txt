@@ -1,0 +1,1 @@
+{"index": 6564, "name": "Noodles, egg, spinach, enriched, dry", "healthiness": {"lactating": [11, 11, 9], "male": [37, 29, 24, 24, 17, 12, 10, 9, 8], "female": [37, 30, 24, 22, 15, 11, 11, 8, 6], "pregnant": [11, 11, 9]}}

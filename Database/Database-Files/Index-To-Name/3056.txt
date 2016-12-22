@@ -1,0 +1,1 @@
+{"index": 3056, "name": "Peas, green, canned, drained solids, rinsed in tap water", "healthiness": {"lactating": [22, 22, 20], "male": [33, 29, 26, 28, 27, 23, 20, 18, 18], "female": [33, 29, 26, 26, 25, 21, 22, 19, 17], "pregnant": [21, 22, 20]}}

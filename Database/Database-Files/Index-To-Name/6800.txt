@@ -1,0 +1,1 @@
+{"index": 6800, "name": "PIZZA HUT 12\" Pepperoni Pizza, Pan Crust", "healthiness": {"lactating": [12, 12, 10], "male": [45, 33, 25, 25, 19, 13, 10, 9, 8], "female": [45, 33, 25, 23, 17, 11, 12, 9, 6], "pregnant": [12, 12, 10]}}

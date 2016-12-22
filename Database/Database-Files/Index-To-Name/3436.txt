@@ -1,0 +1,1 @@
+{"index": 3436, "name": "Peppers, hot chili, red, canned, excluding seeds, solids and liquids", "healthiness": {"lactating": [39, 39, 37], "male": [52, 49, 51, 53, 48, 39, 38, 36, 36], "female": [52, 49, 51, 51, 47, 38, 39, 37, 36], "pregnant": [38, 39, 36]}}

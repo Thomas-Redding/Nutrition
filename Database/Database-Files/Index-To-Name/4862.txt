@@ -1,0 +1,1 @@
+{"index": 4862, "name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)", "healthiness": {"lactating": [35, 36, 34], "male": [41, 38, 36, 38, 37, 36, 37, 36, 35], "female": [41, 38, 36, 36, 34, 33, 36, 34, 32], "pregnant": [33, 36, 34]}}

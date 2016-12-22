@@ -1,0 +1,1 @@
+{"index": 60, "name": "Cream substitute, liquid, with hydrogenated vegetable oil and soy protein", "healthiness": {"lactating": [-9, -8, -9], "male": [-4, -7, -12, -9, -10, -8, -8, -9, -10], "female": [-3, -6, -11, -11, -12, -11, -10, -12, -14], "pregnant": [-9, -8, -9]}}

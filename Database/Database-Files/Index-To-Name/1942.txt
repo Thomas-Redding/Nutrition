@@ -1,0 +1,1 @@
+{"index": 1942, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S MARSHMALLOW FROOT LOOPS", "healthiness": {"lactating": [9, 10, 9], "male": [10, 5, 6, 11, 13, 14, 14, 13, 10], "female": [10, 5, 6, 9, 11, 11, 13, 11, 9], "pregnant": [9, 10, 9]}}

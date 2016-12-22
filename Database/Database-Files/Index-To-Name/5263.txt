@@ -1,0 +1,1 @@
+{"index": 5263, "name": "Game meat, deer, cooked, roasted", "healthiness": {"lactating": [28, 29, 28], "male": [29, 24, 24, 29, 29, 30, 32, 31, 30], "female": [29, 24, 24, 27, 27, 27, 29, 28, 27], "pregnant": [26, 28, 27]}}

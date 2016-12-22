@@ -1,0 +1,1 @@
+{"index": 4563, "name": "Fish, salmon, coho, wild, cooked, moist heat", "healthiness": {"lactating": [33, 35, 33], "male": [41, 31, 30, 33, 33, 35, 37, 36, 34], "female": [41, 31, 30, 31, 31, 32, 35, 33, 31], "pregnant": [32, 35, 33]}}

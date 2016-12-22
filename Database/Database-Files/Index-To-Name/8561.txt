@@ -1,0 +1,1 @@
+{"index": 8561, "name": "Beverages, fruit-flavored drink, dry powdered mix, low calorie, with aspartame", "healthiness": {"lactating": [-3, -2, -3], "male": [-15, -19, -19, -12, -6, -2, -1, -2, -3], "female": [-15, -19, -19, -14, -9, -5, -4, -5, -8], "pregnant": [-3, -2, -3]}}

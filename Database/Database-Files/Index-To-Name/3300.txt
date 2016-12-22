@@ -1,0 +1,1 @@
+{"index": 3300, "name": "Spinach souffle", "healthiness": {"lactating": [24, 24, 22], "male": [52, 42, 38, 36, 33, 25, 23, 22, 20], "female": [52, 42, 38, 34, 31, 24, 25, 22, 19], "pregnant": [25, 26, 23]}}

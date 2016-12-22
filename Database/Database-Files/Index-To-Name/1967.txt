@@ -1,0 +1,1 @@
+{"index": 1967, "name": "Cereals ready-to-eat, KASHI ORGANIC PROMISE, STRAWBERRY FIELDS", "healthiness": {"lactating": [-11, -9, -11], "male": [-9, -20, -19, -15, -13, -9, -9, -9, -10], "female": [-9, -20, -19, -17, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

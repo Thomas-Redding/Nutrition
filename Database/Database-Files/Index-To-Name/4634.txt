@@ -1,0 +1,1 @@
+{"index": 4634, "name": "Mollusks, abalone, mixed species, cooked, fried", "healthiness": {"lactating": [32, 33, 31], "male": [43, 35, 33, 34, 33, 33, 34, 33, 32], "female": [43, 35, 33, 32, 30, 30, 32, 30, 29], "pregnant": [30, 32, 30]}}

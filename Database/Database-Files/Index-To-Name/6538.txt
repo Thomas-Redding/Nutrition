@@ -1,0 +1,1 @@
+{"index": 6538, "name": "Wheat, soft white", "healthiness": {"lactating": [0, 1, 0], "male": [7, 3, 0, 1, -1, 1, 3, 2, 1], "female": [7, 3, 0, -1, -3, -2, 0, -1, -2], "pregnant": [-2, 1, -1]}}

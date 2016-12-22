@@ -1,0 +1,1 @@
+{"index": 6810, "name": "PAPA JOHN'S 14\" The Works Pizza, Original Crust", "healthiness": {"lactating": [14, 14, 12], "male": [43, 33, 25, 26, 21, 15, 12, 11, 10], "female": [43, 33, 25, 25, 19, 13, 14, 11, 8], "pregnant": [14, 15, 12]}}

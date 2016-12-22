@@ -1,0 +1,1 @@
+{"index": 3813, "name": "Beef, cured, luncheon meat, jellied", "healthiness": {"lactating": [39, 40, 39], "male": [45, 40, 38, 42, 42, 41, 43, 43, 41], "female": [45, 40, 38, 40, 40, 39, 41, 39, 38], "pregnant": [36, 39, 38]}}

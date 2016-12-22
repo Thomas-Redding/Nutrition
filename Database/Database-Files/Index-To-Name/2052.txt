@@ -1,0 +1,1 @@
+{"index": 2052, "name": "Cereals ready-to-eat, GENERAL MILLS, Oat Cluster CHEERIOS Crunch", "healthiness": {"lactating": [14, 15, 14], "male": [21, 16, 14, 16, 16, 18, 19, 18, 16], "female": [21, 16, 14, 14, 14, 15, 17, 15, 13], "pregnant": [13, 15, 14]}}

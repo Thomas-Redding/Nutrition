@@ -1,0 +1,1 @@
+{"index": 7965, "name": "KELLOGG'S, ALL-BRAN, Multigrain Crackers", "healthiness": {"lactating": [-8, -7, -8], "male": [-6, -15, -16, -13, -11, -8, -6, -7, -8], "female": [-6, -15, -16, -15, -13, -11, -8, -10, -11], "pregnant": [-9, -7, -9]}}

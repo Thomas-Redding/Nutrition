@@ -1,0 +1,1 @@
+{"index": 2940, "name": "Corn, sweet, yellow, frozen, kernels on cob, unprepared", "healthiness": {"lactating": [11, 11, 9], "male": [39, 32, 30, 29, 19, 12, 10, 9, 8], "female": [39, 32, 30, 27, 17, 11, 11, 9, 6], "pregnant": [10, 11, 9]}}

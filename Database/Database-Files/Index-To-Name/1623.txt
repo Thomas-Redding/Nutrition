@@ -1,0 +1,1 @@
+{"index": 1623, "name": "Blood sausage", "healthiness": {"lactating": [9, 9, 6], "male": [24, 14, 13, 16, 15, 9, 7, 6, 5], "female": [24, 14, 13, 14, 13, 7, 7, 4, 1], "pregnant": [8, 8, 5]}}

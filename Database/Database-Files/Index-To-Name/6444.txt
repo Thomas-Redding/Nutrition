@@ -1,0 +1,1 @@
+{"index": 6444, "name": "Ice creams, BREYERS, 98% Fat Free Chocolate", "healthiness": {"lactating": [-11, -10, -11], "male": [-22, -26, -24, -19, -14, -10, -9, -10, -11], "female": [-22, -26, -24, -21, -16, -14, -12, -13, -15], "pregnant": [-11, -10, -11]}}

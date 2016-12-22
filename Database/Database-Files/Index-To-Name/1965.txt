@@ -1,0 +1,1 @@
+{"index": 1965, "name": "Cereals ready-to-eat, KELLOGG'S, FROSTED MINI-WHEATS, Maple & Brown Sugar, Bite Size", "healthiness": {"lactating": [2, 3, 2], "male": [1, -1, -1, 3, 2, 3, 5, 4, 3], "female": [1, -1, -1, 1, 0, 2, 4, 2, 0], "pregnant": [1, 3, 2]}}

@@ -1,0 +1,1 @@
+{"index": 2952, "name": "Yardlong bean, cooked, boiled, drained, without salt", "healthiness": {"lactating": [27, 27, 25], "male": [45, 40, 37, 37, 34, 27, 26, 25, 24], "female": [45, 40, 37, 35, 32, 26, 27, 25, 23], "pregnant": [25, 27, 25]}}

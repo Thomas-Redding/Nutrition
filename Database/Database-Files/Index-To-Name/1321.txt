@@ -1,0 +1,1 @@
+{"index": 1321, "name": "Soup, cream of asparagus, canned, prepared with equal volume milk", "healthiness": {"lactating": [15, 15, 13], "male": [43, 33, 29, 28, 23, 16, 14, 13, 12], "female": [43, 33, 29, 26, 21, 15, 16, 13, 10], "pregnant": [15, 16, 14]}}

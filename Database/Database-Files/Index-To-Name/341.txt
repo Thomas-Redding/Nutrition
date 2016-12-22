@@ -1,0 +1,1 @@
+{"index": 341, "name": "Babyfood, dinner, macaroni and tomato and beef, junior", "healthiness": {"lactating": [17, 17, 15], "male": [47, 37, 34, 34, 27, 19, 16, 15, 14], "female": [47, 37, 34, 32, 25, 17, 18, 15, 12], "pregnant": [18, 18, 16]}}

@@ -1,0 +1,1 @@
+{"index": 6943, "name": "Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuce, and mayonnaise", "healthiness": {"lactating": [-5, -4, -5], "male": [12, 4, -4, -4, -5, -3, -2, -3, -4], "female": [12, 4, -4, -6, -7, -6, -4, -6, -8], "pregnant": [-6, -4, -5]}}

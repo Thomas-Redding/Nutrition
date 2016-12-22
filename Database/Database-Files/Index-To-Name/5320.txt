@@ -1,0 +1,1 @@
+{"index": 5320, "name": "Veal, variety meats and by-products, tongue, raw", "healthiness": {"lactating": [34, 35, 34], "male": [45, 38, 39, 40, 37, 37, 39, 38, 36], "female": [45, 38, 39, 38, 35, 34, 36, 35, 34], "pregnant": [33, 35, 34]}}

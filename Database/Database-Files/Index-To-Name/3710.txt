@@ -1,0 +1,1 @@
+{"index": 3710, "name": "Nuts, chestnuts, japanese, raw", "healthiness": {"lactating": [8, 8, 7], "male": [33, 26, 23, 21, 13, 10, 10, 9, 7], "female": [34, 27, 24, 19, 11, 8, 9, 7, 5], "pregnant": [8, 9, 7]}}

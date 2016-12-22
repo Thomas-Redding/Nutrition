@@ -1,0 +1,1 @@
+{"index": 2257, "name": "Lemon juice, frozen, unsweetened, single strength", "healthiness": {"lactating": [-1, 0, -1], "male": [10, 0, -3, 0, 0, 1, 2, 1, 0], "female": [10, 0, -3, -2, -3, -2, 0, -2, -4], "pregnant": [-2, 0, -1]}}

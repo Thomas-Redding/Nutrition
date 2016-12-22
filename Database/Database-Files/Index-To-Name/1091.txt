@@ -1,0 +1,1 @@
+{"index": 1091, "name": "Emu, full rump, raw", "healthiness": {"lactating": [49, 51, 49], "male": [45, 42, 41, 47, 49, 51, 53, 53, 51], "female": [45, 42, 41, 45, 46, 48, 51, 49, 48], "pregnant": [47, 50, 49]}}

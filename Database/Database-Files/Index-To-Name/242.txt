@@ -1,0 +1,1 @@
+{"index": 242, "name": "Yogurt, Greek, vanilla, lowfat", "healthiness": {"lactating": [0, 1, 0], "male": [15, 4, 0, 3, 2, 2, 4, 4, 1], "female": [15, 4, 0, 1, -1, 0, 3, 1, -2], "pregnant": [1, 3, 2]}}

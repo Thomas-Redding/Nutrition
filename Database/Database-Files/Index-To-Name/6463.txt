@@ -1,0 +1,1 @@
+{"index": 6463, "name": "Syrups, chocolate, HERSHEY'S Sugar free, Genuine Chocolate Flavored, Lite Syrup", "healthiness": {"lactating": [36, 36, 34], "male": [41, 36, 35, 39, 38, 35, 34, 33, 33], "female": [41, 36, 35, 37, 36, 34, 36, 33, 32], "pregnant": [33, 35, 33]}}

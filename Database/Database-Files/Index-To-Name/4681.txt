@@ -1,0 +1,1 @@
+{"index": 4681, "name": "Fish, pike, walleye, cooked, dry heat", "healthiness": {"lactating": [40, 41, 40], "male": [48, 45, 44, 44, 41, 41, 44, 43, 42], "female": [48, 45, 44, 42, 39, 38, 41, 40, 38], "pregnant": [38, 41, 40]}}

@@ -1,0 +1,1 @@
+{"index": 6573, "name": "Pasta, cooked, enriched, without added salt", "healthiness": {"lactating": [9, 9, 7], "male": [33, 21, 16, 18, 14, 10, 8, 7, 6], "female": [33, 21, 16, 16, 12, 8, 9, 6, 4], "pregnant": [9, 9, 7]}}

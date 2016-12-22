@@ -1,0 +1,1 @@
+{"index": 5030, "name": "WORTHINGTON FriChik Original, canned, unprepared", "healthiness": {"lactating": [-6, -4, -6], "male": [-8, -12, -14, -10, -7, -4, -3, -4, -5], "female": [-8, -12, -14, -12, -9, -7, -6, -8, -9], "pregnant": [-7, -5, -6]}}

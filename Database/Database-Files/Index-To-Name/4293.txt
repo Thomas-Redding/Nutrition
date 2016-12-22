@@ -1,0 +1,1 @@
+{"index": 4293, "name": "Beverages, OCEAN SPRAY, Cran Raspberry Juice Drink", "healthiness": {"lactating": [-9, -8, -9], "male": [-15, -23, -23, -17, -12, -8, -8, -8, -9], "female": [-15, -23, -23, -19, -15, -12, -10, -12, -13], "pregnant": [-9, -8, -9]}}

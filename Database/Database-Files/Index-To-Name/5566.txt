@@ -1,0 +1,1 @@
+{"index": 5566, "name": "Bagels, cinnamon-raisin, toasted", "healthiness": {"lactating": [7, 7, 5], "male": [32, 20, 16, 18, 13, 8, 6, 5, 4], "female": [32, 20, 16, 16, 11, 6, 6, 4, 2], "pregnant": [7, 7, 5]}}

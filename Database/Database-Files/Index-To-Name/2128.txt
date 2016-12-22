@@ -1,0 +1,1 @@
+{"index": 2128, "name": "Apples, dehydrated (low moisture), sulfured, stewed", "healthiness": {"lactating": [-8, -7, -8], "male": [-1, -12, -13, -10, -9, -7, -6, -7, -8], "female": [0, -12, -12, -12, -11, -10, -8, -10, -12], "pregnant": [-8, -7, -8]}}

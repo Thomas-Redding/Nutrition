@@ -1,0 +1,1 @@
+{"index": 5868, "name": "Muffins, wheat bran, toaster-type with raisins, toasted", "healthiness": {"lactating": [2, 2, 1], "male": [30, 19, 15, 13, 5, 2, 2, 1, 0], "female": [31, 20, 16, 11, 3, 0, 1, -1, -3], "pregnant": [1, 2, 1]}}

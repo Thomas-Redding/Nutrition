@@ -1,0 +1,1 @@
+{"index": 8168, "name": "SAGE VALLEY, Gluten Free Vanilla Sandwich Cookies", "healthiness": {"lactating": [-13, -12, -13], "male": [-19, -27, -28, -22, -17, -12, -12, -12, -13], "female": [-19, -27, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -13]}}

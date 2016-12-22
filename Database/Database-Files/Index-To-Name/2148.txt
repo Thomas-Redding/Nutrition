@@ -1,0 +1,1 @@
+{"index": 2148, "name": "Apricots, dehydrated (low-moisture), sulfured, uncooked", "healthiness": {"lactating": [3, 3, 2], "male": [28, 20, 19, 16, 9, 5, 5, 5, 3], "female": [29, 21, 20, 14, 7, 3, 4, 2, 1], "pregnant": [3, 4, 2]}}

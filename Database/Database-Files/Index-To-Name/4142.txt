@@ -1,0 +1,1 @@
+{"index": 4142, "name": "Beverages, THE COCA-COLA COMPANY, NOS energy drink, Original, grape, loaded cherry, charged citrus, fortified with vitamins B6 and B12", "healthiness": {"lactating": [-7, -6, -7], "male": [-23, -23, -23, -16, -10, -6, -5, -6, -7], "female": [-23, -23, -23, -18, -13, -9, -8, -9, -11], "pregnant": [-7, -6, -7]}}

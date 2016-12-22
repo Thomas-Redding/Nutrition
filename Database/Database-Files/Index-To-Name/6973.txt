@@ -1,0 +1,1 @@
+{"index": 6973, "name": "DOMINO'S 14\" Sausage Pizza, Classic Hand-Tossed Crust", "healthiness": {"lactating": [-6, -5, -6], "male": [8, -3, -10, -8, -7, -5, -3, -4, -5], "female": [8, -3, -10, -10, -9, -8, -6, -8, -9], "pregnant": [-7, -5, -6]}}

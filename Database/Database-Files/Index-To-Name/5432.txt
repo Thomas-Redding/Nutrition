@@ -1,0 +1,1 @@
+{"index": 5432, "name": "Game meat, bison, ribeye, separable lean only, 1\" steak, cooked, broiled", "healthiness": {"lactating": [36, 38, 36], "male": [45, 37, 37, 40, 39, 39, 41, 41, 39], "female": [45, 37, 37, 38, 37, 37, 39, 37, 36], "pregnant": [35, 37, 36]}}

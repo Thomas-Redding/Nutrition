@@ -1,0 +1,1 @@
+{"index": 2809, "name": "Pork, fresh, loin, country-style ribs, separable lean and fat, boneless, cooked, broiled", "healthiness": {"lactating": [30, 31, 30], "male": [43, 33, 31, 33, 31, 32, 33, 32, 30], "female": [43, 33, 31, 31, 29, 30, 32, 30, 28], "pregnant": [29, 31, 30]}}

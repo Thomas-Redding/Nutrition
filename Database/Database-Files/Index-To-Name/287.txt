@@ -1,0 +1,1 @@
+{"index": 287, "name": "Spices, sage, ground", "healthiness": {"lactating": [21, 22, 21], "male": [20, 16, 21, 25, 24, 24, 25, 24, 23], "female": [20, 16, 21, 24, 22, 22, 24, 22, 20], "pregnant": [23, 24, 23]}}

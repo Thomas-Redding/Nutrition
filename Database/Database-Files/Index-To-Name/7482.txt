@@ -1,0 +1,1 @@
+{"index": 7482, "name": "Beef, New Zealand, imported, chuck eye roll, separable lean only, raw", "healthiness": {"lactating": [32, 33, 32], "male": [40, 31, 29, 31, 31, 33, 35, 34, 33], "female": [40, 31, 29, 29, 28, 29, 32, 30, 29], "pregnant": [30, 32, 31]}}

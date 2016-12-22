@@ -1,0 +1,1 @@
+{"index": 7067, "name": "Egg rolls, pork, refrigerated, heated", "healthiness": {"lactating": [13, 13, 11], "male": [47, 35, 30, 31, 24, 16, 13, 12, 11], "female": [47, 35, 30, 29, 22, 15, 15, 12, 9], "pregnant": [15, 15, 13]}}

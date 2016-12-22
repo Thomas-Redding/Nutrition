@@ -1,0 +1,1 @@
+{"index": 7331, "name": "Beef, top loin petite roast, boneless, separable lean only, trimmed to 1/8\" fat, choice, cooked, roasted", "healthiness": {"lactating": [33, 34, 33], "male": [39, 33, 28, 33, 35, 35, 37, 37, 35], "female": [39, 33, 28, 31, 32, 33, 35, 34, 32], "pregnant": [32, 34, 33]}}

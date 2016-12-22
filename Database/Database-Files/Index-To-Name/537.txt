@@ -1,0 +1,1 @@
+{"index": 537, "name": "Infant formula, MEAD JOHNSON, PROSOBEE, with iron, ready-to-feed", "healthiness": {"lactating": [4, 5, 4], "male": [26, 17, 12, 10, 7, 6, 7, 7, 3], "female": [26, 17, 12, 8, 5, 3, 5, 3, 1], "pregnant": [3, 5, 4]}}

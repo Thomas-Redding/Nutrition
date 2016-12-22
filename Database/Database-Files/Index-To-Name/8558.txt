@@ -1,0 +1,1 @@
+{"index": 8558, "name": "CARRABBA'S ITALIAN GRILL, spaghetti with meat sauce", "healthiness": {"lactating": [12, 12, 10], "male": [48, 38, 28, 28, 20, 13, 11, 10, 9], "female": [48, 38, 28, 26, 18, 12, 12, 10, 7], "pregnant": [12, 13, 10]}}

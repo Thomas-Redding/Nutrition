@@ -1,0 +1,1 @@
+{"index": 6388, "name": "Gelatin desserts, dry mix, reduced calorie, with aspartame, added phosphorus, potassium, sodium, vitamin C", "healthiness": {"lactating": [17, 18, 16], "male": [14, 9, 8, 14, 18, 19, 18, 16, 16], "female": [14, 9, 8, 12, 16, 17, 18, 15, 12], "pregnant": [18, 19, 17]}}

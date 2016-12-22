@@ -1,0 +1,1 @@
+{"index": 3203, "name": "Swamp cabbage (skunk  cabbage), cooked, boiled, drained, without salt", "healthiness": {"lactating": [48, 48, 46], "male": [47, 46, 49, 52, 50, 49, 49, 48, 46], "female": [47, 46, 49, 50, 48, 48, 51, 49, 45], "pregnant": [46, 49, 47]}}

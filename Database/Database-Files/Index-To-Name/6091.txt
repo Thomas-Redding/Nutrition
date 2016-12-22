@@ -1,0 +1,1 @@
+{"index": 6091, "name": "Snacks, rice cakes, brown rice, buckwheat", "healthiness": {"lactating": [8, 8, 6], "male": [34, 26, 24, 23, 13, 8, 8, 7, 6], "female": [35, 26, 25, 21, 11, 6, 8, 5, 3], "pregnant": [7, 8, 6]}}

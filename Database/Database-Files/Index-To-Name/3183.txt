@@ -1,0 +1,1 @@
+{"index": 3183, "name": "Squash, summer, zucchini, italian style, canned", "healthiness": {"lactating": [21, 21, 19], "male": [46, 42, 43, 43, 31, 23, 23, 21, 20], "female": [46, 42, 43, 41, 29, 21, 22, 20, 18], "pregnant": [20, 21, 19]}}

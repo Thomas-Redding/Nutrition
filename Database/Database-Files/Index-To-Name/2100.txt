@@ -1,0 +1,1 @@
+{"index": 2100, "name": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, cherry pistachio, dry", "healthiness": {"lactating": [-8, -7, -8], "male": [-4, -12, -15, -12, -11, -8, -6, -7, -8], "female": [-4, -12, -15, -14, -13, -11, -9, -10, -12], "pregnant": [-10, -8, -9]}}

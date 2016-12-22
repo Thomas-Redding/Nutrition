@@ -1,0 +1,1 @@
+{"index": 3207, "name": "Sweet potato, cooked, baked in skin, flesh, without salt", "healthiness": {"lactating": [18, 18, 16], "male": [48, 42, 38, 37, 29, 21, 20, 18, 17], "female": [49, 42, 39, 35, 27, 21, 21, 19, 16], "pregnant": [19, 20, 18]}}

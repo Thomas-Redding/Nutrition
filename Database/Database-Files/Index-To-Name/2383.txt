@@ -1,0 +1,1 @@
+{"index": 2383, "name": "Soursop, raw", "healthiness": {"lactating": [-1, 1, -1], "male": [14, 7, 3, 3, 1, 1, 2, 2, 1], "female": [15, 7, 4, 1, -1, -1, 1, -1, -2], "pregnant": [0, 1, 0]}}

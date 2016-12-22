@@ -1,0 +1,1 @@
+{"index": 6475, "name": "Barley, hulled", "healthiness": {"lactating": [16, 16, 13], "male": [41, 34, 31, 32, 23, 16, 14, 13, 12], "female": [41, 35, 31, 30, 21, 16, 16, 14, 12], "pregnant": [15, 16, 14]}}

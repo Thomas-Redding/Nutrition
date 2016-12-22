@@ -1,0 +1,1 @@
+{"index": 1785, "name": "Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN", "healthiness": {"lactating": [9, 10, 9], "male": [7, 1, 1, 4, 7, 10, 11, 10, 10], "female": [7, 1, 1, 2, 5, 7, 10, 8, 6], "pregnant": [9, 11, 10]}}

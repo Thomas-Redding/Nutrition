@@ -1,0 +1,1 @@
+{"index": 1232, "name": "CAMPBELL'S, Cheddar Cheese Soup, condensed", "healthiness": {"lactating": [-11, -10, -11], "male": [-16, -24, -23, -19, -15, -11, -10, -10, -11], "female": [-16, -24, -23, -20, -17, -14, -12, -14, -15], "pregnant": [-12, -10, -11]}}

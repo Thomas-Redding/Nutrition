@@ -1,0 +1,1 @@
+{"index": 6740, "name": "Fast foods, submarine sandwich, meatball marinara on white bread", "healthiness": {"lactating": [-4, -2, -4], "male": [20, 9, -1, -2, -3, -2, 0, -1, -2], "female": [20, 9, -1, -4, -5, -4, -3, -4, -6], "pregnant": [-4, -2, -4]}}

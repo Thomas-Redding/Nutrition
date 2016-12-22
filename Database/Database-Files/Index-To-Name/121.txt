@@ -1,0 +1,1 @@
+{"index": 121, "name": "Egg, whole, dried", "healthiness": {"lactating": [34, 35, 33], "male": [46, 36, 32, 35, 35, 36, 36, 34, 32], "female": [46, 36, 32, 33, 33, 34, 35, 33, 29], "pregnant": [33, 35, 33]}}

@@ -1,0 +1,1 @@
+{"index": 5748, "name": "Croutons, seasoned", "healthiness": {"lactating": [1, 2, 0], "male": [34, 21, 14, 12, 6, 2, 1, 0, -1], "female": [35, 21, 15, 10, 4, 0, 1, -1, -4], "pregnant": [1, 2, 0]}}

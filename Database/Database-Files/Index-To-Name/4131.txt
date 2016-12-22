@@ -1,0 +1,1 @@
+{"index": 4131, "name": "Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink", "healthiness": {"lactating": [10, 11, 10], "male": [14, 5, 4, 9, 11, 12, 13, 13, 11], "female": [14, 5, 4, 7, 8, 10, 12, 10, 8], "pregnant": [11, 13, 11]}}

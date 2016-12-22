@@ -1,0 +1,1 @@
+{"index": 8261, "name": "Turnover, filled with egg, meat and cheese, frozen", "healthiness": {"lactating": [-7, -6, -7], "male": [10, -2, -10, -9, -7, -5, -4, -5, -6], "female": [10, -2, -10, -11, -10, -9, -7, -8, -10], "pregnant": [-8, -6, -7]}}

@@ -1,0 +1,1 @@
+{"index": 7987, "name": "KELLOGG'S, POP-TARTS MINI CRISPS, Frosted Chocolate Baked Bites", "healthiness": {"lactating": [-7, -5, -7], "male": [-7, -12, -11, -7, -5, -4, -3, -4, -5], "female": [-7, -12, -11, -8, -8, -7, -6, -7, -8], "pregnant": [-7, -6, -7]}}

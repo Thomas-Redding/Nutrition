@@ -1,0 +1,1 @@
+{"index": 5852, "name": "Waffles, plain, prepared from recipe", "healthiness": {"lactating": [7, 7, 5], "male": [37, 24, 19, 20, 13, 8, 7, 6, 5], "female": [37, 24, 19, 18, 11, 6, 7, 4, 2], "pregnant": [7, 8, 5]}}

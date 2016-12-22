@@ -1,0 +1,1 @@
+{"index": 2248, "name": "Jackfruit, raw", "healthiness": {"lactating": [2, 3, 1], "male": [30, 19, 17, 17, 10, 5, 4, 3, 1], "female": [31, 20, 18, 14, 8, 3, 4, 2, -1], "pregnant": [3, 4, 2]}}

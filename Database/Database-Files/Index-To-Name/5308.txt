@@ -1,0 +1,1 @@
+{"index": 5308, "name": "Lamb, variety meats and by-products, pancreas, raw", "healthiness": {"lactating": [34, 35, 33], "male": [46, 36, 36, 38, 37, 35, 35, 34, 33], "female": [46, 36, 36, 36, 34, 33, 35, 32, 31], "pregnant": [32, 34, 32]}}

@@ -1,0 +1,1 @@
+{"index": 4957, "name": "HOUSE FOODS Premium Firm Tofu", "healthiness": {"lactating": [-9, -8, -9], "male": [-22, -24, -22, -17, -13, -9, -7, -8, -9], "female": [-22, -24, -22, -19, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

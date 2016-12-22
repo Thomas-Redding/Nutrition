@@ -1,0 +1,1 @@
+{"index": 2035, "name": "Cereals ready-to-eat, GENERAL MILLS, FIBER ONE, RAISIN BRAN CLUSTERS", "healthiness": {"lactating": [7, 8, 7], "male": [15, 10, 11, 13, 11, 9, 11, 11, 9], "female": [15, 10, 11, 11, 9, 7, 9, 8, 8], "pregnant": [5, 7, 6]}}

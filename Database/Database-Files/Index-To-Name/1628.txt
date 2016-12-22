@@ -1,0 +1,1 @@
+{"index": 1628, "name": "Bologna, turkey", "healthiness": {"lactating": [21, 20, 18], "male": [43, 31, 27, 27, 26, 21, 18, 17, 16], "female": [43, 31, 27, 25, 23, 19, 20, 16, 13], "pregnant": [20, 20, 17]}}

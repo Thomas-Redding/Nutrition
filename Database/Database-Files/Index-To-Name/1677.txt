@@ -1,0 +1,1 @@
+{"index": 1677, "name": "Salami, cooked, beef and pork", "healthiness": {"lactating": [15, 15, 13], "male": [46, 39, 31, 32, 25, 17, 15, 14, 12], "female": [46, 39, 31, 30, 23, 16, 16, 14, 10], "pregnant": [16, 16, 14]}}

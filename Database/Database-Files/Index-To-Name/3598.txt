@@ -1,0 +1,1 @@
+{"index": 3598, "name": "Yautia (tannier), raw", "healthiness": {"lactating": [-4, -3, -4], "male": [4, -4, -4, -3, -3, -1, 0, -1, -2], "female": [4, -4, -4, -5, -5, -4, -2, -4, -6], "pregnant": [-4, -2, -4]}}

@@ -1,0 +1,1 @@
+{"index": 2904, "name": "Carrots, frozen, unprepared", "healthiness": {"lactating": [23, 23, 21], "male": [51, 46, 47, 44, 32, 24, 24, 23, 22], "female": [51, 46, 47, 42, 30, 24, 25, 22, 20], "pregnant": [23, 24, 22]}}

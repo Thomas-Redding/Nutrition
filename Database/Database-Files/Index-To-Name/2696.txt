@@ -1,0 +1,1 @@
+{"index": 2696, "name": "Pork, cured, ham -- water added, rump, bone-in, separable lean only, unheated", "healthiness": {"lactating": [37, 38, 37], "male": [44, 37, 36, 39, 39, 39, 41, 41, 39], "female": [44, 37, 36, 38, 36, 36, 39, 37, 36], "pregnant": [35, 38, 37]}}

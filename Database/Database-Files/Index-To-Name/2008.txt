@@ -1,0 +1,1 @@
+{"index": 2008, "name": "Cereals ready-to-eat, KASHI 7 Whole Grain Nuggets", "healthiness": {"lactating": [-7, -6, -7], "male": [-18, -19, -19, -14, -11, -7, -6, -6, -7], "female": [-18, -19, -19, -16, -13, -10, -8, -9, -11], "pregnant": [-9, -7, -8]}}

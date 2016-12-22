@@ -1,0 +1,1 @@
+{"index": 7793, "name": "Dip, TOSTITOS, salsa con queso, medium", "healthiness": {"lactating": [-8, -6, -8], "male": [7, -7, -13, -10, -10, -7, -5, -6, -7], "female": [7, -7, -13, -12, -12, -10, -7, -9, -11], "pregnant": [-8, -6, -7]}}

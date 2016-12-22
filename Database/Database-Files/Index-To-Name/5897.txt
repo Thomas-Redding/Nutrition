@@ -1,0 +1,1 @@
+{"index": 5897, "name": "Danish pastry, fruit, unenriched (includes apple, cinnamon, raisin, strawberry)", "healthiness": {"lactating": [-6, -5, -6], "male": [11, 0, -1, 0, -5, -5, -5, -6, -7], "female": [12, 1, 0, -2, -7, -7, -6, -8, -11], "pregnant": [-6, -5, -6]}}

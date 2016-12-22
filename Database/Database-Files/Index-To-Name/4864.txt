@@ -1,0 +1,1 @@
+{"index": 4864, "name": "Tofu, dried-frozen (koyadofu)", "healthiness": {"lactating": [30, 31, 29], "male": [38, 31, 28, 30, 32, 31, 31, 30, 29], "female": [38, 31, 28, 29, 29, 28, 30, 28, 27], "pregnant": [28, 30, 29]}}

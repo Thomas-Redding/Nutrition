@@ -1,0 +1,1 @@
+{"index": 4137, "name": "Alcoholic beverage, whiskey sour, prepared with water, whiskey and powder mix", "healthiness": {"lactating": [-14, -12, -14], "male": [-20, -27, -28, -22, -17, -12, -12, -12, -13], "female": [-20, -27, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

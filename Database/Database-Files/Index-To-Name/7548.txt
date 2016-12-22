@@ -1,0 +1,1 @@
+{"index": 7548, "name": "Beef, New Zealand, imported, tenderloin, separable lean and fat, cooked, fast fried", "healthiness": {"lactating": [30, 32, 30], "male": [43, 34, 31, 33, 31, 32, 34, 33, 32], "female": [43, 34, 31, 31, 28, 29, 31, 30, 28], "pregnant": [29, 31, 30]}}

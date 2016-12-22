@@ -1,0 +1,1 @@
+{"index": 4816, "name": "Mothbeans, mature seeds, cooked, boiled, without salt", "healthiness": {"lactating": [17, 18, 16], "male": [29, 24, 23, 26, 23, 17, 18, 16, 15], "female": [29, 24, 23, 24, 21, 15, 17, 14, 13], "pregnant": [15, 17, 15]}}

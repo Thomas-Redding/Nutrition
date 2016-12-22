@@ -1,0 +1,1 @@
+{"index": 4732, "name": "Salmon, sockeye, canned, drained solids, without skin and bones", "healthiness": {"lactating": [36, 37, 36], "male": [47, 36, 33, 36, 35, 38, 39, 39, 37], "female": [47, 36, 33, 34, 33, 35, 37, 36, 34], "pregnant": [35, 38, 37]}}

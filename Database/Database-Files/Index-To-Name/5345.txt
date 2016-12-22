@@ -1,0 +1,1 @@
+{"index": 5345, "name": "Lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, braised", "healthiness": {"lactating": [27, 28, 26], "male": [39, 26, 23, 27, 28, 29, 29, 28, 27], "female": [39, 26, 23, 25, 25, 26, 28, 26, 24], "pregnant": [26, 28, 26]}}

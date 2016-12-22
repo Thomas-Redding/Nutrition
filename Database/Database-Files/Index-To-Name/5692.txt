@@ -1,0 +1,1 @@
+{"index": 5692, "name": "Cookies, oatmeal, dry mix", "healthiness": {"lactating": [-4, -3, -5], "male": [16, 5, 2, 3, -2, -3, -3, -4, -5], "female": [17, 6, 3, 1, -4, -5, -4, -6, -8], "pregnant": [-4, -3, -5]}}

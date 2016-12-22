@@ -1,0 +1,1 @@
+{"index": 8526, "name": "Restaurant, Latino, arepa (unleavened cornmeal bread)", "healthiness": {"lactating": [2, 3, 0], "male": [33, 18, 13, 13, 6, 2, 1, 0, -1], "female": [33, 18, 13, 11, 4, 0, 1, -1, -4], "pregnant": [2, 3, 1]}}

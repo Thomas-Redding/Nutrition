@@ -1,0 +1,1 @@
+{"index": 7351, "name": "Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0\" fat, select, raw", "healthiness": {"lactating": [35, 36, 35], "male": [41, 37, 33, 36, 35, 36, 38, 38, 36], "female": [41, 37, 33, 34, 33, 33, 35, 33, 32], "pregnant": [33, 35, 34]}}

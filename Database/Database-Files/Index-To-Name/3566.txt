@@ -1,0 +1,1 @@
+{"index": 3566, "name": "Fennel, bulb, raw", "healthiness": {"lactating": [18, 19, 18], "male": [27, 23, 27, 27, 22, 20, 22, 22, 21], "female": [27, 23, 27, 25, 20, 18, 21, 19, 19], "pregnant": [17, 20, 19]}}

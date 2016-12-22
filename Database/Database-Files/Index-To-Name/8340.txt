@@ -1,0 +1,1 @@
+{"index": 8340, "name": "Seal, ringed, meat (Alaska Native)", "healthiness": {"lactating": [-4, -3, -4], "male": [-13, -14, -13, -8, -6, -3, -1, -1, -3], "female": [-13, -14, -13, -10, -8, -5, -3, -4, -6], "pregnant": [-4, -2, -3]}}

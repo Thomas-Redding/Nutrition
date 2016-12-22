@@ -1,0 +1,1 @@
+{"index": 8294, "name": "Whale, beluga, flipper, raw (Alaska Native)", "healthiness": {"lactating": [-11, -10, -11], "male": [-20, -24, -23, -18, -14, -10, -9, -9, -11], "female": [-20, -24, -23, -20, -16, -14, -12, -13, -15], "pregnant": [-12, -10, -11]}}

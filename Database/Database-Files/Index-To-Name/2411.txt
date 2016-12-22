@@ -1,0 +1,1 @@
+{"index": 2411, "name": "Grapefruit juice, pink, raw", "healthiness": {"lactating": [-4, -3, -4], "male": [7, -4, -7, -5, -5, -2, -1, -2, -3], "female": [7, -4, -7, -7, -7, -6, -4, -5, -7], "pregnant": [-5, -3, -4]}}

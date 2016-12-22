@@ -1,0 +1,1 @@
+{"index": 7034, "name": "Beef stew, canned entree", "healthiness": {"lactating": [14, 14, 12], "male": [44, 34, 30, 30, 23, 15, 13, 12, 11], "female": [44, 34, 30, 28, 21, 13, 13, 10, 9], "pregnant": [13, 13, 10]}}

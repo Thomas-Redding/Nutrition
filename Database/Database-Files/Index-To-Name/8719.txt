@@ -1,0 +1,1 @@
+{"index": 8719, "name": "Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium", "healthiness": {"lactating": [21, 21, 19], "male": [37, 25, 21, 24, 24, 22, 19, 17, 16], "female": [37, 25, 21, 22, 21, 20, 21, 18, 14], "pregnant": [21, 22, 19]}}

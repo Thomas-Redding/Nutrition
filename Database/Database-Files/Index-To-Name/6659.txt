@@ -1,0 +1,1 @@
+{"index": 6659, "name": "Fast foods, biscuit, with sausage", "healthiness": {"lactating": [1, 1, 0], "male": [33, 22, 12, 12, 4, 1, 1, 0, -1], "female": [34, 22, 13, 9, 2, -1, 0, -2, -4], "pregnant": [0, 1, 0]}}

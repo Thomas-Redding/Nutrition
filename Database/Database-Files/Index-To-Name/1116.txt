@@ -1,0 +1,1 @@
+{"index": 1116, "name": "Chicken, liver, all classes, cooked, pan-fried", "healthiness": {"lactating": [54, 56, 54], "male": [50, 48, 47, 52, 54, 57, 59, 58, 56], "female": [50, 48, 47, 50, 52, 54, 57, 56, 54], "pregnant": [54, 57, 55]}}

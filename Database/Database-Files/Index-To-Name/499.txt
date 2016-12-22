@@ -1,0 +1,1 @@
+{"index": 499, "name": "Babyfood, plums, bananas and rice, strained", "healthiness": {"lactating": [-4, -2, -4], "male": [5, 1, -1, -1, -1, 0, 0, -1, -2], "female": [5, 1, -1, -3, -3, -2, -1, -3, -5], "pregnant": [-2, -1, -2]}}

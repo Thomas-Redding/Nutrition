@@ -1,0 +1,1 @@
+{"index": 6043, "name": "KELLOGG'S, EGGO, Biscuit Scramblers, Bacon, Egg & Cheese", "healthiness": {"lactating": [-9, -8, -9], "male": [-8, -16, -19, -14, -12, -8, -7, -7, -9], "female": [-8, -16, -19, -16, -14, -12, -10, -11, -13], "pregnant": [-10, -8, -10]}}

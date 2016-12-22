@@ -1,0 +1,1 @@
+{"index": 8684, "name": "Cereals ready-to-eat, wheat and bran, presweetened with nuts and fruits", "healthiness": {"lactating": [7, 8, 7], "male": [20, 15, 15, 16, 12, 10, 12, 12, 10], "female": [20, 15, 15, 14, 10, 8, 10, 8, 8], "pregnant": [7, 9, 7]}}

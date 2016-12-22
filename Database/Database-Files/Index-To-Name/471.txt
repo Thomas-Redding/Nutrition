@@ -1,0 +1,1 @@
+{"index": 471, "name": "Babyfood, cherry cobbler, junior", "healthiness": {"lactating": [-12, -10, -12], "male": [-7, -19, -22, -16, -13, -10, -9, -10, -11], "female": [-7, -19, -22, -18, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

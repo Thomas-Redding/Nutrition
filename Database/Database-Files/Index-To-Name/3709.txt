@@ -1,0 +1,1 @@
+{"index": 3709, "name": "Seeds, sesame seed kernels, dried (decorticated)", "healthiness": {"lactating": [13, 13, 11], "male": [34, 28, 25, 26, 20, 13, 12, 11, 10], "female": [34, 28, 25, 24, 19, 12, 13, 10, 8], "pregnant": [12, 13, 11]}}

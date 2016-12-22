@@ -1,0 +1,1 @@
+{"index": 8322, "name": "Moose, liver, braised (Alaska Native)", "healthiness": {"lactating": [21, 23, 21], "male": [15, 12, 11, 17, 20, 23, 24, 24, 23], "female": [15, 12, 11, 15, 18, 20, 22, 20, 19], "pregnant": [19, 22, 21]}}

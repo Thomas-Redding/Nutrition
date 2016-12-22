@@ -1,0 +1,1 @@
+{"index": 4406, "name": "Beverages, water, bottled, non-carbonated, DANNON Fluoride To Go", "healthiness": {"lactating": [-3, -2, -3], "male": [-19, -19, -19, -12, -7, -2, -1, -2, -3], "female": [-19, -19, -19, -14, -9, -6, -5, -7, -8], "pregnant": [-5, -4, -5]}}

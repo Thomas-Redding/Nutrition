@@ -1,0 +1,1 @@
+{"index": 7073, "name": "Macaroni and cheese dinner with dry sauce mix, boxed, uncooked", "healthiness": {"lactating": [12, 12, 10], "male": [41, 31, 24, 24, 18, 13, 11, 10, 9], "female": [42, 32, 25, 22, 16, 11, 12, 9, 7], "pregnant": [12, 12, 10]}}

@@ -1,0 +1,1 @@
+{"index": 1088, "name": "Emu, fan fillet, raw", "healthiness": {"lactating": [51, 52, 51], "male": [45, 41, 41, 48, 49, 52, 54, 53, 52], "female": [45, 41, 41, 46, 47, 48, 51, 50, 48], "pregnant": [48, 51, 50]}}

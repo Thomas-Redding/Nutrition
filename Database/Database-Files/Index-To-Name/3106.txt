@@ -1,0 +1,1 @@
+{"index": 3106, "name": "Potatoes, mashed, dehydrated, prepared from granules without milk, whole milk and butter added", "healthiness": {"lactating": [1, 1, -1], "male": [29, 15, 16, 13, 5, 1, 0, -1, -1], "female": [29, 15, 16, 11, 3, -1, 1, -2, -4], "pregnant": [1, 2, 0]}}

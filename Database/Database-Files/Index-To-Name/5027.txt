@@ -1,0 +1,1 @@
+{"index": 5027, "name": "WORTHINGTON Chili, canned, unprepared", "healthiness": {"lactating": [-5, -4, -5], "male": [-4, -11, -11, -7, -5, -4, -2, -3, -4], "female": [-4, -11, -11, -9, -8, -7, -5, -7, -8], "pregnant": [-6, -5, -6]}}

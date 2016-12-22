@@ -1,0 +1,1 @@
+{"index": 2989, "name": "Mushrooms, morel, raw", "healthiness": {"lactating": [28, 30, 28], "male": [18, 18, 21, 26, 29, 30, 31, 31, 29], "female": [18, 18, 21, 24, 27, 28, 30, 29, 26], "pregnant": [28, 30, 29]}}

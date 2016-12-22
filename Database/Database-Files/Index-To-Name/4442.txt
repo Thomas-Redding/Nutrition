@@ -1,0 +1,1 @@
+{"index": 4442, "name": "Beverages, V8 SPLASH Juice Drinks, Diet Strawberry Kiwi", "healthiness": {"lactating": [-1, 0, -1], "male": [-30, -30, -30, -9, -5, 0, 1, 0, -1], "female": [-30, -30, -30, -11, -7, -4, -2, -3, -6], "pregnant": [-2, -1, -2]}}

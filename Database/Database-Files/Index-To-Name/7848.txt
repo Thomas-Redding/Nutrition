@@ -1,0 +1,1 @@
+{"index": 7848, "name": "KASHI, TLC, Oatmeal Dark Chocolate Cookies", "healthiness": {"lactating": [-13, -12, -13], "male": [-30, -30, -28, -22, -17, -12, -12, -12, -13], "female": [-30, -30, -28, -24, -19, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

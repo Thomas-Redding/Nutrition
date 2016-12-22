@@ -1,0 +1,1 @@
+{"index": 6628, "name": "Spaghetti, protein-fortified, dry, enriched (n x 6.25)", "healthiness": {"lactating": [13, 14, 11], "male": [33, 25, 20, 21, 18, 14, 12, 10, 10], "female": [34, 25, 20, 19, 16, 12, 13, 10, 8], "pregnant": [13, 13, 11]}}

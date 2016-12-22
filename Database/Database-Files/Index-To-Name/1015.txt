@@ -1,0 +1,1 @@
+{"index": 1015, "name": "Turkey, all classes, wing, meat and skin, cooked, roasted", "healthiness": {"lactating": [25, 27, 25], "male": [39, 28, 25, 27, 26, 28, 29, 28, 26], "female": [39, 28, 25, 25, 24, 25, 27, 25, 23], "pregnant": [25, 27, 25]}}

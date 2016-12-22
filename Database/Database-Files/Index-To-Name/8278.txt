@@ -1,0 +1,1 @@
+{"index": 8278, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, powder, with ARA and DHA", "healthiness": {"lactating": [6, 7, 6], "male": [31, 19, 18, 14, 9, 8, 10, 10, 6], "female": [31, 19, 18, 12, 7, 5, 8, 6, 3], "pregnant": [5, 7, 6]}}

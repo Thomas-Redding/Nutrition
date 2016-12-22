@@ -1,0 +1,1 @@
+{"index": 6438, "name": "Frozen novelties, KLONDIKE, SLIM-A-BEAR Chocolate Cone", "healthiness": {"lactating": [-12, -11, -12], "male": [-23, -27, -27, -21, -16, -12, -11, -11, -13], "female": [-23, -27, -27, -23, -18, -15, -13, -15, -17], "pregnant": [-13, -11, -13]}}

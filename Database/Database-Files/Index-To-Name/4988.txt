@@ -1,0 +1,1 @@
+{"index": 4988, "name": "Lentils, mature seeds, cooked, boiled, with salt", "healthiness": {"lactating": [30, 31, 28], "male": [42, 39, 39, 38, 34, 30, 29, 28, 27], "female": [42, 39, 39, 36, 32, 30, 31, 28, 27], "pregnant": [28, 30, 27]}}

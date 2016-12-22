@@ -1,0 +1,1 @@
+{"index": 347, "name": "Babyfood, dinner, spaghetti and tomato and meat, toddler", "healthiness": {"lactating": [23, 23, 21], "male": [38, 32, 31, 31, 28, 24, 22, 21, 20], "female": [38, 32, 31, 29, 26, 23, 23, 21, 18], "pregnant": [23, 23, 21]}}

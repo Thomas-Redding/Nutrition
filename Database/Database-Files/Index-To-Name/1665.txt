@@ -1,0 +1,1 @@
+{"index": 1665, "name": "Pepperoni, beef and pork, sliced", "healthiness": {"lactating": [12, 11, 9], "male": [38, 28, 19, 21, 19, 12, 9, 8, 7], "female": [38, 28, 19, 19, 17, 11, 11, 8, 5], "pregnant": [12, 12, 9]}}

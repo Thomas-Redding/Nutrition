@@ -1,0 +1,1 @@
+{"index": 7888, "name": "KEEBLER, FUDGE SHOPPE, Peanut Creme Filled Cookies", "healthiness": {"lactating": [-13, -11, -13], "male": [-20, -27, -27, -21, -16, -12, -11, -11, -13], "female": [-20, -27, -27, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

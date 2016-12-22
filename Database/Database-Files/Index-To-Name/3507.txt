@@ -1,0 +1,1 @@
+{"index": 3507, "name": "Winged bean, immature seeds, cooked, boiled, drained, with salt", "healthiness": {"lactating": [5, 7, 5], "male": [14, 11, 9, 10, 8, 8, 9, 9, 7], "female": [14, 11, 9, 8, 7, 5, 8, 6, 5], "pregnant": [4, 6, 5]}}

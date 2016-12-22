@@ -1,0 +1,1 @@
+{"index": 8743, "name": "Alcoholic beverage, rice (sake)", "healthiness": {"lactating": [-14, -12, -14], "male": [-23, -28, -28, -22, -17, -12, -12, -12, -14], "female": [-23, -28, -28, -24, -19, -16, -14, -16, -18], "pregnant": [-14, -12, -14]}}

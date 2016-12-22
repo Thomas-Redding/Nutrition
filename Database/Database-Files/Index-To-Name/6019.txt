@@ -1,0 +1,1 @@
+{"index": 6019, "name": "Bread, potato", "healthiness": {"lactating": [5, 6, 4], "male": [40, 28, 21, 18, 10, 5, 5, 4, 3], "female": [41, 29, 22, 16, 8, 3, 5, 3, 0], "pregnant": [4, 6, 4]}}

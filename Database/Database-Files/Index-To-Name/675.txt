@@ -1,0 +1,1 @@
+{"index": 675, "name": "Salad dressing, french dressing, fat-free", "healthiness": {"lactating": [-12, -10, -12], "male": [-15, -23, -23, -18, -14, -10, -9, -10, -11], "female": [-15, -23, -23, -20, -16, -13, -12, -14, -15], "pregnant": [-12, -10, -12]}}

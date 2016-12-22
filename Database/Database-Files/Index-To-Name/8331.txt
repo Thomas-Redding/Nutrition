@@ -1,0 +1,1 @@
+{"index": 8331, "name": "Fish, pike, northern, liver (Alaska Native)", "healthiness": {"lactating": [-3, -2, -3], "male": [-14, -17, -16, -10, -7, -3, -1, -1, -3], "female": [-14, -17, -16, -12, -9, -7, -4, -6, -7], "pregnant": [-6, -3, -4]}}

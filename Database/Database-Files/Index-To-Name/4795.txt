@@ -1,0 +1,1 @@
+{"index": 4795, "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt", "healthiness": {"lactating": [21, 21, 19], "male": [38, 33, 30, 31, 28, 21, 20, 19, 18], "female": [38, 33, 30, 29, 26, 20, 21, 19, 17], "pregnant": [20, 21, 19]}}

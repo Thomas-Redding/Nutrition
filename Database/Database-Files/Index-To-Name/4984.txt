@@ -1,0 +1,1 @@
+{"index": 4984, "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids, low sodium", "healthiness": {"lactating": [24, 24, 22], "male": [37, 33, 31, 32, 30, 25, 24, 22, 22], "female": [37, 33, 31, 30, 28, 23, 24, 21, 20], "pregnant": [23, 24, 22]}}

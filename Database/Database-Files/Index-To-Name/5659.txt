@@ -1,0 +1,1 @@
+{"index": 5659, "name": "Cake, yellow, commercially prepared, with chocolate frosting, in-store bakery", "healthiness": {"lactating": [-10, -8, -10], "male": [-3, -14, -18, -14, -11, -8, -8, -8, -9], "female": [-3, -14, -18, -16, -14, -12, -10, -12, -13], "pregnant": [-10, -8, -10]}}

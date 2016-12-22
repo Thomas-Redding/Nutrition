@@ -1,0 +1,1 @@
+{"index": 7103, "name": "KASHI, Southwest Style Chicken, Frozen Entree", "healthiness": {"lactating": [-8, -7, -8], "male": [-12, -17, -14, -11, -10, -8, -6, -7, -8], "female": [-12, -17, -14, -13, -12, -11, -8, -10, -11], "pregnant": [-9, -7, -8]}}

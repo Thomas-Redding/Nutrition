@@ -1,0 +1,1 @@
+{"index": 6224, "name": "Puddings, lemon, dry mix, instant, prepared with 2% milk", "healthiness": {"lactating": [10, 10, 8], "male": [36, 24, 22, 24, 15, 10, 9, 8, 6], "female": [36, 24, 22, 22, 13, 8, 10, 7, 3], "pregnant": [9, 11, 9]}}

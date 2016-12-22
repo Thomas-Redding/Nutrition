@@ -1,0 +1,1 @@
+{"index": 2552, "name": "Pork, fresh, shoulder, arm picnic, separable lean and fat, raw", "healthiness": {"lactating": [28, 29, 27], "male": [44, 34, 31, 32, 30, 30, 30, 29, 27], "female": [44, 34, 31, 30, 27, 28, 30, 28, 25], "pregnant": [27, 29, 28]}}

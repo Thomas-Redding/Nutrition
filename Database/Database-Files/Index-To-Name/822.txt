@@ -1,0 +1,1 @@
+{"index": 822, "name": "Chicken, broiler, rotisserie, BBQ, breast meat only", "healthiness": {"lactating": [29, 30, 29], "male": [35, 28, 26, 29, 29, 31, 32, 32, 30], "female": [35, 28, 26, 27, 26, 27, 30, 29, 26], "pregnant": [28, 31, 29]}}

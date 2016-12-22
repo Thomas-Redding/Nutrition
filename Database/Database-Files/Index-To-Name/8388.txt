@@ -1,0 +1,1 @@
+{"index": 8388, "name": "Fish, whitefish, eggs (Alaska Native)", "healthiness": {"lactating": [45, 47, 45], "male": [59, 56, 52, 55, 51, 50, 51, 50, 49], "female": [59, 56, 52, 53, 49, 48, 51, 49, 47], "pregnant": [46, 48, 47]}}

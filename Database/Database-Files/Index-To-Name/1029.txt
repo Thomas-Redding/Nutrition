@@ -1,0 +1,1 @@
+{"index": 1029, "name": "Turkey breast, pre-basted, meat and skin, cooked, roasted", "healthiness": {"lactating": [32, 33, 32], "male": [41, 32, 30, 33, 32, 33, 35, 35, 33], "female": [41, 32, 30, 31, 29, 30, 33, 31, 30], "pregnant": [31, 33, 32]}}

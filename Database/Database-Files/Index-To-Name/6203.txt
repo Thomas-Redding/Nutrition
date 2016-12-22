@@ -1,0 +1,1 @@
+{"index": 6203, "name": "Gelatin desserts, dry mix, reduced calorie, with aspartame, prepared with water", "healthiness": {"lactating": [-10, -9, -10], "male": [-20, -23, -24, -18, -14, -9, -8, -9, -10], "female": [-20, -23, -24, -20, -16, -13, -11, -12, -14], "pregnant": [-11, -9, -10]}}

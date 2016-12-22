@@ -1,0 +1,1 @@
+{"index": 70, "name": "Milk, producer, fluid, 3.7% milkfat", "healthiness": {"lactating": [23, 23, 21], "male": [41, 30, 30, 30, 28, 23, 21, 20, 19], "female": [41, 30, 30, 28, 26, 22, 24, 21, 17], "pregnant": [23, 24, 22]}}

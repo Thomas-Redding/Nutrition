@@ -1,0 +1,1 @@
+{"index": 6773, "name": "WENDY'S, french fries", "healthiness": {"lactating": [-9, -7, -9], "male": [5, -7, -13, -11, -10, -7, -6, -7, -8], "female": [5, -7, -13, -13, -12, -10, -8, -10, -12], "pregnant": [-9, -7, -8]}}

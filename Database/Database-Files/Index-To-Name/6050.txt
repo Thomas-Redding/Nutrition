@@ -1,0 +1,1 @@
+{"index": 6050, "name": "Snacks, beef jerky, chopped and formed", "healthiness": {"lactating": [-6, -4, -6], "male": [9, -4, -10, -7, -6, -4, -3, -3, -5], "female": [9, -4, -10, -9, -9, -8, -5, -7, -8], "pregnant": [-7, -5, -6]}}

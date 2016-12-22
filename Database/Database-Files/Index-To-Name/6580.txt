@@ -1,0 +1,1 @@
+{"index": 6580, "name": "Barley malt flour", "healthiness": {"lactating": [9, 10, 8], "male": [41, 36, 30, 28, 17, 10, 10, 9, 8], "female": [41, 36, 30, 26, 16, 9, 10, 7, 6], "pregnant": [9, 10, 8]}}

@@ -1,0 +1,1 @@
+{"index": 3998, "name": "Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8\" fat, prime, raw", "healthiness": {"lactating": [13, 13, 10], "male": [33, 19, 16, 20, 20, 14, 11, 9, 9], "female": [33, 19, 16, 18, 18, 12, 12, 9, 6], "pregnant": [13, 13, 11]}}

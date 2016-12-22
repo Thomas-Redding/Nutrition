@@ -1,0 +1,1 @@
+{"index": 8262, "name": "Rice mix, white and wild, flavored, unprepared", "healthiness": {"lactating": [-3, -2, -3], "male": [3, -1, -3, 0, -2, -2, 0, 0, -2], "female": [3, -1, -3, -2, -5, -5, -2, -4, -5], "pregnant": [-5, -2, -3]}}

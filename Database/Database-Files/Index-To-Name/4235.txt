@@ -1,0 +1,1 @@
+{"index": 4235, "name": "Beverages, Energy drink, RED BULL, sugar free, with added caffeine, niacin, pantothenic acid, vitamins B6 and B12", "healthiness": {"lactating": [12, 13, 12], "male": [10, 4, 3, 8, 10, 13, 14, 14, 12], "female": [10, 4, 3, 6, 8, 9, 12, 10, 8], "pregnant": [11, 13, 12]}}

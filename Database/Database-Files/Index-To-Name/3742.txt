@@ -1,0 +1,1 @@
+{"index": 3742, "name": "Beef, grass-fed, strip steaks, lean only, raw", "healthiness": {"lactating": [10, 11, 10], "male": [19, 10, 6, 9, 10, 12, 14, 14, 12], "female": [19, 10, 6, 7, 8, 9, 11, 10, 9], "pregnant": [8, 11, 10]}}

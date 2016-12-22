@@ -1,0 +1,1 @@
+{"index": 6844, "name": "McDONALD'S, Sausage McGRIDDLES", "healthiness": {"lactating": [-9, -8, -9], "male": [-1, -13, -18, -14, -12, -8, -7, -7, -9], "female": [-1, -13, -18, -16, -14, -12, -9, -11, -13], "pregnant": [-10, -8, -9]}}

@@ -1,0 +1,1 @@
+{"index": 2961, "name": "Eggplant, raw", "healthiness": {"lactating": [27, 27, 25], "male": [49, 43, 46, 48, 39, 30, 28, 26, 25], "female": [49, 43, 46, 46, 37, 29, 29, 27, 24], "pregnant": [28, 28, 26]}}

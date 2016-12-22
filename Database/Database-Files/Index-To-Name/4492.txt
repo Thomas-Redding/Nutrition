@@ -1,0 +1,1 @@
+{"index": 4492, "name": "Fish, catfish, channel, cooked, breaded and fried", "healthiness": {"lactating": [25, 26, 24], "male": [39, 27, 22, 24, 25, 26, 26, 24, 23], "female": [39, 27, 22, 22, 22, 24, 25, 23, 21], "pregnant": [24, 26, 24]}}

@@ -1,0 +1,1 @@
+{"index": 2585, "name": "Pork, fresh, variety meats and by-products, lungs, raw", "healthiness": {"lactating": [43, 45, 43], "male": [48, 43, 41, 46, 46, 46, 48, 47, 46], "female": [48, 43, 41, 44, 44, 44, 47, 45, 43], "pregnant": [43, 46, 45]}}

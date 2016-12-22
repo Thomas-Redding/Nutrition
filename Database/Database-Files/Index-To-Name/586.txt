@@ -1,0 +1,1 @@
+{"index": 586, "name": "Infant formula, PBM PRODUCTS, store brand, soy, liquid concentrate, not reconstituted", "healthiness": {"lactating": [2, 3, 2], "male": [23, 13, 10, 8, 5, 5, 6, 5, 2], "female": [23, 13, 10, 6, 3, 2, 3, 2, -1], "pregnant": [2, 3, 2]}}

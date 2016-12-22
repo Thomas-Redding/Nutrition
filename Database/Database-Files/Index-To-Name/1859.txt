@@ -1,0 +1,1 @@
+{"index": 1859, "name": "Cereals, whole wheat hot natural cereal, dry", "healthiness": {"lactating": [3, 4, 3], "male": [14, 8, 3, 5, 3, 4, 6, 5, 4], "female": [14, 8, 3, 3, 1, 2, 4, 2, 1], "pregnant": [2, 4, 3]}}

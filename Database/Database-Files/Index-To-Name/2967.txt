@@ -1,0 +1,1 @@
+{"index": 2967, "name": "Garlic, raw", "healthiness": {"lactating": [20, 20, 18], "male": [48, 42, 36, 37, 29, 22, 20, 19, 18], "female": [48, 42, 36, 34, 27, 20, 21, 18, 16], "pregnant": [20, 21, 19]}}

@@ -1,0 +1,1 @@
+{"index": 8451, "name": "APPLEBEE'S, 9 oz house sirloin steak", "healthiness": {"lactating": [33, 34, 33], "male": [41, 33, 31, 35, 35, 35, 37, 36, 34], "female": [41, 33, 31, 33, 33, 33, 35, 33, 32], "pregnant": [32, 34, 33]}}

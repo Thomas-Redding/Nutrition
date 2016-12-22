@@ -1,0 +1,1 @@
+{"index": 6118, "name": "Candies, confectioner's coating, peanut butter", "healthiness": {"lactating": [-7, -6, -7], "male": [8, -2, -10, -9, -8, -6, -5, -5, -7], "female": [8, -2, -10, -11, -10, -8, -6, -8, -10], "pregnant": [-7, -6, -7]}}

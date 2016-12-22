@@ -1,0 +1,1 @@
+{"index": 1845, "name": "Cereals, MALT-O-MEAL, original, plain, dry", "healthiness": {"lactating": [-1, 0, -1], "male": [0, -4, -6, -2, 0, 1, 2, 1, 0], "female": [0, -4, -6, -4, -3, -1, 0, -1, -4], "pregnant": [-2, 0, -1]}}

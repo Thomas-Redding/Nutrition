@@ -1,0 +1,1 @@
+{"index": 5246, "name": "Bison, ground, grass-fed, cooked", "healthiness": {"lactating": [35, 36, 35], "male": [41, 37, 32, 36, 36, 37, 39, 38, 37], "female": [41, 37, 32, 34, 34, 34, 36, 35, 34], "pregnant": [33, 35, 34]}}

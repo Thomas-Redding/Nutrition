@@ -1,0 +1,1 @@
+{"index": 4672, "name": "Fish, drum, freshwater, cooked, dry heat", "healthiness": {"lactating": [35, 36, 35], "male": [47, 42, 41, 42, 38, 38, 40, 39, 37], "female": [47, 42, 41, 40, 36, 36, 38, 37, 35], "pregnant": [35, 38, 36]}}

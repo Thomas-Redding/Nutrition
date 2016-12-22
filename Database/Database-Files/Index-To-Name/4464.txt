@@ -1,0 +1,1 @@
+{"index": 4464, "name": "Beverages, Meal supplement drink, canned, peanut flavor", "healthiness": {"lactating": [25, 25, 22], "male": [41, 35, 33, 35, 32, 25, 25, 23, 22], "female": [41, 35, 33, 33, 30, 23, 24, 21, 19], "pregnant": [23, 24, 21]}}

@@ -1,0 +1,1 @@
+{"index": 4627, "name": "Crustaceans, shrimp, mixed species, raw (may have been previously frozen)", "healthiness": {"lactating": [38, 39, 38], "male": [52, 44, 41, 43, 41, 41, 43, 42, 40], "female": [52, 44, 41, 41, 38, 39, 41, 40, 37], "pregnant": [39, 41, 40]}}

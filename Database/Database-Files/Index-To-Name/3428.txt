@@ -1,0 +1,1 @@
+{"index": 3428, "name": "Peas, green, canned, no salt added, solids and liquids", "healthiness": {"lactating": [30, 30, 27], "male": [49, 46, 47, 47, 41, 31, 28, 27, 26], "female": [49, 46, 47, 45, 40, 32, 33, 30, 28], "pregnant": [30, 31, 29]}}

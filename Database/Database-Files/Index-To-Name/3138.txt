@@ -1,0 +1,1 @@
+{"index": 3138, "name": "Pumpkin leaves, raw", "healthiness": {"lactating": [56, 57, 56], "male": [49, 48, 48, 51, 54, 58, 59, 58, 57], "female": [49, 48, 48, 49, 52, 55, 57, 55, 53], "pregnant": [56, 58, 56]}}

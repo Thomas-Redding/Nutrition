@@ -1,0 +1,1 @@
+{"index": 1474, "name": "Soup, cream of potato, canned, prepared with equal volume water", "healthiness": {"lactating": [9, 9, 7], "male": [37, 26, 24, 24, 16, 11, 10, 9, 8], "female": [37, 27, 25, 22, 14, 10, 11, 8, 6], "pregnant": [10, 11, 9]}}

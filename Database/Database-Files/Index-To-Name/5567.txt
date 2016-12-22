@@ -1,0 +1,1 @@
+{"index": 5567, "name": "Bagels, oat bran", "healthiness": {"lactating": [12, 12, 10], "male": [35, 25, 21, 23, 18, 13, 11, 10, 9], "female": [35, 25, 22, 21, 17, 12, 12, 9, 7], "pregnant": [12, 12, 10]}}

@@ -1,0 +1,1 @@
+{"index": 4420, "name": "Beverages, Cocoa mix, low calorie, powder, with added calcium, phosphorus, aspartame, without added sodium or vitamin A", "healthiness": {"lactating": [11, 12, 11], "male": [24, 19, 14, 17, 16, 15, 16, 16, 14], "female": [24, 19, 14, 15, 14, 13, 15, 13, 12], "pregnant": [12, 14, 12]}}

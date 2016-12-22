@@ -1,0 +1,1 @@
+{"index": 7559, "name": "Beef, ground, 97% lean meat / 3% fat, crumbles, cooked, pan-browned", "healthiness": {"lactating": [36, 38, 36], "male": [47, 39, 35, 38, 38, 38, 40, 39, 38], "female": [47, 39, 35, 36, 36, 35, 37, 36, 35], "pregnant": [34, 37, 35]}}

@@ -1,0 +1,1 @@
+{"index": 7905, "name": "KEEBLER, Cinnamon Toast Grahams", "healthiness": {"lactating": [-6, -5, -6], "male": [1, -8, -8, -6, -6, -4, -3, -4, -5], "female": [1, -8, -8, -8, -8, -7, -5, -7, -8], "pregnant": [-6, -5, -6]}}

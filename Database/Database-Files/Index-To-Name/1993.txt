@@ -1,0 +1,1 @@
+{"index": 1993, "name": "Cereals ready-to-eat, KELLOGG, SPECIAL K, Fruit & Yogurt", "healthiness": {"lactating": [17, 18, 17], "male": [22, 17, 15, 18, 20, 21, 21, 21, 18], "female": [22, 17, 15, 16, 18, 19, 21, 19, 16], "pregnant": [19, 20, 19]}}

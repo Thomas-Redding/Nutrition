@@ -1,0 +1,1 @@
+{"index": 4188, "name": "Beverages, chocolate almond milk, unsweetened, shelf-stable, fortified with vitamin D2 and E", "healthiness": {"lactating": [9, 10, 9], "male": [11, 7, 6, 10, 10, 11, 13, 12, 11], "female": [11, 7, 6, 8, 8, 8, 10, 9, 8], "pregnant": [8, 10, 9]}}

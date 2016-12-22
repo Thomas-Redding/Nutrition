@@ -1,0 +1,1 @@
+{"index": 613, "name": "Infant Formula, MEAD JOHNSON, ENFAMIL, GENTLEASE, powder", "healthiness": {"lactating": [3, 4, 3], "male": [31, 17, 13, 10, 7, 6, 7, 6, 3], "female": [31, 17, 13, 8, 5, 3, 5, 3, 0], "pregnant": [3, 4, 3]}}

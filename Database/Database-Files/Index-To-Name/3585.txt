@@ -1,0 +1,1 @@
+{"index": 3585, "name": "Peppers, ancho, dried", "healthiness": {"lactating": [27, 27, 25], "male": [42, 39, 42, 44, 35, 28, 26, 25, 25], "female": [42, 39, 42, 42, 34, 27, 28, 25, 24], "pregnant": [26, 27, 25]}}

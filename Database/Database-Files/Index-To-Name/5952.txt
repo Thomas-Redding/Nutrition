@@ -1,0 +1,1 @@
+{"index": 5952, "name": "ARCHWAY Home Style Cookies, Reduced Fat Ginger Snaps", "healthiness": {"lactating": [-10, -8, -10], "male": [-20, -23, -23, -18, -12, -9, -8, -8, -9], "female": [-20, -23, -23, -19, -15, -13, -12, -13, -14], "pregnant": [-12, -11, -12]}}

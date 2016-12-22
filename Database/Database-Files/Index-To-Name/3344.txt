@@ -1,0 +1,1 @@
+{"index": 3344, "name": "Beans, snap, yellow, canned, regular pack, solids and liquids", "healthiness": {"lactating": [40, 40, 38], "male": [50, 50, 52, 54, 48, 41, 38, 37, 36], "female": [50, 50, 52, 52, 46, 41, 43, 40, 36], "pregnant": [39, 41, 38]}}

@@ -1,0 +1,1 @@
+{"index": 2382, "name": "Sapote, mamey, raw", "healthiness": {"lactating": [6, 6, 5], "male": [29, 20, 19, 18, 12, 9, 8, 7, 6], "female": [30, 21, 19, 15, 10, 7, 8, 6, 4], "pregnant": [7, 8, 6]}}

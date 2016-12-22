@@ -1,0 +1,1 @@
+{"index": 5021, "name": "LOMA LINDA Tender Rounds with Gravy, canned, unprepared", "healthiness": {"lactating": [-3, -1, -3], "male": [-4, -9, -10, -6, -4, -1, 0, 0, -2], "female": [-4, -9, -10, -8, -6, -4, -2, -4, -5], "pregnant": [-4, -2, -3]}}

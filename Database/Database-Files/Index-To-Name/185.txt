@@ -1,0 +1,1 @@
+{"index": 185, "name": "Yogurt, fruit variety, nonfat, fortified with vitamin D", "healthiness": {"lactating": [24, 24, 21], "male": [44, 33, 28, 30, 27, 23, 22, 20, 18], "female": [44, 33, 28, 28, 24, 22, 23, 21, 16], "pregnant": [23, 24, 22]}}

@@ -1,0 +1,1 @@
+{"index": 6831, "name": "Fast foods, griddle cake sandwich, sausage", "healthiness": {"lactating": [-8, -7, -8], "male": [4, -9, -15, -12, -10, -7, -6, -6, -8], "female": [4, -9, -15, -14, -13, -11, -8, -10, -12], "pregnant": [-9, -7, -8]}}

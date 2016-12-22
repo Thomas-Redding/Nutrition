@@ -1,0 +1,1 @@
+{"index": 4625, "name": "Crustaceans, lobster, northern, raw", "healthiness": {"lactating": [43, 44, 43], "male": [48, 41, 38, 42, 41, 44, 46, 45, 44], "female": [48, 41, 38, 41, 39, 41, 44, 42, 40], "pregnant": [41, 45, 43]}}

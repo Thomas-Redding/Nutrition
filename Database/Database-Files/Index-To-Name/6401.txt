@@ -1,0 +1,1 @@
+{"index": 6401, "name": "Snacks, popcorn, oil-popped, white popcorn, salt added", "healthiness": {"lactating": [-1, 0, -2], "male": [23, 12, 9, 8, 1, -1, -1, -2, -3], "female": [24, 13, 10, 6, -1, -3, -2, -4, -6], "pregnant": [-2, 0, -2]}}

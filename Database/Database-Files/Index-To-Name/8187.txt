@@ -1,0 +1,1 @@
+{"index": 8187, "name": "PEPPERIDGE FARM, Pumpernickel Bread", "healthiness": {"lactating": [-9, -8, -9], "male": [-17, -20, -20, -16, -12, -8, -7, -8, -9], "female": [-17, -20, -20, -18, -14, -12, -10, -12, -13], "pregnant": [-11, -9, -11]}}

@@ -1,0 +1,1 @@
+{"index": 5662, "name": "Cake, yellow, enriched, dry mix", "healthiness": {"lactating": [-4, -3, -5], "male": [20, 8, 0, 0, -4, -4, -3, -4, -5], "female": [21, 9, 1, -2, -6, -7, -5, -7, -9], "pregnant": [-5, -4, -5]}}

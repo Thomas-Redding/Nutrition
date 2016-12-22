@@ -1,0 +1,1 @@
+{"index": 2543, "name": "Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, cooked, roasted", "healthiness": {"lactating": [30, 31, 30], "male": [42, 33, 30, 32, 32, 33, 35, 34, 32], "female": [42, 33, 30, 30, 30, 31, 33, 31, 29], "pregnant": [30, 32, 31]}}

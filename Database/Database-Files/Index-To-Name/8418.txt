@@ -1,0 +1,1 @@
+{"index": 8418, "name": "Agave, raw (Southwest)", "healthiness": {"lactating": [8, 9, 7], "male": [16, 10, 13, 13, 11, 8, 9, 8, 8], "female": [17, 11, 14, 11, 9, 6, 7, 5, 5], "pregnant": [6, 7, 6]}}

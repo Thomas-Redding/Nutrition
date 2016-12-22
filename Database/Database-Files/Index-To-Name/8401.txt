@@ -1,0 +1,1 @@
+{"index": 8401, "name": "Elk, free range, ground, raw (Shoshone Bannock)", "healthiness": {"lactating": [45, 47, 45], "male": [44, 41, 40, 45, 46, 47, 49, 49, 48], "female": [44, 41, 40, 43, 44, 45, 48, 46, 44], "pregnant": [45, 47, 46]}}

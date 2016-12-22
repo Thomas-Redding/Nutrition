@@ -1,0 +1,1 @@
+{"index": 7287, "name": "Beef, rib eye steak, boneless, lip-on, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, grilled", "healthiness": {"lactating": [27, 28, 26], "male": [42, 31, 26, 30, 29, 29, 29, 27, 26], "female": [42, 31, 26, 28, 27, 27, 29, 26, 24], "pregnant": [27, 28, 26]}}

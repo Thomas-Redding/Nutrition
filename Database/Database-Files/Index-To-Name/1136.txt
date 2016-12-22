@@ -1,0 +1,1 @@
+{"index": 1136, "name": "Chicken, dark meat, thigh, meat only, with added solution, cooked, braised", "healthiness": {"lactating": [28, 29, 28], "male": [40, 31, 27, 30, 29, 30, 32, 31, 30], "female": [40, 31, 27, 28, 27, 28, 30, 28, 26], "pregnant": [27, 30, 28]}}

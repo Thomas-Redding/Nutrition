@@ -1,0 +1,1 @@
+{"index": 1302, "name": "Sauce, ready-to-serve, pepper, TABASCO", "healthiness": {"lactating": [53, 53, 51], "male": [55, 54, 51, 54, 53, 52, 52, 50, 50], "female": [55, 54, 51, 52, 51, 51, 54, 51, 48], "pregnant": [52, 54, 52]}}

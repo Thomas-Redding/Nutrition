@@ -1,0 +1,1 @@
+{"index": 7991, "name": "KELLOGG'S, SPECIAL K, Cracker Chips, Sour Cream & Onion", "healthiness": {"lactating": [-9, -8, -9], "male": [-6, -14, -16, -13, -11, -8, -7, -7, -9], "female": [-6, -14, -16, -15, -13, -11, -9, -11, -12], "pregnant": [-10, -8, -9]}}

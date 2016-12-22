@@ -1,0 +1,1 @@
+{"index": 1861, "name": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat", "healthiness": {"lactating": [-1, 0, -1], "male": [10, 2, -3, -1, -2, 0, 1, 1, 0], "female": [10, 2, -3, -3, -4, -3, -1, -2, -3], "pregnant": [-3, 0, -2]}}

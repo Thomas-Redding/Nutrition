@@ -1,0 +1,1 @@
+{"index": 8131, "name": "Cookies, chocolate, made with rice cereal", "healthiness": {"lactating": [-10, -9, -10], "male": [1, -11, -17, -14, -11, -8, -7, -8, -9], "female": [1, -11, -17, -16, -14, -12, -10, -12, -13], "pregnant": [-10, -9, -10]}}

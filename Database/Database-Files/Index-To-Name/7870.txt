@@ -1,0 +1,1 @@
+{"index": 7870, "name": "KEEBLER, CLUB, Dash of Salt Crackers", "healthiness": {"lactating": [-11, -10, -11], "male": [-13, -21, -23, -17, -14, -10, -9, -9, -11], "female": [-13, -21, -23, -19, -16, -13, -12, -13, -15], "pregnant": [-12, -10, -11]}}

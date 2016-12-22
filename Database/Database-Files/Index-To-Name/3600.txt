@@ -1,0 +1,1 @@
+{"index": 3600, "name": "Mushrooms, maitake, raw", "healthiness": {"lactating": [38, 38, 36], "male": [44, 41, 44, 46, 42, 37, 36, 35, 35], "female": [44, 41, 44, 44, 40, 37, 39, 36, 33], "pregnant": [36, 38, 36]}}

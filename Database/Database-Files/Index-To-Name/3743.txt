@@ -1,0 +1,1 @@
+{"index": 3743, "name": "Beef, carcass, separable lean and fat, choice, raw", "healthiness": {"lactating": [22, 21, 19], "male": [36, 25, 21, 24, 24, 22, 19, 17, 16], "female": [36, 25, 21, 22, 22, 20, 21, 18, 14], "pregnant": [21, 21, 18]}}

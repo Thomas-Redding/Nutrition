@@ -1,0 +1,1 @@
+{"index": 7025, "name": "Beef Pot Pie, frozen entree, prepared", "healthiness": {"lactating": [4, 4, 2], "male": [35, 21, 13, 16, 10, 5, 3, 2, 1], "female": [35, 21, 13, 14, 8, 3, 3, 1, -2], "pregnant": [4, 4, 2]}}

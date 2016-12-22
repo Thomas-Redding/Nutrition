@@ -1,0 +1,1 @@
+{"index": 8238, "name": "Macaroni and cheese, box mix with cheese sauce, prepared", "healthiness": {"lactating": [-6, -5, -6], "male": [6, -6, -11, -9, -8, -6, -4, -4, -6], "female": [6, -6, -11, -11, -11, -9, -6, -8, -9], "pregnant": [-8, -5, -6]}}

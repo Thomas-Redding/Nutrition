@@ -1,0 +1,1 @@
+{"index": 3003, "name": "Lotus root, raw", "healthiness": {"lactating": [16, 16, 14], "male": [38, 32, 34, 30, 22, 17, 18, 17, 15], "female": [38, 33, 34, 28, 20, 16, 18, 16, 14], "pregnant": [15, 17, 15]}}

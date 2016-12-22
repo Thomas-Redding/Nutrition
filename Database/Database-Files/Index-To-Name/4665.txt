@@ -1,0 +1,1 @@
+{"index": 4665, "name": "Fish, bass, striped, cooked, dry heat", "healthiness": {"lactating": [34, 35, 34], "male": [40, 32, 32, 35, 33, 35, 37, 37, 35], "female": [40, 32, 32, 33, 31, 32, 35, 33, 31], "pregnant": [32, 35, 33]}}

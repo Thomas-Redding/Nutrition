@@ -1,0 +1,1 @@
+{"index": 8356, "name": "Fish, whitefish, mixed species, raw (Alaska Native)", "healthiness": {"lactating": [-8, -7, -8], "male": [-8, -14, -16, -12, -11, -8, -6, -6, -8], "female": [-8, -14, -16, -14, -13, -11, -8, -10, -11], "pregnant": [-9, -7, -8]}}

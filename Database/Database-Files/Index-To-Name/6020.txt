@@ -1,0 +1,1 @@
+{"index": 6020, "name": "Bread, cheese", "healthiness": {"lactating": [-8, -7, -8], "male": [4, -9, -13, -11, -9, -6, -6, -6, -8], "female": [4, -9, -13, -13, -11, -10, -8, -10, -11], "pregnant": [-8, -7, -8]}}

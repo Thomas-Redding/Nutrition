@@ -1,0 +1,1 @@
+{"index": 4258, "name": "Beverages, tea, Oolong, brewed", "healthiness": {"lactating": [4, 6, 4], "male": [-8, -8, -8, -2, 0, 4, 6, 6, 4], "female": [-8, -8, -8, -4, -2, 1, 5, 3, 1], "pregnant": [2, 6, 5]}}

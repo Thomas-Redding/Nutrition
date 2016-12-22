@@ -1,0 +1,1 @@
+{"index": 720, "name": "Margarine-like, margarine-butter blend, soybean oil and butter", "healthiness": {"lactating": [-11, -10, -11], "male": [-18, -22, -21, -16, -13, -9, -9, -10, -11], "female": [-18, -22, -21, -18, -15, -13, -11, -13, -15], "pregnant": [-10, -9, -11]}}

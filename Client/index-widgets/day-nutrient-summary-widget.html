@@ -1,0 +1,667 @@
+<div id="day-nutrient-summary-widget">
+<div id="day-nutrient-score">
+	<div><span id="day-nutrients">0</span>/<span id="day-protein">0</span>/<span id="day-calories">0</span></div>
+	<table><tbody>
+	<tr><td>Nutrients</td><td><progress id="day-nutrients-progress" value="0" max="100"></progress></td></tr>
+	<tr><td>Protein</td><td><progress id="day-protein-progress" value="0" max="100"></progress></td></tr>
+	<tr><td>Calories</td><td><progress id="day-calories-progress" value="0" max="100"></progress></td></tr>
+	</tbody></table>
+</div>
+
+<table id="foods-eaten-table">
+	<thead>
+		<tr><td>Food</td><td>#</td><td>Units</td><td></td></tr>
+	</thead>
+	<tbody>
+		<tr><td>Loading...</td><td></td><td></td><td></td></tr>
+	</tbody>
+</table>
+
+<div id="summary-widget-main-table">
+	<div id="summary-calories">
+		loading...
+	</div>
+	<div id="summary-menu">
+		<div id="fat-label" onclick="day_nutrient_summary_widget.fat_clicked();">Fats<div class="summary-percent">50%</div></div><div id="carbs-label" onclick="day_nutrient_summary_widget.carbs_clicked();">Carbs<div class="summary-percent">50%</div></div><div id="protein-label" onclick="day_nutrient_summary_widget.protein_clicked();">Protein<div class="summary-percent">50%</div></div><div id="vitamins-label" onclick="day_nutrient_summary_widget.vitamins_clicked();">Vitamins<div class="summary-percent">50%</div></div><div id="minerals-label" onclick="day_nutrient_summary_widget.minerals_clicked();">Minerals<div class="summary-percent">50%</div></div>
+	</div>
+	<div id="summary-details">
+	</div>
+</div>
+</div>
+<style>
+
+#foods-eaten-table {
+	margin: 3em auto;
+	border: 1px solid #CCC;
+	padding: 1em;
+	border-collapse: collapse;
+	width: 90%;
+	max-width: 25em;
+}
+
+#foods-eaten-table td {
+	padding: 0.5em 0.3em;
+}
+
+#foods-eaten-table td:last-child {
+	width: 1em;
+}
+
+#foods-eaten-table thead {
+	background-color: #CCC;
+}
+
+#day-nutrient-summary-widget {
+	position: relative;
+	z-index: 10;
+	text-align: center;
+	min-height: 40em;
+	background-color: white;
+	padding: 2em 0;
+}
+
+#day-nutrient-score table {
+	margin: 0 auto;
+}
+
+#day-nutrient-score {
+	margin-bottom: 1em;
+}
+
+#day-nutrient-score > div {
+	font-size: 2em;
+	margin-bottom: 0.5em;
+}
+
+#day-nutrients {
+	color: hsl(240, 96%, 50%);
+}
+
+#day-protein {
+	color: hsl(120, 96%, 25%);
+}
+
+#day-calories {
+	color: hsl(0, 96%, 45%);
+}
+
+#day-nutrient-score progress {
+	display: block;
+	width: 10em;
+	height: 0.6em;
+	margin: 0.2em auto;
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: red;
+}
+
+#day-nutrient-score progress::-webkit-progress-bar {
+	background-color: white;
+	border: 1px solid hsl(0, 0%, 20%);
+}
+
+#day-nutrients-progress::-webkit-progress-value {
+	background-color: hsl(240, 96%, 50%);
+}
+
+#day-calories-progress::-webkit-progress-value {
+	background-color: hsl(0, 96%, 45%);
+}
+
+
+
+
+
+
+#summary-widget-main-table {
+	text-align: left;
+	margin-top: 2em;
+}
+
+#summary-calories {
+	text-align: center;
+	padding-bottom: 1em;
+	font-weight: bold;
+}
+
+#summary-menu {
+	/*background-color: hsl(0, 0%, 95%);*/
+	position: absolute;
+	right: 50%;
+	cursor: pointer;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+}
+
+#summary-menu > div {
+	padding: 0.5em 0.5em;
+	height: 2em;
+	vertical-align: middle;
+	line-height: 2em;
+}
+
+#summary-details {
+	/*background-color: hsl(0, 0%, 95%);*/
+	position: absolute;
+	left: 50%;
+	padding-left: 1em;
+	height: 15em;
+	width: 8em;
+	border-left: 1px solid hsl(0, 0%, 10%);
+}
+
+.selected-nutrient-group {
+	border-right: 2px solid hsl(0, 0%, 10%);
+}
+
+.summary-percent {
+	display: inline;
+}
+
+.summary-percent::before {
+	content: ": ";
+}
+
+@media screen and (min-width: 35em) {
+	#day-nutrient-summary-widget {
+		min-height: 32em;
+	}
+
+	.summary-percent {
+		display: block;
+		text-align: center;
+	}
+
+	.selected-nutrient-group {
+		border-right: none;
+		border-bottom: 2px solid hsl(0, 0%, 10%);
+	}
+
+	.summary-percent::before {
+		content: "";
+	}
+
+	#summary-menu {
+		position: relative;
+		right: initial;
+		text-align: center;
+		border-bottom: none;
+		height: initial;
+	}
+
+	#summary-menu > div {
+		display: inline-block;
+		width: 5em;
+		padding: 0.5em 0;
+		margin: 0;
+		text-align: center;
+		vertical-align: top;
+		line-height: 1.2em;
+	}
+
+	#summary-details {
+		position: relative;
+		left: initial;
+		height: inherit;
+		width: 25em;
+		padding: 0;
+		margin: 0 auto;
+		border-top: 1px solid hsl(0, 0%, 10%);
+		border-left: none;
+	}
+}
+
+.desktop-details-table {
+	margin: 0 auto;
+}
+
+.desktop-details-table > tbody > tr > td {
+	width: 50%;
+}
+
+.desktop-details-table > tbody > tr > td:first-child {
+	padding-right: 1em;
+}
+
+.desktop-details-table > tbody > tr > td:last-child {
+	padding-left: 1em;
+}
+
+.desktop-details-table > table {
+	margin: 0 auto;
+	min-width: 8em;
+}
+
+.mobile-details-table td {
+	padding-left: 0.5em;
+}
+
+</style>
+<script>
+function Day_Nutrient_Summary_Widget(d) {
+	var self = this;
+	self.div = d;
+
+	self.old_use_mobile = window.matchMedia('(max-width: 35em)').matches;
+	self.current_details = "vitamins";
+	self.resize = function() {
+		var use_mobile = window.matchMedia('(max-width: 35em)').matches;
+		if (use_mobile != self.old_use_mobile) {
+			self.old_use_mobile = use_mobile;
+			self.current_details(use_mobile);
+		}
+	}
+	// api.get_DRIs("male", 42, console.log)
+
+	shared_gui.add_resize_callback(self.resize);
+
+	self.load_day_nutrients = function() {
+		api.get_day(day_widget.displayed_date, self.load_day_nutrients_callback);
+	}
+
+	self.percents;
+	self.dris = null;
+
+	self.data = null;
+
+	self.units = {
+		"Total lipid (fat)": "g",
+		"Carbohydrate, by difference": "g",
+		"Protein": "g",
+
+		"Fatty acids, total saturated": "g",
+		"Fatty acids, total monounsaturated": "g",
+		"Fatty acids, total polyunsaturated": "g",
+		"Fatty acids, total trans": "g",
+		"Fiber, total dietary": "g",
+		"Sugars, total": "g",
+		"Starch": "g",
+		"Phenylalanine": "mg",
+		"Valine": "mg",
+		"Threonine": "mg",
+		"Tryptophan": "mg",
+		"Methionine": "mg",
+		"Leucine": "mg",
+		"Isoleucine": "mg",
+		"Lysine": "mg",
+		"Histidine": "mg",
+		"Vitamin A, RAE": "mg",
+		"Vitamin B-6": "mg",
+		"Vitamin B-12": "mg",
+		"Vitamin C, total ascorbic acid": "mg",
+		"Vitamin D (D2 + D3)": "mg",
+		"Vitamin E (alpha-tocopherol)": "mg",
+		"Vitamin K (phylloquinone)": "mg",
+		"Riboflavin": "mg",
+		"Niacin": "mg",
+		"Pantothenic acid": "mg",
+		"Calcium, Ca": "mg",
+		// "Chromium, Cr": "mg",
+		// "Iodine, I": "mg",
+		"Iron, Fe": "mg",
+		"Magnesium, Mg": "mg",
+		"Manganese, Mn": "mg",
+		// "Molybdenum, Mo": "mg",
+		"Phosphorus, P": "mg",
+		"Selenium, Se": "mg",
+		"Zinc, Zn": "mg",
+		"Copper, Cu": "mg"
+		// "Fluoride, F": "mg"
+	}
+
+	self.load_day_nutrients_callback = function(response) {
+		self.data = response;
+		self.load_table();
+		self.load_tab_labels();
+		self.current_tab();
+
+
+		var nutrient_progress = 0;
+		for (key in self.units) {
+			var response = self.get_data(key);
+			if (response[response.length-1] == "%") {
+				response = parseInt(response.substr(0, response.length-1));
+				var per = response / 100;
+				nutrient_progress += per > 1 ? 1 : 2 * per - per * per;
+			}
+		}
+		nutrient_progress /= 28;
+
+
+		var protein_progress;
+		if (self.data.nutrients["Protein"] === undefined)
+			protein_progress = 0;
+		else
+			protein_progress = self.data.nutrients["Protein"] / self.dris["protein_goal"];
+
+		var energy_progress;
+		if (self.data.nutrients["Energy"] === undefined)
+			energy_progress = 0;
+		else
+			energy_progress = self.data.nutrients["Energy"] / self.dris["calorie_goal"];
+
+		/*
+		if (nutrient_progress < 1)
+			nutrient_progress = 1 - Math.sqrt(1-nutrient_progress);
+		else
+			nutrient_progress = 1;
+		*/
+
+		$("#day-nutrients").html(Math.round(1000 * nutrient_progress)/10);
+		$("#day-nutrients-progress").val(100 * nutrient_progress);
+
+		$("#day-protein").html(Math.round(protein_progress * 1000)/10);
+		$("#day-protein-progress").val(protein_progress * 100);
+
+		$("#day-calories").html(Math.round(energy_progress * 1000)/10);
+		$("#day-calories-progress").val(energy_progress * 100);
+	}
+
+	self.load_tab_labels = function() {
+		$("#fat-label > .summary-percent").html(self.get_data("Total lipid (fat)"));
+		$("#carbs-label > .summary-percent").html(self.get_data("Carbohydrate, by difference"));
+		$("#protein-label > .summary-percent").html(self.get_data("Protein"));
+		$("#vitamins-label > .summary-percent").html("");
+		$("#minerals-label > .summary-percent").html("");
+		
+	}
+
+	self.load_table = function() {
+		if (self.data == null || !("foods" in self.data) || !("nutrients" in self.data)) {
+			self.data = {
+				"nutrients": {},
+				"foods": []
+			}
+		}
+
+		var html = "";
+		for (var i = 0; i < self.data.foods.length; ++i) {
+			html += "<tr><td onclick=\"day_nutrient_summary_widget.edit_food(" + i + ")\" style=\"cursor: pointer;\">";
+			html += self.data.foods[i].name;
+			html += "</td><td>";
+			html += Math.round(self.data.foods[i].amount * 10) / 10;
+			html += "</td><td>";
+			html += self.data.foods[i].unit;
+			html += "</td><td onclick=\"day_nutrient_summary_widget.remove_food(" + i + ")\"><img src=\"images/close.svg\" style=\"height: 1em; cursor: pointer;\"/></td></tr>";
+		}
+		$("#foods-eaten-table > tbody").html(html);
+		$("#summary-calories").html(Math.round(self.data.nutrients["Energy"]) + " Calories")
+	}
+
+	self.edit_food = function(index) {
+		food_editor_widget.edited_food = index;
+		api.get_food(self.data.foods[index].id, food_editor_widget.display);
+	}
+
+	self.food_to_remove = -1;
+
+	self.remove_food = function(index) {
+		// update day_nutrient_summary_widget.data
+		self.food_to_remove = index;
+		api.get_food(self.data.foods[index].id, self.remove_food_2);
+	}
+
+	self.remove_food_2 = function(json) {
+		var removed_food = self.data.foods[self.food_to_remove];
+		self.data.foods.splice(self.food_to_remove, 1);
+
+		var weight = 100;
+		if (removed_food.unit in json.weights)
+			weight = json.weights[removed_food.unit];
+
+		weight *= removed_food.amount;
+
+		for (nut in json.nutrients) {
+			var delta = json.nutrients[nut] * weight / 100;
+			if (delta != null)
+				self.data.nutrients[nut] -= delta;
+		}
+
+		// update
+		api.set_day(day_widget.displayed_date, day_nutrient_summary_widget.data, day_nutrient_summary_widget.load_day_nutrients);
+	}
+
+	self.get_data = function(nutrient) {
+		if (self.data == null) {
+			return "loading..."
+		}
+		if (nutrient in self.dris) {
+			if (nutrient == "Vitamin D (D2 + D3)") {
+				// hacky patch
+				var nutrientB = "Vitamin D (D2   D3)";
+				if (nutrientB in self.data.nutrients) {
+					var per = self.data.nutrients[nutrientB] / self.dris[nutrient];
+					return Math.round(100*per) + "%";
+				}
+				else {
+					return "0%";
+				}
+			}
+			if (nutrient in self.data.nutrients) {
+				var per = self.data.nutrients[nutrient] / self.dris[nutrient];
+				return Math.round(100*per) + "%";
+			}
+			else {
+				return "0%";
+			}
+		}
+		else {
+			if (self.data.nutrients == null || nutrient in self.data.nutrients) {
+				var x;
+				if (self.units[nutrient] == "mg")
+					x = self.data.nutrients[nutrient];
+				else if (self.units[nutrient] == "g")
+					x = self.data.nutrients[nutrient] / 1000;
+				return Math.round(x) + " " + self.units[nutrient];
+			}
+			else {
+				return 0 + " " + self.units[nutrient];
+			}
+		}
+	}
+
+	self.first_load_stuff = function() {
+		self.load
+		api.get_my_demographic_info(self.store_dris);
+	}
+
+	self.dris = {};
+
+	self.store_dris = function(info) {
+		self.dris = info;
+		self.load_day_nutrients();
+	}
+
+	shared_gui.add_load_stuff_callback(self.first_load_stuff);
+
+	self.fat_clicked = function(use_mobile) {
+		self.current_tab = self.fat_clicked;
+		if (use_mobile == undefined) {
+			use_mobile = window.matchMedia('(max-width: 35em)').matches;
+			self.current_details = self.fat_clicked;
+		}
+		var html = "";
+		if (use_mobile) {
+			html += "<table class=\"mobile-details-table\"><tbody>";
+			html += "<tr><td>Saturated</td><td>" + self.get_data("Fatty acids, total saturated") + "</td></tr>";
+			html += "<tr><td>Monoun.</td><td>" + self.get_data("Fatty acids, total monounsaturated") + "</td></tr>";
+			html += "<tr><td>Polyun.</td><td>" + self.get_data("Fatty acids, total polyunsaturated") + "</td></tr>";
+			html += "<tr><td>Trans</td><td>" + self.get_data("Fatty acids, total trans") + "</td></tr>";
+			html += "</tbody></table>";
+		}
+		else {
+			html += "<table class=\"desktop-details-table\"><tbody><tr><td><table style=\"margin: 0 auto;\"><tbody>";
+			html += "<tr><td>Saturated</td><td>" + self.get_data("Fatty acids, total saturated") + "</td></tr>";
+			html += "<tr><td>Monounsaturated</td><td>" + self.get_data("Fatty acids, total monounsaturated") + "</td></tr>";
+			html += "<tr><td>Polyunsaturated</td><td>" + self.get_data("Fatty acids, total polyunsaturated") + "</td></tr>";
+			html += "<tr><td>Trans</td><td>" + self.get_data("Fatty acids, total trans") + "</td></tr>";
+			html += "</tbody></table></td></tr></tbody></table>";
+			
+		}
+		$("#summary-details").html(html);
+		$("#summary-menu > div").removeClass("selected-nutrient-group");
+		$("#fat-label").addClass("selected-nutrient-group");
+	}
+
+	self.carbs_clicked = function(use_mobile) {
+		self.current_tab = self.carbs_clicked;
+		if (use_mobile == undefined) {
+			use_mobile = window.matchMedia('(max-width: 35em)').matches;
+			self.current_details = self.carbs_clicked;
+		}
+
+		var html = "";
+		if (use_mobile) {
+			html += "<table class=\"mobile-details-table\"><tbody>";
+			html += "<tr><td>Fiber</td><td>" + self.get_data("Fiber, total dietary") + "</td></tr>";
+			html += "<tr><td>Sugar</td><td>" + self.get_data("Sugars, total") + "</td></tr>";
+			html += "<tr><td>Starch</td><td>" + self.get_data("Starch") + "</td></tr>";
+			html += "</tbody></table>";
+		}
+		else {
+			html += "<table class=\"desktop-details-table\"><tbody><tr><td><table style=\"margin: 0 auto;\"><tbody>";
+			html += "<tr><td>Fiber</td><td>" + self.get_data("Fiber, total dietary") + "</td></tr>";
+			html += "<tr><td>Sugar</td><td>" + self.get_data("Sugars, total") + "</td></tr>";
+			html += "<tr><td>Starch</td><td>" + self.get_data("Starch") + "</td></tr>";
+			html += "</tbody></table></td></tr></tbody></table>";
+		}
+		$("#summary-details").html(html);
+		$("#summary-menu > div").removeClass("selected-nutrient-group");
+		$("#carbs-label").addClass("selected-nutrient-group");
+	}
+
+	self.protein_clicked = function(use_mobile) {
+		self.current_tab = self.protein_clicked;
+		if (use_mobile == undefined) {
+			use_mobile = window.matchMedia('(max-width: 35em)').matches;
+			self.current_details = self.protein_clicked;
+		}
+		var html = "";
+		if (use_mobile) {
+			html += "<table class=\"mobile-details-table\"><tbody>";
+			html += "<tr><td>Phenylalan.</td><td>" + self.get_data("Phenylalanine") + "</td></tr>";
+			html += "<tr><td>Valine</td><td>" + self.get_data("Valine") + "</td></tr>";
+			html += "<tr><td>Threonine</td><td>" + self.get_data("Threonine") + "</td></tr>";
+			html += "<tr><td>Tryptophan</td><td>" + self.get_data("Tryptophan") + "</td></tr>";
+			html += "<tr><td>Methionine</td><td>" + self.get_data("Methionine") + "</td></tr>";
+			html += "<tr><td>Leucine</td><td>" + self.get_data("Leucine") + "</td></tr>";
+			html += "<tr><td>Isoleucine</td><td>" + self.get_data("Isoleucine") + "</td></tr>";
+			html += "<tr><td>Lysine</td><td>" + self.get_data("Lysine") + "</td></tr>";
+			html += "<tr><td>Histidine</td><td>" + self.get_data("Histidine") + "</td></tr>";
+			html += "</tbody></table>";
+		}
+		else {
+			html = "<table class=\"desktop-details-table\"><tbody><tr><td style=\"width: 50%\">";
+			html += "<table><tbody>";
+			html += "<tr><td>Phenylalanine</td><td>" + self.get_data("Phenylalanine") + "</td></tr>";
+			html += "<tr><td>Valine</td><td>" + self.get_data("Valine") + "</td></tr>";
+			html += "<tr><td>Threonine</td><td>" + self.get_data("Threonine") + "</td></tr>";
+			html += "<tr><td>Tryptophan</td><td>" + self.get_data("Tryptophan") + "</td></tr>";
+			html += "<tr><td>Methionine</td><td>" + self.get_data("Methionine") + "</td></tr>";
+			html += "</tbody></table>";
+			html += "</td><td style=\"vertical-align: top;\">";
+			html += "<table><tbody>";
+			html += "<tr><td>Leucine</td><td>" + self.get_data("Leucine") + "</td></tr>";
+			html += "<tr><td>Isoleucine</td><td>" + self.get_data("Isoleucine") + "</td></tr>";
+			html += "<tr><td>Lysine</td><td>" + self.get_data("Lysine") + "</td></tr>";
+			html += "<tr><td>Histidine</td><td>" + self.get_data("Histidine") + "</td></tr>";
+			html += "</tbody></table>";
+			html += "</td></tr></tbody></table>";
+		}
+		$("#summary-details").html(html);
+		$("#summary-menu > div").removeClass("selected-nutrient-group");
+		$("#protein-label").addClass("selected-nutrient-group");
+	}
+
+	self.vitamins_clicked = function(use_mobile) {
+		self.current_tab = self.vitamins_clicked;
+		if (use_mobile == undefined) {
+			use_mobile = window.matchMedia('(max-width: 35em)').matches;
+			self.current_details = self.vitamins_clicked;
+		}
+		var html = "";
+		if (use_mobile) {
+			html = "<table class=\"mobile-details-table\"><tbody>";
+			html += "<tr><td>Vit A</td><td>" + self.get_data("Vitamin A, RAE") + "</td></tr>";
+			html += "<tr><td>Vit B6</td><td>" + self.get_data("Vitamin B-6") + "</td></tr>";
+			html += "<tr><td>Vit B12</td><td>" + self.get_data("Vitamin B-12") + "</td></tr>";
+			html += "<tr><td>Vit C</td><td>" + self.get_data("Vitamin C, total ascorbic acid") + "</td></tr>";
+			html += "<tr><td>Vit D</td><td>" + self.get_data("Vitamin D (D2 + D3)") + "</td></tr>";
+			html += "<tr><td>Vit E</td><td>" + self.get_data("Vitamin E (alpha-tocopherol)") + "</td></tr>";
+			html += "<tr><td>Vit K</td><td>" + self.get_data("Vitamin K (phylloquinone)") + "</td></tr>";
+			html += "</tbody></table>";
+		}
+		else {
+			html = "<table class=\"desktop-details-table\"><tbody><tr><td style=\"width: 50%\">";
+			html += "<table><tbody>";
+			html += "<tr><td>Vitamin A</td><td>" + self.get_data("Vitamin A, RAE") + "</td></tr>";
+			html += "<tr><td>Vitamin C</td><td>" + self.get_data("Vitamin C, total ascorbic acid") + "</td></tr>";
+			html += "<tr><td>Vitamin D</td><td>" + self.get_data("Vitamin D (D2 + D3)") + "</td></tr>";
+			html += "<tr><td>Vitamin E</td><td>" + self.get_data("Vitamin E (alpha-tocopherol)") + "</td></tr>";
+			html += "<tr><td>Vitamin K</td><td>" + self.get_data("Vitamin K (phylloquinone)") + "</td></tr>";
+			html += "</tbody></table>";
+			html += "</td><td>";
+			html += "<table><tbody>";
+			html += "<tr><td>Vitamin B2</td><td>" + self.get_data("Riboflavin") + "</td></tr>";
+			html += "<tr><td>Vitamin B3</td><td>" + self.get_data("Niacin") + "</td></tr>";
+			html += "<tr><td>Vitamin B5</td><td>" + self.get_data("Pantothenic acid") + "</td></tr>";
+			html += "<tr><td>Vitamin B6</td><td>" + self.get_data("Vitamin B-6") + "</td></tr>";
+			html += "<tr><td>Vitamin B12</td><td>" + self.get_data("Vitamin B-12") + "</td></tr>";
+			html += "</tbody></table>";
+			html += "</td></tr></tbody></table>";
+		}
+		$("#summary-details").html(html);
+		$("#summary-menu > div").removeClass("selected-nutrient-group");
+		$("#vitamins-label").addClass("selected-nutrient-group");
+	}
+
+	self.minerals_clicked = function(use_mobile) {
+		self.current_tab = self.minerals_clicked;
+		if (use_mobile == undefined) {
+			use_mobile = window.matchMedia('(max-width: 35em)').matches;
+			self.current_details = self.minerals_clicked;
+		}
+
+		var html = "";
+		if (use_mobile) {
+			html += "<table class=\"mobile-details-table\"><tbody>";
+			html += "<tr><td>Calcium</td><td>" + self.get_data("Calcium, Ca") + "</td></tr>";
+			html += "<tr><td>Iron</td><td>" + self.get_data("Iron, Fe") + "</td></tr>";
+			html += "<tr><td>Magnesium</td><td>" + self.get_data("Magnesium, Mg") + "</td></tr>";
+			html += "<tr><td>Manganese</td><td>" + self.get_data("Manganese, Mn") + "</td></tr>";
+			html += "<tr><td>Phosphorus</td><td>" + self.get_data("Phosphorus, P") + "</td></tr>";
+			html += "<tr><td>Selenium</td><td>" + self.get_data("Selenium, Se") + "</td></tr>";
+			html += "<tr><td>Zinc</td><td>" + self.get_data("Zinc, Zn") + "</td></tr>";
+			html += "</tbody></table>";
+		}
+		else {
+			html = "<table class=\"desktop-details-table\"><tbody><tr><td>";
+			html += "<table><tbody>";
+			html += "<tr><td>Calcium</td><td>" + self.get_data("Calcium, Ca") + "</td></tr>";
+			html += "<tr><td>Copper</td><td>" + self.get_data("Copper, Cu") + "</td></tr>";
+			html += "<tr><td>Iron</td><td>" + self.get_data("Iron, Fe") + "</td></tr>";
+			html += "<tr><td>Magnesium</td><td>" + self.get_data("Magnesium, Mg") + "</td></tr>";
+			html += "</tbody></table>";
+			html += "</td><td>";
+			html += "<table><tbody>";
+			html += "<tr><td>Manganese</td><td>" + self.get_data("Manganese, Mn") + "</td></tr>";
+			html += "<tr><td>Phosphorus</td><td>" + self.get_data("Phosphorus, P") + "</td></tr>";
+			html += "<tr><td>Selenium</td><td>" + self.get_data("Selenium, Se") + "</td></tr>";
+			html += "<tr><td>Zinc</td><td>" + self.get_data("Zinc, Zn") + "</td></tr>";
+			html += "</tbody></table>";
+			html += "</td></tr></tbody></table>";
+		}
+		$("#summary-details").html(html);
+		$("#summary-menu > div").removeClass("selected-nutrient-group");
+		$("#minerals-label").addClass("selected-nutrient-group");
+	}
+
+	self.current_tab = self.fat_clicked;
+	day_widget.date_changed_callback = self.load_day_nutrients;
+	day_widget.redraw_calendar();
+	self.vitamins_clicked();
+}
+
+var day_nutrient_summary_widget = new Day_Nutrient_Summary_Widget($("#day-nutrient-summary-widget"));
+</script>

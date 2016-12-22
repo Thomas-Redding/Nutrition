@@ -1,0 +1,1 @@
+{"index": 3675, "name": "Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend", "healthiness": {"lactating": [-4, -3, -4], "male": [8, 0, -5, -2, -4, -3, -1, -2, -3], "female": [8, 0, -5, -4, -6, -5, -3, -5, -6], "pregnant": [-5, -2, -4]}}

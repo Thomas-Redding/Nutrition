@@ -1,0 +1,1 @@
+{"index": 2003, "name": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS, Yogurt Burst, strawberry", "healthiness": {"lactating": [12, 13, 12], "male": [20, 16, 14, 16, 17, 16, 17, 17, 14], "female": [20, 16, 14, 14, 14, 14, 16, 14, 12], "pregnant": [11, 13, 12]}}

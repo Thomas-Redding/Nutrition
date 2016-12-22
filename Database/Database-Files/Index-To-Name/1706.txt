@@ -1,0 +1,1 @@
+{"index": 1706, "name": "Luncheon meat, pork with ham, minced, canned, includes SPAM (Hormel)", "healthiness": {"lactating": [-9, -8, -9], "male": [0, -10, -15, -11, -10, -7, -6, -7, -8], "female": [0, -10, -15, -13, -12, -10, -8, -10, -12], "pregnant": [-9, -7, -9]}}

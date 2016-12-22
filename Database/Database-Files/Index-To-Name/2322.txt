@@ -1,0 +1,1 @@
+{"index": 2322, "name": "Peaches, dried, sulfured, stewed, with added sugar", "healthiness": {"lactating": [-4, -3, -5], "male": [14, 1, 1, 0, -3, -3, -2, -3, -4], "female": [15, 2, 2, -2, -5, -6, -4, -6, -8], "pregnant": [-5, -4, -5]}}

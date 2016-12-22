@@ -1,0 +1,1 @@
+{"index": 5877, "name": "Bagels, plain, unenriched, with calcium propionate (includes onion, poppy, sesame)", "healthiness": {"lactating": [5, 6, 3], "male": [27, 15, 10, 13, 9, 6, 4, 2, 2], "female": [27, 15, 10, 11, 7, 4, 4, 2, -1], "pregnant": [5, 6, 3]}}

@@ -1,0 +1,1 @@
+{"index": 8732, "name": "Cheese, swiss, low sodium", "healthiness": {"lactating": [-3, -2, -3], "male": [5, -3, -6, -3, -5, -3, -1, -1, -3], "female": [5, -3, -6, -5, -7, -6, -2, -4, -7], "pregnant": [-5, -1, -3]}}

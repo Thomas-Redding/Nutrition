@@ -1,0 +1,1 @@
+{"index": 6761, "name": "McDONALD'S, QUARTER POUNDER", "healthiness": {"lactating": [-5, -4, -5], "male": [4, -6, -8, -6, -5, -4, -3, -3, -4], "female": [4, -6, -8, -8, -8, -7, -5, -6, -8], "pregnant": [-6, -4, -6]}}

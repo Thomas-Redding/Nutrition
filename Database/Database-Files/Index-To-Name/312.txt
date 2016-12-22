@@ -1,0 +1,1 @@
+{"index": 312, "name": "Seasoning mix, dry, taco, original", "healthiness": {"lactating": [-10, -9, -10], "male": [-26, -28, -24, -19, -13, -10, -8, -9, -10], "female": [-26, -28, -24, -21, -15, -13, -12, -13, -13], "pregnant": [-12, -10, -12]}}

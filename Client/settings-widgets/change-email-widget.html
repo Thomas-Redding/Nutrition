@@ -1,0 +1,61 @@
+<div id="change_email_pop_up">
+<div>
+<img src="images/close.svg" style="position: absolute; top: 0; right: 0; width: 2em; cursor: pointer;" onclick="change_email_widget.close();">
+<table>
+	<tr><td>New Email:</td></tr>
+	<tr><td><input type="text"/></td></tr>
+	<tr><td colspan="2" style="text-align: center;"><input type="button" value="Submit"></td></tr>
+	<tr><td colspan="2" style="padding-top: 0.8em;">You will have to confirm your new email.</td></tr>
+</table>
+</div>
+</div>
+<style>
+#change_email_pop_up {
+	position: fixed;
+	display: none;
+	left: 0;
+	top: 0;
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+#change_email_pop_up > div {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	background-color: white;
+	transform: translate(-50%, -50%);
+	padding: 0.5em;
+}
+
+#change_email_pop_up > div > table {
+	margin-top: 1.5em;
+}
+
+#change_email_pop_up input {
+	margin: 0;
+}
+
+#change_email_pop_up tr:nth-child(2n+3) td {
+	padding-top: 0.8em;
+}
+
+#change_email_pop_up td {
+	padding: 0;
+}
+
+</style>
+<script>
+function Change_Email_Widget(d) {
+	var self = this;
+	self.div = d;
+	self.open = function() {
+		self.div.css("display", "block");
+	}
+	self.close = function() {
+		self.div.css("display", "none");
+	}
+}
+var change_email_widget = new Change_Email_Widget($("#change_email_pop_up"));
+</script>

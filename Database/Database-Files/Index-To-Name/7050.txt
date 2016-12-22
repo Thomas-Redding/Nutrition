@@ -1,0 +1,1 @@
+{"index": 7050, "name": "SPAGHETTIOS, SpaghettiOs  A to Z's", "healthiness": {"lactating": [-5, -4, -5], "male": [-5, -8, -10, -8, -7, -5, -3, -3, -5], "female": [-5, -8, -10, -10, -9, -8, -5, -7, -9], "pregnant": [-7, -4, -6]}}

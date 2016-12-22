@@ -1,0 +1,1 @@
+{"index": 4797, "name": "Chili with beans, canned", "healthiness": {"lactating": [27, 27, 25], "male": [44, 40, 36, 38, 34, 27, 26, 24, 24], "female": [44, 40, 36, 36, 32, 26, 27, 24, 23], "pregnant": [24, 26, 23]}}

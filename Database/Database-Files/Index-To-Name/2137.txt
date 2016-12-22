@@ -1,0 +1,1 @@
+{"index": 2137, "name": "Applesauce, canned, unsweetened, without added ascorbic acid (includes USDA commodity)", "healthiness": {"lactating": [-8, -7, -8], "male": [6, -6, -10, -8, -8, -6, -6, -6, -8], "female": [6, -6, -10, -10, -10, -9, -8, -9, -11], "pregnant": [-8, -7, -8]}}

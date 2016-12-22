@@ -1,0 +1,1 @@
+{"index": 3726, "name": "Nuts, cashew nuts, dry roasted, with salt added", "healthiness": {"lactating": [11, 11, 9], "male": [36, 28, 23, 24, 17, 11, 9, 8, 7], "female": [36, 28, 23, 21, 15, 9, 10, 7, 5], "pregnant": [10, 11, 8]}}

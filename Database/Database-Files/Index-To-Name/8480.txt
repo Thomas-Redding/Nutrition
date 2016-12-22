@@ -1,0 +1,1 @@
+{"index": 8480, "name": "DENNY'S, fish fillet, battered or breaded, fried", "healthiness": {"lactating": [19, 18, 16], "male": [35, 25, 20, 23, 23, 19, 16, 15, 14], "female": [35, 25, 20, 21, 21, 18, 18, 15, 11], "pregnant": [19, 19, 16]}}

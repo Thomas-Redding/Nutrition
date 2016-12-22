@@ -1,0 +1,1 @@
+{"index": 6877, "name": "McDONALD'S, Side Salad", "healthiness": {"lactating": [-1, 1, -1], "male": [-11, -13, -11, -6, -3, 0, 1, 0, -1], "female": [-11, -13, -11, -8, -5, -3, -2, -3, -4], "pregnant": [-3, -1, -3]}}

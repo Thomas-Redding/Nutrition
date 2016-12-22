@@ -1,0 +1,1 @@
+{"index": 791, "name": "Margarine-like spread, SMART BEAT Smart Squeeze", "healthiness": {"lactating": [-13, -12, -13], "male": [-25, -25, -26, -21, -16, -11, -11, -12, -13], "female": [-25, -25, -26, -23, -18, -15, -14, -15, -17], "pregnant": [-13, -12, -13]}}

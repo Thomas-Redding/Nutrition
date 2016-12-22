@@ -1,0 +1,1 @@
+{"index": 189, "name": "Yogurt, chocolate, nonfat milk, fortified with vitamin D", "healthiness": {"lactating": [0, 2, 0], "male": [11, 4, 2, 4, 1, 2, 4, 3, 1], "female": [11, 4, 2, 2, -1, -1, 2, 0, -3], "pregnant": [0, 2, 1]}}

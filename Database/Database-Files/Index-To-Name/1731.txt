@@ -1,0 +1,1 @@
+{"index": 1731, "name": "Chicken breast, oven-roasted, fat-free, sliced", "healthiness": {"lactating": [25, 26, 25], "male": [37, 26, 22, 26, 26, 27, 29, 28, 26], "female": [37, 26, 22, 24, 23, 24, 27, 25, 23], "pregnant": [25, 26, 25]}}

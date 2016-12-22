@@ -1,0 +1,1 @@
+{"index": 8543, "name": "DENNY'S, chicken nuggets, star shaped, from kid's menu", "healthiness": {"lactating": [11, 11, 9], "male": [32, 22, 17, 18, 16, 12, 9, 8, 7], "female": [32, 22, 17, 16, 14, 10, 11, 8, 5], "pregnant": [11, 12, 9]}}

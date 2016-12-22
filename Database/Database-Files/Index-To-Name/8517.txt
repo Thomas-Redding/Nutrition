@@ -1,0 +1,1 @@
+{"index": 8517, "name": "Restaurant, Latino, Arroz con habichuelas colorados (Rice And Red Beans)", "healthiness": {"lactating": [6, 7, 4], "male": [37, 25, 21, 19, 13, 7, 5, 4, 4], "female": [37, 25, 21, 17, 11, 5, 6, 3, 1], "pregnant": [6, 7, 5]}}

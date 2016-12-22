@@ -1,0 +1,1 @@
+{"index": 8736, "name": "Babyfood, meat, beef with vegetables, toddler", "healthiness": {"lactating": [-1, 0, -1], "male": [14, 5, 4, 3, 1, 1, 2, 2, 0], "female": [14, 5, 4, 1, -1, -1, 1, -1, -2], "pregnant": [-1, 1, -1]}}

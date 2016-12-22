@@ -1,0 +1,1 @@
+{"index": 8425, "name": "Prickly pears, broiled (Northern Plains Indians)", "healthiness": {"lactating": [-12, -10, -12], "male": [-19, -20, -20, -15, -13, -9, -9, -10, -11], "female": [-19, -20, -20, -17, -15, -13, -11, -13, -15], "pregnant": [-11, -10, -11]}}

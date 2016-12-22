@@ -1,0 +1,1 @@
+{"index": 1787, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S Corn Flakes", "healthiness": {"lactating": [17, 17, 16], "male": [37, 28, 29, 30, 23, 20, 19, 18, 16], "female": [38, 29, 30, 28, 21, 18, 20, 17, 14], "pregnant": [18, 19, 17]}}

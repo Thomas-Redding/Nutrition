@@ -1,0 +1,1 @@
+{"index": 2218, "name": "Gooseberries, raw", "healthiness": {"lactating": [3, 5, 3], "male": [15, 6, 6, 7, 5, 5, 6, 6, 5], "female": [15, 6, 6, 5, 3, 3, 5, 4, 2], "pregnant": [4, 5, 4]}}

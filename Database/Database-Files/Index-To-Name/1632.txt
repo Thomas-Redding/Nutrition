@@ -1,0 +1,1 @@
+{"index": 1632, "name": "Cheesefurter, cheese smokie, pork, beef", "healthiness": {"lactating": [13, 12, 10], "male": [39, 23, 18, 21, 20, 13, 10, 9, 8], "female": [39, 23, 18, 19, 18, 11, 12, 9, 5], "pregnant": [12, 13, 10]}}

@@ -1,0 +1,1 @@
+{"index": 4386, "name": "Alcoholic beverage, liqueur, coffee with cream, 34 proof", "healthiness": {"lactating": [-8, -7, -9], "male": [3, -5, -7, -6, -8, -7, -7, -8, -9], "female": [4, -4, -6, -8, -10, -10, -9, -11, -13], "pregnant": [-8, -7, -8]}}

@@ -1,0 +1,1 @@
+{"index": 1874, "name": "Cereals, farina, enriched, cooked with water, with salt", "healthiness": {"lactating": [17, 17, 15], "male": [42, 38, 35, 35, 24, 18, 17, 15, 14], "female": [42, 38, 35, 33, 22, 17, 18, 16, 12], "pregnant": [17, 18, 16]}}

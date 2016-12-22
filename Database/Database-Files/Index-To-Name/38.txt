@@ -1,0 +1,1 @@
+{"index": 38, "name": "Cheese, roquefort", "healthiness": {"lactating": [23, 23, 20], "male": [42, 27, 24, 25, 23, 23, 21, 19, 18], "female": [42, 27, 24, 23, 21, 21, 23, 20, 16], "pregnant": [22, 24, 21]}}

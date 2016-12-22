@@ -1,0 +1,1 @@
+{"index": 521, "name": "Infant formula, NESTLE, GOOD START SUPREME, with iron, powder", "healthiness": {"lactating": [1, 2, 1], "male": [23, 12, 8, 7, 4, 4, 4, 4, 1], "female": [23, 12, 8, 5, 1, 1, 2, 1, -2], "pregnant": [1, 2, 1]}}

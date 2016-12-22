@@ -1,0 +1,1 @@
+{"index": 6255, "name": "Frostings, chocolate, creamy, dry mix, prepared with butter", "healthiness": {"lactating": [-11, -9, -11], "male": [-5, -16, -18, -14, -12, -9, -9, -9, -11], "female": [-5, -16, -18, -16, -15, -13, -11, -13, -15], "pregnant": [-11, -9, -11]}}

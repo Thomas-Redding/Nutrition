@@ -1,0 +1,1 @@
+{"index": 4264, "name": "Beverages, Cocoa mix, powder", "healthiness": {"lactating": [-8, -7, -8], "male": [6, -5, -12, -10, -9, -7, -5, -6, -7], "female": [6, -5, -12, -11, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -7]}}

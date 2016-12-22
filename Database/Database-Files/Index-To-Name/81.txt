@@ -1,0 +1,1 @@
+{"index": 81, "name": "Milk, low sodium, fluid", "healthiness": {"lactating": [26, 26, 23], "male": [47, 34, 31, 32, 30, 26, 24, 22, 20], "female": [47, 34, 31, 30, 28, 25, 26, 23, 18], "pregnant": [25, 27, 24]}}

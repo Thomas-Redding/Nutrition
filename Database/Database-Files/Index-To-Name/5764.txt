@@ -1,0 +1,1 @@
+{"index": 5764, "name": "English muffins, mixed-grain, toasted (includes granola)", "healthiness": {"lactating": [13, 13, 11], "male": [39, 31, 26, 26, 19, 13, 12, 11, 10], "female": [40, 32, 27, 24, 17, 12, 13, 10, 8], "pregnant": [12, 13, 11]}}

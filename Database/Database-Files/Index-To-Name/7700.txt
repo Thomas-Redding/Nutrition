@@ -1,0 +1,1 @@
+{"index": 7700, "name": "Snacks, candy rolls, yogurt-covered, fruit flavored with high vitamin C", "healthiness": {"lactating": [-8, -7, -8], "male": [-6, -15, -20, -15, -11, -7, -6, -6, -8], "female": [-6, -15, -20, -17, -13, -10, -8, -10, -12], "pregnant": [-8, -7, -8]}}

@@ -1,0 +1,1 @@
+{"index": 6127, "name": "Ice creams, vanilla", "healthiness": {"lactating": [0, 1, -1], "male": [31, 18, 14, 12, 4, 1, 0, -1, -2], "female": [32, 19, 15, 10, 1, -1, 0, -2, -5], "pregnant": [0, 1, -1]}}

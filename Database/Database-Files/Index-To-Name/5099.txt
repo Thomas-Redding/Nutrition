@@ -1,0 +1,1 @@
+{"index": 5099, "name": "Lamb, domestic, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4\" fat, choice, raw", "healthiness": {"lactating": [24, 24, 22], "male": [40, 27, 24, 26, 26, 25, 22, 20, 19], "female": [40, 27, 24, 24, 24, 23, 24, 21, 18], "pregnant": [24, 24, 22]}}

@@ -1,0 +1,1 @@
+{"index": 7251, "name": "Beef, rib eye roast, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, select, cooked, roasted", "healthiness": {"lactating": [34, 35, 34], "male": [45, 37, 31, 35, 36, 37, 39, 38, 36], "female": [45, 37, 31, 33, 33, 34, 36, 35, 33], "pregnant": [33, 36, 34]}}

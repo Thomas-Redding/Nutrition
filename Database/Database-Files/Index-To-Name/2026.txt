@@ -1,0 +1,1 @@
+{"index": 2026, "name": "Cereals ready-to-eat, KASHI GOLEAN CRISP Toasted Berry Crumble", "healthiness": {"lactating": [-9, -8, -9], "male": [-15, -22, -20, -16, -13, -9, -8, -8, -9], "female": [-15, -22, -20, -18, -15, -12, -10, -12, -13], "pregnant": [-11, -9, -10]}}

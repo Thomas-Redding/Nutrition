@@ -1,0 +1,1 @@
+{"index": 2822, "name": "Artichokes, (globe or french), frozen, cooked, boiled, drained, without salt", "healthiness": {"lactating": [11, 12, 11], "male": [17, 12, 16, 18, 15, 13, 14, 13, 12], "female": [17, 12, 16, 16, 13, 12, 14, 13, 11], "pregnant": [11, 13, 12]}}

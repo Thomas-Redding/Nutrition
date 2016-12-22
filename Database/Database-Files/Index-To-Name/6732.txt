@@ -1,0 +1,1 @@
+{"index": 6732, "name": "SUBWAY, sweet onion chicken teriyaki sub on white bread with lettuce, tomato and sweet onion sauce", "healthiness": {"lactating": [-1, 0, -1], "male": [14, 7, 1, 3, 0, 1, 2, 2, 0], "female": [14, 7, 1, 1, -2, -2, 0, -1, -3], "pregnant": [-2, 0, -1]}}

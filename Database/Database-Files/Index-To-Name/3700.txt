@@ -1,0 +1,1 @@
+{"index": 3700, "name": "Seeds, watermelon seed kernels, dried", "healthiness": {"lactating": [20, 20, 18], "male": [29, 23, 21, 25, 24, 19, 18, 17, 16], "female": [29, 23, 21, 23, 22, 18, 20, 17, 15], "pregnant": [18, 20, 17]}}

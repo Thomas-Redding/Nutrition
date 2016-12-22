@@ -1,0 +1,1 @@
+{"index": 8454, "name": "APPLEBEE'S, KRAFT, Macaroni & Cheese, from kid's menu", "healthiness": {"lactating": [14, 14, 12], "male": [44, 33, 26, 27, 21, 15, 13, 12, 11], "female": [44, 33, 26, 25, 19, 14, 14, 12, 9], "pregnant": [14, 15, 12]}}

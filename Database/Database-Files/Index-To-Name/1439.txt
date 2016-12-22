@@ -1,0 +1,1 @@
+{"index": 1439, "name": "CAMPBELL'S CHUNKY, HEALTHY REQUEST Chicken Noodle Soup", "healthiness": {"lactating": [-9, -8, -9], "male": [-13, -18, -17, -14, -12, -9, -7, -8, -9], "female": [-13, -18, -17, -16, -14, -12, -9, -11, -12], "pregnant": [-10, -8, -10]}}

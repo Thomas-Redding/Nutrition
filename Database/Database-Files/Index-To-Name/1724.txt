@@ -1,0 +1,1 @@
+{"index": 1724, "name": "Salami, Italian, pork", "healthiness": {"lactating": [18, 18, 15], "male": [38, 27, 23, 24, 24, 19, 16, 15, 14], "female": [38, 27, 23, 22, 22, 18, 18, 15, 12], "pregnant": [18, 18, 16]}}

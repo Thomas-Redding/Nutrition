@@ -1,0 +1,1 @@
+{"index": 1718, "name": "Swisswurst, pork and beef, with swiss cheese, smoked", "healthiness": {"lactating": [13, 13, 11], "male": [36, 21, 18, 21, 21, 14, 11, 10, 9], "female": [36, 21, 18, 19, 18, 12, 13, 10, 7], "pregnant": [13, 14, 11]}}

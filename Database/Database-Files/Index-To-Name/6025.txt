@@ -1,0 +1,1 @@
+{"index": 6025, "name": "KASHI, TLC, Toasted Asiago Crackers", "healthiness": {"lactating": [-9, -7, -9], "male": [-7, -15, -18, -14, -12, -8, -7, -7, -9], "female": [-7, -15, -18, -16, -14, -12, -9, -11, -12], "pregnant": [-10, -8, -9]}}

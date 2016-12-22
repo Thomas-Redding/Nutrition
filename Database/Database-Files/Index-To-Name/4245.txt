@@ -1,0 +1,1 @@
+{"index": 4245, "name": "Beverages, carbonated, low calorie, cola or pepper-types, with sodium saccharin, contains caffeine", "healthiness": {"lactating": ["-", "-", "-"], "male": ["-", "-", "-", "-", "-", "-", "-", "-", "-"], "female": ["-", "-", "-", "-", "-", "-", "-", "-", "-"], "pregnant": ["-", "-", "-"]}}

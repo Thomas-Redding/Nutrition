@@ -1,0 +1,1 @@
+{"index": 5164, "name": "Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable fat, raw", "healthiness": {"lactating": [-6, -5, -7], "male": [8, 0, -2, -2, -5, -5, -5, -6, -7], "female": [10, 1, -1, -4, -7, -8, -7, -9, -11], "pregnant": [-6, -5, -7]}}

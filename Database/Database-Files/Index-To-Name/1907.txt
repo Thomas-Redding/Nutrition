@@ -1,0 +1,1 @@
+{"index": 1907, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S CRISPIX", "healthiness": {"lactating": [11, 12, 11], "male": [8, 5, 7, 10, 11, 13, 14, 13, 11], "female": [8, 5, 7, 8, 9, 10, 12, 11, 8], "pregnant": [11, 13, 11]}}

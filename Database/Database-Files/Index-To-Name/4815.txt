@@ -1,0 +1,1 @@
+{"index": 4815, "name": "Mothbeans, mature seeds, raw", "healthiness": {"lactating": [21, 21, 19], "male": [33, 29, 26, 29, 26, 21, 21, 20, 18], "female": [33, 29, 26, 27, 24, 19, 20, 18, 17], "pregnant": [18, 20, 18]}}

@@ -1,0 +1,1 @@
+{"index": 7877, "name": "KEEBLER, CLUB Crackers, Snack Sticks, Original", "healthiness": {"lactating": [-13, -12, -13], "male": [-24, -26, -27, -21, -16, -12, -11, -12, -13], "female": [-24, -26, -27, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

@@ -1,0 +1,1 @@
+{"index": 6968, "name": "Fast foods, quesadilla, with chicken", "healthiness": {"lactating": [-6, -5, -6], "male": [11, 0, -9, -7, -7, -5, -3, -4, -5], "female": [11, 0, -9, -9, -9, -8, -5, -7, -9], "pregnant": [-7, -5, -6]}}

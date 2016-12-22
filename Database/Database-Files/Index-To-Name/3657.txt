@@ -1,0 +1,1 @@
+{"index": 3657, "name": "Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged", "healthiness": {"lactating": [-8, -7, -8], "male": [1, -8, -10, -9, -8, -7, -6, -7, -8], "female": [2, -7, -10, -11, -10, -9, -8, -10, -11], "pregnant": [-8, -6, -8]}}

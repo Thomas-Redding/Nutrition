@@ -1,0 +1,1 @@
+{"index": 7898, "name": "KEEBLER, FUDGE SHOPPE, Grasshopper Cookies, Fudge Mint", "healthiness": {"lactating": [-13, -11, -13], "male": [-19, -26, -26, -20, -16, -12, -11, -11, -13], "female": [-19, -26, -26, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -12, -13]}}

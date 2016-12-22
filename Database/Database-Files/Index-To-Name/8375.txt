@@ -1,0 +1,1 @@
+{"index": 8375, "name": "Stew, hominy with mutton (Navajo)", "healthiness": {"lactating": [27, 27, 24], "male": [45, 38, 30, 31, 29, 27, 25, 24, 23], "female": [45, 38, 30, 29, 27, 26, 27, 24, 22], "pregnant": [26, 27, 24]}}

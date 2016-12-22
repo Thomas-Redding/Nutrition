@@ -1,0 +1,1 @@
+{"index": 7496, "name": "Beef, New Zealand, imported, inside, raw", "healthiness": {"lactating": [32, 33, 32], "male": [38, 30, 30, 33, 33, 34, 36, 35, 33], "female": [38, 30, 30, 31, 31, 31, 33, 32, 30], "pregnant": [30, 32, 31]}}

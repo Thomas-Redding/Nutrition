@@ -1,0 +1,1 @@
+{"index": 364, "name": "Babyfood, dinner, pasta with vegetables", "healthiness": {"lactating": [2, 3, 2], "male": [18, 10, 10, 10, 6, 5, 6, 5, 4], "female": [18, 10, 10, 8, 4, 3, 5, 3, 2], "pregnant": [3, 5, 3]}}

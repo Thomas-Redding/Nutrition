@@ -1,0 +1,1 @@
+{"index": 1599, "name": "Soup, beef and mushroom, low sodium, chunk style", "healthiness": {"lactating": [-1, 0, -1], "male": [14, 8, 6, 7, 2, 2, 3, 2, 1], "female": [14, 8, 6, 5, 0, -1, 1, 0, -2], "pregnant": [-1, 1, 0]}}

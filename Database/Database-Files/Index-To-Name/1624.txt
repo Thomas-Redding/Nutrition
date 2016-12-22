@@ -1,0 +1,1 @@
+{"index": 1624, "name": "Bockwurst, pork, veal, raw", "healthiness": {"lactating": [18, 18, 15], "male": [43, 31, 28, 28, 26, 19, 16, 14, 13], "female": [43, 31, 28, 26, 24, 18, 18, 15, 12], "pregnant": [18, 18, 16]}}

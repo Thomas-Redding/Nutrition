@@ -1,0 +1,1 @@
+{"index": 1322, "name": "Soup, chicken vegetable with potato and cheese, chunky, ready-to-serve", "healthiness": {"lactating": [-9, -8, -9], "male": [4, -8, -11, -10, -9, -7, -6, -7, -8], "female": [4, -8, -11, -12, -11, -10, -8, -10, -12], "pregnant": [-8, -7, -8]}}

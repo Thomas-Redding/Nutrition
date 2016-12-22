@@ -1,0 +1,1 @@
+{"index": 5695, "name": "Cookies, oatmeal, prepared from recipe, with raisins", "healthiness": {"lactating": [-3, -2, -4], "male": [21, 10, 6, 5, -1, -2, -2, -3, -4], "female": [22, 10, 7, 3, -3, -4, -3, -5, -7], "pregnant": [-3, -2, -4]}}

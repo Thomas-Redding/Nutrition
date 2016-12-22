@@ -1,0 +1,1 @@
+{"index": 4991, "name": "Lupins, mature seeds, cooked, boiled, with salt", "healthiness": {"lactating": [26, 27, 26], "male": [32, 26, 26, 29, 28, 27, 28, 27, 26], "female": [32, 26, 26, 27, 26, 25, 28, 26, 25], "pregnant": [26, 28, 26]}}

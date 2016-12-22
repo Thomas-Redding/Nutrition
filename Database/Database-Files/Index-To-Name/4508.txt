@@ -1,0 +1,1 @@
+{"index": 4508, "name": "Fish, fish sticks, frozen, prepared", "healthiness": {"lactating": [11, 11, 8], "male": [40, 26, 20, 23, 19, 12, 9, 8, 7], "female": [40, 26, 20, 21, 17, 10, 10, 7, 4], "pregnant": [11, 11, 9]}}

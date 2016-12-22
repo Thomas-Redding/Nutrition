@@ -1,0 +1,1 @@
+{"index": 2870, "name": "Broccoli, raw", "healthiness": {"lactating": [48, 48, 46], "male": [58, 56, 61, 62, 57, 49, 50, 48, 47], "female": [58, 56, 61, 60, 55, 50, 52, 49, 48], "pregnant": [47, 49, 47]}}

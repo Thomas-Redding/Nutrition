@@ -1,0 +1,1 @@
+{"index": 8636, "name": "Babyfood, fruit, tutti frutti, strained", "healthiness": {"lactating": [-9, -7, -9], "male": [-1, -12, -16, -11, -9, -6, -6, -7, -8], "female": [-1, -12, -16, -13, -11, -9, -7, -9, -11], "pregnant": [-8, -7, -8]}}

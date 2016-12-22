@@ -1,0 +1,1 @@
+{"index": 7705, "name": "Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Honey Nut Oat Bar", "healthiness": {"lactating": [26, 27, 26], "male": [13, 13, 15, 21, 25, 27, 28, 27, 25], "female": [13, 13, 15, 19, 23, 24, 26, 24, 22], "pregnant": [24, 26, 25]}}

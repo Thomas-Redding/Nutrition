@@ -1,0 +1,1 @@
+{"index": 3010, "name": "Mushrooms, white, stir-fried", "healthiness": {"lactating": [46, 46, 45], "male": [43, 40, 42, 46, 48, 46, 45, 44, 43], "female": [43, 40, 42, 45, 46, 45, 46, 44, 42], "pregnant": [45, 46, 44]}}

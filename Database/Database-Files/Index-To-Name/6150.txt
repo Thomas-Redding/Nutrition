@@ -1,0 +1,1 @@
+{"index": 6150, "name": "Candies, NESTLE, OH HENRY! Bar", "healthiness": {"lactating": [-10, -9, -10], "male": [2, -12, -18, -14, -12, -9, -8, -8, -10], "female": [2, -12, -18, -16, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

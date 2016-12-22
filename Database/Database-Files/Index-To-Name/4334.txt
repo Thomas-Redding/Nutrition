@@ -1,0 +1,1 @@
+{"index": 4334, "name": "Beverages, OCEAN SPRAY, Ruby Red cranberry", "healthiness": {"lactating": [-9, -7, -9], "male": [-11, -21, -21, -16, -11, -7, -7, -7, -9], "female": [-11, -21, -21, -18, -14, -11, -9, -11, -12], "pregnant": [-9, -7, -8]}}

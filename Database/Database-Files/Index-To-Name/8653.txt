@@ -1,0 +1,1 @@
+{"index": 8653, "name": "Chewing gum, sugarless", "healthiness": {"lactating": [-14, -13, -14], "male": [-29, -30, -29, -23, -17, -13, -12, -13, -14], "female": [-29, -30, -29, -24, -20, -16, -14, -16, -18], "pregnant": [-14, -13, -14]}}

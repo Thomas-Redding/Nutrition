@@ -1,0 +1,1 @@
+{"index": 5271, "name": "Game meat, moose, cooked, roasted", "healthiness": {"lactating": [33, 34, 33], "male": [42, 36, 33, 37, 36, 35, 37, 36, 34], "female": [42, 36, 33, 35, 34, 33, 35, 33, 32], "pregnant": [30, 33, 31]}}

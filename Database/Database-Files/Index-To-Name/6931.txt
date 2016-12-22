@@ -1,0 +1,1 @@
+{"index": 6931, "name": "KFC, Fried Chicken, EXTRA CRISPY, Thigh, meat and skin with breading", "healthiness": {"lactating": [12, 12, 9], "male": [39, 27, 21, 23, 19, 13, 10, 9, 8], "female": [39, 27, 21, 21, 17, 11, 12, 9, 6], "pregnant": [12, 12, 10]}}

@@ -1,0 +1,152 @@
+<div id="food-editor-widget">
+	<div></div>
+</div>
+<style>
+
+#food-editor-widget {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: none;
+	z-index: 300;
+}
+
+#food-editor-widget > div {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	max-width: 30em;
+	background-color: white;
+	padding: 1.5em;
+}
+
+</style>
+<script>
+
+function Food_Editor_Widget(d) {
+	var self = this;
+	self.div = d;
+	self.foodData = null;
+	self.edited_food = null;
+	self.display = function(data) {
+		self.foodData = data;
+		var html = "<img src=\"images/close.svg\" style=\"position: absolute; top: 0; right: 0; width: 2em; cursor: pointer;\" onclick=\"food_editor_widget.hide(null)\"><table><tbody>";
+		html += "<tr><td colspan=\"2\">" + data["short_name"] + "</td></tr>";
+		html += "<tr><td><input id=\"food-adder-number\" type=\"number\" value=\"1\" onkeyup=\"food_editor_widget.update_nutrient_summary(event);\" onchange=\"food_editor_widget.update_nutrient_summary(event);\" style=\"width: 5em;\"></td><td><select id=\"food-adder-select\" onchange=\"food_editor_widget.update_nutrient_summary(event);\">";
+		html += "<option value=\"100g\">100g</option>";
+		for (key in data.weights) {
+			html += "<option value=\"" + key + "\">" + key + "</option>";
+		}
+		html += "</select></td></tr>";
+		html += "<tr><td id=\"food-adder-nutrition-summary\" colspan=\"2\"></td></tr>";
+		html += "<tr><td colspan=\"2\" style=\"text-align: center;\"><input type=\"button\" value=\"edit food\" onclick=\"food_editor_widget.edit_selected_food()\"></td></tr>"
+		html += "</table></tbody>";
+		self.div.find("div").html(html);
+
+		self.div.find("select").val(day_nutrient_summary_widget.data.foods[self.edited_food].unit);
+		self.div.find("input[type=number]").val(day_nutrient_summary_widget.data.foods[self.edited_food].amount);
+		self.update_nutrient_summary();
+
+		self.div.css("display", "block");
+
+		window.onkeyup = function (event) {
+			if (event.keyCode == 27 || event.keyCode == 8)
+				self.hide();
+		}
+	}
+
+	self.update_nutrient_summary = function() {
+		var fats = self.foodData.nutrients["Total lipid (fat)"];
+		var carbs = self.foodData.nutrients["Carbohydrate, by difference"];
+		var calories = self.foodData.nutrients["Energy"];;
+		var protein = self.foodData.nutrients["Protein"];
+		var units = self.div.find("select").val();
+		var unitConversion = 1;
+		if (units != "100g")
+			unitConversion = parseFloat(self.foodData.weights[units]) / 100;
+		var mult = self.div.find("input").val();
+		var html = "<table><tbody>";
+		html += "<tr><td>Calories</td><td>" + Math.round(mult * unitConversion * calories) + "</td></tr>";
+		html += "<tr><td>Fat (g)</td><td>" + Math.round(mult * unitConversion * fats / 1000) + "</td></tr>";
+		html += "<tr><td>Carbs (g)</td><td>" + Math.round(mult * unitConversion * carbs / 1000) + "</td></tr>";
+		html += "<tr><td>Protein (g)</td><td>" + Math.round(mult * unitConversion * protein / 1000) + "</td></tr>";
+		html += "</tbody></table>";
+		self.div.find("#food-adder-nutrition-summary").html(html);
+	}
+
+	self.edit_selected_food = function() {
+		api.cache_food(self.foodData);
+		food_search_widget.clear();
+		self.hide();
+
+		// update day_nutrient_summary_widget.data
+		var amount = parseFloat($("#food-adder-number").val());
+		var id = self.foodData.food_id;
+		var name = self.foodData.short_name;
+		var unit = $("#food-adder-select").val();
+
+		var new_food = {};
+		new_food["amount"] = amount;
+		new_food["id"] = id;
+		new_food["name"] = name;
+		new_food["unit"] = unit;
+
+		var old_food = day_nutrient_summary_widget.data.foods[self.edited_food];
+		day_nutrient_summary_widget.data.foods[self.edited_food] = new_food;
+
+
+		// remove old food
+		var weight = 100;
+		if (old_food.unit in self.foodData.weights)
+			weight = self.foodData.weights[unit];
+		console.log(weight);
+		weight *= old_food.amount;
+		console.log(weight);
+
+		for (nut in self.foodData.nutrients) {
+			if (!(nut in day_nutrient_summary_widget.data.nutrients)) {
+				day_nutrient_summary_widget.data.nutrients[nut] = 0;
+			}
+			else {
+				var delta = self.foodData.nutrients[nut] * weight / 100;
+				if (delta != null)
+					day_nutrient_summary_widget.data.nutrients[nut] -= delta;
+			}
+		}
+
+
+		// add new food
+		weight = 100;
+		if (unit in self.foodData.weights)
+			weight = self.foodData.weights[unit];
+		console.log(weight);
+		weight *= amount;
+		console.log(weight);
+
+		for (nut in self.foodData.nutrients) {
+			if (!(nut in day_nutrient_summary_widget.data.nutrients)) {
+				day_nutrient_summary_widget.data.nutrients[nut] = 0;
+			}
+			var delta = self.foodData.nutrients[nut] * weight / 100;
+			if (delta != null)
+				day_nutrient_summary_widget.data.nutrients[nut] += delta;
+		}
+
+		// update
+		api.set_day(day_widget.displayed_date, day_nutrient_summary_widget.data, day_nutrient_summary_widget.load_day_nutrients);
+	}
+
+	self.hide = function() {
+		window.onkeyup = null;
+		self.div.css("display", "none");
+		food_search_widget.focus()
+	}
+}
+
+var food_editor_widget = new Food_Editor_Widget($("#food-editor-widget"));
+
+</script>

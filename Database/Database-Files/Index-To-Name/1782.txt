@@ -1,0 +1,1 @@
+{"index": 1782, "name": "Cereals ready-to-eat, KELLOGG, KELLOGG'S COCOA KRISPIES", "healthiness": {"lactating": [19, 20, 18], "male": [45, 39, 37, 35, 29, 25, 24, 23, 20], "female": [45, 40, 37, 33, 27, 23, 23, 21, 18], "pregnant": [20, 21, 19]}}

@@ -1,0 +1,1 @@
+{"index": 5237, "name": "Veal, sirloin, separable lean only, cooked, roasted", "healthiness": {"lactating": [34, 35, 34], "male": [45, 37, 35, 38, 36, 36, 38, 38, 36], "female": [45, 37, 35, 36, 33, 34, 37, 35, 33], "pregnant": [33, 36, 34]}}

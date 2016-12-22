@@ -1,0 +1,1 @@
+{"index": 2944, "name": "Cornsalad, raw", "healthiness": {"lactating": [51, 52, 50], "male": [49, 48, 48, 51, 52, 51, 51, 49, 48], "female": [49, 48, 48, 49, 49, 49, 52, 50, 46], "pregnant": [49, 52, 50]}}

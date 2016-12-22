@@ -1,0 +1,1 @@
+{"index": 1546, "name": "SMART SOUP, Indian Bean Masala", "healthiness": {"lactating": [-10, -9, -10], "male": [-24, -27, -24, -19, -13, -10, -8, -9, -10], "female": [-24, -27, -24, -20, -15, -13, -11, -13, -14], "pregnant": [-11, -10, -11]}}

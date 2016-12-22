@@ -1,0 +1,1 @@
+{"index": 368, "name": "Babyfood, dinner, turkey and rice, junior", "healthiness": {"lactating": [-2, -1, -2], "male": [20, 11, 3, 1, 0, 0, 1, 1, -1], "female": [20, 11, 3, 0, -2, -2, 0, -2, -3], "pregnant": [-2, 0, -1]}}

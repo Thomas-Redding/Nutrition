@@ -1,0 +1,1 @@
+{"index": 1995, "name": "Cereals ready-to-eat, KASHI, HEART TO HEART, Oat Flakes & Blueberry Clusters", "healthiness": {"lactating": [5, 6, 5], "male": [11, 3, 2, 4, 6, 7, 8, 7, 6], "female": [11, 3, 2, 2, 3, 4, 6, 4, 3], "pregnant": [5, 6, 5]}}

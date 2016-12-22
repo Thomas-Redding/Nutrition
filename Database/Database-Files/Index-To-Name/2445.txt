@@ -1,0 +1,1 @@
+{"index": 2445, "name": "Plantains, yellow, fried, Latino restaurant", "healthiness": {"lactating": [-8, -7, -8], "male": [0, -9, -12, -10, -8, -6, -6, -6, -8], "female": [0, -9, -12, -12, -10, -9, -7, -9, -11], "pregnant": [-7, -6, -8]}}

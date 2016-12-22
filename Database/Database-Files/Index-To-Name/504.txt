@@ -1,0 +1,1 @@
+{"index": 504, "name": "Babyfood, snack, GERBER GRADUATE YOGURT MELTS", "healthiness": {"lactating": [13, 13, 10], "male": [49, 37, 30, 31, 22, 14, 12, 11, 10], "female": [49, 37, 30, 29, 20, 13, 14, 11, 7], "pregnant": [13, 14, 12]}}

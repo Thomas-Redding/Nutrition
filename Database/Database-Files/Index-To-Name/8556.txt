@@ -1,0 +1,1 @@
+{"index": 8556, "name": "Restaurant, Italian, spaghetti with meat sauce", "healthiness": {"lactating": [14, 14, 12], "male": [47, 38, 28, 29, 22, 15, 13, 12, 11], "female": [47, 38, 28, 27, 21, 14, 15, 12, 9], "pregnant": [15, 15, 12]}}

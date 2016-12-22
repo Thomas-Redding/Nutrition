@@ -1,0 +1,1 @@
+{"index": 7733, "name": "Snacks, granola bars, QUAKER OATMEAL TO GO, all flavors", "healthiness": {"lactating": [5, 6, 4], "male": [40, 32, 27, 22, 11, 7, 7, 6, 5], "female": [41, 33, 28, 20, 9, 5, 6, 4, 3], "pregnant": [5, 6, 4]}}

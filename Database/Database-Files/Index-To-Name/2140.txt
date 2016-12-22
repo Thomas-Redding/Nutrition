@@ -1,0 +1,1 @@
+{"index": 2140, "name": "Apricots, canned, water pack, with skin, solids and liquids", "healthiness": {"lactating": [16, 16, 14], "male": [46, 39, 38, 36, 26, 19, 18, 17, 16], "female": [47, 39, 39, 34, 25, 18, 19, 16, 14], "pregnant": [17, 18, 16]}}

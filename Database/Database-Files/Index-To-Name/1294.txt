@@ -1,0 +1,1 @@
+{"index": 1294, "name": "Sauce, pizza, canned, ready-to-serve", "healthiness": {"lactating": [4, 6, 4], "male": [14, 10, 10, 11, 9, 8, 9, 9, 7], "female": [14, 10, 10, 9, 7, 6, 8, 6, 5], "pregnant": [4, 7, 5]}}

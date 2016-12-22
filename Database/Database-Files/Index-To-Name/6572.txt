@@ -1,0 +1,1 @@
+{"index": 6572, "name": "Pasta, dry, enriched", "healthiness": {"lactating": [10, 10, 8], "male": [34, 24, 20, 21, 16, 11, 10, 9, 8], "female": [35, 25, 21, 19, 14, 10, 10, 8, 5], "pregnant": [10, 11, 8]}}

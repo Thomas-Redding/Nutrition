@@ -1,0 +1,1 @@
+{"index": 4983, "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water", "healthiness": {"lactating": [16, 17, 14], "male": [33, 25, 22, 25, 22, 17, 15, 14, 13], "female": [33, 25, 22, 23, 21, 16, 17, 14, 12], "pregnant": [17, 17, 15]}}

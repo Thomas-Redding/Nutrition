@@ -1,0 +1,1 @@
+{"index": 7967, "name": "KELLOGG'S, POP-TARTS, Frosted Apple Strudel Toaster Pastries", "healthiness": {"lactating": [-9, -8, -9], "male": [-10, -15, -15, -11, -9, -7, -6, -6, -8], "female": [-10, -15, -15, -13, -11, -10, -9, -10, -11], "pregnant": [-9, -8, -9]}}

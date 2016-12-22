@@ -1,0 +1,1 @@
+{"index": 4685, "name": "Fish, sablefish, cooked, dry heat", "healthiness": {"lactating": [26, 27, 25], "male": [37, 29, 27, 29, 29, 28, 26, 24, 23], "female": [37, 29, 27, 27, 26, 25, 27, 25, 21], "pregnant": [26, 27, 25]}}

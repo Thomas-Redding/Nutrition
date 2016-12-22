@@ -1,0 +1,1 @@
+{"index": 627, "name": "Babyfood, fruit, banana and strawberry, junior", "healthiness": {"lactating": [-2, -1, -2], "male": [22, 12, 8, 7, 3, 1, 1, 0, -1], "female": [23, 13, 9, 5, 1, 0, 0, -1, -4], "pregnant": [-1, 0, -1]}}

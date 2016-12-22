@@ -1,0 +1,1 @@
+{"index": 4337, "name": "Lemonade, powder, prepared with water", "healthiness": {"lactating": [-9, -8, -9], "male": [-10, -18, -18, -13, -10, -8, -7, -8, -9], "female": [-10, -18, -18, -15, -12, -11, -9, -11, -13], "pregnant": [-9, -8, -9]}}

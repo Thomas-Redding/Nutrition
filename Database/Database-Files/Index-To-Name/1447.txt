@@ -1,0 +1,1 @@
+{"index": 1447, "name": "CAMPBELL'S CHUNKY Soups, Hearty Beef Barley Soup", "healthiness": {"lactating": [-2, 0, -2], "male": [14, 8, 6, 4, 0, 0, 2, 1, 0], "female": [14, 8, 6, 2, -2, -2, 0, -1, -3], "pregnant": [-2, 0, -1]}}

@@ -1,0 +1,1 @@
+{"index": 4546, "name": "Fish, pollock, Atlantic, raw", "healthiness": {"lactating": [40, 41, 40], "male": [49, 40, 37, 41, 41, 41, 43, 43, 40], "female": [49, 40, 37, 39, 39, 39, 42, 40, 37], "pregnant": [38, 41, 40]}}

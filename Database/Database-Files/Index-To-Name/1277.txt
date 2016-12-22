@@ -1,0 +1,1 @@
+{"index": 1277, "name": "Gravy, chicken, dry", "healthiness": {"lactating": [-8, -6, -8], "male": [9, -5, -11, -9, -9, -6, -5, -5, -7], "female": [9, -5, -11, -11, -11, -9, -7, -9, -11], "pregnant": [-8, -6, -7]}}

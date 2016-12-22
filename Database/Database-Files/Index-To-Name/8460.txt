@@ -1,0 +1,1 @@
+{"index": 8460, "name": "T.G.I. FRIDAY'S, macaroni & cheese, from kid's menu", "healthiness": {"lactating": [16, 16, 13], "male": [46, 32, 26, 28, 23, 17, 15, 13, 12], "female": [46, 32, 26, 26, 21, 15, 16, 13, 10], "pregnant": [16, 17, 14]}}

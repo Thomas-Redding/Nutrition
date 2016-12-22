@@ -1,0 +1,1 @@
+{"index": 6928, "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat and skin with breading", "healthiness": {"lactating": [17, 17, 14], "male": [40, 27, 22, 24, 22, 17, 15, 13, 13], "female": [40, 27, 22, 22, 20, 15, 16, 14, 11], "pregnant": [16, 17, 15]}}

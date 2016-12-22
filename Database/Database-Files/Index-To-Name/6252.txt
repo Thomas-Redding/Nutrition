@@ -1,0 +1,1 @@
+{"index": 6252, "name": "Candies, REESE'S BITES", "healthiness": {"lactating": [-10, -9, -10], "male": [-1, -15, -19, -15, -12, -9, -8, -9, -10], "female": [-1, -15, -19, -17, -14, -12, -10, -12, -14], "pregnant": [-10, -9, -10]}}

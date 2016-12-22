@@ -1,0 +1,1 @@
+{"index": 1819, "name": "Cereals ready-to-eat, POST, GOLDEN CRISP", "healthiness": {"lactating": [12, 13, 12], "male": [15, 10, 9, 13, 15, 16, 17, 17, 14], "female": [15, 10, 9, 11, 13, 13, 16, 14, 12], "pregnant": [12, 14, 13]}}

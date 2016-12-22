@@ -1,0 +1,1 @@
+{"index": 5084, "name": "MORNINGSTAR FARMS Breakfast Biscuit Sausage, Egg & Cheese, frozen, unprepared", "healthiness": {"lactating": [-7, -6, -7], "male": [-4, -10, -14, -11, -9, -7, -5, -5, -7], "female": [-4, -10, -14, -13, -12, -10, -8, -9, -10], "pregnant": [-9, -7, -8]}}

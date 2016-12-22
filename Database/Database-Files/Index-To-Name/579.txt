@@ -1,0 +1,1 @@
+{"index": 579, "name": "Infant formula, MEAD JOHNSON,NEXT STEP PROSOBEE, prepared from powder", "healthiness": {"lactating": [5, 7, 5], "male": [32, 19, 16, 13, 8, 7, 9, 9, 5], "female": [32, 19, 16, 11, 6, 5, 7, 5, 3], "pregnant": [4, 7, 6]}}

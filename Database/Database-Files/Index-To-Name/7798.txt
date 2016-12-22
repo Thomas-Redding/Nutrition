@@ -1,0 +1,1 @@
+{"index": 7798, "name": "Sauce, peanut, made from peanut butter, water, soy sauce", "healthiness": {"lactating": [-8, -7, -8], "male": [5, -5, -13, -10, -9, -7, -6, -6, -8], "female": [5, -5, -13, -12, -11, -9, -8, -9, -11], "pregnant": [-8, -7, -8]}}

@@ -1,0 +1,1 @@
+{"index": 3413, "name": "Mushrooms, white, cooked, boiled, drained, with salt", "healthiness": {"lactating": [49, 50, 47], "male": [47, 46, 50, 56, 54, 50, 48, 46, 44], "female": [47, 46, 50, 54, 53, 51, 52, 49, 45], "pregnant": [48, 50, 48]}}

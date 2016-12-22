@@ -1,0 +1,1 @@
+{"index": 6650, "name": "Pasta, gluten-free, rice flour and rice bran extract, cooked, DE BOLES", "healthiness": {"lactating": [-7, -5, -7], "male": [-8, -14, -16, -12, -10, -6, -5, -5, -7], "female": [-8, -14, -16, -14, -12, -9, -7, -9, -11], "pregnant": [-7, -6, -7]}}

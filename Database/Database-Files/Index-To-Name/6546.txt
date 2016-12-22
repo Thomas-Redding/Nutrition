@@ -1,0 +1,1 @@
+{"index": 6546, "name": "Wheat flour, white, cake, enriched", "healthiness": {"lactating": [2, 2, 1], "male": [22, 15, 12, 11, 6, 3, 2, 1, 0], "female": [23, 16, 13, 9, 4, 0, 1, -2, -3], "pregnant": [1, 1, -1]}}

@@ -1,0 +1,1 @@
+{"index": 5492, "name": "Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean only, raw", "healthiness": {"lactating": [30, 31, 30], "male": [42, 31, 27, 30, 31, 32, 33, 33, 31], "female": [42, 31, 27, 28, 28, 29, 32, 30, 29], "pregnant": [29, 31, 30]}}

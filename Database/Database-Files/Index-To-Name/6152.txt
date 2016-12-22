@@ -1,0 +1,1 @@
+{"index": 6152, "name": "Candies, milk chocolate", "healthiness": {"lactating": [-9, -8, -9], "male": [5, -8, -15, -12, -10, -7, -6, -7, -8], "female": [5, -8, -15, -14, -13, -11, -9, -10, -12], "pregnant": [-9, -7, -9]}}

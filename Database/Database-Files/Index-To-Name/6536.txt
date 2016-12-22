@@ -1,0 +1,1 @@
+{"index": 6536, "name": "Wheat, soft red winter", "healthiness": {"lactating": [11, 11, 9], "male": [28, 24, 24, 24, 15, 10, 10, 9, 8], "female": [29, 24, 24, 22, 13, 8, 11, 8, 6], "pregnant": [9, 11, 9]}}

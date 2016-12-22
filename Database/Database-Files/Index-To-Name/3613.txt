@@ -1,0 +1,1 @@
+{"index": 3613, "name": "Seeds, hemp seed, hulled", "healthiness": {"lactating": [29, 29, 27], "male": [32, 29, 28, 33, 33, 29, 28, 26, 25], "female": [32, 29, 28, 31, 30, 28, 29, 26, 24], "pregnant": [28, 29, 27]}}

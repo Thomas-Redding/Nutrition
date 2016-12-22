@@ -1,0 +1,1 @@
+{"index": 4947, "name": "SILK Hazelnut Creamer", "healthiness": {"lactating": [-11, -9, -11], "male": [-26, -26, -26, -19, -14, -9, -9, -9, -11], "female": [-26, -26, -26, -21, -16, -13, -11, -13, -15], "pregnant": [-11, -9, -11]}}

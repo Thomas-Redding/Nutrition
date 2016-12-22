@@ -1,0 +1,1 @@
+{"index": 180, "name": "Milk, dry, whole, without added vitamin D", "healthiness": {"lactating": [25, 25, 22], "male": [45, 32, 30, 30, 29, 25, 23, 21, 20], "female": [45, 32, 30, 29, 26, 24, 25, 22, 18], "pregnant": [24, 26, 23]}}

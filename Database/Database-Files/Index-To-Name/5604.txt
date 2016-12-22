@@ -1,0 +1,1 @@
+{"index": 5604, "name": "Bread, reduced-calorie, rye", "healthiness": {"lactating": [16, 16, 13], "male": [40, 29, 25, 26, 22, 16, 14, 13, 12], "female": [40, 29, 25, 24, 20, 15, 16, 13, 11], "pregnant": [15, 16, 13]}}

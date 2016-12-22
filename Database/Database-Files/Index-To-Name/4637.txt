@@ -1,0 +1,1 @@
+{"index": 4637, "name": "Mollusks, clam, mixed species, cooked, moist heat", "healthiness": {"lactating": [45, 46, 45], "male": [54, 47, 47, 50, 49, 47, 50, 49, 48], "female": [54, 47, 47, 48, 46, 46, 48, 47, 46], "pregnant": [44, 47, 46]}}

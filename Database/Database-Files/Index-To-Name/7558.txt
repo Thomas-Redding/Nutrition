@@ -1,0 +1,1 @@
+{"index": 7558, "name": "Beef, ground, 97% lean meat / 3% fat, loaf, cooked, baked", "healthiness": {"lactating": [36, 37, 36], "male": [47, 39, 34, 37, 37, 38, 40, 39, 38], "female": [47, 39, 34, 35, 35, 35, 37, 35, 34], "pregnant": [34, 36, 35]}}

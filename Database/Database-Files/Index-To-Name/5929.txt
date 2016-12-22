@@ -1,0 +1,1 @@
+{"index": 5929, "name": "Toaster Pastries, KELLOGG, KELLOGG'S LOW FAT POP TARTS, Frosted brown sugar cinnamon", "healthiness": {"lactating": [-10, -9, -10], "male": [-13, -17, -20, -15, -12, -9, -8, -8, -10], "female": [-13, -17, -20, -17, -14, -12, -10, -12, -13], "pregnant": [-11, -9, -11]}}

@@ -1,0 +1,1 @@
+{"index": 2835, "name": "Bamboo shoots, canned, drained solids", "healthiness": {"lactating": [39, 40, 37], "male": [46, 40, 44, 45, 43, 39, 39, 37, 37], "female": [46, 40, 44, 43, 41, 38, 40, 37, 35], "pregnant": [38, 40, 38]}}

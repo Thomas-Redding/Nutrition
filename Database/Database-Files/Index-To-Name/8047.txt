@@ -1,0 +1,1 @@
+{"index": 8047, "name": "SUNSHINE, CHEEZ-IT, Crackers (made with Whole Grain)", "healthiness": {"lactating": [-12, -10, -12], "male": [-17, -24, -24, -19, -14, -10, -10, -10, -11], "female": [-17, -24, -24, -21, -17, -14, -12, -14, -15], "pregnant": [-12, -11, -12]}}

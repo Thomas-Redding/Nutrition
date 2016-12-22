@@ -1,0 +1,1 @@
+{"index": 2099, "name": "Cereals, QUAKER, oatmeal, REAL MEDLEYS, peach almond, dry", "healthiness": {"lactating": [-8, -7, -8], "male": [-3, -13, -13, -10, -10, -7, -6, -7, -8], "female": [-3, -13, -13, -12, -12, -10, -8, -10, -11], "pregnant": [-9, -7, -8]}}

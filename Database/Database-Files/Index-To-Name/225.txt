@@ -1,0 +1,1 @@
+{"index": 225, "name": "Cheese, mozzarella, low moisture, part-skim, shredded", "healthiness": {"lactating": [28, 29, 27], "male": [43, 31, 28, 31, 28, 29, 29, 27, 26], "female": [43, 31, 28, 29, 25, 26, 30, 28, 24], "pregnant": [27, 30, 29]}}

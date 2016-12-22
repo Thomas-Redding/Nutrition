@@ -1,0 +1,1 @@
+{"index": 807, "name": "Margarine-like vegetable-oil spread, stick/tub/bottle, 60% fat, with added vitamin D", "healthiness": {"lactating": [-6, -5, -6], "male": [-15, -16, -17, -10, -6, -4, -4, -5, -8], "female": [-15, -16, -17, -12, -9, -7, -6, -7, -11], "pregnant": [-5, -4, -5]}}

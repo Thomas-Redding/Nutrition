@@ -1,0 +1,1 @@
+{"index": 5598, "name": "Bread, pumpernickel, toasted", "healthiness": {"lactating": [12, 12, 9], "male": [40, 31, 27, 28, 19, 12, 11, 10, 9], "female": [40, 31, 27, 26, 17, 11, 12, 9, 7], "pregnant": [11, 12, 10]}}

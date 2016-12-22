@@ -1,0 +1,1 @@
+{"index": 2079, "name": "Cereals ready-to-eat, MALT-O-MEAL, CHOCOLATE MARSHMALLOW MATEYS", "healthiness": {"lactating": [5, 7, 5], "male": [4, 0, 1, 5, 8, 8, 9, 8, 6], "female": [4, 0, 1, 3, 6, 7, 9, 7, 3], "pregnant": [4, 6, 5]}}

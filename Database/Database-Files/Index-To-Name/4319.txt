@@ -1,0 +1,1 @@
+{"index": 4319, "name": "Beverages, citrus fruit juice drink, frozen concentrate", "healthiness": {"lactating": [-4, -3, -4], "male": [-1, -10, -13, -10, -6, -3, -2, -2, -4], "female": [-1, -10, -13, -12, -8, -7, -6, -7, -8], "pregnant": [-6, -5, -6]}}

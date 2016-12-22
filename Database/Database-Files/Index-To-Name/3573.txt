@@ -1,0 +1,1 @@
+{"index": 3573, "name": "Nopales, cooked, without salt", "healthiness": {"lactating": [53, 53, 50], "male": [55, 53, 57, 61, 60, 56, 54, 53, 51], "female": [55, 53, 57, 59, 57, 54, 55, 53, 51], "pregnant": [52, 53, 51]}}

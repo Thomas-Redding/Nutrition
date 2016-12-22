@@ -1,0 +1,1 @@
+{"index": 3603, "name": "Fiddlehead ferns, frozen, unprepared", "healthiness": {"lactating": [17, 18, 17], "male": [11, 8, 8, 14, 15, 17, 19, 19, 17], "female": [11, 8, 8, 12, 13, 14, 17, 15, 15], "pregnant": [14, 17, 15]}}

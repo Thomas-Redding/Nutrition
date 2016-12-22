@@ -1,0 +1,1 @@
+{"index": 7924, "name": "KEEBLER, 100 Calorie RIGHT BITES, FUDGE SHOPPE, Mini Mints Grasshopper Cookies", "healthiness": {"lactating": [-13, -11, -13], "male": [-20, -25, -26, -20, -16, -12, -11, -11, -13], "female": [-20, -25, -26, -22, -18, -15, -13, -15, -17], "pregnant": [-13, -11, -13]}}

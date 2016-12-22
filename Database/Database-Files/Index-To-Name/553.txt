@@ -1,0 +1,1 @@
+{"index": 553, "name": "Infant formula, ABBOTT NUTRITION, SIMILAC, ALIMENTUM, with iron, ready-to-feed", "healthiness": {"lactating": [4, 5, 4], "male": [29, 17, 14, 13, 8, 7, 8, 7, 5], "female": [29, 17, 14, 11, 6, 4, 6, 4, 2], "pregnant": [4, 6, 4]}}

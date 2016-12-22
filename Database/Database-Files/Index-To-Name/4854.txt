@@ -1,0 +1,1 @@
+{"index": 4854, "name": "Soy flour, low-fat", "healthiness": {"lactating": [11, 12, 11], "male": [17, 12, 10, 12, 12, 11, 14, 13, 12], "female": [17, 12, 10, 10, 10, 9, 12, 10, 10], "pregnant": [8, 11, 10]}}

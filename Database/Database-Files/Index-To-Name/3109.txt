@@ -1,0 +1,1 @@
+{"index": 3109, "name": "Potatoes, au gratin, dry mix, unprepared", "healthiness": {"lactating": [-4, -3, -4], "male": [10, 2, -2, -3, -5, -3, -1, -2, -3], "female": [10, 2, -2, -5, -7, -6, -3, -5, -7], "pregnant": [-5, -3, -4]}}

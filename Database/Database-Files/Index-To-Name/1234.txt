@@ -1,0 +1,1 @@
+{"index": 1234, "name": "Soup, minestrone, canned, condensed", "healthiness": {"lactating": [15, 15, 13], "male": [48, 39, 37, 35, 25, 17, 15, 14, 13], "female": [48, 39, 37, 33, 23, 17, 17, 14, 12], "pregnant": [16, 17, 14]}}

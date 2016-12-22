@@ -1,0 +1,1 @@
+{"index": 5684, "name": "Cookies, gingersnaps", "healthiness": {"lactating": [-2, -1, -3], "male": [23, 12, 7, 5, 0, -1, 0, -1, -2], "female": [24, 13, 8, 3, -1, -3, -2, -4, -6], "pregnant": [-2, -1, -3]}}

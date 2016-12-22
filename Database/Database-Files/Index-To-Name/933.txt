@@ -1,0 +1,1 @@
+{"index": 933, "name": "Canada Goose, breast meat, skinless, raw", "healthiness": {"lactating": [12, 13, 12], "male": [9, 5, 4, 9, 10, 13, 15, 14, 13], "female": [9, 5, 4, 7, 8, 10, 13, 11, 10], "pregnant": [10, 12, 11]}}

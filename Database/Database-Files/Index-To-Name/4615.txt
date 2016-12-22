@@ -1,0 +1,1 @@
+{"index": 4615, "name": "Crustaceans, crab, alaska king, cooked, moist heat", "healthiness": {"lactating": [42, 43, 42], "male": [47, 39, 39, 42, 42, 42, 44, 44, 42], "female": [47, 39, 39, 41, 39, 40, 42, 41, 39], "pregnant": [40, 43, 41]}}

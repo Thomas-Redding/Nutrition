@@ -1,0 +1,1 @@
+{"index": 5532, "name": "Veal, shank, separable lean and fat, raw", "healthiness": {"lactating": [41, 42, 41], "male": [50, 44, 40, 43, 44, 44, 46, 45, 42], "female": [50, 44, 40, 41, 41, 42, 44, 42, 40], "pregnant": [39, 42, 41]}}

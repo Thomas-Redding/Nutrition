@@ -1,0 +1,1 @@
+{"index": 1667, "name": "Polish sausage, pork", "healthiness": {"lactating": [11, 11, 9], "male": [35, 20, 17, 19, 18, 12, 9, 8, 7], "female": [35, 20, 17, 17, 16, 10, 10, 7, 4], "pregnant": [11, 11, 9]}}
