@@ -54,7 +54,7 @@ function Food_Editor_Widget(d) {
 		self.div.css("display", "block");
 
 		window.onkeyup = function (event) {
-			if (event.keyCode == 27 || event.keyCode == 8)
+			if (event.keyCode == 27)
 				self.hide();
 		}
 	}
@@ -102,10 +102,8 @@ function Food_Editor_Widget(d) {
 		// remove old food
 		var weight = 100;
 		if (old_food.unit in self.foodData.weights)
-			weight = self.foodData.weights[unit];
-		console.log(weight);
+			weight = self.foodData.weights[old_food.unit];
 		weight *= old_food.amount;
-		console.log(weight);
 
 		for (nut in self.foodData.nutrients) {
 			if (!(nut in day_nutrient_summary_widget.data.nutrients)) {
@@ -123,9 +121,7 @@ function Food_Editor_Widget(d) {
 		weight = 100;
 		if (unit in self.foodData.weights)
 			weight = self.foodData.weights[unit];
-		console.log(weight);
 		weight *= amount;
-		console.log(weight);
 
 		for (nut in self.foodData.nutrients) {
 			if (!(nut in day_nutrient_summary_widget.data.nutrients)) {
