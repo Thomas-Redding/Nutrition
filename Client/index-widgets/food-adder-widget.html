@@ -31,6 +31,12 @@ function Food_Adder_Widget(d) {
 	var self = this;
 	self.div = d;
 	self.foodData = null;
+	self.escape_key = function(str) {
+		return str.replace(/\"/g, "^$^");
+	}
+	self.unescape_key = function(str) {
+		return str.replace(/\^\$\^/g, "\"");
+	}
 	self.display = function(data) {
 		self.foodData = data;
 		var html = "<img src=\"images/close.svg\" style=\"position: absolute; top: 0; right: 0; width: 2em; cursor: pointer;\" onclick=\"food_adder_widget.hide(null)\"><table><tbody>";
@@ -38,7 +44,7 @@ function Food_Adder_Widget(d) {
 		html += "<tr><td><input id=\"food-adder-number\" type=\"number\" value=\"1\" onkeyup=\"food_adder_widget.update_nutrient_summary(event);\" onchange=\"food_adder_widget.update_nutrient_summary(event);\" style=\"width: 5em;\"></td><td><select id=\"food-adder-select\" onchange=\"food_adder_widget.update_nutrient_summary(event);\">";
 		html += "<option value=\"100g\">100g</option>";
 		for (key in data.weights) {
-			html += "<option value=\"" + key + "\">" + key + "</option>";
+			html += "<option value=\"" + self.escape_key(key) + "\">" + key + "</option>";
 		}
 		html += "</select></td></tr>";
 		html += "<tr><td id=\"food-adder-nutrition-summary\" colspan=\"2\"></td></tr>";
@@ -61,7 +67,8 @@ function Food_Adder_Widget(d) {
 		var carbs = self.foodData.nutrients["Carbohydrate, by difference"];
 		var calories = self.foodData.nutrients["Energy"];;
 		var protein = self.foodData.nutrients["Protein"];
-		var units = self.div.find("select").val();
+		var units = self.unescape_key(self.div.find("select").val());
+		
 		var unitConversion = 1;
 		if (units != "100g")
 			unitConversion = parseFloat(self.foodData.weights[units]) / 100;
@@ -85,7 +92,7 @@ function Food_Adder_Widget(d) {
 		var amount = parseFloat($("#food-adder-number").val());
 		var id = self.foodData.food_id;
 		var name = self.foodData.short_name;
-		var unit = $("#food-adder-select").val();
+		var unit = self.unescape_key($("#food-adder-select").val());
 
 		var new_food = {};
 		new_food["amount"] = amount;

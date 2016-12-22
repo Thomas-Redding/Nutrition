@@ -32,22 +32,28 @@ function Food_Editor_Widget(d) {
 	self.div = d;
 	self.foodData = null;
 	self.edited_food = null;
+	self.escape_key = function(str) {
+		return str.replace(/\"/g, "^$^");
+	}
+	self.unescape_key = function(str) {
+		return str.replace(/\^\$\^/g, "\"");
+	}
 	self.display = function(data) {
 		self.foodData = data;
 		var html = "<img src=\"images/close.svg\" style=\"position: absolute; top: 0; right: 0; width: 2em; cursor: pointer;\" onclick=\"food_editor_widget.hide(null)\"><table><tbody>";
 		html += "<tr><td colspan=\"2\">" + data["short_name"] + "</td></tr>";
-		html += "<tr><td><input id=\"food-adder-number\" type=\"number\" value=\"1\" onkeyup=\"food_editor_widget.update_nutrient_summary(event);\" onchange=\"food_editor_widget.update_nutrient_summary(event);\" style=\"width: 5em;\"></td><td><select id=\"food-adder-select\" onchange=\"food_editor_widget.update_nutrient_summary(event);\">";
+		html += "<tr><td><input id=\"food-editor-number\" type=\"number\" value=\"1\" onkeyup=\"food_editor_widget.update_nutrient_summary(event);\" onchange=\"food_editor_widget.update_nutrient_summary(event);\" style=\"width: 5em;\"></td><td><select id=\"food-editor-select\" onchange=\"food_editor_widget.update_nutrient_summary(event);\">";
 		html += "<option value=\"100g\">100g</option>";
 		for (key in data.weights) {
-			html += "<option value=\"" + key + "\">" + key + "</option>";
+			html += "<option value=\"" + self.escape_key(key) + "\">" + key + "</option>";
 		}
 		html += "</select></td></tr>";
-		html += "<tr><td id=\"food-adder-nutrition-summary\" colspan=\"2\"></td></tr>";
+		html += "<tr><td id=\"food-editor-nutrition-summary\" colspan=\"2\"></td></tr>";
 		html += "<tr><td colspan=\"2\" style=\"text-align: center;\"><input type=\"button\" value=\"edit food\" onclick=\"food_editor_widget.edit_selected_food()\"></td></tr>"
 		html += "</table></tbody>";
 		self.div.find("div").html(html);
 
-		self.div.find("select").val(day_nutrient_summary_widget.data.foods[self.edited_food].unit);
+		self.div.find("select").val(self.escape_key(day_nutrient_summary_widget.data.foods[self.edited_food].unit));
 		self.div.find("input[type=number]").val(day_nutrient_summary_widget.data.foods[self.edited_food].amount);
 		self.update_nutrient_summary();
 
@@ -64,7 +70,7 @@ function Food_Editor_Widget(d) {
 		var carbs = self.foodData.nutrients["Carbohydrate, by difference"];
 		var calories = self.foodData.nutrients["Energy"];;
 		var protein = self.foodData.nutrients["Protein"];
-		var units = self.div.find("select").val();
+		var units = self.unescape_key(self.div.find("select").val());
 		var unitConversion = 1;
 		if (units != "100g")
 			unitConversion = parseFloat(self.foodData.weights[units]) / 100;
@@ -75,7 +81,7 @@ function Food_Editor_Widget(d) {
 		html += "<tr><td>Carbs (g)</td><td>" + Math.round(mult * unitConversion * carbs / 1000) + "</td></tr>";
 		html += "<tr><td>Protein (g)</td><td>" + Math.round(mult * unitConversion * protein / 1000) + "</td></tr>";
 		html += "</tbody></table>";
-		self.div.find("#food-adder-nutrition-summary").html(html);
+		self.div.find("#food-editor-nutrition-summary").html(html);
 	}
 
 	self.edit_selected_food = function() {
@@ -84,10 +90,10 @@ function Food_Editor_Widget(d) {
 		self.hide();
 
 		// update day_nutrient_summary_widget.data
-		var amount = parseFloat($("#food-adder-number").val());
+		var amount = parseFloat($("#food-editor-number").val());
 		var id = self.foodData.food_id;
 		var name = self.foodData.short_name;
-		var unit = $("#food-adder-select").val();
+		var unit = self.unescape_key($("#food-editor-select").val());
 
 		var new_food = {};
 		new_food["amount"] = amount;
